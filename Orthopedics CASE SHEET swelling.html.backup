@@ -1,0 +1,2004 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>Orthopedics Case Sheet</title>
+<style>
+      body {
+        font-size: 8pt;
+        line-height: 1.4;
+        margin: 0px auto;
+        padding: 0 1cm;
+        font-family: "Times New Roman", times, serif;
+      }
+
+      ol, ul {
+        margin-left: 10%;
+        padding-left: 0px;
+      }
+
+      ul {
+        list-style-type: lower-alpha;
+      }
+
+      ol {
+        list-style-type: decimal;
+      }
+
+      h3 {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333333;
+        font-family: "Times New Roman", times, serif;
+      }
+
+      summary {
+        font-size: 9pt;
+        font-weight: bold;
+        color: #333333;
+        font-family: "Times New Roman", times, serif;
+      }
+
+      summary:hover {
+        background-color: #f5f5f5;
+      }
+
+      h4 {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        color: #444444;
+        font-family: "Times New Roman", times, serif;
+      }
+
+      u {
+        color: #2100fd;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      b {
+        color: #fd0054;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      em {
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+        color: #08cca2;
+      }
+
+      strong {
+        color: #09a8cc;
+        font-weight: bold;
+        font-style: normal;
+        text-decoration: none;
+      }
+      
+      .section-title {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 3px;
+      }
+
+
+      .video-container {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 2/ 1; /* Width:Height = 1:2 */
+      }
+
+      td {
+        padding: 5px;
+        font-size: 8pt;
+      }
+      tr {
+        padding: 5px;
+        font-size: 8pt;
+      }
+      
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      iframe {
+        width: 100%;
+        height: 100%;
+      }
+
+
+
+
+      .grey {
+        color: #e7e7e7;
+      }
+
+      .ortho-specific {
+        background-color: rgba(0, 100, 200, 0.1); /* Light blue tint for ortho specific notes */
+        padding: 2px;
+      }
+    </style>
+</head>
+<body>
+<div class="section">
+<h3 class="section-title">I. PATIENT INFORMATION</h3>
+<ul>
+<li>NAME:</li>
+<li>AGE:</li>
+<li>SEX: (Male/Female/Other)</li>
+<li>DATE OF BIRTH:</li>
+<li>ADDRESS:</li>
+<li>OCCUPATION: (Current and past, assess physical demands)</li>
+<li>HANDEDNESS: (Right/Left/Ambidextrous)</li>
+<li>CONTACT NUMBER:</li>
+<li>EMERGENCY CONTACT (Name, Relationship, Number):</li>
+<li>DATE &amp; TIME OF CONSULTATION:</li>
+<li>PLACE OF EXAMINATION: (e.g., OPD, Ward, ER)</li>
+<li>INFORMANT: (Patient/Relative - specify if not patient, assess
+          reliability)</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">II. CHIEF COMPLAINTS (CHRONOLOGICAL ORDER, WITH
+        DURATION)</h3>
+<ol>
+<li>e.g., Pain in [specific joint/area] for [duration]</li>
+<li>e.g., Swelling in [specific joint/area] for [duration]</li>
+<li>e.g., Difficulty walking / using [limb] for [duration]</li>
+<li>e.g., Deformity of [area] noticed for [duration]</li>
+<li>e.g., Stiffness in [joint] for [duration]</li>
+<li>e.g., Weakness in [limb/area] for [duration]</li>
+<li>e.g., Numbness/Tingling in [area] for [duration]</li>
+</ol>
+</div>
+<div class="section">
+<h4>ELABORATION OF CHIEF COMPLAINT (e.g., JOINT PAIN)</h4>
+<p class="ortho-specific">(Repeat similar detailed elaboration for other
+        chief complaints like swelling, stiffness, deformity, weakness etc.)</p>
+<details>
+<summary><strong>1. COMPLAINT: KNEE PAIN</strong></summary>
+<ol>
+<h3 class="section-title">III. HISTORY OF PRESENT ILLNESS (HPI)</h3>
+<p class="ortho-specific">(Elaborate on each chief complaint using a
+            framework like SODA CRAPPERS or similar. If trauma, detail mechanism
+            of injury.)</p>
+<h4>MECHANISM OF INJURY (If applicable)</h4>
+<ul>
+<li>Date and time of injury:</li>
+<li>Place of injury:</li>
+<li>How did it happen? (Detailed description: e.g., fall from
+              height, road traffic accident - role, speed, impact; sports injury
+              - type of movement, direct blow, twisting)</li>
+<li>Position of limb/body at time of injury:</li>
+<li>Force involved (High energy/Low energy):</li>
+<li>Any protective gear used?</li>
+<li>Immediate symptoms: (Pain, swelling, deformity, inability to
+              bear weight, sound heard e.g. pop/snap)</li>
+<li>First aid received: (Immobilization, ice, analgesia)</li>
+<li>Events since injury: (Progression of symptoms, any
+              interventions)</li>
+</ul>
+<li>SITE (S):
+            <ol>
+<li>Which knee is painful (Right/Left/Both)?</li>
+<li>Can you point with <b><u>one finger</u></b> to the exact spot
+                of maximum pain?</li>
+<li>Is the pain felt:
+                <ol>
+<li><b>Anteriorly</b> (front of the knee, e.g., over the
+                    patella, patellar tendon)?</li>
+<li><b>Medially</b> (inner side of the knee)?</li>
+<li><b>Laterally</b> (outer side of the knee)?</li>
+<li><b>Posteriorly</b> (back of the knee)?</li>
+<li><b>Deep inside</b> the joint?</li>
+</ol>
+</li>
+<li>Is it a <b><u>localized</u></b> pain or more <b><u>diffuse</u></b>
+                around the knee?</li>
+</ol>
+</li>
+<li>ONSET (O):
+            <ol>
+<li>When did the knee pain first start? (Specific date/time if
+                possible)</li>
+<li>Was the onset <b><u>sudden</u></b> (e.g., after a specific
+                injury, twist, fall, impact) or <b><u>gradual</u></b>
+                (insidious)?</li>
+<li>If sudden, describe the <b>mechanism of injury</b>:
+                <ol>
+<li>What were you doing? (e.g., sports, walking, climbing
+                    stairs)</li>
+<li>Did you hear or feel a "<b>pop</b>," "snap," or "tear"?</li>
+<li>Was there immediate swelling?</li>
+<li>Could you continue the activity or bear weight immediately
+                    after?</li>
+</ol>
+</li>
+<li>If gradual, has it been slowly worsening over time?</li>
+<li>Any preceding illness, fever, or new activities before the
+                onset?</li>
+</ol>
+</li>
+<li>DURATION (D):
+            <ol>
+<li>How long have you been experiencing this knee pain? (Days,
+                weeks, months, years)</li>
+<li>Is the pain <b><u>constant</u></b> or does it <b><u>come and
+                    go</u></b> (intermittent)?</li>
+<li>If intermittent, how long does each episode typically last,
+                and how frequent are they?</li>
+</ol>
+</li>
+<li>AGGRAVATING/RELIEVING FACTORS (A/R):
+            <ol>
+<li>Aggravating Factors: What makes the pain worse?
+                <ol>
+<li><b>Weight-bearing</b> activities (walking, standing,
+                    running)?</li>
+<li><b>Stairs</b> (going up or down)? Which is worse?</li>
+<li><b>Squatting</b> or kneeling?</li>
+<li><b>Twisting</b> or pivoting movements?</li>
+<li>Prolonged sitting ("<b>movie-goer's sign</b>" or "theatre
+                    sign")?</li>
+<li>Rising from a seated position?</li>
+<li>Specific movements like bending or straightening the knee?</li>
+<li>At night or when resting?</li>
+</ol>
+</li>
+<li>Relieving Factors: What makes the pain better?
+                <ol>
+<li>Rest?</li>
+<li>Pain medications (OTC or prescribed)? Which ones and how
+                    effective?</li>
+<li>Ice or heat application?</li>
+<li>Bracing or supports?</li>
+<li>Specific positions (e.g., keeping the knee straight or
+                    bent)?</li>
+<li>Activity modification?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>CHARACTER/TYPE (C):
+            <ol>
+<li>How would you describe the pain?
+                <ol>
+<li>Sharp, stabbing?</li>
+<li>Dull, aching, throbbing?</li>
+<li>Burning?</li>
+<li>Grinding or grating sensation?</li>
+<li>Deep boring pain?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>RADIATION (R):
+            <ol>
+<li>Does the pain spread or radiate anywhere else? (e.g., up the
+                thigh, down the shin/calf, into the foot, to the hip or ankle)</li>
+</ol>
+</li>
+<li>ASSOCIATED SYMPTOMS (A):
+            <ol>
+<li><b><u>Swelling</u></b> in or around the knee? (Timing:
+                immediate or delayed after injury? Constant or intermittent?)</li>
+<li><b><u>Stiffness</u></b> in the knee? (Especially in the
+                morning or after inactivity? How long does it last?)</li>
+<li><b><u>Locking</u></b> of the knee (unable to bend or
+                straighten it)?</li>
+<li><b><u>Catching</u></b> or a sensation of something getting
+                stuck in the knee?</li>
+<li><b><u>Giving way</u></b> or instability (feeling like the knee
+                will buckle)?</li>
+<li><b><u>Clicking</u></b>, <b><u>popping</u></b>, or <b><u>grinding</u></b>
+                (crepitus) with movement?</li>
+<li><b><u>Reduced range of motion</u></b> (difficulty bending or
+                straightening fully)?</li>
+<li><b><u>Redness</u></b> or <b><u>warmth</u></b> over the knee?</li>
+<li>Bruising around the knee?</li>
+<li>Fever, chills, general malaise (suggests infection)?</li>
+<li>Numbness or tingling in the leg or foot?</li>
+<li>Weakness in the leg muscles?</li>
+<li>Pain in other joints?</li>
+</ol>
+</li>
+<li>PROGRESSION (P):
+            <ol>
+<li>How has the pain and any associated symptoms changed since
+                they first started? (Getting worse, better, staying the same?)</li>
+<li>Has the pattern of pain or functional limitation changed?</li>
+<li>If treatment was received, how did it respond? Any changes
+                since then?</li>
+</ol>
+</li>
+<li>PATTERN (P):
+            <ol>
+<li>Is the pain continuous or does it occur in waves/episodes?</li>
+<li>Any specific times of day when it's worse or better (e.g.,
+                morning stiffness, night pain)?</li>
+<li>Relationship to activity (e.g., pain during, after, or
+                unrelated to activity)?</li>
+</ol>
+</li>
+<li>EFFECT ON LIFE (E):
+            <ol>
+<li>How is the knee pain affecting your daily activities (walking,
+                climbing stairs, dressing, bathing)?</li>
+<li>Has it affected your ability to work, participate in sports,
+                or hobbies?</li>
+<li>Does it disturb your sleep?</li>
+<li>Has it affected your mood or independence?</li>
+</ol>
+</li>
+<li>RED FLAGS (R):
+            <ol>
+<li>Signs of <b><u>Infection</u></b> (Septic Arthritis):
+                <ol>
+<li>Acute onset of severe pain, swelling, redness, warmth.</li>
+<li>Fever, chills, malaise.</li>
+<li>Inability to bear weight or move the joint.</li>
+</ol>
+</li>
+<li>Signs of <b><u>Fracture</u></b> or significant acute injury:
+                <ol>
+<li>History of significant trauma.</li>
+<li>Immediate severe pain and inability to bear weight.</li>
+<li>Obvious deformity.</li>
+<li>Rapid, significant swelling (hemarthrosis).</li>
+</ol>
+</li>
+<li>Signs of <b><u>Tumor</u></b> (rare):
+                <ol>
+<li>Persistent night pain unrelated to movement.</li>
+<li>Unexplained weight loss.</li>
+<li>Palpable mass.</li>
+<li>History of cancer.</li>
+</ol>
+</li>
+<li><b><u>Neurovascular compromise</u></b>:
+                <ol>
+<li>Numbness, tingling, weakness in the lower leg/foot.</li>
+<li>Cold, pale, or pulseless foot (especially after
+                    trauma/dislocation).</li>
+</ol>
+</li>
+<li><b><u>Locked knee</u></b> (true mechanical block to
+                extension).</li>
+</ol>
+</li>
+<li>SCALE (S) (Severity):
+            <ol>
+<li>On a scale of 0 to 10, with 0 being no pain and 10 being the
+                worst pain imaginable, how would you rate your knee pain:
+                <ol>
+<li>Right now?</li>
+<li>At its worst?</li>
+<li>At its best?</li>
+<li>On average?</li>
+<li>During specific activities (e.g., walking, stairs)?</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</details>
+<details>
+<summary><strong>2. COMPLAINT: LOWER BACK PAIN</strong></summary>
+<ol>
+<h3 class="section-title">III. HISTORY OF PRESENT ILLNESS (HPI)</h3>
+<p class="ortho-specific">(Elaborate on each chief complaint using a
+            framework like SODA CRAPPERS or similar. If trauma, detail mechanism
+            of injury.)</p>
+<h4>MECHANISM OF INJURY (If applicable)</h4>
+<ul>
+<li>Date and time of injury:</li>
+<li>Place of injury:</li>
+<li>How did it happen? (Detailed description: e.g., fall from
+              height, road traffic accident - role, speed, impact; sports injury
+              - type of movement, direct blow, twisting)</li>
+<li>Position of limb/body at time of injury:</li>
+<li>Force involved (High energy/Low energy):</li>
+<li>Any protective gear used?</li>
+<li>Immediate symptoms: (Pain, swelling, deformity, inability to
+              bear weight, sound heard e.g. pop/snap)</li>
+<li>First aid received: (Immobilization, ice, analgesia)</li>
+<li>Events since injury: (Progression of symptoms, any
+              interventions)</li>
+</ul>
+<li>SITE (S):
+            <ol>
+<li>Can you <b><u>point with one finger</u></b> to where the pain
+                is worst in your lower back?</li>
+<li>Is the pain <b><u>central</u></b> (over the spine), <b><u>to
+                    one side</u></b> (paraspinal â€“ right or
+                left), or across the <b><u>entire lower back</u></b>?</li>
+<li>Is it in the lumbar region, sacral region, or sacroiliac (SI)
+                joint area?</li>
+<li>Is it a <b><u>superficial</u></b> or <b><u>deep</u></b>
+                pain?</li>
+</ol>
+</li>
+<li>ONSET (O):
+            <ol>
+<li>When did the lower back pain first start? (Specific date/time
+                if possible)</li>
+<li>Was the onset <b><u>sudden</u></b> (e.g., after lifting
+                something heavy, a twist, a fall) or <b><u>gradual</u></b>
+                (insidious)?</li>
+<li>If sudden, describe the <b><u>exact activity</u></b> or event
+                that triggered it.</li>
+<li>Was it associated with any unusual physical exertion or new
+                activity?</li>
+<li>Any preceding illness or fever?</li>
+</ol>
+</li>
+<li>DURATION (D):
+            <ol>
+<li>How long have you been experiencing this lower back pain?
+                <ol>
+<li><b>Acute:</b> &lt; 6 weeks</li>
+<li><b>Subacute:</b> 6-12 weeks</li>
+<li><b>Chronic:</b> &gt; 12 weeks</li>
+</ol>
+</li>
+<li>Is the pain <b><u>constant</u></b> or <b><u>intermittent</u></b>?</li>
+<li>If intermittent, how long do episodes last, and how often do
+                they occur?</li>
+</ol>
+</li>
+<li>AGGRAVATING/RELIEVING FACTORS (A/R):
+            <ol>
+<li>Aggravating Factors: What makes the pain worse?
+                <ol>
+<li><b><u>Movements</u></b>: Bending forward (flexion),
+                    bending backward (extension), twisting, lifting?</li>
+<li><b><u>Positions</u></b>: Sitting for long periods,
+                    standing for long periods, lying down?</li>
+<li><b><u>Activities</u></b>: Walking, running, driving?</li>
+<li><b><u>Valsalva maneuvers</u></b>: Coughing, sneezing,
+                    straining at stool? (May suggest disc involvement)</li>
+<li>Time of day (e.g., worse in the morning, improves with
+                    movement)?</li>
+</ol>
+</li>
+<li>Relieving Factors: What makes the pain better?
+                <ol>
+<li>Rest? Or gentle activity?</li>
+<li>Specific positions (e.g., lying flat, lying with knees
+                    bent, sitting, standing, walking)?</li>
+<li>Pain medications (OTC or prescribed)? Which ones and
+                    effectiveness?</li>
+<li>Heat or ice application?</li>
+<li>Physiotherapy or specific exercises?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>CHARACTER/TYPE (C):
+            <ol>
+<li>How would you describe the pain in your back?
+                <ol>
+<li>Dull, aching, sore, stiff?</li>
+<li>Sharp, stabbing, shooting, electrical? (Often suggests
+                    nerve involvement)</li>
+<li>Burning?</li>
+<li>Throbbing?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>RADIATION (R):
+            <ol>
+<li>Does the pain <b><u>radiate</u></b> or travel anywhere else?
+                <ol>
+<li>Into the <b>buttocks</b> (one or both sides)?</li>
+<li>Down the <b>leg(s)</b>? (Sciatica) - Specify path:
+                    posterior thigh, lateral calf, into the foot/toes?</li>
+<li>To the groin or anterior thigh?</li>
+<li>Is it above or below the knee?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>ASSOCIATED SYMPTOMS (A):
+            <ol>
+<li><b><u>Neurological symptoms</u></b> in the legs/feet:
+                <ol>
+<li><b>Numbness</b> or tingling (<b>paresthesia</b>)? (Specify
+                    location)</li>
+<li><b>Weakness</b> in the legs or feet (e.g., foot drop,
+                    difficulty standing on toes/heels)?</li>
+<li>Changes in reflexes (patient might not know, but ask about
+                    perceived changes)?</li>
+</ol>
+</li>
+<li><b><u>Bladder</u></b> dysfunction:
+                <ol>
+<li>Urinary retention (difficulty starting or inability to
+                    pass urine)?</li>
+<li>Urinary incontinence (loss of control)?</li>
+<li>Altered sensation during urination?</li>
+</ol>
+</li>
+<li><b><u>Bowel</u></b> dysfunction:
+                <ol>
+<li>Fecal incontinence (loss of control)?</li>
+<li>Constipation (new or worsening)?</li>
+</ol>
+</li>
+<li><b><u>Saddle anesthesia</u></b> (numbness or altered sensation
+                in the genital/perineal area, inner thighs)?</li>
+<li>Stiffness in the back, especially in the morning? How long
+                does it last?</li>
+<li>Reduced range of motion in the back?</li>
+<li>Pain that wakes you up at night?</li>
+<li>Fever, chills, unexplained weight loss, night sweats?
+                (Systemic red flags)</li>
+<li>History of cancer?</li>
+<li>History of recent infection (e.g., UTI, skin infection)?</li>
+<li>History of osteoporosis or steroid use?</li>
+<li>Pain in other joints or systemic inflammatory symptoms?</li>
+</ol>
+</li>
+<li>PROGRESSION (P):
+            <ol>
+<li>How has the pain and any associated symptoms (especially leg
+                pain/numbness/weakness) changed since onset? (Worsening,
+                improving, stable?)</li>
+<li>Has the location or nature of the pain changed?</li>
+</ol>
+</li>
+<li>PATTERN (P):
+            <ol>
+<li>Is the pain worse at certain times of day (e.g., morning
+                stiffness improving with activity suggests inflammatory, pain
+                worsening through the day suggests mechanical)?</li>
+<li>Is it related to specific activities or postures?</li>
+</ol>
+</li>
+<li>EFFECT ON LIFE (E):
+            <ol>
+<li>How is the back pain affecting your ability to perform daily
+                activities (sitting, standing, walking, dressing, personal
+                care)?</li>
+<li>Impact on work (absenteeism, modified duties)?</li>
+<li>Impact on sleep, mood, social activities, hobbies?</li>
+</ol>
+</li>
+<li>RED FLAGS (R) (for serious spinal pathology):
+            <ol>
+<li><b><u>Cauda Equina Syndrome</u></b> (CES):
+                <ol>
+<li>Bilateral leg pain/sciatica.</li>
+<li>Saddle anesthesia/paresthesia.</li>
+<li>Recent onset bladder dysfunction (retention or
+                    incontinence).</li>
+<li>Recent onset bowel dysfunction (fecal incontinence, loss
+                    of sensation).</li>
+<li>Severe or progressive neurological deficit in lower
+                    extremities (e.g., major motor weakness).</li>
+<li>Lax anal sphincter.</li>
+</ol>
+</li>
+<li><b><u>Spinal Fracture</u></b>:
+                <ol>
+<li>History of significant trauma (or minor trauma in
+                    osteoporotic patients).</li>
+<li>Sudden onset severe pain, often localized and tender.</li>
+<li>Use of corticosteroids.</li>
+<li>Age &gt; 50.</li>
+</ol>
+</li>
+<li><b><u>Cancer/Malignancy</u></b>:
+                <ol>
+<li>Age &gt; 50 with new onset pain, or &lt; 20.</li>
+<li>History of cancer.</li>
+<li>Unexplained weight loss, fever, night sweats.</li>
+<li>Pain that is constant, progressive, non-mechanical
+                    (present at rest, night pain disturbing sleep).</li>
+<li>Failure to improve after 4-6 weeks of conservative
+                    therapy.</li>
+</ol>
+</li>
+<li><b><u>Infection</u></b> (e.g., discitis, osteomyelitis,
+                epidural abscess):
+                <ol>
+<li>Fever, chills.</li>
+<li>Recent bacterial infection (e.g., UTI, skin).</li>
+<li>IV drug use.</li>
+<li>Immunosuppression (e.g., diabetes, steroids, HIV).</li>
+<li>Pain worse at rest, night pain.</li>
+<li>Localized spinal tenderness.</li>
+</ol>
+</li>
+<li>Significant or progressive motor weakness, numbness.</li>
+</ol>
+</li>
+<li>SCALE (S) (Severity):
+            <ol>
+<li>On a scale of 0 to 10:
+                <ol>
+<li>Back pain right now? At its worst? On average?</li>
+<li>If leg pain present, rate leg pain separately right now?
+                    At its worst? On average?</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</details>
+<details>
+<summary><strong>3. COMPLAINT: SHOULDER PAIN</strong></summary>
+<ol>
+<h3 class="section-title">III. HISTORY OF PRESENT ILLNESS (HPI)</h3>
+<p class="ortho-specific">(Elaborate on each chief complaint using a
+            framework like SODA CRAPPERS or similar. If trauma, detail mechanism
+            of injury.)</p>
+<h4>MECHANISM OF INJURY (If applicable)</h4>
+<ul>
+<li>Date and time of injury:</li>
+<li>Place of injury:</li>
+<li>How did it happen? (Detailed description: e.g., fall from
+              height, road traffic accident - role, speed, impact; sports injury
+              - type of movement, direct blow, twisting)</li>
+<li>Position of limb/body at time of injury:</li>
+<li>Force involved (High energy/Low energy):</li>
+<li>Any protective gear used?</li>
+<li>Immediate symptoms: (Pain, swelling, deformity, inability to
+              bear weight, sound heard e.g. pop/snap)</li>
+<li>First aid received: (Immobilization, ice, analgesia)</li>
+<li>Events since injury: (Progression of symptoms, any
+              interventions)</li>
+</ul>
+<li>SITE (S):
+            <ol>
+<li>Which shoulder is painful (Right/Left/Both)?</li>
+<li>Can you <b><u>point with one finger</u></b> to the exact spot
+                of maximum pain?</li>
+<li>Is the pain felt:
+                <ol>
+<li><b>Anteriorly</b> (front of the shoulder)?</li>
+<li><b>Laterally</b> (outer aspect, over the deltoid region)?</li>
+<li><b>Posteriorly</b> (back of the shoulder)?</li>
+<li><b>Superiorly</b> (top of the shoulder, e.g., AC joint)?</li>
+<li><b>Deep inside</b> the joint? Or in the armpit (axilla)?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>ONSET (O):
+            <ol>
+<li>When did the shoulder pain first start?</li>
+<li>Was the onset <b><u>sudden</u></b> (e.g., after a fall,
+                direct blow, sudden lift or reach) or <b><u>gradual</u></b>
+                (insidious)?</li>
+<li>If sudden, describe the <b>mechanism of injury</b>. (e.g.,
+                fall onto outstretched hand, direct impact, specific movement).</li>
+<li>Was it associated with a new or repetitive activity (e.g.,
+                overhead work, sports)?</li>
+</ol>
+</li>
+<li>DURATION (D):
+            <ol>
+<li>How long have you had this shoulder pain? (Days, weeks,
+                months, years)</li>
+<li>Is the pain <b><u>constant</u></b> or <b><u>intermittent</u></b>?</li>
+<li>If intermittent, what is the frequency and duration of
+                episodes?</li>
+</ol>
+</li>
+<li>AGGRAVATING/RELIEVING FACTORS (A/R):
+            <ol>
+<li>Aggravating Factors: What makes the pain worse?
+                <ol>
+<li><b><u>Specific movements</u></b>:
+                    <ul>
+<li>Reaching overhead?</li>
+<li>Reaching behind your back (e.g., doing up a bra,
+                        tucking in a shirt)?</li>
+<li>Lifting objects? (Specify weight/activity)</li>
+<li>Throwing motion?</li>
+<li>Abduction (lifting arm out to the side)?</li>
+</ul>
+</li>
+<li>Lying on the affected shoulder (<b><u>night pain</u></b>)?</li>
+<li>Activities requiring rotation (e.g., combing hair,
+                    dressing)?</li>
+<li>Sudden or jarring movements?</li>
+</ol>
+</li>
+<li>Relieving Factors: What makes the pain better?
+                <ol>
+<li>Rest or avoiding specific movements?</li>
+<li>Pain medications (OTC or prescribed)? Which and
+                    effectiveness?</li>
+<li>Ice or heat?</li>
+<li>Specific positions (e.g., supporting the arm)?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>CHARACTER/TYPE (C):
+            <ol>
+<li>How would you describe the pain?
+                <ol>
+<li>Dull, aching? (Common for rotator cuff issues, OA)</li>
+<li>Sharp, stabbing, catching? (May indicate impingement,
+                    labral tear)</li>
+<li>Burning?</li>
+<li>Deep, poorly localized ache?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>RADIATION (R):
+            <ol>
+<li>Does the pain <b><u>radiate</u></b> or travel from the
+                shoulder?
+                <ol>
+<li>Down the <b><u>lateral aspect of the arm</u></b> (deltoid
+                    insertion area)? (Common with rotator cuff pathology)</li>
+<li>Into the neck? Or from the neck to the shoulder?</li>
+<li>Into the hand or fingers? (May suggest cervical
+                    radiculopathy or thoracic outlet syndrome)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>ASSOCIATED SYMPTOMS (A):
+            <ol>
+<li><b><u>Weakness</u></b> in the shoulder or arm? (Difficulty
+                lifting objects, initiating movement?)</li>
+<li><b><u>Stiffness</u></b> or loss of range of motion?
+                (Difficulty with daily activities like dressing, combing hair?)
+                (Consider adhesive capsulitis)</li>
+<li><b><u>Clicking, popping, grinding (crepitus)</u></b> with
+                movement?</li>
+<li><b><u>Instability</u></b> or sensation of the shoulder
+                "slipping out" or feeling loose? (History of
+                dislocations/subluxations?)</li>
+<li><b><u>Locking</u></b> or catching sensation?</li>
+<li><b><u>Numbness or tingling</u></b> (paresthesia) in the arm,
+                hand, or fingers?</li>
+<li>Swelling or bruising around the shoulder?</li>
+<li>Deformity (e.g., prominence of clavicle, "Popeye" sign for
+                biceps rupture)?</li>
+<li>Fever, chills, redness, warmth (suggests infection)?</li>
+<li>Pain in other joints, rash, or systemic symptoms (suggests
+                inflammatory arthritis)?</li>
+<li>Shortness of breath or chest pain (cardiac pain can refer to
+                shoulder)?</li>
+</ol>
+</li>
+<li>PROGRESSION (P):
+            <ol>
+<li>How has the pain and functional limitation changed since
+                onset? (Worsening, improving, stable?)</li>
+<li>Any changes in the nature or location of pain?</li>
+</ol>
+</li>
+<li>PATTERN (P):
+            <ol>
+<li>Is the pain worse at certain times (e.g., <b><u>night pain</u></b>
+                is a hallmark of rotator cuff issues, also concerning for
+                tumor)?</li>
+<li>Is there a "<b><u>painful arc</u></b>" of movement (pain
+                typically between 60-120 degrees of abduction, suggesting
+                impingement/rotator cuff)?</li>
+</ol>
+</li>
+<li>EFFECT ON LIFE (E):
+            <ol>
+<li>How does the shoulder pain affect your ability to perform
+                daily tasks (dressing, hygiene, cooking, reaching for objects)?</li>
+<li>Impact on work, sports, hobbies, or recreational activities?</li>
+<li>Does it disturb your sleep? (Especially inability to lie on
+                the affected side)</li>
+<li>Impact on mood or independence?</li>
+</ol>
+</li>
+<li>RED FLAGS (R):
+            <ol>
+<li><b><u>Unexplained Swelling/Mass</u></b> in the shoulder
+                region.</li>
+<li><b><u>Fever, chills, systemic illness</u></b> with acute
+                shoulder pain (septic arthritis).</li>
+<li>History of <b><u>Cancer</u></b> with new onset, persistent,
+                or night shoulder pain (metastasis).</li>
+<li><b><u>Unexplained weight loss</u></b>, night sweats.</li>
+<li><b><u>Significant trauma</u></b> with deformity or inability
+                to move the arm (fracture, dislocation).</li>
+<li><b><u>Sudden inability to lift the arm</u></b> (massive
+                rotator cuff tear, neurological injury).</li>
+<li><b><u>Progressive neurological deficit</u></b> (weakness,
+                numbness) in the arm.</li>
+<li>Signs of <b><u>vascular compromise</u></b> (pale, cold limb,
+                absent pulses â€“ rare with isolated shoulder
+                pain but consider after trauma).</li>
+<li>Pain referred from chest or abdomen (cardiac, diaphragmatic
+                irritation).</li>
+</ol>
+</li>
+<li>SCALE (S) (Severity):
+            <ol>
+<li>On a scale of 0 to 10:
+                <ol>
+<li>Shoulder pain right now? At its worst? On average?</li>
+<li>Pain during specific movements (e.g., reaching overhead)?</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h4>NEGATIVE HISTORY (Pertinent negatives)</h4>
+<ul>
+<li>No history of recent trauma (if pain is non-traumatic).</li>
+<li>No fever, weight loss, night sweats.</li>
+<li>No morning stiffness (if considering non-inflammatory cause).</li>
+<li>No neurological symptoms (numbness, tingling, weakness,
+            bladder/bowel changes).</li>
+<li>No history of [relevant systemic diseases, e.g., inflammatory
+            arthritis, cancer].</li>
+</ul>
+</details>
+</div>
+<div class="section">
+<h3 class="section-title">IV. PAST MEDICAL HISTORY</h3>
+<ul>
+<li>Previous orthopedic problems: (Fractures, dislocations, sprains,
+          surgeries - dates, type, outcome, complications)</li>
+<li>Chronic illnesses: (e.g., Osteoarthritis, Rheumatoid Arthritis,
+          Gout, Psoriatic Arthritis, Ankylosing Spondylitis, Osteoporosis,
+          Diabetes Mellitus, Peripheral Vascular Disease, Connective Tissue
+          Diseases, Cancer - especially bone mets, Thyroid disease)</li>
+<li>Childhood illnesses: (e.g., DDH, Perthes, SUFE, rickets, scoliosis)</li>
+<li>Previous surgeries (non-orthopedic, note any impact on mobility or
+          anaesthesia risk).</li>
+<li>Previous hospitalizations (reason, duration, outcome).</li>
+<li>Allergies: (Drugs - especially NSAIDs, antibiotics; food,
+          environmental; describe reaction)</li>
+<li>Current Medications: (Prescribed, over-the-counter, supplements -
+          name, dose, frequency, duration, reason for taking. Specifically ask
+          about NSAIDs, steroids, anticoagulants, bisphosphonates, DMARDs)</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">V. FAMILY HISTORY</h3>
+<ul>
+<li>Similar complaints in family members?</li>
+<li>History of heritable orthopedic conditions: (e.g., Osteoarthritis,
+          Rheumatoid Arthritis, Osteoporosis, Gout, Ankylosing Spondylitis,
+          Ehlers-Danlos syndrome, Marfan syndrome, Skeletal dysplasias)</li>
+<li>History of other relevant conditions: (e.g., Diabetes, Cancer,
+          Bleeding disorders)</li>
+<li>Family pedigree if relevant (e.g., for genetic conditions).</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">VI. PERSONAL AND SOCIAL HISTORY</h3>
+<ul>
+<li><strong>Occupation:</strong> (Current and past, nature of work -
+          sedentary, manual labor, repetitive tasks, risk of injury)</li>
+<li><strong>Living Situation:</strong>
+<ul>
+<li>Type of dwelling: (House, apartment - stairs, accessibility)</li>
+<li>Lives with whom? (Support system)</li>
+<li>Any modifications needed at home?</li>
+</ul>
+</li>
+<li><strong>Activities of Daily Living (ADLs):</strong> (Independent,
+          needs assistance - specify which tasks)</li>
+<li><strong>Mobility:</strong> (Walks unaided, uses
+          stick/crutch/frame/wheelchair. Gait abnormalities.)</li>
+<li><strong>Diet:</strong> (Adequacy, calcium/vitamin D intake, weight -
+          BMI)</li>
+<li><strong>Exercise/Physical Activity:</strong> (Type, frequency,
+          duration. Sports participation.)</li>
+<li><strong>Smoking:</strong> (Yes/No. If yes, pack-years. If ex-smoker,
+          when quit?) - Affects bone healing and surgical risk.</li>
+<li><strong>Alcohol:</strong> (Yes/No. If yes, type and quantity per
+          week) - Risk for osteoporosis, AVN, falls.</li>
+<li><strong>Recreational Drug Use:</strong> (Type, frequency, route)</li>
+<li><strong>Travel History:</strong> (Recent, relevant for infections
+          e.g., Lyme disease, TB)</li>
+<li><strong>Hobbies and Interests:</strong></li>
+<li><strong>Impact of condition on mental health:</strong> (Anxiety,
+          depression)</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">VII. REVIEW OF SYSTEMS (Briefly, focusing on red
+        flags or related symptoms)</h3>
+<ul>
+<li><strong>General:</strong> Unexplained weight loss, fever, chills,
+          night sweats, fatigue, appetite changes.</li>
+<li><strong>Cardiovascular:</strong> Chest pain, palpitations, shortness
+          of breath on exertion, orthopnea, PND, edema. (Fitness for surgery)</li>
+<li><strong>Respiratory:</strong> Cough, sputum, hemoptysis, wheezing,
+          shortness of breath. (Fitness for surgery)</li>
+<li><strong>Gastrointestinal:</strong> Nausea, vomiting, diarrhea,
+          constipation, abdominal pain, melena, hematemesis. (NSAID side
+          effects, referred pain)</li>
+<li><strong>Genitourinary:</strong> Dysuria, frequency, urgency,
+          hematuria, incontinence, erectile dysfunction. (Cauda equina, prostate
+          issues referring pain)</li>
+<li><strong>Neurological:</strong> Headache, dizziness, faints,
+          seizures, weakness, numbness, tingling, changes in sensation,
+          coordination, bladder or bowel dysfunction.</li>
+<li><strong>Endocrine:</strong> Heat/cold intolerance, polyuria,
+          polydipsia. (Diabetes, thyroid)</li>
+<li><strong>Dermatological:</strong> Rashes, lesions, nail changes, skin
+          ulcers. (Psoriatic arthritis, vasculitis, PVD)</li>
+<li><strong>Hematological:</strong> Easy bruising, bleeding tendencies.
+          (Clotting disorders, medication side effects)</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">VIII. GENERAL PHYSICAL EXAMINATION</h3>
+<ul>
+<li><strong>Appearance:</strong> Alert, comfortable/in distress,
+          well/unwell, nutritional status.</li>
+<li><strong>Vital Signs:</strong>
+<ul>
+<li>Temperature: [...Â°C]</li>
+<li>Pulse: [...bpm, rhythm, volume, character]</li>
+<li>Blood Pressure: [.../... mmHg, arm, cuff size]</li>
+<li>Respiratory Rate: [...breaths/min, pattern]</li>
+<li>SpO2: [...% on room air/oxygen]</li>
+<li>Weight: [...kg], Height: [...cm], BMI: [...kg/mÂ²]</li>
+</ul>
+</li>
+<li><strong>Gait:</strong> (Observe if possible: normal, antalgic,
+          Trendelenburg, waddling, steppage, ataxic, parkinsonian, use of aids)</li>
+<li><strong>Posture:</strong> (e.g., kyphosis, scoliosis, lordosis,
+          pelvic tilt)</li>
+<li><strong>Overall musculoskeletal build and symmetry.</strong></li>
+<li><strong>Skin:</strong> Pallor, jaundice, cyanosis, rashes, scars,
+          bruising.</li>
+<li><strong>Lymph Nodes:</strong> Palpable? (Site, size, consistency,
+          tenderness, mobility) - especially regional to affected area.</li>
+<li><strong>Hands:</strong> Nail changes (psoriasis, clubbing),
+          Heberden's/Bouchard's nodes, ulnar deviation, Swan neck/Boutonniere
+          deformities, palmar erythema, muscle wasting.</li>
+<li><strong>Eyes:</strong> Conjunctival pallor, scleral icterus, signs
+          of uveitis/iritis (associated with spondyloarthropathies).</li>
+<li><strong>Mouth:</strong> Oral ulcers, dental hygiene.</li>
+<li>(Brief exam of other systems as indicated by ROS)</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">IX. LOCAL / REGIONAL MUSCULOSKELETAL EXAMINATION</h3>
+<p class="ortho-specific">(Follow "Look, Feel, Move, Special Tests,
+        Neurovascular" for the affected area and related joints. Compare with
+        the contralateral side.)</p>
+<details>
+<summary><b>EXPAND EXAMINATION</b>: <b><u>All </u><u>Joints</u></b> </summary>
+<p><strong>AREA(S) EXAMINED:</strong> [e.g., Right Knee, Lumbar Spine,
+          Both Shoulders]</p>
+<h4>A. INSPECTION (LOOK)</h4>
+<ul>
+<li><strong>Gait:</strong> (Re-assess specific to the complaint if not
+            fully done in GPE)</li>
+<li><strong>Posture/Alignment:</strong> (Deformity - varus, valgus,
+            flexion, extension, rotational; scoliosis, kyphosis, loss of
+            lordosis)</li>
+<li><strong>Swelling:</strong> (Location, size, shape,
+            diffuse/localized)</li>
+<li><strong>Skin Changes:</strong> (Color - redness, bruising,
+            discoloration; scars, sinuses, ulcers, rashes, venous prominence)</li>
+<li><strong>Muscle Wasting/Bulk:</strong> (Compare sides, e.g.,
+            quadriceps, glutei, deltoids)</li>
+<li><strong>Bony Landmarks:</strong> (Prominence, asymmetry)</li>
+<li><strong>Ability to perform functional tasks:</strong> (e.g.,
+            squat, single leg stance, touch toes)</li>
+</ul>
+<h4>B. PALPATION (FEEL)</h4>
+<ul>
+<li><strong>Temperature:</strong> (Warmth over joint/area - compare
+            sides)</li>
+<li><strong>Tenderness:</strong> (Localize precisely - bony landmarks,
+            joint line, soft tissues, ligaments, tendons, muscles. Note
+            patient's reaction.)</li>
+<li><strong>Swelling:</strong> (Confirm presence, consistency - soft,
+            firm, fluctuant, bony; size, tenderness, local rise in temperature)
+            <ul>
+<li>Effusion tests (e.g., bulge sign, patellar tap for knee)</li>
+</ul>
+</li>
+<li><strong>Crepitus:</strong> (Palpable grinding with movement)</li>
+<li><strong>Bony Landmarks:</strong> (Assess for irregularity,
+            tenderness)</li>
+<li><strong>Muscle Tone/Bulk:</strong> (Confirm wasting)</li>
+<li><strong>Pulses:</strong> (Distal to injury/affected area, e.g.,
+            dorsalis pedis, posterior tibial for lower limb; radial, ulnar for
+            upper limb)</li>
+</ul>
+<h4>C. MOVEMENT (MOVE)</h4>
+<ul>
+<li><strong>Active Range of Motion (AROM):</strong> (Patient moves the
+            joint themselves. Note range, pain, willingness to move, crepitus.)
+            <ul>
+<li>[Specify joint and movements, e.g., Knee Flexion:
+                0-135Â°, Extension: 0Â°]</li>
+</ul>
+</li>
+<li><strong>Passive Range of Motion (PROM):</strong> (Examiner moves
+            the joint. Note range, pain, end-feel, crepitus, blocks to
+            movement.)
+            <ul>
+<li>[Specify joint and movements]</li>
+</ul>
+</li>
+<li><strong>Abnormal Movements:</strong> (e.g., hypermobility,
+            instability)</li>
+<li><strong>Pain on Movement:</strong> (Note which movements are
+            painful)</li>
+<li><strong>Strength (MRC Scale 0-5):</strong> (Test specific muscle
+            groups against resistance. Compare sides.)
+            <ul>
+<li>0: No contraction</li>
+<li>1: Flicker or trace of contraction</li>
+<li>2: Active movement, with gravity eliminated</li>
+<li>3: Active movement against gravity</li>
+<li>4: Active movement against gravity and resistance</li>
+<li>5: Normal power</li>
+</ul>
+</li>
+</ul>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: SHOULDER </summary>
+<div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="864" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ERskTOC5LR4" title="SHOULDER EXAMINATION OSCE VIDEO - " width="1520"></iframe> </div>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure:
+            "Now I'm going to do a shoulder examination. This includes first of
+            all we'll have the look of the joint, we'll feel the joint and then
+            we'll do some movements" (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=50s">Video 0:50-0:57</a>). Ensure adequate exposure:
+            "for the purpose of examination I want you to undress above your
+            waist" (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=57s">Video 0:57-1:00</a>). Offer/confirm chaperone:
+            "I have a chaperone to ensure your privacy" (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=60s">Video 1:00-1:02</a>). Obtain consent: "May I
+            proceed?" (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=62s">Video 1:02</a>). Compare with the contralateral
+            side throughout.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Both Shoulders (starting with
+          asymptomatic side if one is affected)</p>
+<h4>A. INSPECTION (LOOK) (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=68s">Video 1:08</a>)</h4>
+<ul>
+<li><strong>POSITIONS</strong></li>
+<ul>
+<li><strong>From the Front, <br/>
+</strong></li>
+<li><strong>Side, and <br/>
+</strong></li>
+<li><strong>Back:</strong><br/>
+<strong></strong></li>
+</ul>
+<li><strong>Patient Standing in Anatomical Position:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=68s">Video 1:08-1:11</a>)
+            <ul>
+<li><strong>Alignment:</strong> Check alignment of shoulder
+                joints, anterior superior iliac spine, knee, and ankle joint
+                – all should be in the same plane. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=73s">Video 1:13-1:20</a>, <a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=92s">Video 1:32-1:40</a>)</li>
+<li>Shoulder joint is aligned. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=101s">Video 1:41-1:44</a>)</li>
+</ul>
+</li>
+<li><strong>From the Front, Side, and Back:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=84s">Video 1:24-1:28</a>, <a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=109s">Video 1:49-1:54</a>)
+            <ul>
+<li><strong>Swelling:</strong> (</li>
+<ul>
+<li>site</li>
+<li>size, </li>
+<li>shape, </li>
+<li>diffuse/localized).</li>
+</ul>
+<li><strong>Skin Changes:</strong> (Color - redness, bruising,
+                discoloration; scars, sinuses, ulcers, rashes, venous
+                prominence).</li>
+<li><strong>Muscle Wasting/Bulk:</strong>
+<ul>
+<li>Deltoid wasting: "no deltoid wasting". (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=104s">Video 1:44-1:46</a>)</li>
+<li>Trapezius muscle wasting (from back). (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=120s">Video 2:00-2:07</a>)</li>
+<li>Compare sides.</li>
+</ul>
+</li>
+<li><strong>Deformity:</strong> (e.g., squaring of shoulder,
+                clavicular prominence, Sprengel's shoulder).</li>
+<li><strong>Bony Landmarks:</strong> (Prominence, asymmetry of
+                clavicle, AC joint, scapula).</li>
+<li><strong>Scapula:</strong>
+<ul>
+<li>Winging of scapula (from back). (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=120s">Video 2:00-2:02</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL) (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=130s">Video 2:10</a>)</h4>
+<p><em>(Keep looking at patient's face for any tenderness (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=151s">Video 2:31</a>). Compare both sides (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=136s">Video 2:16</a>).)</em></p>
+<ul>
+<li><strong>Temperature:</strong> Over the joint/area, compare both
+            sides. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=134s">Video 2:14-2:16</a>)</li>
+<li><strong>Tenderness over</strong></li>
+<ul>
+<li><strong> Bony Landmarks and <br/>
+</strong></li>
+<li><strong>Soft Tissues (one by one on each side <a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=146s">Video 2:26</a>):</strong>
+<ul>
+</ul>
+              Sternoclavicular (SC) joint. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=141s">Video 2:21-2:26</a>)<br/>
+              Clavicle along its length. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=154s">Video 2:34</a>)<br/>
+              Acromioclavicular (AC) joint. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=162s">Video 2:42</a>)<br/>
+              Head of Humerus / End of Humerus. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=166s">Video 2:46</a>)<br/>
+              Greater Tuberosity. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=173s">Video 2:53</a>)<br/>
+              Bicipital groove.<br/>
+              Rotator cuff tendons.<br/>
+              Deltoid muscle.
+              <ul>
+</ul>
+</li>
+</ul>
+<li><strong>Palpation from the Back (Patient turns around <a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=177s">Video 2:57-2:59</a>):</strong>
+<ul>
+<li>Scapula:  (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=181s">Video 3:01-3:07</a>)</li>
+<ul>
+<li>Borders and</li>
+<li>wing of scapula.</li>
+</ul>
+<li>Repeat on both sides. (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=191s">Video 3:11</a>)</li>
+</ul>
+</li>
+<li><strong>Swelling:</strong> (Confirm presence, consistency - soft,
+            firm, fluctuant; size, tenderness).</li>
+<li><strong>Crepitus:</strong> (Palpable grinding with movement).</li>
+<li><strong>Muscle Tone/Bulk:</strong> (Confirm wasting).</li>
+</ul>
+<h4>C. MOVEMENT (MOVE) (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=199s">Video 3:19</a> for start of movements)</h4>
+<ul>
+<li><strong>Active Range of Motion (AROM):</strong> (Patient performs.
+            Note range, pain, crepitus, willingness.)
+            <ul>
+<li>Flexion: "take it as long as you can go" (forward). (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=200s">Video 3:20-3:25</a>)</li>
+<li>Extension: "and then we come down... extension... maximum
+                where the patient can go". (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=205s">Video 3:25-3:32</a>)</li>
+<li>Abduction: "on the side... go as long as you can go". (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=214s">Video 3:34-3:43</a>)</li>
+<li>Adduction: "cross your arms". (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=224s">Video 3:44-3:50</a>)</li>
+<li>External Rotation: (Elbows at side, flexed to 90°, rotate
+                outwards). (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=234s">Video 3:54-3:59</a>)</li>
+<li>Internal Rotation: (Reach behind back, note vertebral level
+                reached by thumb). (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=234s">Video 3:54-4:04</a>, specific action for
+                internal rotation not fully detailed but implied with "external
+                and internal rotation").</li>
+<li>Demonstration of restricted movements in frozen shoulder (Left
+                Arm): Abduction (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=256s">Video 4:16-4:22</a>), Flexion (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=268s">Video 4:28-4:37</a>), External Rotation (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=279s">Video 4:39-4:50</a>).</li>
+</ul>
+</li>
+<li><strong>Passive Range of Motion (PROM):</strong> (Examiner moves
+            the joint. Note range, pain, end-feel, crepitus. Video mentions
+            passive movement restriction is same as active for frozen shoulder (<a class="timestamp" href="https://www.youtube.com/watch?v=ERskTOC5LR4&amp;t=292s">Video
+              4:52-4:57</a>) but doesn't explicitly demonstrate PROM sequence
+            for all movements).</li>
+<li><strong>Abnormal Movements:</strong> (e.g., hypermobility,
+            instability).</li>
+<li><strong>Pain on Movement:</strong> (Note which movements are
+            painful).</li>
+<li><strong>Strength (MRC Scale 0-5):</strong> (Test specific muscle
+            groups against resistance. Compare sides.)</li>
+</ul>
+<h4>D. SPECIAL TESTS</h4>
+<p class="ortho-specific">(Perform relevant tests based on suspected
+          pathology. Document positive/negative findings.)</p>
+<ul>
+<li><strong>Shoulder:</strong>
+<ul>
+<li>Rotator Cuff: Jobe's (<a href="https://youtu.be/ERskTOC5LR4?t=319">empty
+                  can</a>), Lift-off, Hawkins-Kennedy, Neer's, (<a href="https://youtu.be/ERskTOC5LR4?t=319">Painful
+                  arc</a>)</li>
+<li>Instability: Apprehension test, Sulcus sign</li>
+<li>Biceps: Speed's test, Yergason's test</li>
+<li>AC Joint: Scarf test (cross-body adduction)</li>
+</ul>
+</li>
+</ul>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: SPINE</summary>
+<div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="864" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EXAMPLE_SPINE_VIDEO" title="SPINE EXAMINATION OSCE VIDEO" width="1520"></iframe> </div>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure.
+            Ensure adequate exposure. Offer/confirm chaperone. Obtain consent.
+            Compare with the contralateral side.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Spine (Cervical, Thoracic, Lumbar,
+          Sacral)</p>
+<h4>A. INSPECTION (LOOK)</h4>
+<ul>
+<li><strong>POSITIONS</strong>
+<ul>
+<li><strong>From the Front, Side, and Back</strong></li>
+</ul>
+</li>
+<li><strong>Patient Standing in Anatomical Position:</strong>
+<ul>
+<li><strong>Alignment:</strong> Check spinal curves (cervical
+                lordosis, thoracic kyphosis, lumbar lordosis)</li>
+<li><strong>Posture:</strong> Note any scoliosis, kyphosis, or
+                other postural abnormalities</li>
+<li><strong>Muscle Bulk:</strong> Look for paraspinal muscle
+                wasting or asymmetry</li>
+<li><strong>Skin Changes:</strong> Look for tufts of hair,
+                dimples, or skin lesions over the spine</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL)</h4>
+<p><em>(Keep looking at patient's face for any tenderness. Compare both
+            sides.)</em></p>
+<ul>
+<li><strong>Spinous Processes:</strong> Palpate each vertebra for
+            tenderness or step-off</li>
+<li><strong>Paraspinal Muscles:</strong> Check for spasm or tenderness</li>
+<li><strong>Sacroiliac Joints:</strong> Check for tenderness</li>
+<li><strong>Spinal Tenderness:</strong> Note any localized or
+            radiating tenderness</li>
+</ul>
+<h4>C. MOVEMENT (MOVE)</h4>
+<ul>
+<li><strong>Active Range of Motion:</strong>
+<ul>
+<li>Flexion/Extension</li>
+<li>Lateral Flexion (Left/Right)</li>
+<li>Rotation (Left/Right)</li>
+</ul>
+</li>
+<li><strong>Special Tests:</strong>
+<ul>
+<li>Spurling's test (cervical radiculopathy)</li>
+<li>Lhermitte's sign</li>
+<li>Lasegue's test (straight leg raise)</li>
+<li>Femoral stretch test</li>
+<li>Schober's test (lumbar mobility)</li>
+</ul>
+</li>
+</ul>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: ELBOW</summary>
+<div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="835" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/xejdb-T98nY" title="Elbow Examination - OSCE Guide | Aspire PLAB2/UKMLA Academy" width="1468"></iframe> </div>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure:
+            "any joint examination... look feel move" (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=8s">Video 0:08-0:16</a>). Ensure adequate exposure.
+            Offer/confirm chaperone. Obtain consent. (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=24s">Video 0:24-0:35</a> for general principles).
+            Compare with the contralateral side.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Both Elbows</p>
+<h4>A. INSPECTION (LOOK) (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=29s">Video 0:29</a>)</h4>
+<ul>
+<li><strong>Patient position:</strong> Anatomical position</li>
+<ul>
+<li>Ask patient to join legs and have palms facing towards examiner.
+              (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=54s">Video
+                0:54-1:00</a>)</li>
+</ul>
+<li><strong>From the Front:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=60s">Video 1:00-1:09</a>)
+            <ul>
+<li>Scars</li>
+<li>Swelling</li>
+<li>Erythema (Irritma mentioned in video)</li>
+<li>Carrying angle (Normal: 5-15 degrees) (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=64s">Video 1:04-1:09</a>)</li>
+</ul>
+</li>
+<li><strong>From the Side and Back:</strong> Inform patient before
+            moving. (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=73s">Video 1:13-1:23</a>)
+            <ul>
+<li>Scars (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=86s">Video 1:26</a>)</li>
+<li>Swelling (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=86s">Video 1:26</a>)</li>
+<li>Erythema (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=86s">Video 1:26</a>)</li>
+<li>Psoriatic plaques (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=91s">Video 1:31</a>)</li>
+<li>Rheumatoid nodules (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=91s">Video 1:31-1:33</a>)</li>
+<li>Muscle wasting</li>
+<li>Sinuses</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL) (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=97s">Video 1:37</a>)</h4>
+<p><em>(Inform patient: "Now I'm going to touch your elbow" (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=97s">Video 1:37</a>). Keep looking at patient's face
+            for tenderness.)</em></p>
+<ul>
+<li><strong>Temperature:</strong> "no local rise of temperature". (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=101s">Video
+              1:41-1:44</a>)</li>
+<li><strong>Bony Landmarks &amp; Tendons for Tenderness:</strong>
+<ul>
+<li>Medial epicondyle. (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=104s">Video 1:44-1:49</a>)</li>
+<li>Lateral epicondyle. (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=112s">Video 1:52-1:55</a>)</li>
+<li>Olecranon process. (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=115s">Video 1:55-1:59</a>)</li>
+<li>Biceps tendon (ask patient to bend elbow). (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=120s">Video 2:00-2:06</a>)</li>
+<li>Radial head.</li>
+<li>Common extensor and flexor origins.</li>
+<li>Ulnar nerve in the cubital tunnel.</li>
+</ul>
+</li>
+</ul>
+<h4>C. MOVEMENT (MOVE) (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=129s">Video 2:09</a>)</h4>
+<p><em>(Active movements demonstrated)</em></p>
+<ul>
+<li>Flexion: "bend your arms for me". (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=133s">Video 2:13-2:15</a>)</li>
+<li>Extension: "now all the way back down". (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=135s">Video 2:15-2:20</a>)</li>
+<li>Supination: "palm facing upward". (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=140s">Video 2:20</a>)</li>
+<li>Pronation: "then turn them over". (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=140s">Video 2:20-2:23</a>)</li>
+<li>(Return to supination: "Now turn them back again" <a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=145s">Video 2:25</a>)</li>
+</ul>
+<h4>D. SPECIAL TESTS (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=152s">Video 2:32</a>)</h4>
+<p><em>(For lateral epicondylitis - Tennis Elbow; Medial epicondylitis -
+            Golfer's Elbow (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=45s">Video 0:45-0:51</a>))</em></p>
+<ul>
+<li>Patient bends elbow and makes a fist. (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=154s">Video 2:34-2:36</a>)</li>
+<li><strong>Resisted Wrist Extension (variation of Cozen's test):</strong>
+            "press against my force". (Examiner resists wrist extension,
+            checking for pain). (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=159s">Video 2:39-2:42</a>)</li>
+<li><strong>Resisted Wrist Flexion (Medial epicondylitis test):</strong>
+            "press down against my force". (Examiner resists wrist flexion,
+            checking for pain). (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=162s">Video 2:42-2:49</a>)</li>
+<li>Mill's test (not explicitly shown but is a standard test for
+            lateral epicondylitis).</li>
+<li>Tinel's test at elbow (ulnar nerve - not shown).</li>
+</ul>
+<p class="ortho-specific"><em><b>Completion of Examination:</b> "To
+            complete elbow examination make sure you examine other elbow and you
+            will examine one joint above and one joint below as well. And do not
+            forget to do the full neurological examination." (<a class="timestamp" href="https://www.youtube.com/watch?v=xejdb-T98nY&amp;t=172s">Video 2:52-3:01</a>)</em></p>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: WRIST AND HAND</summary>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure.
+            Ensure adequate exposure. Offer/confirm chaperone. Obtain consent.
+            Compare with the contralateral side.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Both Wrists and Hands</p>
+<h4>A. INSPECTION (LOOK)</h4>
+<ul>
+<li><strong>Dorsal and Palmar Aspects:</strong>
+<ul>
+<li>Deformities (swan neck, boutonniere, mallet finger, etc.)</li>
+<li>Swelling, muscle wasting (thenar, hypothenar, interossei)</li>
+<li>Skin changes, nail changes, scars</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL)</h4>
+<ul>
+<li>Distal radioulnar joint</li>
+<li>Lister's tubercle</li>
+<li>Anatomical snuffbox</li>
+<li>Scaphoid</li>
+<li>Metacarpophalangeal (MCP) joints</li>
+<li>Proximal interphalangeal (PIP) joints</li>
+<li>Distal interphalangeal (DIP) joints</li>
+</ul>
+<h4>C. MOVEMENT (MOVE)</h4>
+<ul>
+<li>Wrist: Flexion/Extension, Radial/Ulnar deviation</li>
+<li>Fingers: MCP, PIP, DIP flexion/extension</li>
+<li>Thumb: Opposition, abduction, adduction</li>
+<li>Special Tests:
+            <ul>
+<li>Finkelstein's test (de Quervain's tenosynovitis)</li>
+<li>Phalen's test (carpal tunnel syndrome)</li>
+<li>Tinel's test at wrist (median nerve)</li>
+<li>Froment's sign (ulnar nerve palsy)</li>
+</ul>
+</li>
+</ul>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: HIP</summary>
+<div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="864" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EXAMPLE_HIP_VIDEO" title="HIP EXAMINATION OSCE VIDEO" width="1520"></iframe> </div>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure.
+            Ensure adequate exposure. Offer/confirm chaperone. Obtain consent.
+            Compare with the contralateral side.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Both Hips</p>
+<h4>A. INSPECTION (LOOK)</h4>
+<ul>
+<li><strong>Standing:</strong>
+<ul>
+<li>Pelvic tilt, limb length discrepancy, muscle wasting</li>
+<li>Gait (antalgic, Trendelenburg, etc.)</li>
+</ul>
+</li>
+<li><strong>Supine:</strong>
+<ul>
+<li>Deformity, swelling, scars, sinuses</li>
+<li>Limb position (flexion, abduction, external rotation)</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL)</h4>
+<ul>
+<li>Anterior superior iliac spine (ASIS)</li>
+<li>Greater trochanter</li>
+<li>Iliotibial band</li>
+<li>Inguinal region (femoral pulse, lymph nodes)</li>
+<li>Ischial tuberosity (in lateral position)</li>
+</ul>
+<h4>C. MOVEMENT (MOVE)</h4>
+<ul>
+<li>Flexion (with knee flexed)</li>
+<li>Extension (Thomas test)</li>
+<li>Abduction/Adduction</li>
+<li>Internal/External rotation (hip and knee flexed to 90°)</li>
+<li>Special Tests:
+            <ul>
+<li>Trendelenburg test</li>
+<li>Thomas test (fixed flexion deformity)</li>
+<li>FABER/Patrick's test (sacroiliac joint pathology)</li>
+<li>Trendelenburg test</li>
+</ul>
+</li>
+</ul>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: KNEE</summary>
+<div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZE5SDPKc-kg" title="Knee Examination by Dr. Ankur Garg"> </iframe> </div>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure:
+            "I'll be examining your knee" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=26s">Video 0:26-0:31</a>). Ensure adequate exposure:
+            "I want you to undress... below your waist" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=33s">Video 0:33-0:34</a>) - (More accurately, above
+            knee to mid-thigh). Offer/confirm chaperone: "I have a chaperone to
+            ensure privacy" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=34s">Video 0:34-0:36</a>). Obtain consent. Compare
+            with the contralateral side. Ask about pain before starting.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Both Knees</p>
+<h4>A. INSPECTION (LOOK)</h4>
+<ul>
+<li><strong>Patient Standing:</strong> "stand in this way the palm
+            facing towards me and till you join your legs" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=39s">Video 0:39-0:43</a>)
+            <ul>
+<li><strong>Alignment of Joints:</strong> Check shoulder, anterior
+                superior iliac spine, knee, and ankle are in the same plane (no
+                limb length discrepancy). (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=48s">Video 0:48-0:59</a>)</li>
+<li><strong>From Front, Side, and Back:</strong> Inform patient
+                before moving: "John what do you mind if I have a look at your
+                legs and for that I will be going to your side and to your back
+                is that all right" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=69s">Video 1:09-1:18</a>).
+                <ul>
+<li>Redness, swelling, sign of injury, trauma side, deformity,
+                    scar mark of surgery. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=80s">Video 1:20-1:31</a>)</li>
+<li>Popliteal Fossa (from back): No cysts, no fullness. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=91s">Video 1:31-1:35</a>)</li>
+</ul>
+</li>
+<li><strong>Gait:</strong> Ask patient to take a few steps. "Gate
+                of the patient is also normal". (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=95s">Video 1:35-1:52</a>)</li>
+<li>Quadriceps wasting.</li>
+<li>Effusion.</li>
+</ul>
+</li>
+<li><strong>Sitting/Supine:</strong> (Patient lies down on couch for
+            palpation <a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=118s">Video 1:58-2:02</a>)
+            <ul>
+<li>Swelling, scars, sinuses.</li>
+<li>Patella position and alignment.</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL) (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=116s">Video 1:56</a>)</h4>
+<p><em>(Inform patient: "John now I'll be touching your knee" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=122s">Video 2:02</a>). Look at patient's face for
+            tenderness (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=156s">Video 2:36</a>).)</em></p>
+<ul>
+<li><strong>Temperature:</strong> Compare one knee with the other, and
+            the same knee with the shin. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=125s">Video 2:05-2:16</a>)</li>
+<li><strong>Tenderness (Knees bent: "bend the knee and just relax go
+              floppy" <a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=140s">Video 2:20-2:26</a>):</strong>
+<ul>
+<li>Borders of Patella (Medial and Lateral). (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=150s">Video 2:30-2:45</a>)</li>
+<li>Joint Line (Medial and Lateral). (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=165s">Video 2:45-2:54</a>)</li>
+<li>Popliteal Fossa (with fingers, for fullness/cyst). (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=176s">Video 2:56-3:01</a>)</li>
+<li>(Patient straightens leg <a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=183s">Video 3:03</a>)</li>
+<li>Patellar Tendon. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=188s">Video 3:08-3:12</a>)</li>
+<li>Tibial Tuberosity. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=192s">Video 3:12-3:16</a>)</li>
+<li>Quadriceps tendon.</li>
+<li>Pes anserine bursa.</li>
+<li>Fibular head.</li>
+</ul>
+</li>
+<li><strong>Tests for Effusion:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=201s">Video 3:21</a>)
+            <ul>
+<li><strong>Sweep Test / Swipe Test (Minor Effusion):</strong>
+                Sweep fluid up from medial aspect, hold in suprapatellar pouch,
+                then swipe down lateral aspect to see bulge on medial side. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=207s">Video 3:27-4:00</a>)</li>
+<li><strong>Patellar Tap (Major Effusion):</strong> Milk fluid
+                down into knee from suprapatellar pouch, hold with one hand, tap
+                patella with other. Floating patella suggests major effusion. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=246s">Video 4:06-4:30</a>)</li>
+</ul>
+</li>
+<li><strong>Patellar Grind Test (Patellofemoral Arthritis):</strong>
+            Hand on upper border of patella, make a grip, ask patient to tense
+            thigh muscle. Pain suggests inflamed patellofemoral joint. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=276s">Video 4:36-4:58</a>)</li>
+<li>Crepitus (palpable grinding with movement).</li>
+</ul>
+<h4>C. MOVEMENT (MOVE) (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=305s">Video 5:05</a>)</h4>
+<ul>
+<li><strong>Active Range of Motion:</strong>
+<ul>
+<li>Flexion: "bend your right knee and bring your heel as much as
+                close to your bottom". (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=312s">Video 5:12-5:20</a>)</li>
+<li>Extension (return from flexion). (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=320s">Video 5:20-5:23</a>)</li>
+</ul>
+</li>
+<li>(Passive range of motion should also be assessed if active is
+            limited or painful).</li>
+<li>Patellar mobility and apprehension test.</li>
+</ul>
+<h4>D. SPECIAL TESTS (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=326s">Video 5:26</a>)</h4>
+<ul>
+<li><strong>Collateral Ligament Stress Tests:</strong> (Patient relax
+            <a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=337s">Video
+              5:37</a>, lift knee <a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=342s">Video 5:42</a>)
+            <ul>
+<li><strong>Valgus Stress Test (Medial Collateral Ligament - MCL):</strong>
+                Apply lateral stress (push medially with outer hand, bring lower
+                leg laterally with inner hand). Checks MCL. Look for
+                tenderness/laxity. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=346s">Video 5:46-6:11</a>, "lateral stress test"
+                termed in video). Perform at 0° and 30° of flexion.</li>
+<li><strong>Varus Stress Test (Lateral Collateral Ligament - LCL):</strong>
+                Apply medial stress (push laterally with inner hand, bring lower
+                leg medially with outer hand). Checks LCL. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=382s">Video 6:22-6:44</a>, "medial stress test"
+                termed in video). Perform at 0° and 30° of flexion.</li>
+</ul>
+</li>
+<li><strong>McMurray's Test (Meniscal Tears):</strong> Leg at 90°
+            flexion, hand on knee joint to feel click. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=407s">Video 6:47-6:58</a>)
+            <ul>
+<li>Medial Meniscus: Bring heel medially (external rotation of
+                tibia), slide down in rotation (extend knee) while applying
+                valgus stress. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=428s">Video 7:08-7:20</a>)</li>
+<li>Lateral Meniscus: Bring heel laterally (internal rotation of
+                tibia), slide down in rotation (extend knee) while applying
+                varus stress. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=444s">Video 7:24-7:33</a>)</li>
+<li>Positive: Palpable/audible click and/or pain.</li>
+</ul>
+</li>
+<li><strong>Drawer Tests (Cruciate Ligaments):</strong> Patient bends
+            leg, examiner sits on patient's foot to stabilize. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=465s">Video 7:45-8:05</a>)
+            <ul>
+<li>Anterior Drawer Test (ACL): Pull tibia forward. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=487s">Video 8:07-8:19</a>)</li>
+<li>Posterior Drawer Test (PCL): Push tibia backward. (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=499s">Video 8:19-8:24</a>)</li>
+<li>Positive: Pain or excessive movement.</li>
+</ul>
+</li>
+<li>Lachman test (ACL - not explicitly shown, but a key test).</li>
+<li>Thessaly test (meniscal pathology - not explicitly shown).</li>
+<li>Patellar apprehension test (already listed under movement).</li>
+<li>Patellar grind test (already listed under palpation).</li>
+</ul>
+<p class="ortho-specific"><em><b>Completion:</b> "to finish the
+          examination always whenever be checking for any joint we have to
+          examine one joint above and one joint below and we should complete it
+          with the full neurological examination we can also check for the
+          distal pulses" (<a class="timestamp" href="https://www.youtube.com/watch?v=ZE5SDPKc-kg&amp;t=519s">Video 8:39-8:51</a>).</em></p>
+</details>
+<details>
+<summary>EXPAND EXAMINATION: ANKLE AND FOOT</summary>
+<div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="864" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Tjz24MT56A0" title="ANKLE AND FOOT EXAMINATION OSCE VIDEO" width="1520"></iframe> </div>
+<p class="ortho-specific"><em>(<b>Prerequisites:</b> Explain procedure:
+            "now I'll be examining your tummy [foot/ankle]..." (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=0s">Video 0:00</a> - note: examiner says 'tummy'
+            initially, likely a slip, context is ankle/foot). Ensure adequate
+            exposure "below the knee" (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=27s">Video 0:27</a>). Offer/confirm chaperone: "make
+            sure you have The Chaperone to ensure the patient privacy" (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=28s">Video 0:28-0:32</a>). Obtain consent: "before
+            you start make sure you take consent" (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=32s">Video 0:32-0:35</a>). Compare with the
+            contralateral side.)</em></p>
+<p><strong>AREA(S) EXAMINED:</strong> Both Ankles and Feet</p>
+<h4>A. INSPECTION (LOOK) (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=39s">Video 0:39</a>)</h4>
+<ul>
+<li><strong>General Inspection (Front, Side, Back):</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=42s">Video 0:42-0:58</a>)
+            <ul>
+<li>Redness. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=46s">Video 0:46</a>)</li>
+<li>Swelling. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=46s">Video 0:46</a>)</li>
+<li>Scar marks from surgery. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=48s">Video 0:48-0:50</a>)</li>
+<li>Bruises. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=50s">Video 0:50-0:52</a>)</li>
+<li>Deformities (bunions, hammertoes, claw toes).</li>
+<li>Arch height (pes planus/cavus).</li>
+<li>Hindfoot alignment (varus/valgus).</li>
+<li>Forefoot alignment (adductus/abductus).</li>
+<li>Callosities, corns.</li>
+</ul>
+</li>
+<li><strong>Patient Standing:</strong> (Mentioned as an option <a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=58s">Video 0:58-1:00</a>)
+            <ul>
+<li>Observe weight-bearing posture, arches.</li>
+</ul>
+</li>
+<li><strong>Gait:</strong> "tell the patient to take few steps... I
+            will check the Gate of the patient" (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=61s">Video 1:01-1:09</a>)
+            <ul>
+<li>Observe for limp, antalgia, abnormalities in heel strike,
+                stance, toe-off.</li>
+</ul>
+</li>
+<li><strong>Sitting/Supine:</strong>
+<ul>
+<li>Swelling, scars, sinuses, ulcers.</li>
+<li>Muscle wasting (intrinsic muscles of foot, calf).</li>
+<li>Nail changes.</li>
+</ul>
+</li>
+</ul>
+<h4>B. PALPATION (FEEL) (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=74s">Video 1:14</a>)</h4>
+<p><em>(Keep looking at the patient's face for any kind of tenderness (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=100s">Video
+              1:40</a>, <a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=110s">Video 1:50</a>). Compare both sides.)</em></p>
+<ul>
+<li><strong>Temperature:</strong> Check on both sides and compare. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=76s">Video
+              1:16-1:20</a>)</li>
+<li><strong>Pulses:</strong>
+<ul>
+<li>Dorsalis Pedis. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=84s">Video 1:24-1:29</a>)</li>
+<li>Posterior Tibial. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=84s">Video 1:24-1:33</a>)</li>
+</ul>
+</li>
+<li><strong>Bony and Soft Tissue Tenderness:</strong>
+<ul>
+<li>Metatarsophalangeal (MTP) joints. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=96s">Video 1:36-1:44</a>)</li>
+<li>Tarsal bones. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=106s">Video 1:46-1:54</a>)</li>
+<li>Medial Malleolus. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=124s">Video 2:04-2:07</a>)</li>
+<li>Lateral Malleolus. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=127s">Video 2:07-2:13</a>)</li>
+<li>Calcaneum (patient's leg bent). (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=135s">Video 2:15-2:24</a>)</li>
+<li>Achilles Tendon. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=146s">Video 2:26-2:30</a>)</li>
+<li>Anterior joint line.</li>
+<li>Sinus tarsi.</li>
+<li>Peroneal tendons.</li>
+<li>Plantar fascia.</li>
+</ul>
+</li>
+</ul>
+<h4>C. MOVEMENT (MOVE) (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=159s">Video 2:39</a>)</h4>
+<p><em>(Active movements demonstrated in video)</em></p>
+<ul>
+<li><strong>Ankle:</strong>
+<ul>
+<li>Plantarflexion. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=161s">Video 2:41-2:44</a>)</li>
+<li>Dorsiflexion. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=164s">Video 2:44-2:46</a>)</li>
+</ul>
+</li>
+<li><strong>Foot/Subtalar:</strong>
+<ul>
+<li>Inversion. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=183s">Video 3:03-3:07</a>)</li>
+<li>Eversion. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=187s">Video 3:07-3:13</a>)</li>
+</ul>
+</li>
+<li><strong>Toes:</strong>
+<ul>
+<li>Active Toe Flexion. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=171s">Video 2:51-2:55</a>)</li>
+<li>Active Toe Extension. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=178s">Video 2:58-3:03</a>)</li>
+</ul>
+</li>
+<li>(Passive range of motion should also be assessed if active is
+            limited or painful).</li>
+<li>(Midtarsal: Pronation/Supination - not explicitly shown but part
+            of full exam).</li>
+<li>(1st MTP joint: Dorsiflexion/Plantarflexion - individual joint not
+            specifically isolated in video beyond general toe movements).</li>
+</ul>
+<p><em>Video notes that a patient with an ankle sprain will have
+            tenderness during palpation and limitation in movements (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=198s">Video 3:18-3:26</a>).</em></p>
+<h4>D. SPECIAL TESTS</h4>
+<ul>
+<li>Anterior drawer test (ATFL integrity).</li>
+<li>Talar tilt test (CFL integrity).</li>
+<li>Thompson test (Achilles rupture) / Simmonds' test.</li>
+<li>Windlass test (plantar fasciitis).</li>
+<li>Morton's test (Morton's neuroma).</li>
+<li>(Coleman block test for pes cavus).</li>
+<li>(Squeeze test for syndesmosis injury).</li>
+</ul>
+<p><em><b>Completion of Examination:</b> "examine one joint above one
+          joint below and make sure you do full neurological examinations" (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=209s">Video 3:29-3:35</a>).</em></p>
+</details>
+<h4>E. NEUROVASCULAR ASSESSMENT (Distal to affected area)</h4>
+<ul>
+<li><strong>Vascular:</strong>
+<ul>
+<li>Peripheral pulses: (Presence, character - e.g., radial, ulnar,
+              femoral, popliteal, dorsalis pedis, posterior tibial)</li>
+<li>Capillary refill time (CRT): (Normal &lt;2-3 seconds)</li>
+<li>Skin color and temperature</li>
+</ul>
+</li>
+<li><strong>Neurological:</strong>
+<ul>
+<li>Sensation: (Light touch, pinprick in dermatomal distribution for
+              relevant nerves)</li>
+<li>Motor function: (Test specific myotomes/muscles distal to the
+              injury/affected area, can be part of 'Move')</li>
+<li>Reflexes: (Relevant deep tendon reflexes, e.g., biceps, triceps,
+              brachioradialis, patellar, Achilles. Plantar response.)</li>
+</ul>
+</li>
+</ul>
+<p><strong>MEASUREMENTS (if relevant):</strong></p>
+<ul>
+<li>Limb length (true and apparent)</li>
+<li>Circumferential measurements (for swelling or wasting)</li>
+<li>Angular deformities</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">X. SUMMARY OF FINDINGS</h3>
+<p>[A concise summary of the pertinent positive and negative findings from
+        the history and physical examination. e.g., "Mr./Ms. X, a Y-year-old
+        [occupation], presented with [chief complaint(s)] for [duration],
+        following [mechanism of injury if any / insidious onset]. Key historical
+        points include... Examination revealed [key findings like deformity,
+        swelling, tenderness at..., restricted ROM in..., positive special tests
+        like..., neurovascular status intact/compromised...]."]</p>
+</div>
+<div class="section">
+<h3 class="section-title">XI. PROVISIONAL DIAGNOSIS</h3>
+<p>[Most likely diagnosis based on history and examination. Be specific
+        about location and type of injury/condition.]</p>
+<p>e.g., 1. Acute Anterior Cruciate Ligament (ACL) tear, Right Knee.</p>
+<p>e.g., 2. Osteoarthritis of the Left Hip, severe.</p>
+<p>e.g., 3. Pathological fracture of the Right Femur, secondary to
+        suspected metastasis.</p>
+<p>e.g., 4. Lumbar disc herniation L4/L5 with right L5 radiculopathy.</p>
+</div>
+<div class="section">
+<h3 class="section-title">XII. DIFFERENTIAL DIAGNOSES</h3>
+<ol>
+<li>[Differential 1, with brief reasoning]</li>
+<li>[Differential 2, with brief reasoning]</li>
+<li>[Differential 3, with brief reasoning]</li>
+</ol>
+</div>
+<div class="section">
+<h3 class="section-title">XIII. INVESTIGATIONS PLANNED</h3>
+<p class="ortho-specific">(Tailor to provisional diagnosis and
+        differentials, guided by NICE principles for appropriateness and
+        pathway.)</p>
+<h4>A. LABORATORY TESTS</h4>
+<ul>
+<li><strong>Baseline (if surgery considered or systemic illness
+            suspected):</strong>
+<ul>
+<li>Full Blood Count (FBC), Differential Count (DC)</li>
+<li>Urea &amp; Electrolytes (U&amp;Es) / Renal Function Test (RFT)</li>
+<li>Liver Function Tests (LFTs)</li>
+<li>Clotting Screen (PT/INR, APTT) - if on anticoagulants or surgery
+              planned</li>
+<li>Group and Save / Crossmatch - if significant blood loss
+              anticipated</li>
+</ul>
+</li>
+<li><strong>Inflammatory Markers:</strong>
+<ul>
+<li>Erythrocyte Sedimentation Rate (ESR)</li>
+<li>C-Reactive Protein (CRP) - (For infection, inflammatory
+              arthritis)</li>
+</ul>
+</li>
+<li><strong>Specific Tests:</strong>
+<ul>
+<li>Bone Profile: Calcium, Phosphate, Alkaline Phosphatase (ALP) -
+              (Metabolic bone disease, tumors, fractures)</li>
+<li>Uric Acid - (Suspected Gout)</li>
+<li>Rheumatoid Factor (RF), Anti-Cyclic Citrullinated Peptide
+              (Anti-CCP) antibodies - (Suspected RA)</li>
+<li>Antinuclear Antibody (ANA), Extractable Nuclear Antigens (ENA) -
+              (Connective tissue diseases)</li>
+<li>HLA-B27 - (Suspected Spondyloarthropathy)</li>
+<li>Blood cultures - (Suspected septic arthritis, osteomyelitis)</li>
+<li>Serum Protein Electrophoresis (SPEP), Urine Bence Jones Protein
+              - (Suspected Myeloma)</li>
+<li>Thyroid Function Tests (TFTs)</li>
+<li>Vitamin D levels</li>
+</ul>
+</li>
+<li><strong>Joint Aspiration / Synovial Fluid Analysis:</strong> (If
+          effusion present and infection/crystal arthropathy suspected)
+          <ul>
+<li>Appearance, WBC count and differential, Gram stain, Culture
+              &amp; Sensitivity, Crystal microscopy (for urate, CPPD)</li>
+</ul>
+</li>
+</ul>
+<h4>B. IMAGING</h4>
+<ul>
+<li><strong>X-rays:</strong> (Standard initial imaging for most
+          orthopedic conditions)
+          <ul>
+<li>Affected area: (AP, Lateral views minimum. Oblique, special
+              views like skyline for patella, stress views for instability,
+              weight-bearing views for OA assessment as appropriate)</li>
+<li>Comparison views of contralateral side (especially in
+              pediatrics)</li>
+<li>Chest X-ray (pre-op, suspected mets)</li>
+</ul>
+</li>
+<li><strong>Ultrasound (US):</strong>
+<ul>
+<li>Soft tissue injuries (tendon tears, bursitis, collections,
+              synovitis)</li>
+<li>Guided aspirations or injections</li>
+<li>Assessment of infant hip (DDH screening)</li>
+<li>Foreign body localization</li>
+</ul>
+</li>
+<li><strong>Computed Tomography (CT) Scan:</strong>
+<ul>
+<li>Complex fractures (intra-articular, pelvic, spinal), fracture
+              characterization, pre-operative planning</li>
+<li>Bone tumors (extent, cortical breach)</li>
+<li>Spinal stenosis, disc herniation (if MRI contraindicated or for
+              bony detail)</li>
+<li>CT Angiography (vascular injury)</li>
+</ul>
+</li>
+<li><strong>Magnetic Resonance Imaging (MRI):</strong>
+<ul>
+<li>Soft tissue injuries (ligaments, tendons, menisci, cartilage)</li>
+<li>Spinal cord/nerve root compression (disc herniation, stenosis,
+              tumors)</li>
+<li>Bone marrow pathology (stress fractures, AVN, osteomyelitis,
+              tumors)</li>
+<li>Occult fractures not seen on X-ray</li>
+<li>Pre-operative planning for specific procedures</li>
+</ul>
+</li>
+<li><strong>Bone Scan (Radionuclide Scintigraphy):</strong>
+<ul>
+<li>Detection of occult fractures, stress fractures</li>
+<li>Metastatic bone disease screening</li>
+<li>Osteomyelitis, Paget's disease</li>
+<li>Loosening/infection of joint replacements</li>
+</ul>
+</li>
+<li><strong>DEXA Scan (Dual-Energy X-ray Absorptiometry):</strong>
+<ul>
+<li>Assessment of bone mineral density (Osteoporosis diagnosis and
+              monitoring)</li>
+</ul>
+</li>
+</ul>
+<h4>C. OTHER</h4>
+<ul>
+<li><strong>Nerve Conduction Studies (NCS) / Electromyography (EMG):</strong>
+<ul>
+<li>Peripheral nerve injuries, entrapment neuropathies (e.g., carpal
+              tunnel syndrome), radiculopathy, myopathy</li>
+</ul>
+</li>
+<li><strong>Biopsy:</strong> (Bone or soft tissue - for suspected tumor
+          or infection. Image-guided or open)</li>
+<li><strong>Compartment Pressure Measurement:</strong> (Suspected
+          compartment syndrome)</li>
+</ul>
+</div>
+<div class="section">
+<h3 class="section-title">XIV. MANAGEMENT PLAN</h3>
+<p class="ortho-specific">(Based on diagnosis, patient factors, and NICE
+        guidelines. Discuss conservative vs. surgical options.)</p>
+<h4>A. IMMEDIATE MANAGEMENT (If any, e.g., in ER for acute trauma)</h4>
+<ul>
+<li><strong>PRICE:</strong> Painkiller/Protection, Rest, Ice,
+          Compression, Elevation (mnemonic)</li>
+<li><strong>Analgesia:</strong> (e.g., Paracetamol, NSAIDs, Opioids -
+          follow NICE pain ladder)</li>
+<li><strong>Immobilization:</strong> (Sling, splint, cast, backslab -
+          specify type)</li>
+<li><strong>Reduction of dislocation/fracture:</strong> (If applicable,
+          document method and post-reduction status)</li>
+<li><strong>Neurovascular checks:</strong> (Document pre and
+          post-intervention)</li>
+<li><strong>Tetanus prophylaxis:</strong> (If open fracture/wound)</li>
+<li><strong>Antibiotics:</strong> (If open fracture - e.g., Co-amoxiclav
+          or Cefuroxime +/- Metronidazole, as per local guidelines/NICE)</li>
+<li><strong>Admission / Referral:</strong> (Criteria for urgent
+          orthopedic review/admission e.g. open fracture, neurovascular
+          compromise, irreducible dislocation, compartment syndrome, cauda
+          equina, septic arthritis)</li>
+</ul>
+<h4>B. DEFINITIVE MANAGEMENT</h4>
+<p><strong>Patient Communication (ICE - Ideas, Concerns, Expectations):</strong>
+        Discuss diagnosis, findings, treatment options, risks/benefits,
+        prognosis.</p>
+<h5>1. CONSERVATIVE MANAGEMENT</h5>
+<ul>
+<li><strong>Patient Education &amp; Advice:</strong> (Condition
+          explanation, activity modification, self-management strategies, red
+          flag signs)</li>
+<li><strong>Lifestyle Modification:</strong> (Weight management for
+          OA/back pain, smoking cessation for fracture healing, ergonomic
+          advice)</li>
+<li><strong>Analgesia (NICE Pain Ladder):</strong>
+<ul>
+<li>Step 1: Paracetamol +/- Topical NSAIDs (for OA).</li>
+<li>Step 2: Oral NSAIDs (consider PPI cover, lowest effective dose,
+              shortest duration) or COX-2 inhibitors.</li>
+<li>Step 3: Opioids (weak e.g., codeine; or strong e.g., morphine,
+              oxycodone for short-term severe pain or if other options
+              contraindicated/ineffective. Caution with long-term use. Consider
+              laxatives).</li>
+<li>Neuropathic agents (e.g., Amitriptyline, Gabapentin, Pregabalin
+              for neuropathic pain - as per NICE CG173).</li>
+</ul>
+</li>
+<li><strong>Physiotherapy / Occupational Therapy:</strong>
+<ul>
+<li>Exercise prescription (strengthening, stretching, range of
+              motion, proprioception, core stability).</li>
+<li>Manual therapy.</li>
+<li>Gait re-education.</li>
+<li>Provision of aids (crutches, walkers, splints, orthotics).</li>
+<li>Home environment assessment and adaptation.</li>
+<li>Return to work/sport rehabilitation.</li>
+</ul>
+</li>
+<li><strong>Injections (Image-guided where appropriate, as per NICE):</strong>
+<ul>
+<li>Corticosteroid injections (for joint inflammation, bursitis,
+              tenosynovitis, trigger finger, nerve blocks. NICE has specific
+              guidance on use e.g. for OA knee).</li>
+<li>Hyaluronic acid injections (Viscosupplementation - NICE guidance
+              varies, often not routinely recommended for OA).</li>
+<li>Platelet-Rich Plasma (PRP) - (Use in specific conditions, often
+              limited NICE endorsement).</li>
+</ul>
+</li>
+<li><strong>Immobilization/Support:</strong> (Casts, braces, splints,
+          collars - for fractures, instability, severe pain)</li>
+</ul>
+<h5>2. SURGICAL MANAGEMENT</h5>
+<ul>
+<li><strong>Indications for surgery:</strong> (Failure of conservative
+          management, specific types of fractures, instability, severe
+          deformity, neurological compromise, patient preference after informed
+          consent. Refer to NICE guidelines for specific procedures e.g., joint
+          replacement CG177, hip fracture CG124).</li>
+<li><strong>Pre-operative Assessment:</strong> (Medical fitness for
+          surgery, optimization of co-morbidities, anaesthetic review).</li>
+<li><strong>Informed Consent:</strong> (Details of procedure, benefits,
+          risks, alternatives, post-op recovery).</li>
+<li><strong>Type of Surgery Planned:</strong> (e.g., Open Reduction
+          Internal Fixation (ORIF), Intramedullary Nailing, Joint Replacement
+          (Total/Hemiarthroplasty), Arthroscopy (diagnostic/therapeutic - e.g.,
+          meniscectomy, ligament reconstruction), Debridement, Osteotomy, Fusion
+          (Arthrodesis), Amputation, Tendon repair, Nerve decompression).</li>
+<li><strong>Post-operative Care:</strong>
+<ul>
+<li>Pain management.</li>
+<li>Wound care.</li>
+<li>DVT prophylaxis (mechanical and/or pharmacological - as per NICE
+              CG92).</li>
+<li>Antibiotic prophylaxis (as per NICE CG74).</li>
+<li>Mobilization plan / Rehabilitation protocol.</li>
+<li>Weight-bearing status.</li>
+</ul>
+</li>
+</ul>
+<h4>C. FOLLOW-UP PLAN</h4>
+<ul>
+<li>Frequency and timing of follow-up appointments (e.g., outpatient
+          clinic, fracture clinic).</li>
+<li>Monitoring of symptoms, function, and recovery.</li>
+<li>Radiological follow-up (if needed, e.g., fracture healing, implant
+          position).</li>
+<li>Referrals to other specialists if needed (e.g., Rheumatology, Pain
+          Management, Neurology).</li>
+<li>Long-term plan, including return to activities/work.</li>
+</ul>
+<h4>D. PATIENT EDUCATION (REINFORCE)</h4>
+<ul>
+<li><strong>Warning Signs/Red Flags requiring urgent attention:</strong>
+          (e.g., signs of infection - fever, redness, pus; DVT/PE - calf
+          pain/swelling, SOB, chest pain; neurovascular compromise - numbness,
+          weakness, color change; cast too tight).</li>
+<li><strong>Information on condition and management.</strong></li>
+<li><strong>Expected recovery timeline.</strong></li>
+<li><strong>Importance of adherence to physiotherapy/rehabilitation.</strong></li>
+<li><strong>Contact information for concerns.</strong></li>
+<li><strong>Provision of leaflets/links to reliable resources (e.g.,
+            NICE patient information, Versus Arthritis).</strong></li>
+</ul>
+</div>
+</body>
+</html>

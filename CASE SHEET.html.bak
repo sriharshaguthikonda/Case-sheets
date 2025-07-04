@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>CASE SHEET</title>
+    <style>
+      .section {
+        margin-bottom: 20px;
+      }
+      .section-title {
+        font-size: 1.2em;
+        margin-bottom: 10px;
+      }
+    </style>
+  
+  </head>
+  <body>
+    <div class="section">PATIENT INFORMATION
+      <ul>
+        <li>Informant</li>
+        <li>NAME: </li>
+        <li>AGE: </li>
+        <li>SEX: </li>
+        <li>EDUCATION: </li>
+        <li>OCCUPATION: </li>
+        <li>RESIDENCE: </li>
+        <li>RELIGION: </li>
+        <li>T/D: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>CHIEF COMPLAINTS --------------------------------------------------- in chronological order</h3>
+      <ol>
+        <li>Pain<br>
+        </li>
+        <li>Breathlessness - (better <em>not </em>to have <em>shortforms</em>!)SOB<br>
+        </li>
+        <li>Swelling<br>
+        </li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>HISTORY OF PRESENT ILLNESS</h3>
+      <ul>
+        <li>S: Site (Location of skin lesion/rash)</li>
+        <li>O: Onset (rapid or chronic)</li>
+        <li>D: Duration (Character and Type, e.g., macule, papule, vesicle)</li>
+        <li>A: Aggravating factors (Accompanying symptoms)</li>
+        <br>
+        <li>C: Character/Type </li>
+        <li>R: Radiation (What improves it)</li>
+        <li>A: Associated symptoms (What worsens it)</li>
+        <li>P: Progression (How it's changed)</li>
+        <li>P: pattern</li>
+        <li>R: R - for future expansions</li>
+        <li>E: Effect on life (Radiation, spread)</li>
+        <li>S: scale of zero to 10</li>
+      </ul>
+      <h4>Associated Symptoms</h4>
+      <ul>
+        <li>Fever: </li>
+        <li>Weight loss: </li>
+        <li>Appetite: </li>
+        <li>Others: </li>
+      </ul>
+    </div>
+    <p> <strong></strong> </p>
+    <div class="section">
+      <h3>PAST MEDICAL HISTORY</h3>
+      <ul>
+        <li>Diabetes: </li>
+        <li>Hypertension: </li>
+        <li>Cardiac disease: </li>
+        <li>Respiratory disease: </li>
+        <li>Asthma</li>
+        <li>Renal disease: </li>
+        <li>Hepatic disease: </li>
+        <li>Thyroid disorder: </li>
+        <li>Other chronic illnesses: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>SURGICAL HISTORY</h3>
+      <ul>
+        <li>Previous surgeries: </li>
+        <li>Year: </li>
+        <li>Complications: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>TREATMENT HISTORY</h3>
+      <h4>Current Medications</h4>
+      <ul>
+        <li>Name: </li>
+        <li>Dose: </li>
+        <li>Duration: </li>
+        <li>Compliance: </li>
+      </ul>
+      <h4>Allergies</h4>
+      <ul>
+        <li>Drugs: </li>
+        <li>Food: </li>
+        <li>Environmental: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>PERSONAL AND SOCIAL HISTORY</h3>
+      <h4>PERSONAL HISTORY</h4>
+      <ol>
+        <li>APPETITE: </li>
+        <li>DIET
+          <ol type="A">
+            <li>Red meat: </li>
+            <li>Processed meat: </li>
+            <li>Fibre: </li>
+            <li>Fluid intake: </li>
+            <li>Have you been eating food outside?: </li>
+          </ol>
+        </li>
+        <li>DIGESTION: </li>
+        <li>MICTURITION: </li>
+        <li>BOWELS: </li>
+        <li>SLEEP DISTURBANCES: </li>
+        <li>HABITS:
+          <ol type="a">
+            <li>SMOKING (CHUTTA CANCER = of hard palate reverse cigar smoking)
+              <ol type="A">
+                <li>Have you smoked in the past?
+                  <ol>
+                    <li>He might have stopped!</li>
+                    <li>Then you ask above questions</li>
+                  </ol>
+                </li>
+                <li>Weed: </li>
+                <li>Vape: </li>
+              </ol>
+            </li>
+            <li>TOBACCO CHEWING (KHAINI CANCER = LIME + tobacco in gingivolabial
+              sulcus): </li>
+            <li>PAN: </li>
+            <li>ALCOHOL
+              <ol type="a">
+                <li>Dose: </li>
+                <li>Type: </li>
+                <li>Duration: </li>
+              </ol>
+            </li>
+            <li>SWIMMING: </li>
+          </ol>
+        </li>
+        <li>DRUGS
+          <ol type="a">
+            <li>Types: </li>
+            <li>Mode of use:
+              <ol type="A">
+                <li>Snorting: </li>
+                <li>Ingest: </li>
+                <li>Inject:
+                  <ol>
+                    <li>Needle sharing: </li>
+                    <li>Needle exchange program: </li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+        <li>TATTOOS: </li>
+        <li>PIERCINGS: </li>
+      </ol>
+      <h4>Menstrual History (if applicable)</h4>
+      <ul>
+        <li>Menarche: </li>
+        <li>Cycle: </li>
+        <li>LMP: </li>
+        <li>Menopause: </li>
+      </ul>
+      <h4>Travel History</h4>
+      <ul>
+        <li>Recent travel: </li>
+        <li>Endemic areas: </li>
+      </ul>
+      <h4>Occupational History</h4>
+      <ul>
+        <li>Current occupation: </li>
+        <li>Exposure to hazards: </li>
+      </ul>
+      <h4>Living Conditions</h4>
+      <ul>
+        <li>Type of residence: </li>
+        <li>Sanitation: </li>
+        <li>Water supply: </li>
+      </ul>
+      <h4>Habits</h4>
+      <ul>
+        <li>Smoking: </li>
+        <li>Alcohol: </li>
+        <li>Substance use: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>FAMILY HISTORY</h3>
+      <ul>
+        <li>Similar complaints: </li>
+        <li>Diabetes Mellitus: </li>
+        <li>Hypertension: </li>
+        <li>Asthma</li>
+        <li>COPD: </li>
+        <li>Bleeding disorders: </li>
+        <li>Malignancies: </li>
+        <li>Cardiovascular diseases: </li>
+        <li>Neurological disorders: </li>
+        <li>Others: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>MENTAL STATUS</h3>
+      <ul>
+        <li>Conscious: </li>
+        <li>Coherent: </li>
+        <li>Cooperative: </li>
+        <li>Comfortable: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>ANTHROPOMETRY</h3>
+      <ul>
+        <li>Height: </li>
+        <li>Weight: </li>
+        <li>BMI: </li>
+        <li>Built</li>
+        <ul>
+          <li>Frame: </li>
+          <li>Muscle mass: </li>
+          <li>Skin fold thickness: </li>
+        </ul>
+        <li>Gait</li>
+        <ul>
+          <li>Type: </li>
+          <li>Stability: </li>
+        </ul>
+        <li>Nourished</li>
+      </ul>
+      <ul>
+        <ul>
+        </ul>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>SYSTEMIC EXAMINATION</h3>
+      <ol start="1">
+        <li>PALLOR</li>
+        <ol>
+          <li>Site: </li>
+          <li>Degree: </li>
+        </ol>
+        <li>ICTERUS</li>
+        <ol>
+          <li><br>
+          </li>
+        </ol>
+        <li>CYANOSIS</li>
+        <ul>
+          <li>Type: </li>
+          <li>Site: </li>
+          <li>Degree: </li>
+        </ul>
+        <li>CLUBBING</li>
+        <ul>
+          <li>Grade: </li>
+          <li>Uni/Bilateral: </li>
+        </ul>
+        <li>KYPHOSIS</li>
+        <ul>
+          <li>Site: </li>
+          <li>Degree: </li>
+        </ul>
+        <li>Scoliosis</li>
+        <ol>
+          <li><br>
+          </li>
+        </ol>
+        <ul>
+        </ul>
+        <li>PEDAL EDEMA</li>
+        <ul>
+          <li>Grade: </li>
+          <li>Pitting/Non-pitting: </li>
+          <li>Uni/Bilateral: </li>
+        </ul>
+        <li>LYMPHADENOPATHY</li>
+        <ul>
+          <li>Site: </li>
+          <li>Size: </li>
+          <li>Consistency: </li>
+          <li>Tenderness: </li>
+          <li>Mobility: </li>
+          <li>Matted/Discrete: </li>
+        </ul>
+        <li>NUTRITIONAL STATUS</li>
+        <ul>
+          <li>BMI: </li>
+          <li>Weight loss: </li>
+          <li>Muscle wasting: </li>
+        </ul>
+        <li>DECUBITUS</li>
+        <ul>
+          <li>Type: </li>
+        </ul>
+        <li>FACIES</li>
+        <ul>
+          <li>Description: </li>
+        </ul>
+        <li>NECK VEINS</li>
+        <ul>
+          <li>JVP: </li>
+          <li>Pulsations: </li>
+        </ul>
+        <li>THYROID</li>
+        <ul>
+          <li>Size: </li>
+          <li>Consistency: </li>
+          <li>Nodules: </li>
+          <li>Bruit: </li>
+        </ul>
+        <li>BREAST</li>
+        <ul>
+          <li>Inspection: </li>
+          <li>Palpation: </li>
+          <li>Nipple: </li>
+        </ul>
+        <li>HANDS</li>
+        <ul>
+          <li>Inspection: </li>
+          <li>Temperature: </li>
+          <li>Capillary refill: </li>
+        </ul>
+        <li>NAILS</li>
+        <ul>
+          <li>Color: </li>
+          <li>Shape: </li>
+          <li>Changes: </li>
+        </ul>
+        <li>SKIN</li>
+        <ul>
+          <li>Color: </li>
+          <li>Texture: </li>
+          <li>Rashes: </li>
+          <li>Scars: </li>
+        </ul>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>HEAD TO TOE EXAMINATION</h3>
+      <ol>
+        <li>Hair</li>
+        <ul>
+          <li>Texture: </li>
+          <li>Distribution: </li>
+          <li>Loss: </li>
+        </ul>
+        <li>Face</li>
+        <ul>
+          <li>Eyebrows: </li>
+          <li>Frowning: </li>
+          <li>Eyes: </li>
+          <li>Parotid: </li>
+        </ul>
+        <li>Neck Swelling: </li>
+        <li>Salivation: </li>
+        <li>Shoulders</li>
+        <ul>
+          <li>Drooping: </li>
+          <li>Symmetry: </li>
+        </ul>
+        <li>Breasts</li>
+        <ul>
+          <li>Gynecomastia: </li>
+          <li>Nipples: </li>
+        </ul>
+        <li>Obvious swellings</li>
+        <li>Genetails</li>
+        <ol>
+          <li>Hernia</li>
+          <li>Hydrocele</li>
+        </ol>
+        <ul>
+        </ul>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>VITAL SIGNS</h3>
+      <ul>
+        <li>Temperature: </li>
+        <li>Pulse: </li>
+        <li>Blood Pressure: </li>
+        <li>Respiratory Rate: </li>
+        <li>SpO<sub>2</sub>: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>Systemic/ LOCAL EXAMINATION</h3>
+      <ol>
+        <li>Inspection
+          <ul>
+            <li>Site: </li>
+            <li>Size: </li>
+            <li>Shape: </li>
+            <li>Skin changes: </li>
+            <li>Visible pulsations: </li>
+            <li>Visible peristalsis: </li>
+          </ul>
+        </li>
+        <li>Palpation
+          <ul>
+            <li>Tenderness: </li>
+            <li>Temperature: </li>
+            <li>Consistency: </li>
+            <li>Mobility: </li>
+            <li>Pulsatility: </li>
+            <li>Fluctuation: </li>
+          </ul>
+        </li>
+        <li>Percussion
+          <ul>
+            <li>Dullness: </li>
+            <li>Resonance: </li>
+            <li>Shifting dullness: </li>
+            <li>Fluid thrill: </li>
+          </ul>
+        </li>
+        <li>Auscultation
+          <ul>
+            <li>Bowel sounds: </li>
+            <li>Bruits: </li>
+            <li>Friction rub: </li>
+            <li>Succession splash: </li>
+          </ul>
+        </li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>DIAGNOSIS</h3>
+      <ol>
+        <li>Anatomical: </li>
+        <li>Etiological: </li>
+        <li>Pathological: </li>
+        <li>Clinical: </li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>INVESTIGATIONS</h3>
+      <h4><pre>To Confirm Diagnosis</pre></h4>
+      <ul>
+        <ul>
+        </ul>
+        <li>Blood tests: </li>
+        <ul>
+        </ul>
+        <li>Imaging: </li>
+        <ul>
+        </ul>
+        <li>Biopsy: </li>
+        <ul>
+        </ul>
+        <li>Other: </li>
+        <ul>
+        </ul>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>MANAGEMENT PLAN</h3>
+      <h4><pre>Urgency</pre></h4>
+      <ul>
+        <ul>
+          <li>Urgent Admission: </li>
+          <li>Urgent Referral (2 weeks): </li>
+          <li>Routine Referral: </li>
+          <li>Handling In-House: </li>
+        </ul>
+      </ul>
+      <h4>Patient-Specific Plan</h4>
+      <ol>
+        <li>Initial Investigations
+          <ul>
+            <li>Blood work: </li>
+            <li>Imaging: </li>
+            <li>Other: </li>
+          </ul>
+        </li>
+        <li>Patient Communication
+          <ul>
+            <li><b>ICE </b>(Ideas, Concerns, Expectations): </li>
+            <li>Diagnosis disclosure: </li>
+            <li>Explanation of findings: </li>
+          </ul>
+        </li>
+        <li>Further Investigations
+          <ul>
+            <li>Specialized tests: </li>
+            <li>Referrals: </li>
+          </ul>
+        </li>
+        <li>Treatment Plan
+          <ul>
+            <li>Symptomatic treatment: </li>
+            <li>Specific treatment: </li>
+            <li>Non-Medical: </li>
+            <li>Medical/</li>
+            <li>Surgical</li>
+            <li>Admission required: Yes/No</li>
+          </ul>
+        </li>
+        <li>Follow Up
+          <ul>
+            <li>Frequency: </li>
+            <li>Specialist referrals: </li>
+            <li>Allied health:
+              <ul>
+                <li>Occupational Therapist: </li>
+                <li>Physio Therapist: </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>Patient Education
+          <ul>
+            <li>Warning Signs/Red Flags: </li>
+            <li>Educational materials provided: </li>
+            <ul>
+              <li>Leaflets/</li>
+              <li>Pamphlets</li>
+            </ul>
+            <li>Useful resources/links: </li>
+          </ul>
+        </li>
+      </ol>
+    </div>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

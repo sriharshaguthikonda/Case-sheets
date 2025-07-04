@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>UNIVERSAL COLLEAGUE CONVERSATION CASE SHEET</title>
+    <link rel="stylesheet" href="Case_sheet_styles.css">
+  </head>
+  <body>
+    <h3> UNIVERSAL COLLEAGUE CONVERSATION CASE SHEET </h3>
+    <h2>INTRODUCTIONS</h2>
+    <ul>
+      <li class="point"> <span class="description">greet</span> <span class="verbal">"Hi
+          there, Dr.Reba, how are you?"</span></li>
+      <li class="point"><span class="verbal">I am good ...thank you for asking!
+        </span></li>
+      <li class="point"> <span class="description">Intro yourself and roles</span>
+        <span class="verbal">"Hi, I&rsquo;m Dr. [Your Name], you might have seen
+          around."</span> </li>
+      <li class="point"> <span class="description">Thank you</span> <span class="verbal">"Thank
+          you for meeting me on short notice."</span> </li>
+      <li class="point"> <span class="description">build rapport</span> <span
+          class="verbal">"How&rsquo;s your day going so far?"</span> <span class="verbal">"I&rsquo;m
+          glad we could have this chat to discuss something important."</span> </li>
+      <li class="point"> <span class="description">Introduce purpose</span> <span
+          class="verbal">"Do you have any idea what I&rsquo;d like to talk about
+          today?"</span> <span class="verbal">"I&rsquo;ve noticed something
+          that concerns me, and I want to discuss it to support you."</span> </li>
+    </ul>
+    <h2>SCENARIO DESCRIPTION</h2>
+    <ul>
+      <li class="point"> <span class="description">Issue, context, witnesses</span>
+        <span class="verbal">"I noticed [behavior, e.g., you seemed under the
+          influence during the ward round]."</span> <span class="verbal">"Others,
+          like [nurse/team], also observed this. Can you share what happened?"</span>
+      </li>
+    </ul>
+    <h2>CONVERSATION FRAMEWORK (SPIRES)</h2>
+    <ul>
+      <li class="point"> <span class="description"><strong>S: Seek Information</strong>
+          - Behavior details, frequency, reasons</span> <span class="verbal">"Can
+          you tell me more about [behavior, e.g., why you were late]?"</span> <span
+          class="verbal">"How often has this happened, and is there a reason
+          behind it?"</span> </li>
+      <ol>
+        <li class="point"> <span class="description">Behavior </span> <span class="verbal">"Have
+            you used any <em>substances</em>, like alcohol or drugs, recently?"</span>
+          <span class="verbal">"How <em>much </em>and <em>how often </em>do
+            you use them?"</span></li>
+        <li class="point"><span class="verbal">Social media</span></li>
+        <li class="point"><span class="verbal">when, </span></li>
+        <li class="point"><span class="verbal">what platform?</span></li>
+        <li class="point"><span class="verbal">visibility setting?</span></li>
+        <li class="point"><span class="verbal">viralness?</span></li>
+        <li class="point"> <span class="description">Mental health check</span>
+          <span class="verbal">"How&rsquo;s your mood been lately? Any stress or
+            challenges?"</span> <span class="verbal">"Have you had thoughts of
+            harming yourself?"</span> </li>
+        <li class="point"> <span class="description">Personal circumstances</span>
+          <span class="verbal">"Who do you live with, and how&rsquo;s your
+            support system?"</span> <span class="verbal">"Are things okay at
+            home or with friends?"</span> </li>
+      </ol>
+      <li class="point"> <span class="description"><strong>P: Patient Safety</strong></span>
+      </li>
+      <ol>
+        <li class="point"> <span class="description">Impact on work </span> <span
+            class="verbal">"Could this [behavior] affect your work, like
+            decision-making?"</span> </li>
+        <li class="point"> <span class="description">Actions taken </span> <span
+            class="verbal">"Have you prescribed meds or made decisions today?
+            I&rsquo;ll need to review them."</span> </li>
+      </ol>
+      <li class="point"> <span class="description"><strong>I: Insight</strong></span>
+      </li>
+      <ol>
+        <li class="point"> <span class="description">Awareness </span> <span
+            class="verbal">"Do you think this [behavior] might impact patient
+            care or your role?"</span> </li>
+        <li class="point"> <span class="description">Willingness to change </span>
+          <span class="verbal">"Have you considered cutting down or addressing
+            this issue?"</span> </li>
+      </ol>
+      <li class="point"> <span class="description"><strong>R: Red Flags</strong></span>
+        <span class="verbal">"I need to check for serious concerns to keep
+          everyone safe."</span> </li>
+      <ol>
+        <li class="point"> <span class="description">Substance use at work</span>
+          <span class="verbal">"Have you used any substances before or during
+            work hours?"</span> </li>
+        <li class="point"> <span class="description">Confidentiality breach</span>
+          <span class="verbal">"Have you shared patient info, like on social
+            media, without consent?"</span> </li>
+        <li class="point"> <span class="description">Patient safety incidents</span>
+          <span class="verbal">"Are you aware of any incidents caused by
+            [behavior]?"</span> </li>
+      </ol>
+      <li class="point"> <span class="description"><strong>E: Escalate</strong></span>
+      </li>
+      <ol>
+        <li class="point"> <span class="description">Senior involvement </span>
+          <span class="verbal">"I&rsquo;ll need to inform a senior to ensure we
+            handle this professionally."</span> </li>
+        <li class="point"> <span class="description">Consequences </span> <span
+            class="verbal">"You may need to speak with a manager or take a test,
+            depending on the issue."</span> </li>
+      </ol>
+      <li class="point"> <span class="description"><strong>S: Support</strong></span>
+      </li>
+      <ol>
+        <li class="point"> <span class="description">Resources</span> <span class="verbal">"You
+            can talk to your GP or supervisor for confidential help."</span> </li>
+        <li class="point"> <span class="description">Follow-up</span> <span class="verbal">"I&rsquo;m
+            here to support you, and we&rsquo;ll check in again soon."</span> </li>
+      </ol>
+      <ol>
+        <li class="point"> <span class="description">Immediate actions</span> <span
+            class="verbal">"For now, please avoid clinical duties until we
+            resolve this."</span> <span class="verbal">"How will you get home
+            safely today?"</span> </li>
+        <li class="point"> <span class="description">Long-term support</span> <span
+            class="verbal">"Consider a time-management course or counseling if
+            needed."</span> <span class="verbal">"Let&rsquo;s schedule a
+            follow-up to see how you&rsquo;re doing."</span> </li>
+      </ol>
+    </ul>
+    <h2>NOTES</h2>
+    <ul>
+      <li class="point"> <span class="description">Key outcomes, commitments</span>
+        <span class="verbal">"Let&rsquo;s summarize what we&rsquo;ve agreed on."</span>
+        <span class="verbal">"I&rsquo;ll document this and share next steps with
+          you."</span> </li>
+    </ul>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+  </body>
+</html>

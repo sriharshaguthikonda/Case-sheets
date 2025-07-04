@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>DERMATOLOGY CASE SHEET</title>
+    <style>
+      /* A4 Paper Size */
+      @page {
+        size: A4;
+        margin: 2cm;
+      }
+      
+      body {
+        font-size: 8pt;
+        line-height: 1.4;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 1cm;
+        box-sizing: border-box;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      /* Lists */
+      ol, ul {
+        margin-left: 10%;
+        padding-left: 0;
+      }
+      
+      ul {
+        list-style-type: lower-alpha;
+      }
+      
+      ol {
+        list-style-type: decimal;
+      }
+      
+      .section {
+        margin-bottom: 15px;
+      }
+      
+      h3 {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      h4 {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        color: #444;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      p {
+        margin: 5px 0;
+      }
+      
+      .indent-1 {
+        margin-left: 2em;
+      }
+      
+      .indent-2 {
+        margin-left: 4em;
+      }
+
+      u {
+        color: #2100fd;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      b {
+        color: #fd0054;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      em {
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+        color: #08cca2;
+      }
+
+      strong {
+        color: #09a8cc;
+        font-weight: bold;
+        font-style: normal;
+        text-decoration: none;
+      }
+      .video-container {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 2/ 1; /* Width:Height = 1:2 */
+      }
+      
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      
+      /* Collapsible sections */
+      details {
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px 10px;
+      }
+      
+      summary {
+        font-weight: bold;
+        cursor: pointer;
+        padding: 5px;
+        outline: none;
+      }
+      
+      summary:hover {
+        background-color: #f5f5f5;
+      }
+      
+      .derma {
+        font-style: italic;
+        color: #666;
+        margin: 5px 0 10px 0;
+      }
+      
+      .section-title {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2> <a href="https://youtu.be/3omQxhgD9T0">Study genie video - Aspire
+        Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024</a></h2>
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/3omQxhgD9T0"
+
+        title="Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"
+
+        width="100%"> </iframe> </div>
+    <div class="section">
+      <h3>PATIENT INFORMATION</h3>
+      <ul>
+        <li>Informant: </li>
+        <li>NAME: </li>
+        <li>AGE: </li>
+        <li>SEX: </li>
+        <li>EDUCATION: </li>
+        <li>OCCUPATION: </li>
+        <li>RESIDENCE: </li>
+        <li>RELIGION: </li>
+        <li>T/D: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3 class="section-title">CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
+      <ol>
+        <li>Skin lesion/rash</li>
+        <li>Lymph node swelling</li>
+        <li>Itching</li>
+        <li>Pain</li>
+      </ol>
+      
+      <h4>ELABORATION OF CHIEF COMPLAINTS</h4>
+      <p class="derma">(Click on each complaint to expand and provide detailed elaboration)</p>
+      
+      <details>
+        <summary><strong>1. COMPLAINT: SKIN LESION/RASH</strong></summary>
+        <ol>
+
+
+
+
+
+
+
+
+
+
+
+        </ol>
+
+        <h4>Skin Lesion/Rash</h4>
+
+        <ul>
+          <li>S: Site (Location of skin lesion/rash)</li>
+          <ul>
+            <li> <strong>Scalp</strong>
+              <ul>
+                <li>Seborrheic dermatitis</li>
+                <li>Psoriasis</li>
+                <li>Tinea capitis</li>
+                <li>Folliculitis</li>
+                <li>Alopecia areata</li>
+              </ul>
+            </li>
+            <li> <strong>Face</strong>
+              <ul>
+                <li>Acne vulgaris</li>
+                <li>Rosacea</li>
+                <li>Perioral dermatitis</li>
+                <li>Melasma</li>
+                <li>Cold sores (Herpes simplex)</li>
+              </ul>
+            </li>
+            <li> <strong>Lips</strong> </li>
+            <ul>
+              <li>Cold sores (Herpes simplex)</li>
+              <li>Angular cheilitis</li>
+              <li>Actinic cheilitis</li>
+              <li>Contact dermatitis</li>
+              <li>Impetigo</li>
+            </ul>
+            <li> <strong>Neck</strong>
+              <ul>
+                <li>Lichen simplex chronicus</li>
+                <li>Atopic dermatitis</li>
+                <li>Psoriasis</li>
+                <li>Contact dermatitis</li>
+              </ul>
+            </li>
+            <li> <strong>Chest</strong>
+              <ul>
+                <li>Acne vulgaris</li>
+                <li>Shingles (Herpes zoster)</li>
+                <li>Pityriasis rosea</li>
+                <li>Contact dermatitis</li>
+                <li>Psoriasis</li>
+              </ul>
+            </li>
+            <li> <strong>Back</strong>
+              <ul>
+                <li>Acne vulgaris</li>
+                <li>Psoriasis</li>
+                <li>Folliculitis</li>
+                <li>Shingles (Herpes zoster)</li>
+              </ul>
+            </li>
+            <li> <strong>Abdomen</strong>
+              <ul>
+                <li>Pityriasis rosea</li>
+                <li>Psoriasis</li>
+                <li>Contact dermatitis</li>
+                <li>Shingles (Herpes zoster)</li>
+              </ul>
+            </li>
+            <li> <strong>Groin</strong>
+              <ul>
+                <li>Tinea cruris (jock itch)</li>
+                <li>Intertrigo</li>
+                <li>Inverse psoriasis</li>
+                <li>Hidradenitis suppurativa</li>
+                <li>Candidiasis</li>
+              </ul>
+            </li>
+            <li> <strong>Genital Area</strong>
+              <ul>
+                <li>Balanitis</li>
+                <li>Genital herpes</li>
+                <li>Psoriasis</li>
+                <li>Scabies</li>
+                <li>Lichen sclerosus</li>
+              </ul>
+            </li>
+            <li> <strong>Buttocks</strong>
+              <ul>
+                <li>Hidradenitis suppurativa</li>
+                <li>Psoriasis</li>
+                <li>Folliculitis</li>
+                <li>Intertrigo</li>
+              </ul>
+            </li>
+            <li> <strong>Hands</strong>
+              <ul>
+                <li>Contact dermatitis</li>
+                <li>Dyshidrotic eczema</li>
+                <li>Psoriasis</li>
+                <li>Scabies</li>
+                <li>Warts</li>
+              </ul>
+            </li>
+            <li> <strong>Feet</strong>
+              <ul>
+                <li>Athlete's foot (Tinea pedis)</li>
+                <li>Plantar warts</li>
+                <li>Psoriasis</li>
+                <li>Calluses</li>
+                <li>Dyshidrotic eczema</li>
+              </ul>
+            </li>
+            <li> <strong>Nails</strong>
+              <ul>
+                <li>Onychomycosis</li>
+                <li>Psoriasis</li>
+                <li>Lichen planus</li>
+                <li>Paronychia</li>
+                <li>Trachyonychia</li>
+              </ul>
+            </li>
+            <li> <strong></strong><br>
+            </li>
+          </ul>
+          <li>O: Onset (rapid or chronic)</li>
+          <li>D: Duration (Character and Type, e.g., macule, papule, vesicle)</li>
+          <li>A: Aggravating factors (Accompanying symptoms)</li>
+          <ul>
+            <li>Allergens</li>
+            <li>time of day</li>
+            <li>place of stay</li>
+            <li>bracelets</li>
+            <li>rings</li>
+            <li>cloth washing</li>
+            <li>sun light</li>
+            <li>water</li>
+          </ul>
+        </ul>
+
+        <p><br>
+        </p>
+
+        <ul>
+          <ul>
+          </ul>
+        </ul>
+
+        <ul>
+          <ul>
+          </ul>
+          <li>C: Character/Type </li>
+          <ul>
+            <li>papule</li>
+            <li>Macule</li>
+            <li>Papule</li>
+            <li>Vesicle</li>
+            <li>Pustule</li>
+            <li>Nodule</li>
+            <li>Cyst</li>
+            <li>Wheal</li>
+            <li>Ulcus</li>
+          </ul>
+          <li>R: Radiation (What improves it)</li>
+          <li>A: Associated symptoms (What worsens it)</li>
+          <ul>
+            <li>Discharge</li>
+            <li>itching</li>
+            <li>Fever/ Flu</li>
+            <li>Headache</li>
+            <li>Fatigue</li>
+            <li>Body aches</li>
+            <li>R/o Cancer</li>
+            <li>Weight loss</li>
+            <li>Loss of appetite</li>
+            <li>Anemia S/s</li>
+            <li>Any lumps and</li>
+            <li>bumps</li>
+          </ul>
+          <li>P: Progression (How it's changed)</li>
+          <ul>
+            <li>site</li>
+            <li>size</li>
+            <li>shape</li>
+            <li>colour</li>
+            <li><br>
+            </li>
+          </ul>
+          <li>P: pattern</li>
+          <ul>
+            <li>Flat</li>
+            <li>Raised</li>
+          </ul>
+          <li>R: R - for future expansions</li>
+          <li>E: Effect on life (Radiation, spread)</li>
+          <li>S: scale of zero to 10</li>
+        </ul>
+
+      </details>
+      
+      <details>
+        <summary><strong>2. COMPLAINT: LYMPH NODE SWELLING</strong></summary>
+        <p class="derma">(Follow similar structure as above for lymph node swelling)</p>
+        <h4>Lymph Node Swelling</h4>
+
+        <ul>
+          <li><strong>Site:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Location of lymph node swelling
+            <ul>
+              <li>Localized or generalized</li>
+              <li>Unilateral or bilateral</li>
+              <li>Specific groups involved (cervical, axillary, inguinal, etc.)</li>
+            </ul>
+          </li>
+          <li><strong>Onset:</strong>
+            <ul>
+              <li>Gradual (chronic infections, malignancies)</li>
+              <li>Sudden (acute infections, trauma)</li>
+            </ul>
+          </li>
+          <li><strong>Duration:</strong>
+            <ul>
+              <li>Short duration with pain = Inflammatory</li>
+              <li>Intermediate duration without pain = Malignant</li>
+              <li>Long duration with mild pain = Chronic inflammation</li>
+              <li>Long duration without pain = Benign</li>
+            </ul>
+          </li>
+          <li><strong>Progression:</strong>
+            <ul>
+              <li>Rapidly progressive (inflammatory, acute infections)</li>
+              <li>Slowly progressive (malignancies, chronic infections)</li>
+              <li>Static (benign conditions)</li>
+              <li>Regression (with or without treatment)</li>
+            </ul>
+          </li>
+          <li><strong>Associated Symptoms:</strong>
+            <ul>
+              <li>Constitutional: Fever, night sweats, weight loss, fatigue</li>
+              <li>Skin changes: Rash, ulceration, erythema, scaling</li>
+              <li>Infection: Recent skin infections, dental infections, STIs</li>
+              <li>Malignancy: Unexplained weight loss, night sweats, persistent
+                fever</li>
+              <li>Autoimmune: Joint pain, rash, photosensitivity</li>
+            </ul>
+          </li>
+          <li><strong>Secondary Changes:</strong>
+            <ul>
+              <li>Skin changes over the node: Erythema, warmth, ulceration</li>
+              <li>Fixation to skin or deeper structures</li>
+              <li>Sinus or fistula formation</li>
+            </ul>
+          </li>
+          <li><strong>Recurrence:</strong>
+            <ul>
+              <li>History of previous lymph node swelling</li>
+              <li>Response to previous treatments</li>
+              <li>Recurrence after treatment</li>
+            </ul>
+          </li>
+          <li><strong>Systemic Review:</strong>
+            <ul>
+              <li>Fever, chills, night sweats</li>
+              <li>Weight loss, loss of appetite</li>
+              <li>Fatigue, malaise</li>
+              <li>Bone pain, joint pain</li>
+              <li>Abdominal pain or fullness (splenomegaly)</li>
+            </ul>
+          </li>
+        </ul>
+  
+      </details>
+      
+      <details>
+        <summary><strong>3. COMPLAINT: ITCHING</strong></summary>
+        <p class="derma">(Follow similar structure as above for itching)</p>
+      </details>
+      
+      <details>
+        <summary><strong>4. COMPLAINT: PAIN</strong></summary>
+        <p class="derma">(Follow similar structure as above for pain)</p>
+      </details>
+    </div>
+    
+    <div class="section">
+      <h3 class="section-title">HISTORY OF PRESENT ILLNESS</h3>
+      <h4><br>
+      </h4>
+    </div>
+    <div class="section">
+      <h4>Treatment History</h4>
+      <ul>
+        <li>Current topical medications: </li>
+        <ul>
+          <li>from OTC</li>
+          <li>from Friends etc</li>
+        </ul>
+        <li>Current systemic medications: </li>
+        <li>Previous treatments: </li>
+        <li>Response to treatment: </li>
+      </ul>
+      <h4><br>
+      </h4>
+      <h4>Drug History</h4>
+      <ol>
+        <li>&nbsp;&nbsp; Lithium</li>
+        <ol>
+          <li>Psorasis</li>
+        </ol>
+        <li>Drug induced SLE</li>
+      </ol>
+      <p></p>
+      <h4>Allergy h/o</h4>
+      <ul>
+        <li>Drug allergies: </li>
+        <li>Contact allergies: </li>
+        <li>Food allergies: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>PAST MEDICAL HISTORY</h3>
+      <ul>
+        <li>Diabetes: </li>
+        <li>Hypertension: </li>
+        <li>Cardiac disease: </li>
+        <li>Asthma</li>
+      </ul>
+      <ul>
+        <ul>
+          <li>Eczema</li>
+        </ul>
+      </ul>
+      <ul>
+        <li>Respiratory disease: </li>
+        <li>Renal disease: </li>
+        <li>Hepatic disease: </li>
+        <li>Thyroid disorder: </li>
+        <li>Other chronic illnesses: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>FAMILY HISTORY</h3>
+      <ul>
+        <li>Similar complaints</li>
+        <li>Skin conditions: </li>
+        <li>Autoimmune diseases: </li>
+        <li>Malignancies: </li>
+        <li>Atopy: </li>
+        <li>Asthma</li>
+        <li>Family History Details:
+          <ol>
+            <li>SIMILAR COMPLAINTS</li>
+            <li>DM (Diabetes Mellitus)</li>
+            <li>HTN (Hypertension)</li>
+            <li>TB (Tuberculosis)</li>
+            <li>BLEEDING DISORDERS</li>
+          </ol>
+        </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>OCCUPATIONAL H/O</h3>
+      <ul>
+        <li>Occupation: </li>
+        <ul>
+          <li>Forest</li>
+          <ul>
+            <li>lyme disease</li>
+          </ul>
+          <li>Farmer</li>
+        </ul>
+        <li>Occupational exposures: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>TRAVEL H/O</h3>
+      <ul>
+        <li>Location: </li>
+        <ul>
+          <li>forest</li>
+        </ul>
+        <li>Duration: </li>
+        <li>Vaccinations: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>PERSONAL AND SOCIAL HISTORY</h3>
+      <h4>PERSONAL HISTORY</h4>
+      <ol>
+        <li>APPETITE: </li>
+        <li>DIET
+          <ol type="A">
+            <li>Red meat: </li>
+            <li>Processed meat: </li>
+            <li>Fibre: </li>
+            <li>Fluid intake: </li>
+            <li>Have you been eating food outside?: </li>
+          </ol>
+        </li>
+        <li>DIGESTION: </li>
+        <li>MICTURITION: </li>
+        <li>BOWELS: </li>
+        <li>SLEEP DISTURBANCES: </li>
+        <li>HABITS:
+          <ol type="a">
+            <li>SMOKING (CHUTTA CANCER = of hard palate reverse cigar smoking)
+              <ol type="A">
+                <li>Have you smoked in the past?
+                  <ol>
+                    <li>He might have stopped!</li>
+                    <li>Then you ask above questions</li>
+                  </ol>
+                </li>
+                <li>Weed: </li>
+                <li>Vape: </li>
+              </ol>
+            </li>
+            <li>TOBACCO CHEWING (KHAINI CANCER = LIME + tobacco in gingivolabial
+              sulcus): </li>
+            <li>PAN: </li>
+            <li>ALCOHOL
+              <ol type="a">
+                <li>Dose: </li>
+                <li>Type: </li>
+                <li>Duration: </li>
+              </ol>
+            </li>
+            <li>SWIMMING: </li>
+            <li>Trekking</li>
+            <ol>
+              <ol>
+                <li>Lyme disease</li>
+              </ol>
+            </ol>
+          </ol>
+        </li>
+        <li>DRUGS
+          <ol type="a">
+            <li>Types: </li>
+            <li>Mode of use:
+              <ol type="A">
+                <li>Snorting: </li>
+                <li>Ingest: </li>
+                <li>Inject:
+                  <ol>
+                    <li>Needle sharing: </li>
+                    <li>Needle exchange program: </li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+        <li>TATTOOS: </li>
+        <li>PIERCINGS: </li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>SYSTEMIC REVIEW</h3>
+      <ul>
+        <li>Fever: </li>
+        <li>Weight loss: </li>
+        <li>Fatigue: </li>
+        <li>Joint pain/swelling: </li>
+        <li>Respiratory symptoms: </li>
+        <li>Gastrointestinal symptoms: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>DERMATOLOGICAL EXAMINATION</h3>
+      <h4>Primary Lesions</h4>
+      <ul>
+        <li>Type: </li>
+        <li>Size: </li>
+        <li>Shape: </li>
+        <li>Color: </li>
+        <li>raised:</li>
+        <li>Number:</li>
+        <li>Distribution: </li>
+      </ul>
+      <h4>Secondary Changes</h4>
+      <ul>
+        <li>Scale: </li>
+        <li>Crust: </li>
+        <li>Erosion: </li>
+        <li>Ulcer: </li>
+        <li>Scar: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>LYMPH NODE EXAMINATION</h3>
+      <ul>
+        <li>Site: </li>
+        <li>Size: </li>
+        <li>Number: </li>
+        <li>Consistency: </li>
+        <li>Tenderness: </li>
+        <li>Mobility: </li>
+        <li>Matted: </li>
+        <li>Overlying skin: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>DIAGNOSIS</h3>
+      <ul>
+      </ul>
+      <ul>
+        <li>Primary diagnosis:&nbsp; </li>
+        <li>or </li>
+        <li>Differential diagnoses: </li>
+      </ul>
+      <p><br>
+      </p>
+      <ul>
+        <li>Anatomical: </li>
+        <li>Etiological: </li>
+        <li>Pathological: </li>
+        <li>Clinical: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>INVESTIGATIONS</h3>
+      <h4>To Confirm Diagnosis</h4>
+      <ul>
+        <li>Blood tests: </li>
+        <li>Imaging: </li>
+        <li>Biopsy: </li>
+        <ul>
+          <li>Excisional biopsy - we dont sample biopsy</li>
+          <ul>
+            <li>Mole suspect</li>
+            <li>BCC</li>
+            <li>SCC</li>
+          </ul>
+          <li>if positive then wide excision</li>
+        </ul>
+        <li>Other: </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>MANAGEMENT PLAN</h3>
+      <h4>Urgency</h4>
+      <ul>
+        <li>Urgent Admission: </li>
+        <li>Urgent Referral (2 weeks): </li>
+        <li>Routine Referral: </li>
+        <li>Handling In-House: </li>
+      </ul>
+      <h4>Patient-Specific Plan</h4>
+      <ul>
+        <li>Initial Investigations
+          <ul>
+            <li>Blood work: </li>
+            <li>Imaging: </li>
+            <li>Other: </li>
+          </ul>
+        </li>
+        <li>Patient Communication
+          <ul>
+            <li><b>ICE </b>(Ideas, Concerns, Expectations): </li>
+            <li>Diagnosis disclosure: </li>
+            <li>Explanation of findings: </li>
+          </ul>
+        </li>
+        <li>Further Investigations
+          <ul>
+            <li>Specialized tests: </li>
+            <li>Referrals: </li>
+          </ul>
+        </li>
+        <li>Treatment Plan
+          <ul>
+            <li>Symptomatic treatment: </li>
+            <li>Specific treatment: </li>
+            <li>Non-Medical: </li>
+            <li>
+              <h4>Medical</h4>
+            </li>
+            <ul>
+              <li>Topical: </li>
+              <ul>
+                <li>Mouzterizers</li>
+                <ul>
+                  <ul>
+                    <li>simple eczema</li>
+                  </ul>
+                </ul>
+                <li>steroids</li>
+                <ul>
+                  <ul>
+                    <li>Severe eczema</li>
+                  </ul>
+                </ul>
+                <li>Retenoids</li>
+                <ul>
+                  <ul>
+                    <li>acne</li>
+                  </ul>
+                </ul>
+                <li>Ivermectin</li>
+                <ul>
+                  <ul>
+                    <li>Scabies</li>
+                  </ul>
+                </ul>
+              </ul>
+              <li>Systemic: </li>
+              <li>Other:</li>
+            </ul>
+            <li>Surgical </li>
+          </ul>
+        </li>
+        <ul>
+          <ul>
+            <li>Procedure: </li>
+            <ul>
+              <li>cant do simple cosmetic procedures</li>
+              <li>if lesions causes other problem then Sgx</li>
+            </ul>
+            <li>Timing: </li>
+          </ul>
+        </ul>
+        <li>Follow Up
+          <ul>
+            <li>Frequency: </li>
+            <li>Monitoring</li>
+            <li>Specialist referrals: </li>
+            <li>Allied health:
+              <ul>
+                <li>Occupational Therapist: </li>
+                <li>Physio Therapist: </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>Patient Education
+          <ul>
+            <li>Warning Signs/Red Flags: </li>
+            <ul>
+              <ul>
+                <ul>
+                  <li>mole</li>
+                  <ul>
+                    <li><br>
+                    </li>
+                  </ul>
+                </ul>
+              </ul>
+            </ul>
+            <li>Educational materials provided:
+              <ul>
+                <li>Leaflets/</li>
+                <li>Pamphlets</li>
+              </ul>
+            </li>
+            <li>Useful resources/links: </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <br>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

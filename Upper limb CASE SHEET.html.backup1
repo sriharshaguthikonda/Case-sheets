@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Upper Limb CASE SHEET</title>
+    <style>
+      body {
+        font-size: 8pt;
+        line-height: 1.4;
+        padding: 0 1cm;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      /* Lists */
+      ol, ul {
+        margin-left: 10%;
+        padding-left: 0;
+      }
+      
+      ul {
+        list-style-type: lower-alpha;
+      }
+      
+      ol {
+        list-style-type: decimal;
+      }
+      
+      .section {
+        margin-bottom: 15px;
+      }
+      
+      h3 {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      h4 {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        color: #444;
+        font-family: 'Times New Roman', times, serif;
+      }
+
+
+      u {
+        color: #2100fd;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      b {
+        color: #fd0054;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      em {
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+        color: #08cca2;
+      }
+
+      strong {
+        color: #09a8cc;
+        font-weight: bold;
+        font-style: normal;
+        text-decoration: none;
+      }
+      .video-container {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 2/ 1; /* Width:Height = 1:2 */
+      }
+
+      td {
+        padding: 5px;
+        font-size: 8pt;
+      }
+      tr {
+        padding: 5px;
+        font-size: 8pt;
+      }
+
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      iframe {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>UPPER LIMB &amp; NECK EXAMINATION (Whiplash Injury Scenario)</h3>
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/p4GHGCM_aiM"
+
+        title="Comprehensive Upper Limb &amp; Neck Examination Guide | PLAB2/UKMLA"
+
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <p><em>Scenario: Patient (Samra, 23) presented after RTA (hit from behind at
+        traffic signal) with neck pain that started a few hours after the
+        accident. Task: Talk to patient, assess, discuss management.</em></p>
+    <h4>I. HISTORY TAKING (Key Points from Transcript)</h4>
+    <ol>
+      <li><strong>Presenting Complaint:</strong> Neck Pain
+        <ul>
+          <li><strong>Socrates for Pain:</strong>
+            <ul>
+              <li><strong>S</strong>ite: Neck area (patient may point).</li>
+              <li><strong>O</strong>nset: A few hours *after* the RTA
+                (suggestive of whiplash rather than immediate fracture).</li>
+              <li><strong>C</strong>haracter: Dull pain.</li>
+              <li><strong>R</strong>adiation: Patient reports no radiation.</li>
+              <li><strong>A</strong>ssociated Symptoms: Possible neck stiffness.</li>
+              <li><strong>T</strong>iming: Started this morning after last
+                night's accident.</li>
+              <li><strong>E</strong>xacerbating/Relieving: (To be explored)</li>
+              <li><strong>S</strong>everity: e.g., 5/10.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>Mechanism of Injury:</strong>
+        <ul>
+          <li>Car stationary at traffic signal, hit from the back. (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=152s"
+
+              class="timestamp">2:32</a>)</li>
+          <li>Leads to typical whiplash movement (forward then backward). (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=183s"
+
+              class="timestamp">3:03</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Initial Instruction to Patient:</strong>
+        <ul>
+          <li>"Please <strong>don't move your head and neck</strong> until
+            we've assessed further." (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=224s"
+
+              class="timestamp">3:44</a>) <em>(Crucial if cervical fracture not
+              yet ruled out).</em></li>
+        </ul>
+      </li>
+      <li><strong>Other RTA Related Questions:</strong>
+        <ul>
+          <li>Any other trauma or injuries from the accident? (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=283s"
+
+              class="timestamp">4:43</a>)</li>
+          <li>Nausea, vomiting? (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=287s"
+
+              class="timestamp">4:47</a>)</li>
+          <li>Headache? (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=289s"
+
+              class="timestamp">4:49</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Upper Limb Neurological Screening Questions (History):</strong>
+        <ul>
+          <li>Any numbness or tingling in the arms/upper limbs? (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=301s"
+
+              class="timestamp">5:01</a>) - Patient says No.</li>
+          <li>Any problems with power in the arms? Able to lift things properly?
+            (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=309s" class="timestamp">5:09</a>)
+            - Patient says Yes, able.</li>
+          <li><em>(Rationale: If history is negative, full Upper Limb Neuro exam
+              might be expedited or focused if time is short).</em></li>
+        </ul>
+      </li>
+      <li><strong>Past Medical History:</strong>
+        <ul>
+          <li>Any previous neck problems?</li>
+          <li>Any previous surgeries (especially neck/spine)? (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=362s"
+
+              class="timestamp">6:02</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Lifestyle History:</strong>
+        <ul>
+          <li>Smoking, alcohol, diet, physical activity - <em>Generally skip in
+              this acute trauma scenario to save time.</em> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=372s"
+
+              class="timestamp">6:12</a>)</li>
+        </ul>
+      </li>
+    </ol>
+   
+        
+        
+        
+        
+
+
+
+
+    <li><strong>Upper Limb Examination:</strong> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=472s"
+
+        class="timestamp">7:52</a>)
+      <ul>
+        <li><strong>Inspection:</strong> Quickly from front and back (scars,
+          swelling, wasting, asymmetry). (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=483s"
+
+            class="timestamp">8:03</a>)</li>
+        <li><strong>Palpation:</strong> Temperature, tenderness, pulses,
+          capillary refill time - <em>May be expedited or skipped if time is
+            very limited &amp; history suggests no UL issue.</em> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=39s"
+
+            class="timestamp">0:39</a>, <a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=508s"
+
+            class="timestamp">8:28</a>)</li>
+        <li><strong>Neurological Examination (Upper Limb):</strong>
+          <ul>
+            <li><em>Rationale for skipping/focusing: History questions about
+                numbness/tingling and power were negative. Examiner might state
+                findings are normal to save time.</em> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=516s"
+
+                class="timestamp">8:36</a>, <a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=501s"
+
+                class="timestamp">8:21</a>)</li>
+            <li>If proceeding:
+              <ul>
+                <li>Sensory: Fine touch, pain, vibration, proprioception (joint
+                  position sense). (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=58s"
+
+                    class="timestamp">0:58</a>)</li>
+                <li>Motor: Bulk, Tone, Power (shoulder, elbow, wrist, fingers),
+                  Reflexes. (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=66s"
+
+                    class="timestamp">1:06</a>)</li>
+              </ul>
+            </li>
+            <li><em>Likely finding if examiner prompts: "Upper limb examination
+                is normal."</em> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=509s"
+
+                class="timestamp">8:29</a>)</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <h4>II. EXAMINATION (Neck &amp; Upper Limb)</h4>
+
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/sEhVgHRObQ4" title="Upper limb exam by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864" frameborder="0" width="1520"> </iframe> </div>
+
+    <p><em>Preparation: Cotton wool, neuropin, reflex hammer, 128Hz tuning fork
+        (though sensory/reflexes may be expedited based on history).</em> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=26s" class="timestamp">0:26</a>)</p>
+
+    <h3>UPPER LIMB EXAMINATION (Whiplash/Brachial Plexus Context)</h3>
+
+    <h4>INSPECTION</h4>
+
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Area / Aspect</th>
+          <th>Observation Points (Video Time)</th>
+          <th>Finding Left</th>
+          <th>Finding Right</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>General Upper Limbs (Anterior/Posterior)</td>
+          <td>Redness, swelling, sign of injury, scar mark of previous surgery,
+            deformity, muscle wasting, muscle bulk. (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=233s" class="timestamp">3:53</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=248s" class="timestamp">4:08</a>) </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td>Video states patient's muscle bulk "used to be normal" and "no
+            deformity, no scar mark".</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4>PALPATION (Specifically for Tone in the video context for Upper Limbs)</h4>
+
+    <p><em>Note: The video primarily demonstrates tone assessment for the upper
+        limbs under "palpation." Tenderness palpation was shown for the neck.</em></p>
+
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Test</th>
+          <th>Finding Left</th>
+          <th>Finding Right</th>
+          <th>Notes (Video Time)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Tone</strong> (Assessed by passive movement at elbow and
+            wrist)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td>Patient asked to relax. Examiner performs passive
+            flexion/extension at elbow and wrist. (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=250s" class="timestamp">4:10</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=275s" class="timestamp">4:35</a>) </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4>NEUROLOGICAL EXAMINATION</h4>
+
+    <h3>Sensory System:</h3>
+
+    <p><em>Modalities: Fine Touch (Cotton Wool), Pain Touch (Neuro Pin/Sharp
+        object).</em></p>
+
+    <p><em>Key: N = Normal (Intact), R = Reduced, A = Absent. (Patient says
+        "yes" when felt).</em></p>
+
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Modality / Dermatome</th>
+          <th>Typical Area Tested (Video Time for general modality)</th>
+          <th>Left (N/R/A)</th>
+          <th>Right (N/R/A)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="5"><strong>Fine Touch</strong> (Cotton Wool)
+            (<a href="https://www.youtube.com/watch?v=VezCFksfWg4&t=109s" class="timestamp">1:49</a> - <a href="https://www.youtube.com/watch?v=VezCFksfWg4&t=162s" class="timestamp">2:42</a>)
+            <br><em>Demo on sternum: <a href="https://www.youtube.com/watch?v=VezCFksfWg4&t=127s" class="timestamp">2:07</a></em>
+          </td>
+          <td><b>C5:</b> Lateral aspect of upper arm (Deltoid area)</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>C6:</b> Lateral forearm, thumb and index finger</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>C7:</b> Posterior aspect of arm & forearm, middle finger</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>C8:</b> Medial forearm, ring and little finger</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>T1:</b> Medial aspect of upper arm (inner elbow/axilla)</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="4"><br></td>
+        </tr>
+        <tr>
+          <td rowspan="5"><strong>Pain Touch</strong> (Neuro Pin)
+            (<a href="https://www.youtube.com/watch?v=VezCFksfWg4&t=163s" class="timestamp">2:43</a> - <a href="https://www.youtube.com/watch?v=VezCFksfWg4&t=218s" class="timestamp">3:38</a>)
+            <br><em>Demo on sternum: <a href="https://www.youtube.com/watch?v=VezCFksfWg4&t=184s" class="timestamp">3:04</a></em>
+          </td>
+          <td><b>C5:</b> Lateral aspect of upper arm (Deltoid area)</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>C6:</b> Lateral forearm, thumb and index finger</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>C7:</b> Posterior aspect of arm & forearm, middle finger</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>C8:</b> Medial forearm, ring and little finger</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>T1:</b> Medial aspect of upper arm (inner elbow/axilla)</td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Motor System:</h3>
+
+    <p><em>Inspect for Bulk (mentioned under general inspection) and Tone
+        (mentioned under palpation).</em></p>
+
+    <p><em>Power (MRC Scale: 0-5, though not explicitly graded in video,
+        resistance is applied).</em></p>
+
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Movement Tested (Main Muscles)</th>
+          <th>Nerve Roots (Main)</th>
+          <th>Left (0-5 or Comment)</th>
+          <th>Right (0-5 or Comment)</th>
+          <th>Video Time</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Shoulder Abduction (Deltoid)</td>
+          <td>C5</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=279s" class="timestamp">4:39</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=288s" class="timestamp">4:48</a> ("Don't let me push it down")</td>
+        </tr>
+        <tr>
+          <td>Elbow Flexion (Biceps, Brachialis)</td>
+          <td>C5, C6</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=288s" class="timestamp">4:48</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=301s" class="timestamp">5:01</a> (Patient pulls against resistance)</td>
+        </tr>
+        <tr>
+          <td>Elbow Extension (Triceps)</td>
+          <td>C7</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=301s" class="timestamp">5:01</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=307s" class="timestamp">5:07</a> (Patient pushes against resistance)</td>
+        </tr>
+        <tr>
+          <td>Wrist Extension (Extensor Carpi Radialis Longus/Brevis, Extensor
+            Carpi Ulnaris)</td>
+          <td>C6, C7</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=308s" class="timestamp">5:08</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=317s" class="timestamp">5:17</a> ("Resist my force")</td>
+        </tr>
+        <tr>
+          <td>Wrist Flexion (Flexor Carpi Radialis, Flexor Carpi Ulnaris)</td>
+          <td>C7, C8</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=317s" class="timestamp">5:17</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=322s" class="timestamp">5:22</a> ("Resist my force")</td>
+        </tr>
+        <tr>
+          <td>Finger Abduction (Dorsal Interossei) / Grip (Intrinsic hand
+            muscles, FDP, FDS)</td>
+          <td>C8, T1</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=322s" class="timestamp">5:22</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=330s" class="timestamp">5:30</a> ("Open your fingers and don't let me
+            squeeze")</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p><em>Reflexes (0-4+): 0=Absent, 1+=Diminished, 2+=Normal, 3+=Brisk,
+        4+=Clonus. Video demonstrates technique.</em></p>
+
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Reflex</th>
+          <th>Nerve Roots</th>
+          <th>Left (0-4+)</th>
+          <th>Right (0-4+)</th>
+          <th>Video Time &amp; Technique Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Biceps</td>
+          <td>C5, C6</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=368s" class="timestamp">6:08</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=377s" class="timestamp">6:17</a> (Thumb on biceps tendon, tap thumb)</td>
+        </tr>
+        <tr>
+          <td>Triceps</td>
+          <td>C7, C8</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=379s" class="timestamp">6:19</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=383s" class="timestamp">6:23</a> (Directly on triceps tendon)</td>
+        </tr>
+        <tr>
+          <td>Brachioradialis (Supinator)</td>
+          <td>C5, C6</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=385s" class="timestamp">6:25</a>
+            - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=395s" class="timestamp">6:35</a> (Tap over styloid process of radius /
+            distal brachioradialis tendon)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p><em>(End of Upper Limb Neurological Examination as shown in video for
+        Whiplash/Brachial Plexus context)</em></p>
+
+
+        <h3>NECK EXAMINATION (Whiplash Context)</h3>
+
+        <h4>INSPECTION</h4>
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr>
+              <th>Area / Aspect</th>
+              <th>Observation Points (Video Time)</th>
+              <th>Findings</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>General Neck (Anterior/Posterior/Lateral)</td>
+              <td>Redness, swelling, sign of any injury, scar mark of previous surgery, deformity.
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=40s" class="timestamp">0:40</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=49s" class="timestamp">0:49</a>)
+              </td>
+              <td></td>
+              <td>Video states for the patient: "no redness, no swelling, no sign of any injury, no scar mark of the previous surgery or deformity."</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <h4>PALPATION</h4>
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr>
+              <th>Test</th>
+              <th>Technique / Area Palpated (Video Time)</th>
+              <th>Finding (Tenderness Present/Absent)</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Spinal Tenderness (Spinous Processes)</td>
+              <td>Palpation down the spinous processes.
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=62s" class="timestamp">1:02</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=75s" class="timestamp">1:15</a>)
+              </td>
+              <td></td>
+              <td>Patient to report any pain.</td>
+            </tr>
+            <tr>
+              <td>Paraspinal Tenderness</td>
+              <td>Palpation of paraspinal muscles, can be done in a zigzag manner, one side at a time.
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=75s" class="timestamp">1:15</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=93s" class="timestamp">1:33</a>)
+              </td>
+              <td></td>
+              <td>Video notes patient showed tenderness in the right paraspinal area. (Example: "Tenderness noted right paraspinal C3-C5")</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <h4>RANGE OF MOTION (NECK MOVEMENTS)</h4>
+        <p><em><b>Important Prerequisite:</b> Before proceeding with neck movements, ensure the neck is stabilized if any suspicion of instability. Cervical spine X-rays should be confirmed as normal if trauma is involved or there are red flags.
+          (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=402s" class="timestamp">6:42</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=414s" class="timestamp">6:54</a>)
+        </em></p>
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr>
+              <th>Movement</th>
+              <th>Instruction to Patient (Video Time)</th>
+              <th>Observed Outcome (e.g., Full, Restricted, Painful)</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Flexion</td>
+              <td>"Touch your chin with your chest."
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=420s" class="timestamp">7:00</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=425s" class="timestamp">7:05</a>)
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Extension</td>
+              <td>"Look up at the ceiling."
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=425s" class="timestamp">7:05</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=428s" class="timestamp">7:08</a>)
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Lateral Rotation (Right)</td>
+              <td>"Look at your right side."
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=432s" class="timestamp">7:12</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=436s" class="timestamp">7:16</a>)
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Lateral Rotation (Left)</td>
+              <td>"Okay, your left side."
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=436s" class="timestamp">7:16</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=438s" class="timestamp">7:18</a>)
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Lateral Flexion (Right)</td>
+              <td>"Try to touch your right ear with your right shoulder."
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=440s" class="timestamp">7:20</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=443s" class="timestamp">7:23</a>)
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Lateral Flexion (Left)</td>
+              <td>"Let me, left ear with your left shoulder."
+                (<a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=447s" class="timestamp">7:27</a> - <a href="https://www.youtube.com/watch?v=sEhVgHRObQ4&t=449s" class="timestamp">7:29</a>)
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+
+    <h4>III. DIAGNOSIS &amp; MANAGEMENT DISCUSSION</h4>
+    <ol>
+      <li><strong>Likely Diagnosis:</strong> Whiplash Injury. (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=653s"
+
+          class="timestamp">10:53</a>)
+        <ul>
+          <li><em>Explain: "Based on how the accident happened and your symptoms
+              starting a few hours later, along with the tenderness in the
+              muscles beside your spine and restricted neck movements (if
+              C-spine cleared and movements tested), it's most likely a whiplash
+              injury. The X-ray (if done) being normal also supports this, as
+              whiplash is a soft tissue injury."</em></li>
+        </ul>
+      </li>
+      <li><strong>Management Plan:</strong>
+        <ul>
+          <li><strong>Keep Neck Mobile:</strong> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=672s"
+
+              class="timestamp">11:12</a>)
+            <ul>
+              <li>"The most important part of treatment is to keep your neck
+                mobile, even if it's a bit painful. Not moving it can make it
+                stiffer and more painful in the long run."</li>
+            </ul>
+          </li>
+          <li><strong>Pain Relief:</strong> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=678s"
+
+              class="timestamp">11:18</a>)
+            <ul>
+              <li>"We can provide you with stronger painkillers to help manage
+                the discomfort and allow you to move your neck." (e.g.,
+                paracetamol, ibuprofen, co-codamol if appropriate).</li>
+            </ul>
+          </li>
+          <li><strong>Physiotherapy Referral:</strong> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=707s"
+
+              class="timestamp">11:47</a>)
+            <ul>
+              <li>"I'll also refer you to a physiotherapist. They can give you
+                specific exercises to help with pain and restore movement."</li>
+            </ul>
+          </li>
+          <li><strong>Ice Compression:</strong> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=712s"
+
+              class="timestamp">11:52</a>)
+            <ul>
+              <li>"You can try applying ice packs. Wrap some ice in a towel and
+                apply it to your neck for 10-15 minutes, a couple of times a
+                day. Don't apply ice directly to the skin."</li>
+            </ul>
+          </li>
+          <li><strong>Neck Collar:</strong>
+            <ul>
+              <li>"We generally advise against using a neck collar for whiplash,
+                as it can make the neck stiffer. Keeping it mobile is key." (<a
+
+                  href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=713s"
+
+                  class="timestamp">12:13</a>)</li>
+            </ul>
+          </li>
+          <li><strong>Prognosis &amp; Timeframe:</strong>
+            <ul>
+              <li>"It's important to know that whiplash injuries can take some
+                time to get better, sometimes a few weeks or even a few months.
+                It's a time-consuming process." (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=721s"
+
+                  class="timestamp">12:41</a>)</li>
+            </ul>
+          </li>
+          <li><strong>Steroids:</strong> <em>(Mentioned as rare, later option
+              if pain is severe - likely not first-line in OSCE).</em> (<a href="https://www.youtube.com/watch?v=p4GHGCM_aiM&amp;t=735s"
+
+              class="timestamp">12:35</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Safety Netting / Red Flags for Patient to Watch For:</strong>
+        <ul>
+          <li>Worsening pain not controlled by painkillers.</li>
+          <li>Development of new numbness, tingling, or weakness in arms or
+            legs.</li>
+          <li>Problems with bladder or bowel control.</li>
+          <li>Severe headache, dizziness, or visual disturbances.</li>
+          <li>"If any of these occur, please seek medical attention promptly."</li>
+        </ul>
+      </li>
+      <li><strong>Address Patient Concerns (ICE):</strong>
+        <ul>
+          <li>"Do you have any particular concerns or questions about this?"</li>
+        </ul>
+      </li>
+    </ol>
+    <script>
+            document.addEventListener('DOMContentLoaded', function() {
+            const timestampLinks = document.querySelectorAll('.timestamp');
+            
+            timestampLinks.forEach(link => {
+                link.addEventListener('click', function(event) {
+                    event.preventDefault(); // Prevent the default link navigation
+                    const href = this.getAttribute('href');
+                    let seconds = null;
+                    let videoId = null;
+                    
+                    // Extract video ID from the YouTube URL
+                    const videoIdMatch = href.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]+)/);
+                    if (videoIdMatch && videoIdMatch[1]) {
+                        videoId = videoIdMatch[1];
+                    }
+                    
+                    // Try to extract time from 't=XXs' format
+                    const timeMatchSeconds = href.match(/t=(\d+)s?/); // Made 's' optional
+                    if (timeMatchSeconds && timeMatchSeconds[1]) {
+                        seconds = timeMatchSeconds[1];
+                    } else {
+                        // Fallback: Try to extract from '?start=XX' or '&start=XX'
+                        const timeMatchStart = href.match(/[?&]start=(\d+)/);
+                        if (timeMatchStart && timeMatchStart[1]) {
+                            seconds = timeMatchStart[1];
+                        }
+                    }
+                    
+                    if (videoId && seconds !== null) {
+                        // Find all iframes that contain YouTube embeds
+                        const allIframes = document.querySelectorAll('iframe[src*="youtube.com/embed"]');
+                        
+                        // Find the iframe that matches this video ID
+                        let targetIframe = null;
+                        allIframes.forEach(iframe => {
+                            const iframeSrc = iframe.src;
+                            if (iframeSrc.includes(videoId)) {
+                                targetIframe = iframe;
+                            }
+                        });
+                        
+                        if (targetIframe) {
+                            // Extract the base embed URL from the current iframe src
+                            const baseEmbedUrl = `https://www.youtube.com/embed/${videoId}`;
+                            
+                            // Construct the new URL for the iframe to start at the specific time and autoplay
+                            targetIframe.src = `${baseEmbedUrl}?start=${seconds}&autoplay=1&rel=0`;
+                            // rel=0 attempts to prevent related videos from other channels at the end
+                        } else {
+                            console.warn(`Could not find iframe for video ID: ${videoId}`);
+                        }
+                    } else {
+                        console.warn("Could not parse video ID or time from link: " + href);
+                    }
+                });
+            });
+        });
+
+    </script>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

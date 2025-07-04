@@ -1,0 +1,717 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Diabetic Lower limb CASE SHEET</title>
+    <style>
+      body {
+        font-size: 8pt;
+        line-height: 1.4;
+        margin: 0 auto;
+        padding: 0 1cm;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      /* Lists */
+      ol, ul {
+        margin-left: 10%;
+        padding-left: 0;
+      }
+      
+      ul {
+        list-style-type: lower-alpha;
+      }
+      
+      ol {
+        list-style-type: decimal;
+      }
+      
+      .section {
+        margin-bottom: 15px;
+      }
+      
+      h3 {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      h4 {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        color: #444;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      p {
+        margin: 5px 0;
+      }
+      
+      .indent-1 {
+        margin-left: 2em;
+      }
+      
+      .indent-2 {
+        margin-left: 4em;
+      }
+
+      u {
+        color: #2100fd;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      b {
+        color: #fd0054;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      em {
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+        color: #08cca2;
+      }
+
+      strong {
+        color: #09a8cc;
+        font-weight: bold;
+        font-style: normal;
+        text-decoration: none;
+      }
+      .video-container {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 2/ 1; /* Width:Height = 1:2 */
+      }
+
+      td {
+        padding: 5px;
+        font-size: 8pt;
+      }
+      tr {
+        padding: 5px;
+        font-size: 8pt;
+      }
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      iframe {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>LOWER LIMB EXAMINATION</h3>
+    <p><a href="https://www.youtube.com/watch?v=7pIaoULs5do">Lower Limb
+        Examination: Theory &amp; Practice | PLAB2/UKMLA - YouTube</a></p>
+    <p><br>
+    </p>
+    <p>(Diabetic/Alcoholic/PAD/Acute Limb Ischemia)</p>
+    <div class="video-container" style="margin-bottom: 20px;"> <iframe src="https://www.youtube.com/embed/7pIaoULs5do"
+
+        title="Lower Limb Examination: Theory &amp; Practice | PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="lowerLimbExamVideo"
+
+        height="315" frameborder="0" width="560"></iframe> </div>
+    <br>
+    <div class="video-container" style="margin-bottom: 20px;"> <iframe src="https://www.youtube.com/embed/Px0pIPP1iNo"
+
+        title="Diabetic foot examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <div class="video-container" style="margin-bottom: 20px;"> <iframe src="https://www.youtube.com/embed/_BQdeaEHfZc"
+
+        title="Diabetic Foot Examination - OSCE Guide (Latest) | UKMLA | CPSA | PLAB 2"
+
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <p style="text-align:center; font-style:italic;">Scan the QR code on the
+      image or <a href="https://www.youtube.com/watch?v=7pIaoULs5do" target="_blank">click
+        here to view the video</a> for reference.</p>
+    <h4>PREPARATION</h4>
+    <ul>
+      <li><a href="https://youtu.be/7pIaoULs5do?t=70s" class="timestamp">Cotton
+          Wool/Wisp</a> (Speaker mentions at 1:10)</li>
+      <li><a href="https://youtu.be/7pIaoULs5do?t=72s" class="timestamp">Neuro
+          Pin</a> (Speaker mentions at 1:12)</li>
+      <li><a href="https://youtu.be/7pIaoULs5do?t=73s" class="timestamp">Hammer
+          Reflex</a> (Speaker mentions at 1:13)</li>
+      <li><a href="https://youtu.be/7pIaoULs5do?t=74s" class="timestamp">Tuning
+          Fork (128Hz)</a> (Speaker mentions at 1:14)</li>
+    </ul>
+    <h4>GAIT <a href="https://youtu.be/7pIaoULs5do?t=450s" class="timestamp">(Observe
+        starting 7:30)</a></h4>
+    <ul>
+      <li><em>Normal Walking: <a href="https://youtu.be/7pIaoULs5do?t=450s" class="timestamp">(7:30)</a></em></li>
+      <li><em>Tandem Gait (Heel-to-Toe): <a href="https://youtu.be/7pIaoULs5do?t=465s"
+
+            class="timestamp">(7:45)</a></em></li>
+      <li><em>Walking on Toes: <a href="https://youtu.be/7pIaoULs5do?t=477s" class="timestamp">(7:57)</a></em></li>
+      <li><em>Walking on Heels: <a href="https://youtu.be/7pIaoULs5do?t=485s" class="timestamp">(8:05)</a></em></li>
+      <li><em>Romberg Test: <a href="https://youtu.be/7pIaoULs5do?t=495s" class="timestamp">(8:15)</a></em></li>
+    </ul>
+    <h4>INSPECTION</h4>
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Area / Aspect</th>
+          <th>Observation Points (Video Time)</th>
+          <th>Finding Left</th>
+          <th>Finding Right</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=515s" class="timestamp">Front/Back
+              (Standing 8:35)</a></td>
+          <td>Scars, Swelling, Rashes, Colour Changes, Hair Loss, Ulcers<br>
+            Muscle Wasting/Bulk, Deformity, Involuntary Movements, </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=550s" class="timestamp">Dorsum/Plantar
+              (Lying 9:10)</a></td>
+          <td>Skin changes, Ulcers, Calluses, Deformities (e.g., Charcot foot,
+            Hammer/Claw toes), Arch</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=570s" class="timestamp">Toes/Between
+              Toes (9:30)</a></td>
+          <td>Nail changes (e.g., onychomycosis), Fungal infections, Maceration,
+            Ulcers, Deformities</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=580s" class="timestamp">Heel/Soles
+              (9:40)</a></td>
+          <td>Calluses, Ulcers, Skin integrity</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h4>PALPATION</h4>
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Test</th>
+          <th>Finding Left</th>
+          <th>Finding Right</th>
+          <th>Notes (Video Time)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=595s" class="timestamp">Temperature</a>
+            (Dorsum of hand - 9:55)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><em>(e.g., Warm, Cool, Symmetrical?)</em></td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=605s" class="timestamp">Tenderness</a>
+            (Calf squeeze - 10:05)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><em>(Specify location if present)</em></td>
+        </tr>
+        <tr>
+          <td>Pulses
+            <ul style="margin-left: 5%; padding-left: 0;">
+              <li><a href="https://youtu.be/7pIaoULs5do?t=635s" class="timestamp">Femoral
+                  (10:35)</a>: </li>
+              <li><a href="https://youtu.be/7pIaoULs5do?t=650s" class="timestamp">Popliteal
+                  (10:50)</a>: </li>
+              <li><a href="https://youtu.be/7pIaoULs5do?t=665s" class="timestamp">Posterior
+                  Tibial (11:05)</a>: </li>
+              <li><a href="https://youtu.be/7pIaoULs5do?t=678s" class="timestamp">Dorsalis
+                  Pedis (11:18)</a>: </li>
+            </ul>
+          </td>
+          <td> <br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=695s" class="timestamp">Capillary
+              Refill</a> (Toes - 11:35)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><em>(e.g., &lt;2 secs, &gt;2 secs)</em></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <h4>NEUROLOGICAL EXAMINATION</h4>
+    <h3>Sensory System:</h3>
+    <p><em>Modalities: Fine Touch (Cotton Wool), Pain (Neuro Pin), Vibration
+        (128Hz Tuning Fork), Proprioception (Joint Position Sense).</em></p>
+    <p><em>Key: N = Normal (Intact), R = Reduced, A = Absent. (Compare side to
+        side, and distal to proximal).</em></p>
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Modality / Dermatome</th>
+          <th>Area Tested (Video Time)</th>
+          <th>Left (N/R/A)</th>
+          <th>Right (N/R/A)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="5"><strong>Fine Touch</strong> <a href="https://youtu.be/7pIaoULs5do?t=725s"
+
+              class="timestamp">(Cotton Wool - Demo 12:05)</a></td>
+          <td>L1 (Upper anterior thigh)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L2 (Mid anterior thigh)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L3 (Medial knee/lower thigh)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L4 (Medial malleolus/shin)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L5 (Dorsum of foot/Big toe)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td> <br>
+          </td>
+          <td>S1 (Lateral border of foot/Little toe - <a href="https://youtu.be/7pIaoULs5do?t=765s"
+
+              class="timestamp">12:45</a>)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td> <br>
+          </td>
+          <td>S2 (Posterior thigh/Popliteal fossa)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="4"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="5"><strong>Pain</strong> <a href="https://youtu.be/7pIaoULs5do?t=785s"
+
+              class="timestamp">(Neuro Pin - Demo 13:05)</a></td>
+          <td>L1</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L2</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L3</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L4</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>L5</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td>S1</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td>S2</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="4"><br>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Vibration</strong> <a href="https://youtu.be/7pIaoULs5do?t=830s"
+
+              class="timestamp">(128Hz - Demo Great Toe 13:50)</a></td>
+          <td>Great Toe (IPJ)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=865s" class="timestamp">Medial
+              Malleolus (14:25)</a></td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=870s" class="timestamp">Tibial
+              Tuberosity (14:30)</a></td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="4"><br>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Proprioception</strong> <a href="https://youtu.be/7pIaoULs5do?t=880s"
+
+              class="timestamp">(Joint Position Sense - Demo Great Toe 14:40)</a></td>
+          <td>Great Toe (IPJ - up/down)</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <h3>Motor System:</h3>
+    <p><em>Inspect for Bulk (Wasting/Hypertrophy) and Tone (Normal, Hypo-,
+        Hyper- (Spasticity/Rigidity)).</em></p>
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Aspect</th>
+          <th>Test (Video Time)</th>
+          <th>Left</th>
+          <th>Right</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Bulk</strong></td>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=925s" class="timestamp">Observe
+              major muscle groups (15:25)</a></td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Tone</strong></td>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=945s" class="timestamp">Passive
+              movement of knee and ankle (15:45)</a></td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><em>Power (MRC Scale: 0-5): 0=No contraction, 1=Flicker, 2=Movement with
+        gravity eliminated, 3=Movement against gravity, 4=Movement against some
+        resistance, 5=Normal power.</em></p>
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Movement</th>
+          <th>Nerve Roots (Main)</th>
+          <th>Left (0-5)</th>
+          <th>Right (0-5)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=977s" class="timestamp">Hip
+              Flexion</a> (Iliopsoas - 16:17)</td>
+          <td>L1, L2, L3</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=988s" class="timestamp">Hip
+              Extension</a> (Gluteus Max. - 16:28)</td>
+          <td>L5, S1, S2</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=996s" class="timestamp">Hip
+              Abduction</a> (Gluteus Med/Min - 16:36)</td>
+          <td>L4, L5, S1</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1005s" class="timestamp">Hip
+              Adduction</a> (Adductors - 16:45)</td>
+          <td>L2, L3, L4</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1013s" class="timestamp">Knee
+              Extension</a> (Quadriceps - 16:53)</td>
+          <td>L3, L4</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1020s" class="timestamp">Knee
+              Flexion</a> (Hamstrings - 17:00)</td>
+          <td>L5, S1</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1030s" class="timestamp">Ankle
+              Dorsiflexion</a> (Tibialis Ant. - 17:10)</td>
+          <td>L4, L5</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1038s" class="timestamp">Ankle
+              Plantarflexion</a> (Gastrocnemius - 17:18)</td>
+          <td>S1, S2</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1047s" class="timestamp">Great
+              Toe Extension</a> (EHL - 17:27)</td>
+          <td>L5</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>Toe Flexion (FHL/FDL)</td>
+          <td>S1, S2</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><em>Reflexes (0-4+): 0=Absent, 1+=Diminished, 2+=Normal, 3+=Brisk,
+        4+=Clonus.</em></p>
+    <table style="width:100%; border-collapse: collapse;" border="1">
+      <thead>
+        <tr>
+          <th>Reflex</th>
+          <th>Nerve Roots</th>
+          <th>Left (0-4+)</th>
+          <th>Right (0-4+)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1065s" class="timestamp">Knee
+              Jerk (Patellar - 17:45)</a></td>
+          <td>L3, L4</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1080s" class="timestamp">Ankle
+              Jerk (Achilles - 18:00)</a></td>
+          <td>S1, S2</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://youtu.be/7pIaoULs5do?t=1105s" class="timestamp">Plantar
+              Response (Babinski - 18:25)</a></td>
+          <td>-</td>
+          <td><em>(Downgoing / Upgoing)</em></td>
+          <td><em>(Downgoing / Upgoing)</em></td>
+        </tr>
+      </tbody>
+    </table>
+    <p><em>(End of formal examination)</em></p>
+    <!-- JavaScript goes here -->
+    <script>
+            document.addEventListener('DOMContentLoaded', function() {
+            const timestampLinks = document.querySelectorAll('.timestamp');
+            
+            timestampLinks.forEach(link => {
+                link.addEventListener('click', function(event) {
+                    event.preventDefault(); // Prevent the default link navigation
+                    const href = this.getAttribute('href');
+                    let seconds = null;
+                    let videoId = null;
+                    
+                    // Extract video ID from the YouTube URL
+                    const videoIdMatch = href.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]+)/);
+                    if (videoIdMatch && videoIdMatch[1]) {
+                        videoId = videoIdMatch[1];
+                    }
+                    
+                    // Try to extract time from 't=XXs' format
+                    const timeMatchSeconds = href.match(/t=(\d+)s?/); // Made 's' optional
+                    if (timeMatchSeconds && timeMatchSeconds[1]) {
+                        seconds = timeMatchSeconds[1];
+                    } else {
+                        // Fallback: Try to extract from '?start=XX' or '&start=XX'
+                        const timeMatchStart = href.match(/[?&]start=(\d+)/);
+                        if (timeMatchStart && timeMatchStart[1]) {
+                            seconds = timeMatchStart[1];
+                        }
+                    }
+                    
+                    if (videoId && seconds !== null) {
+                        // Find all iframes that contain YouTube embeds
+                        const allIframes = document.querySelectorAll('iframe[src*="youtube.com/embed"]');
+                        
+                        // Find the iframe that matches this video ID
+                        let targetIframe = null;
+                        allIframes.forEach(iframe => {
+                            const iframeSrc = iframe.src;
+                            if (iframeSrc.includes(videoId)) {
+                                targetIframe = iframe;
+                            }
+                        });
+                        
+                        if (targetIframe) {
+                            // Extract the base embed URL from the current iframe src
+                            const baseEmbedUrl = `https://www.youtube.com/embed/${videoId}`;
+                            
+                            // Construct the new URL for the iframe to start at the specific time and autoplay
+                            targetIframe.src = `${baseEmbedUrl}?start=${seconds}&autoplay=1&rel=0`;
+                            // rel=0 attempts to prevent related videos from other channels at the end
+                        } else {
+                            console.warn(`Could not find iframe for video ID: ${videoId}`);
+                        }
+                    } else {
+                        console.warn("Could not parse video ID or time from link: " + href);
+                    }
+                });
+            });
+        });
+    </script>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

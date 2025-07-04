@@ -1,0 +1,785 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Inguinal Swelling Case Sheet</title>
+    <link rel="stylesheet" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body>
+    <h3>PATIENT INFORMATION</h3>
+    <ul>
+      <li>NAME:</li>
+      <li>AGE:
+        <ul>
+          <li>Indirect hernia common in young</li>
+          <li>Direct in older</li>
+          <li>young - testicular cancer</li>
+          <li>old - prostate cancer</li>
+        </ul>
+      </li>
+      <li>SEX:
+        <ul>
+          <li>Inguinal hernias more common in males</li>
+          <li>Femoral hernias more common in females</li>
+        </ul>
+      </li>
+      <li>EDUCATION:</li>
+      <li>OCCUPATION: (e.g., strenuous work, heavy lifting)</li>
+      <li>RESIDENCE:</li>
+      <li>RELIGION:</li>
+      <li>DATE &amp; TIME OF CONSULTATION (T/D):</li>
+      <li>INFORMANT: (Patient/Relative, Reliability)</li>
+    </ul>
+    <h3>CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
+    <ol>
+      <li>Lump/Swelling in [e.g., right/left groin/scrotum] for [duration, e.g.,
+        2 months]</li>
+      <li>Pain/Discomfort in [e.g., right/left groin/scrotum] for [duration,
+        e.g., 3 weeks] (Often discomfort rather than severe pain unless
+        complicated)</li>
+      <li>(Other related symptoms, e.g., change in bowel habits, difficulty
+        urinating, dragging sensation)</li>
+      <li>(Systemic Symptoms if any, e.g., fever, vomiting - suggesting
+        complication)</li>
+    </ol>
+    <h3>HISTORY OF PRESENT ILLNESS</h3>
+    <h4>1<sup>ST</sup> COMPLAINT: SWELLING IN [SPECIFY REGION]</h4>
+    <p>(Patient noticed a single marble-sized, lemon-sized swelling in the right
+      groin 1 year back, which was gradually increasing in size and attained
+      present size. Swelling appears spontaneously and disappears on lying
+      down.)</p>
+    <ul>
+      <li><strong>S: Site</strong>
+        <ul>
+          <li>Where did patient first notice the swelling? (e.g., groin,
+            extending into scrotum - inguinoscrotal)</li>
+          <li>Which side? (Right/Left/Bilateral)</li>
+          <li>Relation to anatomical landmarks (e.g., above/below inguinal
+            ligament, medial/lateral to pubic tubercle).</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li>one week</li>
+          <ul>
+            <li>cancer</li>
+          </ul>
+          <li>When did the patient first notice the swelling? (e.g., 1 year
+            back)</li>
+          <li>Was the onset gradual or sudden (e.g., after straining, coughing,
+            lifting heavy weight, trauma)?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration &amp; Painlessness</strong>
+        <ul>
+          <li>How long has the swelling been present? (e.g., 1 year)</li>
+          <li>Is it constant or intermittent (e.g., "appears spontaneously and
+            disappears on lying down")?</li>
+          <li>Pain characteristics related to duration:
+            <ul>
+              <li>Short duration with pain: Inflammatory cause?</li>
+              <li>Longer duration with no pain: Malignant (less likely for
+                hernia unless complicated), Benign (typical for hernia).</li>
+              <li>Long duration with less pain: Chronic inflammation?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>A: Aggravating Factors</strong>
+        <ul>
+          <li>What makes the swelling appear or become more prominent? (e.g., </li>
+          <ul>
+            <li>&nbsp;Standing, </li>
+            <li>coughing, </li>
+            <li>sneezing, </li>
+            <li>straining at stool, </li>
+            <li>lifting heavy </li>
+            <li>prolonged exertion)</li>
+          </ul>
+        </ul>
+      </li>
+      <li><strong>A: Relieving Factors</strong>
+        <ul>
+          <li>What makes the swelling reduce or disappear? (e.g., </li>
+          <ul>
+            <li>Lying down, </li>
+            <li>manual pressure/reduction)</li>
+          </ul>
+        </ul>
+      </li>
+      <br>
+      <li><strong>C: Character / Consistency / Reducibility</strong>
+        <ul>
+          <li>What does it feel like? (Soft, firm, tense, gurgling on reduction)</li>
+          <li>Is it reducible? (Does it go away on its own when lying down, or
+            does it need to be manually pushed back in?)</li>
+          <li>If reducible, is it easy or difficult to reduce? Any sound
+            (gurgle) on reduction?</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong> (Of pain, if present - elaborated under
+        2nd complaint)</li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Pain or discomfort (see 2nd complaint).</li>
+          <li>Dragging sensation in the groin.</li>
+          <li>Change in bowel habits (constipation, obstipation
+            &acirc;&euro;&ldquo; suggests bowel obstruction if acute).</li>
+          <li>Nausea, vomiting (suggests obstruction/strangulation).</li>
+          <li>Fever/flu (suggests strangulation/infection).</li>
+          <ul>
+            <li><em>HIV</em></li>
+          </ul>
+          <li>Rash</li>
+          <ul>
+            <li><em>HIV</em></li>
+          </ul>
+          <li>Redness, warmth, or skin changes over the swelling (suggests
+            inflammation/strangulation).</li>
+          <li>Difficulty in passing urine (if large hernia presses on bladder or
+            urethra).</li>
+          <li>Any other swellings elsewhere in the body (e.g., NF, Diaphyseal
+            Aclasis, Hodgkin's - generally less relevant for primary hernia but
+            good to note).</li>
+          <li>Secondary changes: Softening, ulceration, fungation, inflammation
+            (rare unless complicated/neglected).</li>
+          <li>Impairment of function or interference with movement.</li>
+          <li>Disfigurement or cosmetic concern.</li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>How has the swelling changed since onset? (e.g., "was gradually
+            increasing in size and attained present size")
+            <ul>
+              <li>Very rapid progression: Inflammatory.</li>
+              <li>Rapid progression: Malignant (unlikely for simple hernia).</li>
+              <li>Slow progression: Benign (typical for hernia).</li>
+              <li>Static then rapid: Benign to malignant change (not typical for
+                hernia).</li>
+            </ul>
+          </li>
+          <li>Has it become more frequent or more difficult to reduce over time?</li>
+          <li>Any change in associated symptoms?</li>
+          <li>Regressive (inflammatory), Static.</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern / Periodicity</strong>
+        <ul>
+          <li>Does it appear at certain times of day or with certain activities
+            and disappear at others?</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on Life / Impact on Function</strong>
+        <ul>
+          <li>Interference with daily activities, work, or exercise.</li>
+          <li>Disfigurement or cosmetic concern.</li>
+        </ul>
+      </li>
+      <li><span><em>R </em>: <em>Red flags</em></span></li>
+      <ul>
+        <li><span>Cacner Sx</span></li>
+        <li><strong>Loss of Body Weight</strong> (Significant unexplained weight
+          loss is a red flag) </li>
+        <ul>
+          <li>TB + Swelling.</li>
+          <li>Cold abscess + TB.</li>
+          <li>Malignancy.</li>
+          <li>AIDS.</li>
+        </ul>
+        <li>HIV</li>
+        <ul>
+          <li>all Cancer Sx</li>
+          <li>recurrent infectinos</li>
+          <li>chronic diarrhoea</li>
+        </ul>
+      </ul>
+      <li><strong>S </strong>: <strong>Scale</strong></li>
+    </ul>
+    <h4>2<sup>ND</sup> COMPLAINT: PAIN/DISCOMFORT IN [SPECIFY REGION] (I,N of
+      C-MINT)</h4>
+    <ul>
+      <li><strong>S: Site</strong> (Precise location, may overlap with swelling)</li>
+      <li><strong>O: Onset</strong> (Relation to swelling, acute/chronic)</li>
+      <li><strong>D: Duration</strong> (Constant/intermittent)</li>
+      <li><strong>A: Aggravating/Relieving Factors</strong> (Similar to
+        swelling, also consider if pain is specifically on palpation)</li>
+      <li><br>
+      </li>
+      <li><strong>C: Character/Nature/Type</strong> (Dull ache, sharp, burning,
+        dragging; if severe &amp; colicky: obstruction/strangulation)</li>
+      <li><strong>R: Radiation</strong> (e.g., to scrotum, thigh, back)</li>
+      <li><strong>A: Associated Symptoms</strong> (Nausea, vomiting, fever if
+        pain is acute/severe, indicating complication)</li>
+      <li><strong>P: Progression</strong> (Is the pain worsening?)</li>
+      <li><strong>P: Pattern</strong></li>
+      <li><strong>E: Effect on life</strong></li>
+      <li><strong>R </strong>: <strong>Red flags</strong></li>
+      <ul>
+        <li>no <em>MMR </em>vaccination?<br>
+        </li>
+      </ul>
+      <li><strong>S: Severity</strong> (Scale 0-10)</li>
+    </ul>
+    <h3>HISTORY OF PAST ILLNESS</h3>
+    <ul>
+      <li>Similar complaints in the past?</li>
+      <li>Chronic cough (e.g., COPD, asthma, chronic bronchitis
+        &acirc;&euro;&ldquo; risk factor for hernia).</li>
+      <li>Chronic constipation or straining at stool (risk factor for hernia).</li>
+      <li>Symptoms of prostatism (e.g., difficulty urinating, nocturia, weak
+        stream &acirc;&euro;&ldquo; BPH causing straining, risk factor for
+        hernia).</li>
+      <li>Previous abdominal or pelvic surgeries (may predispose to incisional
+        hernia or affect anatomy).</li>
+      <li>Known Hypertensive?</li>
+      <li>Known Diabetic?</li>
+      <li>History of bleeding disorders?</li>
+      <li>TB [CHRONIC COUGH]</li>
+      <li>SYPHILIS</li>
+      <li>MI</li>
+      <li>Any condition causing ascites (e.g., liver disease, heart failure -
+        can precipitate hernia).</li>
+    </ul>
+    <h3>PAST SURGICAL HISTORY</h3>
+    <ul>
+      <li><strong>Recurrence</strong> (after excision/repair)
+        <ul>
+          <li>Benign to malignant change is rare for hernias but a general point
+            for swellings.</li>
+          <li>Malignant recurrence.</li>
+          <li>Cyst recurrence if wall incompletely removed (less relevant for
+            typical hernia).</li>
+          <li>Examples (general for recurrence): Paget&acirc;&euro;&trade;s
+            recurrent fibroid, Hydrocele if sac not removed completely.
+            (Specific to hernia: Recurrent inguinal hernia after previous
+            repair).</li>
+        </ul>
+      </li>
+      <li>Previous hernia repair (inguinal, femoral, umbilical, incisional
+        &acirc;&euro;&ldquo; specify side, type of repair, date, any
+        complications like ilioinguinal nerve damage).</li>
+      <li>Appendicectomy.</li>
+      <li>Splenectomy or other abdominal surgeries.</li>
+      <li>Any surgery leading to prolonged immobilization.</li>
+    </ul>
+    <h3>TREATMENT HISTORY</h3>
+    <ul>
+      <li><strong>T: Treatment Taken So Far</strong> </li>
+      <li>Any previous medical consultations for this?</li>
+      <li>Use of a truss or support?</li>
+      <li>Any medications taken for pain/discomfort?</li>
+      <li>For present complaint (e.g., analgesics, truss use).</li>
+      <li>Other current medications (e.g., for chronic cough, constipation,
+        anticoagulants).</li>
+    </ul>
+    <h3>DRUG HISTORY</h3>
+    <ul>
+      <li>Any medications that could cause chronic cough (e.g., ACE inhibitors)?</li>
+      <li>Steroid use (can weaken tissues).</li>
+      <li>Opioids (can cause constipation).</li>
+      <li>Herbal remedies.</li>
+    </ul>
+    <h3>ALLERGY HISTORY</h3>
+    <ul>
+      <li>Specify any known allergies (drugs, materials like mesh if known).</li>
+    </ul>
+    <h3>MENSTRUAL HISTORY (If female)</h3>
+    <ul>
+      <li>Relevant for differentiating from gynecological causes of groin
+        pain/swelling.</li>
+      <li>Pregnancy history (increased intra-abdominal pressure).</li>
+    </ul>
+    <h3>MARITAL STATUS</h3>
+    <h3>CHILDREN</h3>
+    <h3>PERSONAL HISTORY</h3>
+    <ul>
+      <li>APPETITE</li>
+      <li>DIET (Adequacy, fibre content to prevent constipation)</li>
+      <li>DIGESTION</li>
+      <li>MICTURITION (Symptoms of obstruction/straining)</li>
+      <li>BOWELS (Constipation, straining habits)</li>
+      <li>SLEEP DISTURBANCES (Due to pain/discomfort)</li>
+      <li>HABITS:
+        <ul>
+          <li>SMOKING (Chronic cough, impairs healing. Chutta cancer reference
+            less relevant for hernia.)</li>
+          <li>TOBACCO CHEWING (Khaini cancer reference less relevant for
+            hernia.)</li>
+          <li>PAN</li>
+          <li>ALCOHOL</li>
+          <li>SWIMMING (Generally good, unless causing strain)</li>
+        </ul>
+      </li>
+    </ul>
+    <h3>SEXUAL HISTORY</h3>
+    <p><br>
+    </p>
+    <h3>FAMILY HISTORY</h3>
+    <ul>
+      <li>Similar complaints (hernias) in family members? (Genetic
+        predisposition)</li>
+      <li>History of DM, HTN, TB, Asthma, Bleeding disorders.</li>
+    </ul>
+    <h3>GENERAL EXAMINATION</h3>
+    <ul>
+      <li>CONSCIOUS, COHERENT, COOPERATIVE, COMFORTABLE (or in discomfort)</li>
+      <li>HEIGHT, WEIGHT, BMI (Obesity is a risk factor)</li>
+      <li>GAIT (Antalgic if pain)</li>
+      <li>BUILT [SKELETAL FRAMEWORK], NOURISHED [MUSCLE MASS, SKIN FOLD
+        THICKNESS]</li>
+      <li>ATTITUDE</li>
+      <li>PALLOR, ICTERUS, CYANOSIS, CLUBBING</li>
+      <li>GENERALIZED LYMPHADENOPATHY (or specifically inguinal nodes to
+        differentiate from hernia)</li>
+      <li>PEDAL EDEMA</li>
+      <li>Signs of chronic respiratory disease (barrel chest, use of accessory
+        muscles).</li>
+      <li>Abdominal distension (ascites, which can cause/worsen hernia).</li>
+      <li>OBVIOUS SWELLINGS elsewhere.</li>
+      <li>GENITALIA (Inspect for completeness, previous surgeries, unrelated
+        pathology).</li>
+    </ul>
+    <h3>VITALS</h3>
+    <ul>
+      <li>TEMPERATURE (Elevated in inflammatory swelling or strangulation)</li>
+      <li>PULSE (Tachycardia in inflammatory swelling or pain/strangulation)</li>
+      <li>BLOOD PRESSURE</li>
+      <li>RESPIRATORY RATE</li>
+      <li>SPO2</li>
+    </ul>
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/h-ugiHSqosw"
+        title="Testicular Examination: Step-by-Step Guide | PLAB2/UKMLA" height="864"
+        frameborder="0" width="1520"></iframe> </div>
+    <br>
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wpoTJOcbetU"
+        title="Testicular Examination - OSCE VIDEO - ASPIRE ACADEMY" height="864"
+        frameborder="0" width="1520"></iframe> </div>
+    <h3>LOCAL EXAMINATION: INGUINAL REGION / SCROTUM</h3>
+    <p><em>(<b>Prerequisites:</b> Explain procedure, obtain consent, ensure
+        privacy, offer chaperone, ask if patient has any pain before starting. (<a
+          class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=8s">Video
+          0:08-0:31</a>). Always examine both sides, starting with the normal
+        side if unilateral. Ask patient to stand for initial inspection and
+        cough, then lie supine. Ensure adequate exposure.)</em></p>
+    <h4>INSPECTION (Patient Standing and Supine) (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=42s">Video
+        0:42-1:05</a>)</h4>
+    <ul>
+      <li><strong>General Appearance:</strong> Ask patient to point to the
+        swelling. Observe from front, sides, and back if necessary. (<a class="timestamp"
+          href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=85s">Video
+          1:25</a>)</li>
+      <li><strong>Number of Swellings:</strong> Single / Multiple.</li>
+      <li><strong>Site:</strong> Precisely locate (e.g., right inguinal region,
+        left inguinoscrotal, testicular). Relationship to pubic tubercle
+        (inguinal hernia typically superomedial, femoral inferolateral).</li>
+      <li><strong>Extent:</strong> How far does it extend? Into scrotum?</li>
+      <li><strong>Size &amp; Shape:</strong> Approximate dimensions (e лидерg.,
+        "size of a lemon", globular, ovoid, pear-shaped).</li>
+      <li><strong>Skin over the swelling:</strong>
+        <ul>
+          <li>Redness, swelling (oedema), visible injury. (<a class="timestamp"
+              href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=46s">Video
+              0:46</a>)</li>
+          <li>Scars (previous surgery/injury). (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=46s">Video
+              0:46</a>)</li>
+          <li>Normal scrotal rugosities (present/absent/effaced). (<a class="timestamp"
+              href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=52s">Video
+              0:52</a>)</li>
+          <li>Hair distribution. (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=57s">Video
+              0:57</a>)</li>
+          <li>Dilated veins, pigmentation, tense/glossy appearance, ulceration.</li>
+        </ul>
+      </li>
+      <li><strong>Visible Deformity.</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=46s">Video
+          0:46</a>)</li>
+      <li><strong>Symmetry of Scrotum</strong> (if applicable).</li>
+      <li><strong>Patient holding penis</strong> (as instructed in video for
+        testicular exam). (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=61s">Video
+          1:01</a>)</li>
+      <li><strong>Visible Peristalsis</strong> (if bowel in hernial sac).</li>
+      <li><strong>Cough Impulse (Visible):</strong> Ask patient to cough (while
+        standing). Observe if swelling appears or increases in size.</li>
+      <li><strong>Inspect Hernial Orifices</strong> (inguinal, femoral,
+        umbilical, epigastric) when patient is supine.</li>
+    </ul>
+    <h4>PALPATION (Patient Standing and Supine)</h4>
+    <p><em>(Ask for consent, warn about potential discomfort. Palpate normal
+        side first if unilateral. Keep looking at the patient's face for signs
+        of tenderness. (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=136s">Video
+          2:16</a>))</em></p>
+    <ul>
+      <li><strong>Temperature:</strong> Compare temperature of the
+        swelling/testicle with the thigh (front and back of testicle). (<a class="timestamp"
+          href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=67s">Video
+          1:07-1:21</a>)</li>
+      <li><strong>Tenderness (Superficial and Deep Palpation):</strong>
+        <ul>
+          <li>Gently palpate the swelling and surrounding area. Note location of
+            maximal tenderness.</li>
+          <li>Palpate testicle on the top, spermatic cord, and epididymis
+            (posteriorly). (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=101s">Video
+              1:41-1:55</a>)</li>
+          <li>Feel the borders of the testicles properly. (<a class="timestamp"
+              href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=134s">Video
+              2:14</a>)</li>
+          <li>Repeat on other side. (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=146s">Video
+              2:26</a>)</li>
+          <li>(Severe tenderness suggests strangulation/inflammation/torsion).</li>
+        </ul>
+      </li>
+      <li><strong>Swelling/Mass Characteristics (if present, describe in detail
+          <a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=156s">Video
+            2:36-3:02</a>):</strong>
+        <ul>
+          <li>Site (anterior/posterior, relation to testicle).</li>
+          <ul>
+            <li>Plane of the swelling</li>
+          </ul>
+          <li>Size (approximate cm).</li>
+          <li>Stretch = extent</li>
+          <ul>
+            <li> <strong>Getting Above the Swelling (for inguinoscrotal
+                swellings):</strong> Crucial for differentiating hernia from
+              purely scrotal swelling. If you cannot get above it, it's likely
+              an inguinoscrotal hernia.</li>
+          </ul>
+          <li>Shape (globular, ovoid etc.).</li>
+          <li>Surface (smooth, lobulated).</li>
+          <li>Sides = Edge (well-defined, indistinct).</li>
+          <li>Consistency (soft, firm, hard, cystic, tense, doughy, "bag of
+            worms" for varicocele).</li>
+          <li>Mobility.</li>
+          <li>Attached to underlying testicle or overlying skin?</li>
+        </ul>
+      </li>
+      <li><strong>Cough Impulse (Palpable):</strong> Place fingers over the
+        swelling/inguinal ring, ask patient to cough. Feel for an expansile
+        impulse.</li>
+      <li><strong>Reducibility:</strong>
+        <ul>
+          <li>Patient supine. Attempt gentle, sustained pressure along the path
+            of the inguinal canal.</li>
+          <li>Note if reducible, irreducible, or partially reducible. Note any
+            gurgling.</li>
+          <li>If irreducible and painful, suspect incarceration/strangulation.</li>
+        </ul>
+      </li>
+      <li><strong>Palpation of Testes, Epididymis, and Spermatic Cord:</strong>
+        (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=102s">Video
+          1:42</a>, <a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=108s">1:48</a>,
+        <a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=111s">1:51</a>)
+        <ul>
+          <li>Confirm presence of both testes in scrotum.</li>
+          <li>Assess each testis for size, shape, consistency, tenderness.</li>
+          <li>Palpate epididymis (posterior aspect) for tenderness or cysts
+            (e.g., epididymal cyst <a class.timestamp="" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=125s">Video
+              2:05-2:08</a>).</li>
+          <li>Palpate spermatic cord for thickening, masses (e.g., spermatocele
+            <a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=108s">Video
+              1:48</a>), or "bag of worms" feel (varicocele).</li>
+        </ul>
+      </li>
+      <li><strong>Fluctuation Test:</strong> (Hold swelling with thumb and index
+        finger, press one side, see if impulse transmitted to other side if
+        fluid-filled). (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=185s">Video
+          3:05-3:21</a>, <a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=227s">Video
+          3:47</a> for "fluctuant or not")</li>
+      <li><strong>Transillumination:</strong> (Shine a torch from behind the
+        scrotal swelling in a darkened room. Use paper if needed. Red glow =
+        fluid (hydrocele, epididymal cyst). Opaque = solid/bowel/omentum
+        (hernia, tumour, hematocele, pyocele)). (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=267s">Video
+          4:27-5:01</a>)</li>
+      <li><strong>Deep Ring Occlusion Test / Inguinal Hernia Test:</strong>
+        <ul>
+          <li>Patient supine, reduce hernia. Occlude deep ring (approx. 1.25cm
+            above midpoint of inguinal ligament - halfway between ASIS and pubic
+            tubercle). Patient stands/coughs.</li>
+          <li>If controlled: Indirect. If appears medial to finger: Direct.</li>
+        </ul>
+      </li>
+      <li><strong>Regional Lymph Nodes:</strong> Palpate inguinal lymph nodes. (<a
+          class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=310s">Video
+          5:10</a> - mentioned as completion step)</li>
+    </ul>
+    <h4>PERCUSSION</h4>
+    <ul>
+      <li>Over the swelling: Resonant if gas-filled bowel. Dull if omentum or
+        fluid.</li>
+    </ul>
+    <h4>AUSCULTATION</h4>
+    <ul>
+      <li>Over the swelling: Listen for bowel sounds (borborygmi) if bowel is
+        suspected in the sac. </li>
+      <ul>
+        <li>Absence may indicate strangulation if other signs present.</li>
+      </ul>
+    </ul>
+    <h4>SPECIAL TESTS (Testicular Examination Context)</h4>
+    <ul>
+      <li><strong>Phrens Test:</strong> (Elevate testes. If pain reduces =
+        suggestive of epididymitis. If pain persists/worsens = may suggest
+        torsion). (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=241s">Video
+          4:01-4:07</a>)</li>
+      <li><strong>Cremasteric Reflex:</strong> (Stroke medial aspect of thigh.
+        Normal = ipsilateral testicular elevation. Lost in testicular torsion).
+        (<a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=253s">Video
+          4:13-4:22</a>)</li>
+    </ul>
+    <h4>COMPLETION OF EXAMINATION (as suggested in Video <a class="timestamp" href="https://www.youtube.com/watch?v=wpoTJOcbetU&amp;t=306s">5:06-5:15</a>)</h4>
+    <ul>
+      <li>Full abdominal examination.</li>
+      <li>Check inguinal lymph nodes (already included in palpation).</li>
+      <li>(Mention need for ultrasound scan of testicles as part of further
+        investigations if indicated).</li>
+    </ul>
+    <h3>DIAGNOSIS</h3>
+    <ol>
+      <li><strong>ANATOMICAL:</strong> e.g., Right Indirect/Direct Inguinal
+        Hernia; Left Femoral Hernia; Right Inguinoscrotal Hernia.</li>
+      <li><strong>ETIOLOGICAL:</strong> e.g., </li>
+      <ol>
+        <li>Congenital (Patent Processus Vaginalis for indirect); </li>
+        <li>Acquired (due to weakness of posterior inguinal wall/Hesselbach's
+          triangle, increased intra-abdominal pressure).</li>
+      </ol>
+      <li><strong>PATHOLOGICAL:</strong> e.g., Containing omentum/small bowel
+        loops.</li>
+      <li><strong>CLINICAL (Status):</strong> e.g., Reducible, Irreducible
+        (incarcerated), Obstructed, Strangulated.</li>
+    </ol>
+    <p><em>Definition: Hernia is defined as a protrusion of whole or a part of
+        viscus through the wall that contains it.</em> (Examples: Muscle through
+      fascial covering, Brain through fracture of skull, Brain through foramen
+      magnum into spinal canal, abdominal hernias).</p>
+    <p><strong>Common Abdominal Hernias:</strong> Inguinal
+      (Direct/Indirect/Oblique), Femoral, Umbilical, Incisional, Epigastric,
+      Obturator, Lumbar, Gluteal, Spigelian.</p>
+    <p><strong>Complete Inguinal Hernia:</strong> Sac contents reach bottom of
+      scrotum.</p>
+    <h3>INVESTIGATIONS</h3>
+    <ul>
+      <li>Usually a clinical diagnosis for uncomplicated inguinal/femoral
+        hernias.</li>
+      <li><strong>TO CONFIRM DIAGNOSIS (if unclear):</strong>
+        <ul>
+          <li>Ultrasound of Groin/Scrotum: To differentiate from other lumps,
+            assess contents.</li>
+        </ul>
+      </li>
+      <li><strong>Routine Pre-operative Investigations (if surgery planned):</strong>
+        FBC, U&amp;Es, Coagulation, ECG, CXR as per patient profile and local
+        guidelines.</li>
+    </ul>
+    <h3>TREATMENT PLAN (FOR THIS PATIENT)</h3>
+    <p><em>(Management will depend on the specific findings, hernia type,
+        symptoms, patient fitness, and NICE guidelines CG Hernia, TA190/TA200.)</em></p>
+    <h4>Patient-Specific Plan for Inguinoscrotal Swelling</h4>
+    <li>Initial Investigations
+      <ul>
+        <li><b>Clinical Assessment:</b> Detailed history and physical
+          examination including transillumination (<a class="timestamp" href="https://www.youtube.com/watch?v=sEhVgHRObQ4&amp;t=250s">Video
+            4:10</a>) and assessment of reducibility, cough impulse, and ability
+          to get above the swelling.</li>
+        <li>Blood work (If infection, inflammation, or malignancy suspected, or
+          for pre-operative assessment):
+          <ul>
+            <li>Full Blood Count (FBC) with differential (for
+              infection/inflammation).</li>
+            <li>C-Reactive Protein (CRP) / Erythrocyte Sedimentation Rate (ESR)
+              (for infection/inflammation).</li>
+            <li>Urea &amp; Electrolytes (U&amp;Es), Liver Function Tests (LFTs)
+              (if systemic illness or pre-op).</li>
+            <li>Tumour Markers (if testicular mass suspected): Alpha-fetoprotein
+              (AFP), Beta-human Chorionic Gonadotropin (&beta;-hCG), Lactate
+              Dehydrogenase (LDH).</li>
+          </ul>
+        </li>
+        <li>Imaging:
+          <ul>
+            <li><b>Ultrasound (Scrotal/Doppler Ultrasound):</b> Primary imaging
+              modality to assess nature of swelling (cystic vs. solid), contents
+              (bowel, omentum, fluid), blood flow (especially if torsion is
+              suspected), and differentiate between hernia, hydrocele,
+              varicocele, epididymal cyst, tumour.</li>
+            <li>Urine dipstick / Mid-Stream Urine (MSU) for microscopy, culture
+              &amp; sensitivity (if infection like epididymo-orchitis is
+              suspected).</li>
+            <li>STI screen (if epididymo-orchitis suspected in sexually active
+              individuals).</li>
+            <li>CT Scan (Chest/Abdomen/Pelvis): For staging if testicular cancer
+              is confirmed or highly suspected.</li>
+          </ul>
+        </li>
+        <li>Other:
+          <ul>
+            <li>Semen analysis (if varicocele is present and fertility is a
+              concern).</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Patient Communication
+      <ul>
+        <li><b>ICE</b> (Ideas, Concerns, Expectations): Elicit patient's
+          understanding, fears (e.g., cancer, infertility, surgery), and what
+          they hope to achieve.</li>
+        <li>Diagnosis disclosure: Clearly explain the most likely diagnosis
+          (e.g., inguinal hernia, hydrocele) and differentials.</li>
+        <li>Explanation of findings: Discuss results of examination and initial
+          investigations in simple terms.</li>
+      </ul>
+    </li>
+    <li>Further Investigations (Based on initial findings)
+      <ul>
+        <li>Specialized tests:
+          <ul>
+            <li>Exploratory surgery (may be diagnostic and therapeutic, e.g.,
+              for suspected testicular torsion or strangulated hernia).</li>
+            <li>Fine Needle Aspiration (FNA) or Biopsy: Generally AVOIDED for
+              primary testicular masses due to risk of tumour seeding. Diagnosis
+              is usually made via orchidectomy. FNA might be considered for
+              epididymal lesions if diagnosis is unclear post-ultrasound.</li>
+          </ul>
+        </li>
+        <li>Referrals:
+          <ul>
+            <li><b>Urgent Surgical/Urology Referral (same day/2 Week Wait - 2WW
+                pathway if cancer suspected):</b> For suspected testicular
+              torsion (emergency), strangulated/obstructed hernia (emergency),
+              testicular tumour (urgent - 2WW).</li>
+            <li>Routine Surgical/Urology Referral: For uncomplicated hernias,
+              hydroceles, varicoceles, epididymal cysts requiring intervention.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Treatment Plan
+      <ul>
+        <li>Symptomatic treatment:
+          <ul>
+            <li>Analgesia (e.g., Paracetamol, NSAIDs) for pain/discomfort.</li>
+            <li>Scrotal support for comfort (e.g., in epididymo-orchitis, large
+              varicocele, post-op).</li>
+            <li>Rest and avoidance of strenuous activity (especially for acute
+              conditions or post-op).</li>
+          </ul>
+        </li>
+        <li>Specific treatment (depends on the cause):
+          <ul>
+            <li><strong>Inguinal Hernia (Inguinoscrotal):</strong>
+              <ul>
+                <li>Non-Medical: Watchful waiting (for minimally symptomatic,
+                  reducible hernias in men, with clear red flag advice).
+                  Lifestyle modification (weight loss, manage
+                  constipation/cough). Truss (limited use, specific patients).</li>
+                <li>Surgical: Herniorrhaphy or Hernioplasty (open or
+                  laparoscopic).</li>
+              </ul>
+            </li>
+            <li><strong>Hydrocele:</strong>
+              <ul>
+                <li>Non-Medical: Reassurance (common in newborns, often resolves
+                  spontaneously). Scrotal support for comfort.</li>
+                <li>Surgical (if persistent, large, symptomatic, or causing
+                  cosmetic concern): Hydrocelectomy (e.g., Jaboulay's procedure,
+                  Lord's plication). Aspiration (temporary, high recurrence).</li>
+              </ul>
+            </li>
+            <li><strong>Varicocele:</strong>
+              <ul>
+                <li>Non-Medical: Reassurance if asymptomatic. Scrotal support.</li>
+                <li>Medical: Analgesia if painful.</li>
+                <li>Surgical/Interventional Radiology (if symptomatic,
+                  testicular atrophy, or infertility): Varicocelectomy (open or
+                  laparoscopic ligation) or percutaneous embolization.</li>
+              </ul>
+            </li>
+            <li><strong>Epididymal Cyst / Spermatocele:</strong>
+              <ul>
+                <li>Non-Medical: Reassurance (usually benign).</li>
+                <li>Surgical (if large, painful, or bothersome): Excision of
+                  epididymal cyst.</li>
+              </ul>
+            </li>
+            <li><strong>Testicular Torsion (SURGICAL EMERGENCY):</strong>
+              <ul>
+                <li>Surgical: Immediate surgical exploration, detorsion, and
+                  bilateral orchiopexy. If testis is non-viable, orchidectomy.</li>
+              </ul>
+            </li>
+            <li><strong>Epididymo-orchitis:</strong>
+              <ul>
+                <li>Medical: Antibiotics (e.g., Ofloxacin + Doxycycline for
+                  &lt;35 yrs; Ciprofloxacin or Co-amoxiclav for &gt;35 yrs,
+                  tailored to sensitivities). Analgesia. Scrotal support, rest,
+                  hydration. Partner notification and treatment if STI-related.</li>
+              </ul>
+            </li>
+            <li><strong>Testicular Tumour:</strong>
+              <ul>
+                <li>Surgical: Radical inguinal orchidectomy (primary treatment).</li>
+                <li>Medical: Chemotherapy (depending on histology and stage).</li>
+                <li>Other: Radiotherapy (for seminomas), Retroperitoneal lymph
+                  node dissection (RPLND) in some cases. Sperm banking prior to
+                  treatment.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>Medical/ (Covered above by specific condition)</li>
+        <li>Surgical (Covered above by specific condition)</li>
+        <li>Admission required: Yes (e.g., testicular torsion, strangulated
+          hernia, orchidectomy for tumour, acute severe epididymo-orchitis) / No
+          (e.g., for routine outpatient management of uncomplicated hernia,
+          asymptomatic hydrocele/varicocele/epididymal cyst).</li>
+      </ul>
+    </li>
+    <li>Follow Up
+      <ul>
+        <li>Frequency: Depends on diagnosis and treatment. Post-operatively as
+          per surgical protocol. If watchful waiting for hernia, e.g., annually
+          or if symptoms change.</li>
+        <li>Specialist referrals: Urology, General Surgery, Oncology as
+          appropriate.</li>
+        <li>Allied health:
+          <ul>
+            <li>Physio Therapist: Post-operative rehabilitation for some hernia
+              repairs, or if deconditioning.</li>
+            <li>Fertility specialist (if varicocele and infertility, or
+              post-orchidectomy/chemo).</li>
+            <li>Psychological support/Counselling (especially for cancer
+              diagnosis, body image concerns, infertility).</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Patient Education
+      <ul>
+        <li><b>Warning Signs/Red Flags:</b>
+          <ul>
+            <li>For Hernia: Sudden severe pain, swelling becomes hard/tender and
+              irreducible, vomiting, inability to pass stool/wind (signs of
+              strangulation/obstruction).</li>
+            <li>For Testicular Torsion: Sudden onset of severe testicular pain,
+              often with nausea/vomiting (seek immediate medical attention).</li>
+            <li>For Testicular Cancer: Any new lump, change in
+              size/shape/consistency of testis, dull ache, heaviness
+              (self-examination awareness).</li>
+            <li>Post-operative: Signs of wound infection (redness, pus,
+              increasing pain, fever), excessive swelling, bleeding.</li>
+          </ul>
+        </li>
+        <li>Educational materials provided: Leaflets/pamphlets specific to their
+          condition (e.g., hernia repair, hydrocele, testicular
+          self-examination).</li>
+        <li>Useful resources/links: (e.g., NHS website, specific charity/support
+          group websites like Orchid for testicular cancer).</li>
+        <li>Testicular Self-Examination (TSE) advice, especially for young men.</li>
+      </ul>
+    </li>
+    <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

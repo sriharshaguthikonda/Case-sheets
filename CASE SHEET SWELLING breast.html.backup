@@ -1,0 +1,1426 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Breast Swelling Case Sheet</title>
+    <style>
+          body {
+            font-size: 8pt;
+            line-height: 1.4;
+            padding: 0 1cm;
+            font-family: 'Times New Roman', times, serif;
+          }
+          
+          /* Lists */
+          ol, ul {
+            margin-left: 10%;
+            padding-left: 0;
+          }
+          
+          ul {
+            list-style-type: lower-alpha;
+          }
+          
+          ol {
+            list-style-type: decimal;
+          }
+          
+          .section {
+            margin-bottom: 15px;
+          }
+          
+          h3 {
+            font-size: 9pt;
+            font-weight: bold;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            color: #333;
+            font-family: 'Times New Roman', times, serif;
+          }
+        summary {
+            font-size: 8pt;
+            font-weight: bold;
+            color: #333;
+            font-family: 'Times New Roman', times, serif;
+          }
+          
+          h4 {
+            font-size: 8pt;
+            font-weight: bold;
+            margin-top: 10px;
+            margin-bottom: 8px;
+            color: #444;
+            font-family: 'Times New Roman', times, serif;
+          }
+
+    
+          u {
+            color: #2100fd;
+            text-decoration: none;
+            font-weight: bold;
+            font-style: normal;
+          }
+    
+          b {
+            color: #fd0054;
+            text-decoration: none;
+            font-weight: bold;
+            font-style: normal;
+          }
+    
+          em {
+            text-decoration: none;
+            font-weight: bold;
+            font-style: normal;
+            color: #08cca2;
+          }
+    
+          strong {
+            color: #09a8cc;
+            font-weight: bold;
+            font-style: normal;
+            text-decoration: none;
+          }
+          .video-container {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 2/ 1; /* Width:Height = 1:2 */
+          }
+    
+          td {
+            padding: 5px;
+            font-size: 8pt;
+          }
+          tr {
+            padding: 5px;
+            font-size: 8pt;
+          }
+          
+          .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+    
+          iframe {
+            width: 100%;
+            height: 100%;
+          }
+        </style>
+  </head>
+  <body>
+    <h3>PATIENT INFORMATION</h3>
+    <ul>
+      <li>NAME:</li>
+      <li>AGE:
+        <ul>
+          <li>&lt; 35yr &acirc;&euro;&ldquo; Fibroadenoma common</li>
+          <li>Lactating &acirc;&euro;&ldquo; Abscess/Mastitis of lactation</li>
+          <li>&gt;40 yr &acirc;&euro;&ldquo; Carcinoma more likely</li>
+        </ul>
+      </li>
+      <li>SEX: </li>
+      <ul>
+        <li>Female predominantly; </li>
+        <li>Trans</li>
+        <li>Male breast cancer is rare)</li>
+      </ul>
+      <li>EDUCATION:</li>
+      <li>OCCUPATION:</li>
+      <li>RESIDENCE: (Note any geographical correlations if known, e.g.,
+        Fibroadenosis &acirc;&euro;&ldquo; West; Rare in Japan)</li>
+      <li>RELIGION:</li>
+      <li>SOCIAL STATUS: (Dietary habits, e.g., high saturated FAs can be a risk
+        factor for some conditions)</li>
+      <li>DATE &amp; TIME OF CONSULTATION (T/D):</li>
+      <li>INFORMANT: (Patient/Relative, Reliability)</li>
+    </ul>
+    <h3>CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
+    <ol>
+      <li>Lump [vague mass] in right breast for 2 months</li>
+      <li>Swelling [more general term] for 1 month (Causes: C-MINT approach can
+        be used for differentials)</li>
+      <li>Pain in right breast for 3 weeks</li>
+      <li>Discharge from nipple</li>
+      <li>Retraction of nipple</li>
+    </ol>
+    <h3>HISTORY OF PRESENT ILLNESS</h3>
+    <p>( chronological order using SODA CRAPPERS)</p>
+    <details>
+      <summary>1<sup>ST</sup> COMPLAINT: SWELLING/LUMP IN RIGHT BREAST (for 2 months)</summary>
+    <ul>
+      <li><strong>S: Site</strong>
+        <ul>
+          <li>Which breast? (</li>
+          <ul>
+            <li>Right/Left/</li>
+            <li>Bilateral)</li>
+          </ul>
+          <li>Specific quadrant? (e.g., </li>
+          <ul>
+            <li>Upper Outer Quadrant, </li>
+            <li>Upper Inner, </li>
+            <li>Lower Outer, </li>
+            <li>Lower Inner, </li>
+            <li>Central/Retroareolar)</li>
+          </ul>
+          <li>Where did patient first notice it precisely?</li>
+          <li>Any relation to previous burn, scar, pin prick, or naevus.</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li>Was the onset gradual or sudden?</li>
+          <li>Any history of trauma to the breast? (Can lead to: 1. Hematoma, 2.
+            Fat necrosis)</li>
+          <li>Was it noticed incidentally, during self-examination, or by a
+            partner/doctor?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li>When did patient first notice the lump/swelling? (e.g., "Patient
+            noticed a single marble-sized swelling in the right breast 2 months
+            ago")</li>
+          <li>How long has the lump/swelling been present? (e.g., 2 months)</li>
+          <li>Is it constant or intermittent?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating&nbsp;</strong>
+        <ul>
+          <li>Does the lump size or discomfort change with menstrual cycle?</li>
+          <ul>
+            <li>(e.g., worsens premenstrually in fibrocystic
+              changes/fibroadenosis)</li>
+          </ul>
+          <li>Pregnancy</li>
+          <li>lactation</li>
+          <li>Hormones</li>
+          <li>Medicines</li>
+          <ul>
+          </ul>
+          <li>Any specific movements, pressure, or activities that make it more
+            prominent or painful?</li>
+        </ul>
+      </li>
+      <li>Relieving Factors:
+        <ul>
+          <li>Does anything make it smaller or less noticeable (e.g., specific
+            positions, post-menstruation)?</li>
+          <li>Any effect of simple analgesia if painful?</li>
+        </ul>
+      </li>
+      <br>
+      <br>
+      <li><strong>C: Character/Type (Patient's description of the lump if they
+          can provide it)</strong>
+        <ul>
+          <li>Patient's perception of its feel (e.g., hard, soft, rubbery, like
+            a pea or grape).</li>
+          <li>Is it perceived as a discrete lump or a general area of
+            thickening/swelling? (e.g., "vague mass" mentioned in chief
+            complaint)</li>
+          <li>Pain characteristics if pain is a feature of the lump itself:
+            <ul>
+              <li>Short duration &amp; Painful: Suggests Inflammatory.</li>
+              <li>A bit longer &amp; Painless: Can be Malignant (many breast
+                cancers are initially painless).</li>
+              <li>Long duration &amp; Less Painful: Can be Chronic Inflammation
+                (e.g., some forms of mastitis, duct ectasia).</li>
+              <li>Long duration &amp; Painless: Can be Benign (e.g.,
+                fibroadenoma, cyst).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong>
+        <ul>
+          <li>Does any discomfort or pain associated with the lump radiate?
+            (e.g., to axilla, arm)</li>
+        </ul>
+      </li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Pain in the lump or breast (see 2nd complaint).</li>
+          <li>Nipple discharge (see 3rd complaint).</li>
+          <li>Nipple retraction or inversion (see 4th complaint).</li>
+          <li>Skin changes over the lump/breast: (Dimpling, puckering, peau
+            d'orange, redness, warmth, ulceration, fungation).</li>
+          <li>Fever (suggests infection, e.g., mastitis, abscess).</li>
+          <li>Other swellings: (e.g., in axilla, supraclavicular fossa
+            &acirc;&euro;&ldquo; lymph nodes). (General examples for multiple
+            swellings like NF, Diaphyseal Aclasis, Hodgkin's are less specific
+            to breast primaries).</li>
+          <li>Secondary changes noted by patient: Softening, ulceration,
+            fungation, inflammation of the lump.</li>
+          <li>Impairment of arm movement on the affected side.</li>
+          <li>Disfigurement.</li>
+          <li>Systemic symptoms: Unexplained weight loss (Associated with
+            Malignancy, TB, AIDS - cold abscess less relevant for typical breast
+            primary), fatigue, bone pain.</li>
+          <li>Difficulty in respiration, difficulty in swallowing (if advanced
+            disease/metastases - rare as initial presentation with lump).</li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>Has the lump changed in size since first noticed? (e.g.,
+            "gradually increasing in size and attained present size")
+            <ul>
+              <li>Very Rapid progression: Suggests Inflammatory.</li>
+              <li>Rapidly progressive: Can be Malignant (e.g., some Ca except
+                atrophic scirrhous Ca.).</li>
+              <li>Slowly progressive: Can be Benign (e.g., Fibroadenosis,
+                Fibroadenoma) or some slow-growing cancers.</li>
+            </ul>
+          </li>
+          <li>Has it changed in consistency or other characteristics?</li>
+          <li>Regressive (e.g., inflammatory process resolving).</li>
+          <li>Static.</li>
+          <li>Static then Rapid growth (suggests benign lesion undergoing
+            malignant change, though rare for most common benign lumps).</li>
+          <li>History of Recurrence (after excision/previous treatment for a
+            breast lump):
+            <ul>
+              <li>Benign lesion recurring.</li>
+              <li>Malignant recurrence (local or regional).</li>
+              <li>Cyst recurrence if wall incompletely removed.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li>Is the lump always present?</li>
+          <li>Does its size or tenderness fluctuate, e.g., with the menstrual
+            cycle (cyclical changes)?</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on life</strong>
+        <ul>
+          <li>Impact on daily activities, clothing choice, body image, sleep.</li>
+          <li>Any anxiety or concern caused by the lump.</li>
+          <li>Interfering with movement.</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags (for the lump itself)</strong>
+        <ul>
+          <li>Rapid growth.</li>
+          <li>Weight loss</li>
+          <li>Tiredness</li>
+          <li>Bone pain</li>
+          <li>Associated skin changes (puckering, dimpling, peau
+            d'orange, ulceration).</li>
+          <li>Associated nipple changes (new retraction, bloody discharge).</li>
+          <li>Palpable axillary or supraclavicular lymph nodes. = lumps and
+            bumps elsewhere?</li>
+          <li>Age &gt;40 years with a new persistent lump.</li>
+          <li>(C-MINT approach can be used for differential diagnosis).</li>
+        </ul>
+      </li>
+      <li><strong>S: Scale</strong> (If associated pain, scale 0-10. Not usually
+        for the lump itself unless for "bother score").</li>
+    </ul>
+    </details>
+    <details>
+      <summary>2<sup>ND</sup> COMPLAINT: PAIN IN RIGHT BREAST (for 3 weeks)</summary>
+    <ul>
+      <li><strong>S: Site</strong>
+        <ul>
+          <li>Localized to the lump, specific quadrant, or diffuse throughout
+            the breast?</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li>When did the pain start in relation to the lump or other symptoms?</li>
+          <li>Sudden or gradual onset?</li>
+          <li>Any precipitating factors (e.g., trauma, infection, hormonal
+            changes)?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li>How long has the pain been present (e.g., 3 weeks)?</li>
+          <li>Is it constant or intermittent?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li>Aggravating Factors:
+            <ul>
+              <li>Movement, pressure (e.g., tight bra, lying on breast), touch.</li>
+              <li>Relation to menstrual cycle (e.g., pain in fibroadenosis
+                &acirc;&dagger;&lsquo; by menstruation [cyclical]).</li>
+            </ul>
+          </li>
+          <li>Relieving Factors:
+            <ul>
+              <li>Supportive bra, analgesics (which ones, effectiveness?),
+                heat/cold application.</li>
+              <li>Does rest help?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>C: Character/Type</strong>
+        <ul>
+          <li>Dull ache, sharp, stabbing, burning, throbbing, heaviness.</li>
+          <li>(Nature of pain in specific conditions: Acute Mastitis - severe
+            pain; Inflammatory Ca. - often painful, diffuse; Fibroadenosis -
+            cyclical, often dull ache/tenderness; Fat Necrosis/Hematoma - can be
+            painful post-trauma).</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong>
+        <ul>
+          <li>Does the pain radiate to the axilla, arm, shoulder, or back?</li>
+        </ul>
+        &ETH;&deg;&Ntilde;&sbquo;&ETH;&frac34;&ETH;&frac14;&ETH;&frac12;&ETH;&frac34;&ETH;&sup1;
+        </li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Lump/swelling (as per 1st complaint).</li>
+          <li>Nipple discharge (as per 3rd complaint).</li>
+          <li>Nipple retraction (as per 4th complaint).</li>
+          <li>Skin changes (redness, warmth, dimpling).</li>
+          <li>Fever, malaise (if infective/inflammatory).</li>
+          <li>Systemic symptoms (weight loss, fatigue).</li>
+          <li>History of metastatic disease: bone pain (back, hip, shoulder).</li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>Is the pain getting better, worse, or staying the same?</li>
+          <li>(Especially for post-treatment counselling cases: How has pain
+            changed after treatment X?)</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li>Continuous or Intermittent?</li>
+          <li>Cyclical (related to menstrual cycle) or non-cyclical?</li>
+          <li>Worse at particular times of day/night?</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on life</strong>
+        <ul>
+          <li>Impact on sleep, daily activities, ability to wear certain
+            clothes/bras, mood.</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags (for pain)</strong>
+        <ul>
+          <li>Severe, persistent, localized pain, especially if new and
+            non-cyclical.</li>
+          <li>Pain associated with a hard, fixed lump.</li>
+          <li>Pain associated with inflammatory skin changes (could be
+            inflammatory breast cancer).</li>
+          <li>Bone pain (suggestive of metastases).</li>
+        </ul>
+      </li>
+      <li><strong>S: Scale</strong> (Severity of pain on a scale of 0 to 10).</li>
+    </ul>
+    </details>
+    <details>
+      <summary>3<sup>RD</sup> COMPLAINT: NIPPLE DISCHARGE</summary>
+    <ul>
+      <li><strong>S: Site</strong>
+        <ul>
+          <li>Which nipple? (Right/Left/Bilateral)</li>
+          <li>From a single duct or multiple ducts? (Ask patient if they can
+            identify)</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li>When did the discharge start?</li>
+          <li>Is it spontaneous or only on expression/squeezing?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li>How long has the discharge been occurring?</li>
+          <li>Is it persistent or intermittent? Frequency of episodes?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li>Aggravating Factors: Does anything trigger or increase it (e.g., </li>
+          <ul>
+            <li>&nbsp;pressure, </li>
+            <li>Pregnancy</li>
+            <li>lactation</li>
+            <li>Hormones</li>
+            <li>Medicines</li>
+            <ul>
+            </ul>
+            <li>Any specific movements, or activities that make it more
+              prominent or painful?</li>
+          </ul>
+          <li>Relieving Factors: Does anything reduce it?</li>
+        </ul>
+      </li>
+      <li><strong>C: Character/Type (Quality &amp; Colour) &amp; Quantity</strong>
+        <ul>
+          <li>Quantity: Scant (stains bra), moderate, profuse.</li>
+          <li>Colour and Consistency:
+            <ul>
+              <li>Watery (Serous): Common in Fibroadenosis, Duct Ectasia; can
+                also be Intraductal Papilloma, early Cancer.</li>
+              <li>Pus (Purulent): Suggests Mammary abscess, Mastitis.</li>
+              <li>Sero-sanguinous (pinkish/blood-tinged watery): Concerning for
+                Duct Papilloma, Duct Ectasia, or Cancer.</li>
+              <li>Blood (Sanguinous - frank blood): Highly suspicious for Duct
+                Papilloma or Cancer.</li>
+              <li>Altered blood (dark brown/greenish): Duct Ectasia, resolving
+                hematoma within duct.</li>
+              <li>Milk (Galactorrhea): Normal during/post lactation; Galactocele
+                (milky cyst); Mammary fistula. Pathological if unrelated to
+                pregnancy/lactation.</li>
+            </ul>
+          </li>
+          <li>Odour (if any).</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong> (Not applicable to discharge itself).</li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Presence of a breast lump (as per 1st complaint).</li>
+          <li>Breast pain (as per 2nd complaint).</li>
+          <li>Nipple retraction or inversion (as per 4th complaint).</li>
+          <li>Skin changes on the breast or nipple/areola (e.g., eczema-like
+            rash for Paget's disease).</li>
+          <li>Fever (if infective cause).</li>
+          <li>Symptoms of galactorrhea (if milky discharge): Headaches, visual
+            disturbances, amenorrhea (suggesting possible pituitary cause).</li>
+          <li>Relation to menstrual cycle.</li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>Has the amount, colour, consistency, or frequency of the discharge
+            changed over time?</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li>Is it continuous, intermittent, or only with manipulation?</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on life</strong>
+        <ul>
+          <li>Staining of clothes, need for pads.</li>
+          <li>Embarrassment, anxiety about the cause.</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags (for nipple discharge)</strong>
+        <ul>
+          <li>Spontaneous, unilateral, single-duct discharge.</li>
+          <li>Bloody (sanguinous) or sero-sanguinous discharge.</li>
+          <li>Associated with a palpable breast mass.</li>
+          <li>Persistent discharge in a non-lactating, non-pregnant woman,
+            especially if over 40.</li>
+          <li>Associated nipple retraction or skin changes.</li>
+        </ul>
+      </li>
+      <li><strong>S: Scale</strong> (Not directly applicable, perhaps a bother
+        score for the patient).</li>
+    </ul>
+    </details>
+    <details>
+      <summary>4<sup>TH</sup> COMPLAINT: NIPPLE RETRACTION</summary>
+    <ul>
+      <li><strong>S: Site</strong>
+        <ul>
+          <li>Which nipple is affected? (Right/Left/Bilateral)</li>
+          <li>Is the entire nipple retracted or just a portion?</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li>When was the retraction first noticed?
+            <ul>
+              <li>Congenital (present since birth or noted around puberty -
+                developmental).</li>
+              <li>Recent/Acquired (concerning for pathological cause like
+                Cancer, Duct Ectasia, Periductal Mastitis, TB).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li>If acquired, how long has it been present?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li>Aggravating Factors: Does it become more pronounced with certain
+            movements (e.g., raising arm, pectoral contraction)?</li>
+          <li>Relieving Factors: Can the nipple be everted (manually or
+            spontaneously)? Or is it fixed?</li>
+        </ul>
+      </li>
+      <li><strong>C: Character/Type</strong>
+        <ul>
+          <li>Describe the retraction: Slit-like, circumferential, dimple-like.</li>
+          <li>Is there any tethering of the surrounding skin or areola?</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong> (Not applicable to retraction itself).</li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Palpable lump or thickening in the breast (as per 1st complaint).</li>
+          <li>Breast pain (as per 2nd complaint).</li>
+          <li>Nipple discharge (as per 3rd complaint).</li>
+          <li>Skin changes on the breast or areola (dimpling, puckering,
+            redness, rash, eczema of nipple for Paget's disease).</li>
+          <li>History of loss of weight (concerning for Ca. breast, TB of
+            breast).</li>
+          <li>History of TB of chest wall (potentially leading to retromammary
+            abscess - rare).</li>
+          <li>Previous breast infections or inflammation.</li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>If acquired, has the retraction worsened or changed over time?</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li>Is the retraction constant?</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on life</strong>
+        <ul>
+          <li>Cosmetic concerns.</li>
+          <li>Difficulty with breastfeeding (if applicable).</li>
+          <li>Anxiety about the underlying cause.</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags (for nipple retraction)</strong>
+        <ul>
+          <li>New onset or recent nipple retraction, especially if unilateral.</li>
+          <li>Associated palpable breast lump.</li>
+          <li>Associated skin changes (dimpling, peau
+            d&acirc;&euro;&trade;orange, ulceration).</li>
+          <li>Bloody nipple discharge.</li>
+          <li>Eczema-like rash on the nipple/areola (Paget&acirc;&euro;&trade;s
+            disease).</li>
+          <li>History of loss of weight.</li>
+        </ul>
+      </li>
+      <li><strong>S: Scale</strong> (Not applicable).</li>
+    </ul>
+    </details>
+
+    <p><em>History of metastatic disease (if cancer suspected): Bone pain (back,
+        hip, shoulder), jaundice, cough, breathlessness, headaches.</em></p>
+    <p><em>History of loss of weight (TB of breast, Ca. breast). TB of chest
+        wall leading to retromammary abscess is rare.</em></p>
+    <h3>HISTORY OF PAST ILLNESS</h3>
+    <ul>
+      <li><strong>Similar Complaints:</strong>
+        <ul>
+          <li>Recurrent abscess (may relate to congenital nipple retraction,
+            duct ectasia).</li>
+          <li>Previous TB of breast.</li>
+          <li>Diagnosed fibroadenosis or fibrocystic changes.</li>
+          <li>History of cancer in the opposite breast.</li>
+        </ul>
+      </li>
+      <li>Known Hypertensive?</li>
+      <li>Known Diabetic?</li>
+      <li>No history suggestive of asthma.</li>
+      <li>History suggestive of bleeding disorders (relevant if hematoma).</li>
+      <li>TB (chronic cough, systemic symptoms).</li>
+      <li>Syphilis.</li>
+      <li>MI.</li>
+    </ul>
+    <h3>PAST SURGICAL HISTORY</h3>
+    <ul>
+      <li>Previous breast surgeries (biopsy, lumpectomy, mastectomy, implant
+        surgery &acirc;&euro;&ldquo; specify type, date, side, histology if
+        known).</li>
+      <li>Appendicectomy.</li>
+      <li>Hernia repair.</li>
+      <li>Splenectomy.</li>
+    </ul>
+    <h3>TREATMENT HISTORY</h3>
+    <ul>
+      <li>For present complaint.</li>
+      <li>Any previous treatments for breast conditions (e.g., hormone therapy,
+        chemotherapy, radiotherapy).</li>
+    </ul>
+    <h3>DRUG HISTORY</h3>
+    <ul>
+      <li><em>Hormone </em>Replacement Therapy (HRT).</li>
+      <ul>
+        <li>We stop this in suspected <em>Cancer</em></li>
+      </ul>
+      <li>Oral Contraceptive Pills (OCPs).</li>
+      <ul>
+        <li>Stop in <em>Cancer</em></li>
+      </ul>
+      <li>sex transformation Steroids from friends or etc</li>
+      <li>NSAIDs.</li>
+      <li>Opioids.</li>
+      <li>Herbal remedies.</li>
+      <li>Any medications known to cause galactorrhea (e.g., antipsychotics,
+        metoclopramide).</li>
+    </ul>
+    <h3>MENSTRUAL &amp; OBSTETRIC HISTORY</h3>
+    <ul>
+      <li>Age of Menarche.</li>
+      <li>Last Menstrual Period (LMP), cycle length, regularity.</li>
+      <li>Parity: Number of pregnancies, live births.</li>
+      <li>Age at first live birth (early is protective).</li>
+      <li>Lactational History: Breastfed? Any problems during lactation (e.g.,
+        mastitis, abscess, galactocele)?</li>
+      <li>Age at Menopause (if applicable, late menopause is a risk factor).</li>
+      <li>(Symptoms like pain/lump in fibroadenosis can be aggravated by
+        menstruation - cyclical).</li>
+    </ul>
+    <h3>MARITAL STATUS: (Single status associated with increased risk for some
+      conditions like fibroadenosis, cancer due to factors like nulliparity, not
+      breastfeeding).</h3>
+    <h3>CHILDREN: (Nulliparous is a risk factor for breast cancer).</h3>
+    <h3>PERSONAL HISTORY</h3>
+    <ul>
+      <li>APPETITE</li>
+      <li>DIET (High fat diet, alcohol intake are risk factors for breast
+        cancer).</li>
+      <li>DIGESTION</li>
+      <li>MICTURITION</li>
+      <li>BOWELS</li>
+      <li>SLEEP DISTURBANCES</li>
+      <li>HABITS:
+        <ul>
+          <li>SMOKING (Chutta/Khaini cancer not directly relevant to breast but
+            general habit).</li>
+          <li>TOBACCO CHEWING.</li>
+          <li>PAN.</li>
+          <li>ALCOHOL (risk factor for breast cancer).</li>
+          <li>SWIMMING.</li>
+        </ul>
+      </li>
+    </ul>
+    <h3>FAMILY HISTORY</h3>
+    <ul>
+      <li><strong>Similar Complaints / Breast Disease:</strong>
+        <ul>
+          <li>Breast cancer in first-degree relatives (mother, sister, daughter
+            &acirc;&euro;&ldquo; note age at diagnosis).</li>
+          <li>Breast cancer in second-degree relatives (grandmother, aunt).</li>
+          <li>History of ovarian cancer, prostate cancer, or other BRCA-related
+            cancers in family.</li>
+          <li>Benign breast conditions in family.</li>
+        </ul>
+      </li>
+      <li>DM, HTN, TB, ASTHMA, BLEEDING DISORDERS.</li>
+    </ul>
+    <h3>GENERAL EXAMINATION</h3>
+    <ul>
+      <li>CONSCIOUS, COHERENT, COOPERATIVE, COMFORTABLY (or in pain/distress).</li>
+      <li>HEIGHT, WEIGHT, BMI (Obesity is a risk factor for postmenopausal
+        breast cancer).</li>
+      <li>GAIT.</li>
+      <li>BUILT [SKELETAL FRAMEWORK], NOURISHED [MUSCLE MASS, SKIN FOLD
+        THICKNESS] (Cachexia if advanced malignancy).</li>
+      <li>ATTITUDE.</li>
+      <li>PALLOR (anemia in malignancy), ICTERUS (liver metastases), CYANOSIS,
+        CLUBBING.</li>
+      <li>GENERALISED LYMPHADENOPATHY (especially supraclavicular, cervical,
+        distant nodes if metastatic).</li>
+      <li>PEDAL EDEMA (may suggest advanced disease, cardiac issues).</li>
+      <li>HAIR, SKIN, EYE BROWS, FROWNING, EYES, PAROTID, NECK SWELLING,
+        DROOLING OF SALIVA, NAILS, DROOPING OF SHOULDER.</li>
+      <li>BREASTS (General overview before focused exam)/GYNECOMASTIA (if male).</li>
+      <li>OBVIOUS SWELLINGS elsewhere.</li>
+      <li>GENITALIA (Not typically part of routine breast exam unless specific
+        indication).</li>
+    </ul>
+    <h3>VITALS</h3>
+    <ul>
+      <li>TEMPERATURE (Elevated in inflammatory swelling/mastitis/abscess).</li>
+      <li>PULSE (Elevated in inflammatory swelling/pain).</li>
+      <li>BLOOD PRESSURE.</li>
+      <li>RESPIRATORY RATE.</li>
+      <li>SPO2.</li>
+    </ul>
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/pBEPOLzqcr8"
+
+        title="Breast Examination: Key Techniques for PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
+
+        frameborder="0" width="1520"></iframe> </div>
+    <h3>LOCAL EXAMINATION: BREASTS, AXILLAE, AND SUPRACLAVICULAR FOSSAE</h3>
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/77mfZXAi3YI"
+
+        title="Breast Examination - OSCE Guide | Aspire PLAB2/UKMLA Academy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
+
+        frameborder="0" width="1520"> </iframe> </div>
+    <p><em>(<b>Prerequisites:</b> Explain procedure: "Jennifer now I'm going to
+        examine your breast" (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=40s"
+
+          class="timestamp">Video 0:40</a>), ensure adequate exposure: "for the
+        purpose of examination I can see you adequately exposed thank you for
+        that" (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=42s" class="timestamp">Video
+          0:42</a>), offer/confirm chaperone: "I have a chaperon to ensure your
+        privacy" (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=46s"
+
+          class="timestamp">Video 0:46</a>), obtain consent: "May I proceed?" (<a
+
+          href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=50s" class="timestamp">Video
+          0:50</a>), ask if patient has any pain before starting: "Do you have
+        got pain anywhere?" (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=50s"
+
+          class="timestamp">Video 0:50</a>). Inform patient: "I'll be gentle and
+        quick, at any point of time you feel uncomfortable you want me to stop
+        let me know I will stop my examination" (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=52s"
+
+          class="timestamp">Video 0:52-1:00</a>). Compare both breasts
+        throughout. Document findings for affected and unaffected side.)</em></p>
+    <p><em>(<b>Prerequisites:</b> Strip patient to waist, ensure privacy &amp;
+        good lighting, obtain consent, offer chaperone. Compare both breasts
+        throughout. Document findings for affected and unaffected side.)</em></p>
+    <p><strong>POSITIONS FOR INSPECTION (Video <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=63s"
+
+          class="timestamp">1:03</a> mentions inspection has five steps):</strong></p>
+    <ol>
+      <li>Patient sitting </li>
+      <ol>
+        <li>upright with arms/hands on thighs. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=67s"
+
+            class="timestamp">Video 1:07-1:10</a>)</li>
+        <li>with hands on side, bending forward. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=86s"
+
+            class="timestamp">Video 1:26-1:30</a>)</li>
+        <li>both hands at the back of the head. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=100s"
+
+            class="timestamp">Video 1:40-1:44</a>)</li>
+      </ol>
+      <li>Patient lifts both breasts with two fingers (self-action by patient to
+        inspect inframammary area). (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=112s"
+
+          class="timestamp">Video 1:52-1:59</a>)</li>
+      <li>Patient squeezes both nipples with two fingers (self-action by patient
+        to check for discharge). (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=127s"
+
+          class="timestamp">Video 2:07-2:10</a>)</li>
+      <li>(Standard: Patient sitting with hands on hips, pressing inwards -
+        contracts pectoralis, may reveal retraction - not explicitly this
+        maneuver in video but "hands at back of head" serves similar purpose).</li>
+    </ol>
+    <h4>INSPECTION (in all mentioned positions)</h4>
+    <ul>
+      <li><strong>Breasts:</strong>
+        <ul>
+          <li>Symmetry: "Both the breasts are symmetrical". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=72s"
+
+              class="timestamp">Video 1:12</a>)</li>
+          <li>Nipples at the same level. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=72s"
+
+              class="timestamp">Video 1:12</a>)</li>
+          <li>Position (level).</li>
+          <li>Size (any gross difference).</li>
+          <li>Shape/Contour (any visible lump, distortion, flattening).</li>
+          <li>Puckering/Dimpling of skin.</li>
+          <li>Visible Swelling or Mass: "no visible mass". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=76s"
+
+              class="timestamp">Video 1:16</a>); "no visible mass on bending
+            forward". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=93s"
+
+              class="timestamp">Video 1:33</a>)</li>
+          <li>Ulceration or Fungation.</li>
+          <li>No sign of any injury or any trauma. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=79s"
+
+              class="timestamp">Video 1:19</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Skin over Breast:</strong>
+        <ul>
+          <li>Colour (erythema, bruising, discoloration).</li>
+          <li>Texture (smooth, peau d'orange).</li>
+          <li>Engorged veins (prominent superficial veins).</li>
+          <li>Dimpling/Retraction/Puckering.</li>
+          <li>Visible nodules.</li>
+          <li>Scars from previous biopsies/surgeries: "no scar mark of any
+            previous surgery". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=83s"
+
+              class="timestamp">Video 1:23</a>); On lifting breast: "no sign of
+            any scar mark or any surgery". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=120s"
+
+              class="timestamp">Video 2:00-2:02</a>)</li>
+          <li>Inframammary region: No fungal infection. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=119s"
+
+              class="timestamp">Video 1:59</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Nipple:</strong>
+        <ul>
+          <li>Is it absent (congenital/surgical)?</li>
+          <li>Position and symmetry (compare levels).</li>
+          <li>Number (accessory nipples?).</li>
+          <li>Size and Shape.</li>
+          <li>Surface (smooth, crusted, eczematous - Paget's disease).</li>
+          <li>Discharge: "no bleeding discharge coming from the nipples" (on
+            initial inspection <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=74s"
+
+              class="timestamp">Video 1:14</a>); On patient squeezing nipples:
+            "no bleeding or discharge coming out from the nipples". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=130s"
+
+              class="timestamp">Video 2:10-2:13</a>)</li>
+          <li>Retraction or Inversion (recent or long-standing,
+            unilateral/bilateral).</li>
+        </ul>
+      </li>
+      <li><strong>Areola:</strong>
+        <ul>
+          <li>Colour.</li>
+          <li>Size and Shape.</li>
+          <li>Surface (smooth, nodules, eczematous changes).</li>
+        </ul>
+      </li>
+      <li><strong>Arm &amp; Thorax:</strong> Swelling of the arm (lymphedema),
+        visible masses in axilla or chest wall.</li>
+      <li><strong>Axilla &amp; Supraclavicular Fossae:</strong> Fullness,
+        visible lymph nodes. "no auxiliary and supraclavicular fullness". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=104s"
+
+          class="timestamp">Video 1:44-1:47</a>)</li>
+      <li>Observe for shape changes on raising arms (tethering, asymmetry).</li>
+    </ul>
+    <h4>PALPATION (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=141s"
+
+        class="timestamp">Video 2:21</a>)</h4>
+    <p><strong>POSITIONS FOR PALPATION:</strong></p>
+    <ol>
+      <li>Video demonstrates palpation with patient sitting with hands behind
+        head (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=183s" class="timestamp">Video
+          3:03</a>). Standard practice also includes semi-recumbent/recumbent
+        position (pillow under ipsilateral shoulder, arm abducted/above head to
+        flatten breast tissue), as mentioned in video narration (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=32s"
+
+          class="timestamp">Video 0:32</a>).</li>
+    </ol>
+    <p><em>(Use flat of fingers in a systematic way, e.g., concentric circles or
+        radial spokes, covering all quadrants including axillary tail of Spence.
+        Video shows palpation starting at 7 o'clock, moving anticlockwise (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=164s"
+
+          class="timestamp">Video 2:44</a>). Avoid touching nipples and areola
+        during general breast palpation (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=180s"
+
+          class="timestamp">Video 3:00</a>). Look at patient's face for
+        tenderness (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=167s"
+
+          class="timestamp">Video 2:47</a>).)</em></p>
+    <ul>
+      <li><strong>Local Rise of Temperature:</strong> Compare temperature over
+        all four quadrants. "there is no local rise of temperature". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=149s"
+
+          class="timestamp">Video 2:29-2:39</a>)</li>
+      <li><strong>Superficial Palpation for Tenderness:</strong> Systematically
+        palpate all quadrants. "there is no tenderness on superficial
+        palpation". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=161s"
+
+          class="timestamp">Video 2:41-3:23</a>)</li>
+      <li><strong>Deep Palpation for Masses (Patient with hands at back of head
+          <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=183s" class="timestamp">Video
+            3:03-3:06</a>):</strong>
+        <ul>
+          <li>Palpate deeper in all quadrants. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=195s"
+
+              class="timestamp">Video 3:15-3:46</a>)</li>
+          <li>If a lump/swelling is found, assess:
+            <ul>
+              <li><strong>Site:</strong> Quadrant (e.g., "upper inner quadrant
+                of the right breast" <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=228s"
+
+                  class="timestamp">Video 3:48</a>), clock-face position,
+                distance from nipple.</li>
+              <li><strong>Number:</strong> Single or multiple.</li>
+              <li><strong>Size:</strong> Measure in two dimensions (cm) (e.g.,
+                "around 2 into 2 cm" <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=233s"
+
+                  class="timestamp">Video 3:53</a>).</li>
+              <li><strong>Shape:</strong> Round, oval, irregular.</li>
+              <li><strong>Surface:</strong> Smooth, lobulated, irregular.</li>
+              <li><strong>Edge:</strong> Well-defined ("regular" <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=238s"
+
+                  class="timestamp">Video 3:58</a>), ill-defined, discrete.</li>
+              <li><strong>Consistency:</strong> Soft, firm ("firm in
+                consistency" <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=238s"
+
+                  class="timestamp">Video 3:58</a>), hard, rubbery, cystic.</li>
+              <li><strong>Tenderness:</strong> "not painful as I'm looking at
+                the patient's face". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=245s"
+
+                  class="timestamp">Video 4:05</a>)</li>
+              <li><strong>Mobility:</strong> "not mobile". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=248s"
+
+                  class="timestamp">Video 4:08</a>)</li>
+              <li><strong>Fluctuation:</strong> (If cystic nature suspected).</li>
+              <li><strong>Translucency:</strong> (Less useful for breast lumps).</li>
+              <li><strong>Fixity to Skin:</strong> "not to the overlying skin".
+                (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=241s"
+
+                  class="timestamp">Video 4:01</a>) (Attempt to pinch skin over
+                lump. Tethering or dimpling on movement suggests involvement).</li>
+              <li><strong>Fixity to underlying Breast Tissue/Structure:</strong>
+                "attached to underlying structure". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=240s"
+
+                  class="timestamp">Video 4:00</a>) (Move lump within breast
+                parenchyma).</li>
+              <li><strong>Fixity to underlying Fascia/Muscle (Pectoralis Major):</strong>
+                Ask patient to press hand on hip (contracts pectoralis major),
+                then try to move lump perpendicular and parallel to muscle
+                fibers. Restricted movement suggests fixity.</li>
+              <li><strong>Fixity to Chest Wall:</strong> (Assess deep fixity).</li>
+            </ul>
+          </li>
+          <li>Continue palpation systematically and repeat on the other breast.
+            (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=254s" class="timestamp">Video
+              4:14-4:24</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Periolar Palpation (Deep):</strong> Palpate around the areola.
+        "we're not touching the nipples we're not touching the areola so we
+        going to go periola this is also deep palpation and we're trying to find
+        a mass". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=271s"
+
+          class="timestamp">Video 4:31-4:41</a>)
+        <ul>
+          <li>Example finding in video: "I can feel a mass here in the periola
+            region so I can feel a mass in the lower outer quadrant of the right
+            breast it's very small 1 into 1 cm attached to the underlying
+            structure not to the overlying skin it's regular form inconsistency
+            and not painful as I'm looking at the patient's face and not
+            mobile". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=287s"
+
+              class="timestamp">Video 4:47-5:11</a>)</li>
+          <li>Continue anticlockwise, not lifting hand too much. Repeat on other
+            side. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=313s"
+
+              class="timestamp">Video 5:13-5:37</a>)</li>
+        </ul>
+      </li>
+      <li><strong>Palpation of Nipple and Areola:</strong>
+        <ul>
+          <li>Gently palpate for retroareolar masses.</li>
+          <li>Attempt to elicit discharge by gentle pressure around areola
+            towards nipple, if history is suggestive. Note from which duct(s) if
+            possible.</li>
+        </ul>
+      </li>
+      <li><em>(Compressibility, Reducibility, Pulsatility, Expansility -
+          generally less applicable to primary breast lumps).</em></li>
+      <li><em>(Plane of Swelling - usually within breast tissue).</em></li>
+    </ul>
+    <h4>REGIONAL LYMPH NODES (STAGING) (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=340s"
+
+        class="timestamp">Video 5:40</a>)</h4>
+    <p><em>(Patient sitting. For axillary nodes, patient puts ipsilateral arm on
+        examiner's shoulder to relax muscles. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=344s"
+
+          class="timestamp">Video 5:44-5:49</a>))</em></p>
+    <ul>
+      <li><strong>Axillary Group of Lymph Nodes:</strong> Palpate
+        systematically.
+        <ul>
+          <li>Anterior (Pectoral) group: "anterior uh auxiliary lymph nodes
+            that's here". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=351s"
+
+              class="timestamp">Video 5:51-5:53</a>) (Along lower border of
+            pectoralis major).</li>
+          <li>Medial: "medial is going to be on the chest wall". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=355s"
+
+              class="timestamp">Video 5:55-5:57</a>) (Palpating along chest
+            wall, may include parasternal if significantly enlarged).</li>
+          <li>Apical group: "epical is in [axilla]". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=360s"
+
+              class="timestamp">Video 6:00</a>) (At the apex of the axilla).</li>
+          <li>(Repeat for other side: Anterior, Medial, Apical. <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=364s"
+
+              class="timestamp">Video 6:04-6:11</a>)</li>
+          <li>Patient crosses arms, examiner palpates from the back. (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=374s"
+
+              class="timestamp">Video 6:14-6:19</a>)</li>
+          <li>Posterior (Subscapular) group: "posterior auxiliary lymph nodes
+            that's in the posterior auxiliary fold". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=382s"
+
+              class="timestamp">Video 6:22-6:28</a>)</li>
+          <li>Lateral (Brachial/Humeral) group: "lateral that's here on the
+            arm". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=388s"
+
+              class="timestamp">Video 6:28-6:32</a>)</li>
+          <li>(Repeat for other side: Posterior, Lateral. <a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=392s"
+
+              class="timestamp">Video 6:32-6:36</a>)</li>
+          <li>Note: Size, number, consistency (soft, firm, hard, rubbery),
+            tenderness, mobility (fixed/matted or mobile).</li>
+        </ul>
+      </li>
+      <li><strong>Supraclavicular Lymph Nodes:</strong> Patient shrugs shoulder.
+        "in this position we are actually checking for supraclavicular lymph
+        nodes". (<a href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=398s"
+
+          class="timestamp">Video 6:38-6:47</a>)</li>
+      <li><strong>Infraclavicular Lymph Nodes.</strong></li>
+      <li><strong>Cervical Lymph Nodes</strong> (if indicated).</li>
+    </ul>
+    <h4>EXAMINATION FOR METASTASES (If cancer strongly suspected)</h4>
+    <ul>
+      <li><strong>Lungs:</strong> Percuss and auscultate lung fields.</li>
+      <li><strong>Liver:</strong> Palpate for hepatomegaly, irregularity.</li>
+      <li><strong>Bones:</strong> Elicit tenderness over spine, pelvis, ribs.</li>
+      <li><strong>P/R or P/V:</strong> Only if Krukenberg tumor or pelvic
+        metastases suspected (very rare in primary presentation).</li>
+    </ul>
+    <h4>PERCUSSION</h4>
+    <ul>
+      <li>Generally not a primary diagnostic tool for breast lumps. May be done
+        over chest if underlying pathology suspected.</li>
+    </ul>
+    <h4>AUSCULTATION</h4>
+    <ul>
+      <li>Generally not a primary diagnostic tool for breast lumps. May be done
+        over chest.</li>
+    </ul>
+    <h3>DIAGNOSIS</h3>
+    <ol>
+      <li><strong>ANATOMICAL:</strong> e.g., Lump in Upper Outer Quadrant of
+        Right Breast.</li>
+      <li><strong>ETIOLOGICAL:</strong> e.g., Suspected Fibroadenoma / Possible
+        Malignancy / Infective Mastitis.</li>
+      <li><strong>PATHOLOGICAL:</strong> (Based on clinical suspicion, to be
+        confirmed by investigations) e.g., Benign neoplastic / Malignant
+        neoplastic / Inflammatory.</li>
+      <li><strong>CLINICAL:</strong> (Working diagnosis) e.g., Clinically
+        suspicious breast lump requiring triple assessment.</li>
+    </ol>
+    <h3>INVESTIGATIONS &amp; TREATMENT PLAN FOR BREAST SWELLING/LUMP</h3>
+    <p><em>(Management will depend on the final diagnosis established by Triple
+        Assessment and, if malignant, on MDT discussion, tumour type, stage,
+        receptor status, and patient factors/preferences. NICE guidelines for
+        breast conditions, e.g., CG80 Early and locally advanced breast cancer,
+        CG164 Familial breast cancer, QS12 Breast cancer, should be considered.)</em></p>
+    <h4>Patient-Specific Plan for Breast Swelling/Lump</h4>
+    <li>Initial Investigations (Triple Assessment is key for discrete breast
+      lumps)
+      <ul>
+        <li><b>Clinical Examination:</b> (Already performed as detailed
+          previously).</li>
+        <li>Blood work (If infection, inflammation, or malignancy suspected, or
+          for pre-operative assessment):
+          <ul>
+            <li>Full Blood Count (FBC) with differential.</li>
+            <li>C-Reactive Protein (CRP) / Erythrocyte Sedimentation Rate (ESR).</li>
+            <li>Liver Function Tests (LFTs), Bone Profile (Calcium, ALP) (if
+              metastases suspected or pre-op).</li>
+            <li>Coagulation screen (if surgery or biopsy planned).</li>
+            <li>Tumour markers (e.g., CA 15-3, CEA - more for monitoring than
+              diagnosis, but may be baseline).</li>
+          </ul>
+        </li>
+        <li>Imaging:
+          <ul>
+            <li><b>Mammography:</b> Especially for women &gt;35-40 years (age
+              threshold can vary by local guidelines), or younger if high
+              clinical suspicion or strong family history. Provides views to
+              detect masses, calcifications, architectural distortion.</li>
+            <li><b>Breast Ultrasound:</b> Useful for all ages. Differentiates
+              cystic from solid lesions. Characterizes solid lesions. Guides
+              biopsies. Often first-line imaging in younger women (&lt;35-40)
+              due to breast density.</li>
+            <li>MRI Breast: For specific indications e.g., screening high-risk
+              women (BRCA carriers), assessing extent of known cancer
+              (especially lobular), evaluating implant integrity,
+              problem-solving when mammography/ultrasound are inconclusive,
+              monitoring response to neoadjuvant chemotherapy.</li>
+          </ul>
+        </li>
+        <li>Pathology (Biopsy - image-guided if lump is non-palpable or for
+          precise targeting):
+          <ul>
+            <li><b>Fine Needle Aspiration Cytology (FNAC):</b> Provides cells
+              for cytological assessment. Can diagnose malignancy, assess cystic
+              lesions. Less invasive but may be inconclusive.</li>
+            <li><b>Core Needle Biopsy (CNB):</b> Preferred method for solid
+              lesions. Provides tissue for histological diagnosis, grading, and
+              receptor status (ER, PR, HER2) in cancer, which is crucial for
+              treatment planning.</li>
+            <li>Vacuum-Assisted Biopsy (VAB): Can obtain larger tissue samples,
+              useful for microcalcifications or small lesions.</li>
+            <li>Excision Biopsy (Surgical Biopsy): May be diagnostic and
+              therapeutic for some benign lesions or if needle biopsies are
+              inconclusive.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Patient Communication
+      <ul>
+        <li><b>ICE</b> (Ideas, Concerns, Expectations): Discuss patient's
+          understanding, fears (especially cancer anxiety), and desired
+          outcomes. Address any myths or misconceptions.</li>
+        <li>Diagnosis disclosure: Clearly explain the findings from the triple
+          assessment. If benign, provide reassurance. If malignant, deliver news
+          compassionately, ensure support (e.g., presence of relative, breast
+          care nurse).</li>
+        <li>Explanation of findings: Use simple language, diagrams if helpful.
+          Explain the implications of the diagnosis.</li>
+      </ul>
+    </li>
+    <li>Further Investigations (If malignancy confirmed/suspected, for staging)
+      <ul>
+        <li>Specialized tests:
+          <ul>
+            <li>Genomic assays on tumour tissue (e.g., Oncotype DX, MammaPrint)
+              for certain ER+ early-stage cancers to assess risk of recurrence
+              and benefit from chemotherapy.</li>
+            <li>BRCA1/BRCA2 genetic testing (if strong family history or
+              specific criteria met, as per NICE CG164).</li>
+          </ul>
+        </li>
+        <li>Imaging for Staging (if invasive cancer confirmed):
+          <ul>
+            <li>Chest X-ray (or CT Chest).</li>
+            <li>CT Abdomen/Pelvis.</li>
+            <li>Bone Scan.</li>
+            <li>PET-CT (in selected cases, e.g., inflammatory breast cancer,
+              locally advanced disease, or to clarify equivocal findings on
+              other scans).</li>
+          </ul>
+        </li>
+        <li>Referrals:
+          <ul>
+            <li><b>Urgent Referral to Breast Clinic (2 Week Wait - 2WW pathway):</b>
+              For any patient with suspected breast cancer (e.g., discrete hard
+              lump, skin changes, new nipple retraction, bloody discharge,
+              unexplained axillary lump).</li>
+            <li>Multidisciplinary Team (MDT) review for all confirmed cancer
+              cases.</li>
+            <li>Referral to Clinical Genetics (if indicated for familial risk
+              assessment).</li>
+            <li>Referral to Oncology (Medical, Radiation), Plastic Surgery (for
+              reconstruction options).</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Treatment Plan (Based on Triple Assessment and MDT discussion if
+      malignant)
+      <ul>
+        <li>Symptomatic treatment:
+          <ul>
+            <li>Analgesia (Paracetamol, NSAIDs) for breast pain (mastalgia).</li>
+            <li>Supportive bra.</li>
+            <li>Warm compresses for mastitis.</li>
+          </ul>
+        </li>
+        <li>Specific treatment (depends on the cause):
+          <ul>
+            <li><strong>Fibroadenoma:</strong>
+              <ul>
+                <li>Non-Medical: Observation and reassurance if small (&lt;3cm),
+                  asymptomatic, and diagnosis is confident. Regular
+                  self-examination.</li>
+                <li>Surgical: Excision if large, symptomatic (painful), growing,
+                  patient preference, or if diagnosis uncertain after triple
+                  assessment. Vacuum-assisted excision may be an option for
+                  smaller fibroadenomas.</li>
+              </ul>
+            </li>
+            <li><strong>Breast Cyst:</strong>
+              <ul>
+                <li>Non-Medical: Reassurance if simple cyst and asymptomatic.</li>
+                <li>Procedure: Aspiration (often ultrasound-guided) if
+                  symptomatic (painful, large) or to confirm diagnosis (fluid
+                  typically straw-coloured or greenish; send for cytology if
+                  blood-stained or residual mass). If collapses and symptoms
+                  resolve, no further action.</li>
+                <li>Surgical: Excision if recurrent symptomatic cysts,
+                  blood-stained aspirate with atypical cells, or if a solid
+                  component is present.</li>
+              </ul>
+            </li>
+            <li><strong>Mastitis/Breast Abscess:</strong>
+              <ul>
+                <li>Medical: Antibiotics (e.g., Flucloxacillin, Co-amoxiclav,
+                  Clarithromycin if penicillin-allergic). Analgesia.</li>
+                <li>Non-Medical: Advice on continued breastfeeding or breast
+                  pumping if lactational to ensure milk drainage. Warm
+                  compresses. Adequate fluid intake.</li>
+                <li>Procedure (for Abscess): Ultrasound-guided aspiration or
+                  surgical incision &amp; drainage.</li>
+              </ul>
+            </li>
+            <li><strong>Fibrocystic Changes/Fibroadenosis:</strong>
+              <ul>
+                <li>Non-Medical: Reassurance, well-fitting supportive bra.
+                  Dietary modifications (e.g., reducing caffeine - evidence is
+                  limited but some women find it helpful).</li>
+                <li>Medical: Analgesia for cyclical mastalgia. Evening primrose
+                  oil (evidence limited, but may be tried). Danazol or Tamoxifen
+                  for severe, persistent mastalgia (specialist use only due to
+                  side effects).</li>
+              </ul>
+            </li>
+            <li><strong>Duct Ectasia/Periductal Mastitis:</strong>
+              <ul>
+                <li>Non-Medical: Reassurance. Smoking cessation (strong
+                  association). Warm compresses for symptoms. Nipple hygiene.</li>
+                <li>Medical: Antibiotics if acute inflammation/infection.
+                  Analgesia.</li>
+                <li>Surgical (if persistent troublesome discharge, recurrent
+                  infection, or fistula): Excision of the affected major duct(s)
+                  (Hadfield&acirc;&euro;&trade;s operation) or total duct
+                  excision.</li>
+              </ul>
+            </li>
+            <li><strong>Intraductal Papilloma:</strong>
+              <ul>
+                <li>Surgical: Microdochectomy (excision of the single duct
+                  containing the papilloma) or major duct excision if multiple
+                  papillomas or atypia.</li>
+              </ul>
+            </li>
+            <li><strong>Breast Cancer (MDT-led complex treatment):</strong>
+              <ul>
+                <li>Surgery:
+                  <ul>
+                    <li>Breast Conserving Surgery (BCS - lumpectomy/wide local
+                      excision) followed by Radiotherapy.</li>
+                    <li>Mastectomy (simple, modified radical).</li>
+                    <li>Axillary Surgery: Sentinel Lymph Node Biopsy (SLNB) if
+                      clinically node-negative; Axillary Lymph Node Dissection
+                      (ALND) if SLNB positive or clinically node-positive.</li>
+                    <li>Breast Reconstruction options (immediate or delayed).</li>
+                  </ul>
+                </li>
+                <li>Radiotherapy: Adjuvant after BCS, post-mastectomy in certain
+                  high-risk cases, palliative for metastases.</li>
+                <li>Chemotherapy: Neoadjuvant (before surgery to shrink tumour),
+                  Adjuvant (after surgery to reduce recurrence risk), Palliative
+                  (for metastatic disease).</li>
+                <li>Endocrine (Hormone) Therapy: For ER/PR positive cancers
+                  (e.g., Tamoxifen, Aromatase Inhibitors).</li>
+                <li>Targeted Therapy: For HER2 positive cancers (e.g.,
+                  Trastuzumab (Herceptin), Pertuzumab).</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>Admission required: Yes (for most surgical procedures, acute abscess
+          drainage, complications of cancer treatment) / No (for outpatient
+          management of simple cysts, fibroadenomas under observation,
+          uncomplicated mastitis).</li>
+      </ul>
+    </li>
+    <li>Follow Up
+      <ul>
+        <li>Frequency: Depends on diagnosis. Benign conditions may not need
+          routine follow-up unless symptomatic. Post-cancer treatment involves
+          regular surveillance (clinical and imaging) as per NICE guidelines.</li>
+        <li>Specialist referrals: Breast Surgeon, Oncologist
+          (Medical/Radiation), Breast Care Nurse, Clinical Geneticist,
+          Psychologist, Physiotherapist, Lymphedema specialist as needed.</li>
+        <li>Allied health:
+          <ul>
+            <li>Breast Care Nurse Specialist: Essential for support,
+              information, and coordination of care, especially in cancer.</li>
+            <li>Physiotherapist: For post-operative shoulder mobility,
+              lymphedema prevention/management.</li>
+            <li>Psychological support / Counselling.</li>
+            <li>Lymphedema services.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Patient Education
+      <ul>
+        <li><b>Warning Signs/Red Flags:</b> Any new lumps, changes in existing
+          lumps, skin changes (dimpling, puckering, redness, rash), nipple
+          changes (retraction, discharge especially bloody), persistent pain,
+          unexplained swelling in axilla or arm.</li>
+        <li>Breast awareness advice / Breast self-examination (BSE) technique
+          (though routine BSE promotion has varied, awareness of what is normal
+          for them is key).</li>
+        <li>Information about national breast screening programs (e.g., NHS
+          Breast Screening Programme).</li>
+        <li>Educational materials provided: Leaflets/pamphlets from reliable
+          sources (e.g., Breast Cancer Now, Macmillan Cancer Support, NHS).</li>
+        <li>Useful resources/links.</li>
+        <li>Information on risk factors and risk reduction strategies if
+          appropriate.</li>
+      </ul>
+    </li>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+        const timestampLinks = document.querySelectorAll('.timestamp');
+        
+        timestampLinks.forEach(link => {
+            link.addEventListener('click', function(event) {
+                event.preventDefault(); // Prevent the default link navigation
+                const href = this.getAttribute('href');
+                let seconds = null;
+                let videoId = null;
+                
+                // Extract video ID from the YouTube URL
+                const videoIdMatch = href.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]+)/);
+                if (videoIdMatch && videoIdMatch[1]) {
+                    videoId = videoIdMatch[1];
+                }
+                
+                // Try to extract time from 't=XXs' format
+                const timeMatchSeconds = href.match(/t=(\d+)s?/); // Made 's' optional
+                if (timeMatchSeconds && timeMatchSeconds[1]) {
+                    seconds = timeMatchSeconds[1];
+                } else {
+                    // Fallback: Try to extract from '?start=XX' or '&start=XX'
+                    const timeMatchStart = href.match(/[?&]start=(\d+)/);
+                    if (timeMatchStart && timeMatchStart[1]) {
+                        seconds = timeMatchStart[1];
+                    }
+                }
+                
+                if (videoId && seconds !== null) {
+                    // Find all iframes that contain YouTube embeds
+                    const allIframes = document.querySelectorAll('iframe[src*="youtube.com/embed"]');
+                    
+                    // Find the iframe that matches this video ID
+                    let targetIframe = null;
+                    allIframes.forEach(iframe => {
+                        const iframeSrc = iframe.src;
+                        if (iframeSrc.includes(videoId)) {
+                            targetIframe = iframe;
+                        }
+                    });
+                    
+                    if (targetIframe) {
+                        // Extract the base embed URL from the current iframe src
+                        const baseEmbedUrl = `https://www.youtube.com/embed/${videoId}`;
+                        
+                        // Construct the new URL for the iframe to start at the specific time and autoplay
+                        targetIframe.src = `${baseEmbedUrl}?start=${seconds}&autoplay=1&rel=0`;
+                        // rel=0 attempts to prevent related videos from other channels at the end
+                    } else {
+                        console.warn(`Could not find iframe for video ID: ${videoId}`);
+                    }
+                } else {
+                    console.warn("Could not parse video ID or time from link: " + href);
+                }
+            });
+        });
+    });
+    </script>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

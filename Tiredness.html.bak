@@ -1,0 +1,141 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Tiredness</title>
+    <link rel="stylesheet" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body>
+    <h3>COMPLAINT: TIREDNESS / FATIGUE</h3>
+    <ul>
+      <li class="grey">S: Site (Location of skin lesion/rash)</li>
+      <li><strong>S: Severity &amp; Sleep</strong>
+        <ul>
+          <li>On a <b>scale of 0-10</b>, how severe is your tiredness?</li>
+          <li>Describe your <b>sleep</b>: How many hours? Is it restorative? Do
+            you have trouble falling/staying asleep? Snoring?</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li><b>When</b> did it start? Was it <b>sudden</b> or <b>gradual</b>?</li>
+          <li>Was it linked to an illness, event, or new medication?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li>How long has this been going on (weeks, months, years)?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li><b>Worse with</b>: Physical exertion? Mental effort? Stress?</li>
+          <li><b>Better with</b>: Does <b>rest</b> or sleep actually improve
+            it?</li>
+        </ul>
+      </li>
+      <li><strong>C: Character / Type</strong>
+        <ul>
+          <li>Is it more <b>physical</b> ("heavy," weak) or <b>mental</b>
+            ("brain fog," poor concentration)?</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong>
+        <ul>
+          <li>Not applicable.</li>
+        </ul>
+      </li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li><b>Constitutional:</b> Fever, night sweats, appetite changes.</li>
+          <li><b>Mood:</b> Low mood, loss of interest or pleasure (anhedonia).</li>
+          <li><em>bleeding</em> </li>
+          <ul>
+            <li><em>Menstrual</em></li>
+            <li><em>urine</em></li>
+            <li><em>vomiting</em></li>
+            <li><em>malena</em></li>
+            <li>easy <em>bruising</em></li>
+            <li>any <em>other</em>?</li>
+          </ul>
+          <li><b>Pain:</b> Body aches, joint pain, specific back pain.</li>
+          <li><b>Other:</b> Shortness of breath, palpitations, hair loss,
+            feeling cold.</li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>Is it getting <b>worse</b>, <b>better</b>, or staying the <b>same</b>?</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li>Is it <b>constant</b> or does it fluctuate? Worse in the morning
+            or evening?</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on Life</strong>
+        <ul>
+          <li>How does this impact your daily routine, work, social life, and
+            hobbies?</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags</strong>
+        <ul>
+          <li>Cancer</li>
+          <ul>
+            <li>Weight loss - unintentional</li>
+            <li>lumps and bumps</li>
+          </ul>
+          <li>B12</li>
+          <ul>
+            <li><b>tingling</b>/ numbness</li>
+            <li>Balance issues</li>
+            <li>Vision</li>
+            <li>Lhermitte's</li>
+          </ul>
+          <li>Myeloma</li>
+          <ul>
+            <li>Back / Bone pain</li>
+          </ul>
+          <li>Leukemias</li>
+          <ul>
+            <li>Night sweats</li>
+            <li>BM suppression</li>
+            <li>Recurrent infections</li>
+            <li><em>Bleeding</em></li>
+            <li><em>Menstrual</em></li>
+            <li><em>urine</em></li>
+            <li><em>vomiting</em></li>
+            <li><em>malena</em></li>
+            <li>easy <em>bruising</em></li>
+            <li>any <em>other</em>?</li>
+          </ul>
+          <li>Anemias</li>
+          <ul>
+            <li>SOB</li>
+            <li>dizziness, </li>
+            <li><em>bleeding</em>. - see above</li>
+          </ul>
+        </ul>
+      </li>
+    </ul>
+    <br>
+    <p><b>Systems Review / DD Checklist:</b></p>
+    <ul style="list-style-type: square;">
+      <li><b>Psychiatric:</b> Depression, Anxiety</li>
+      <li><b>Endocrine:</b> Hypothyroidism, Diabetes, Adrenal insufficiency</li>
+      <li><b>Haematology:</b> Anemia, Malignancy</li>
+      <li><b>Cardio-Respiratory:</b> Heart failure, COPD</li>
+      <li><b>Infectious:</b> Chronic infection (e.g., EBV), Post-viral fatigue</li>
+      <li><b>Oncology:</b> Any </li>
+      <li>Genito-Urinary</li>
+      <li>Neuromuscular </li>
+      <li><b>Musculoskeletal:</b> Fibromyalgia, Chronic Fatigue Syndrome
+        (ME/CFS)</li>
+      <li><b>Gastrointestinal:</b> Malabsorption (e.g., Celiac disease)</li>
+    </ul>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height.js"></script>
+  </body>
+</html>

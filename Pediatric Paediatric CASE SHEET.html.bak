@@ -1,0 +1,2675 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PEDIATRIC CASE SHEET</title>
+    <link rel="stylesheet" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body>
+    <p><strong>productivePlace of Examination:</strong></p>
+    <ol>
+      <li>OPD</li>
+      <li>Ward</li>
+      <li>ER</li>
+    </ol>
+    <h3 class="section-title">I. IDENTIFICATION DATA</h3>
+    <p><strong>Name of Patient:</strong> [Full Name]</p>
+    <p><strong>Age:</strong> [Years, Months, Days] </p>
+    <details open="">
+      <ol>
+        <li> <strong>&lt;&nbsp; 24 h = Pathological):</strong>
+          <ul>
+            <li>Hemolytic Disease of the Newborn:
+              <ul>
+                <li>Rh Incompatibility</li>
+                <li>ABO Incompatibility</li>
+                <li>Minor blood group incompatibilities</li>
+              </ul>
+            </li>
+            <li>Red blood cell enzyme defects (e.g., </li>
+            <ul>
+              <li>G6PD deficiency, </li>
+              <li>pyruvate kinase deficiency)</li>
+            </ul>
+            <li>Red blood cell membrane defects (e.g., </li>
+            <ul>
+              <li>hereditary spherocytosis, </li>
+              <li>elliptocytosis)</li>
+            </ul>
+            <li>Congenital Infections (TORCH - </li>
+            <ul>
+              <li>Toxoplasmosis, </li>
+              <li>Other (syphilis, varicella-zoster, parvovirus B19), </li>
+              <li>Rubella, </li>
+              <li>Cytomegalovirus, </li>
+              <li>Herpes simplex)</li>
+            </ul>
+            <li>Sepsis</li>
+            <li>Crigler-Najjar Syndrome (Type I - severe)</li>
+          </ul>
+        </li>
+        <li> <strong>&gt;&nbsp; 24 hours ~ Physio, can also be path:</strong>
+          <ul>
+            <li>Physiological Jaundice (most common, usually mild and resolves
+              spontaneously)</li>
+            <li>Breastfeeding Jaundice (suboptimal milk intake, dehydration,
+              usually in the first week)</li>
+            <li>Breast Milk Jaundice (appears later, around day 4-7, can persist
+              for weeks/months; infant is otherwise well)</li>
+            <li>Sepsis/Infection (UTI, systemic infections)</li>
+            <li>Polycythemia</li>
+            <li>Increased enterohepatic circulation (e.g., from bowel
+              obstruction, meconium ileus)</li>
+            <li>Hypothyroidism (usually presents later but can be a cause of
+              prolonged jaundice)</li>
+            <li>Crigler-Najjar Syndrome (Type II - milder form)</li>
+            <li>Gilbert's Syndrome (may become apparent, though often diagnosed
+              later)</li>
+          </ul>
+        </li>
+        <li> <strong>Prolonged Neonatal Jaundice (persisting &gt;2 weeks in
+            term, &gt;3 weeks in preterm infants):</strong>
+          <ul>
+            <li>Breast Milk Jaundice</li>
+            <li>Biliary Atresia (conjugated hyperbilirubinemia, acholic stools -
+              surgical emergency)</li>
+            <li>Neonatal Hepatitis (idiopathic or infectious)</li>
+            <li>Hypothyroidism</li>
+            <li>Galactosemia</li>
+            <li>Alpha-1 Antitrypsin Deficiency</li>
+            <li>Choledochal cyst</li>
+            <li>Inspissated bile syndrome</li>
+            <li>Urinary Tract Infection</li>
+            <li>Congenital infections (TORCH)</li>
+            <li>Gilbert's syndrome, Crigler-Najjar syndrome</li>
+          </ul>
+        </li>
+        <li> <strong>INFANCY (1 month to 1 year)</strong>
+          <ul>
+            <li>prolonged neonatal jaundice (e.g., Biliary Atresia, Alpha-1
+              Antitrypsin Deficiency, choledochal cyst).</li>
+            <li>Viral Hepatitis (less common than in older children, but
+              Hepatitis A, B, C can occur)</li>
+            <li>Metabolic Liver Diseases (e.g., Tyrosinemia, cystic fibrosis,
+              Wilson's disease (rarely this early),)</li>
+            <li>Drug-induced liver injury</li>
+            <li>Severe infections/Sepsis</li>
+            <li>Hemolytic Anemias (if not diagnosed in neonatal period)</li>
+            <li>Alagille Syndrome</li>
+          </ul>
+        </li>
+        <li> <strong>OLDER CHILDREN (1 year to Adolescence)</strong>
+          <ul>
+            <li>Viral Hepatitis (Hepatitis A is most common in this group;
+              Hepatitis B, C, E, EBV, CMV))</li>
+            <li>Drug-Induced Liver Injury (e.g., paracetamol overdose, certain
+              antibiotics, antiepileptics)</li>
+            <li>Gilbert's Syndrome (often unmasked by intercurrent illness,
+              fasting, or stress)</li>
+            <li>Autoimmune Hepatitis</li>
+            <li>Wilson's Disease (typically presents from age 5 upwards)</li>
+            <li>Alpha-1 Antitrypsin Deficiency</li>
+            <li>Cholelithiasis (gallstones) and Choledocholithiasis (stones in
+              bile duct) - less common than adults but increasing, risk factors
+              include obesity, hemolytic anemias, TPN.</li>
+            <li>Choledochal Cyst</li>
+            <li>Hemolytic Anemias (e.g., sickle cell disease crisis, hereditary
+              spherocytosis)</li>
+            <li>Chronic Liver Disease leading to cirrhosis (rarer)</li>
+            <li>Tumors affecting liver or biliary tree (rare)</li>
+            <li>Leptospirosis</li>
+          </ul>
+        </li>
+        <li> <strong>ADULTS</strong>
+          <ul>
+            <li><strong>Pre-hepatic (mainly unconjugated hyperbilirubinemia):</strong>
+              <ul>
+                <li>Hemolysis (e.g., autoimmune hemolytic anemia, hereditary
+                  spherocytosis, G6PD deficiency, sickle cell anemia)</li>
+                <li>Ineffective erythropoiesis (e.g., pernicious anemia,
+                  thalassemia)</li>
+                <li>Gilbert's Syndrome</li>
+                <li>Crigler-Najjar Syndrome (Type II)</li>
+                <li>Drugs (e.g., rifampicin, probenecid)</li>
+              </ul>
+            </li>
+            <li><strong>Hepatic ( hepatocellular - can be mixed
+                conjugated/unconjugated):</strong>
+              <ul>
+                <li>Viral Hepatitis (Acute or Chronic - Hepatitis A, B, C, D, E;
+                  EBV, CMV)</li>
+                <li>Alcoholic Liver Disease (fatty liver, alcoholic hepatitis,
+                  cirrhosis)</li>
+                <li>Non-Alcoholic Fatty Liver Disease (NAFLD) / Non-Alcoholic
+                  Steatohepatitis (NASH)</li>
+                <li>Drug-Induced Liver Injury (DILI - numerous drugs)</li>
+                <li>Autoimmune Hepatitis</li>
+                <li>Cirrhosis (from any chronic liver disease - leads to
+                  impaired bilirubin processing and excretion)</li>
+                <li>Primary Biliary Cholangitis (PBC)</li>
+                <li>Primary Sclerosing Cholangitis (PSC)</li>
+                <li>Wilson's Disease</li>
+                <li>Hereditary Hemochromatosis</li>
+                <li>Alpha-1 Antitrypsin Deficiency</li>
+                <li>Liver Metastases or Primary Hepatocellular Carcinoma</li>
+                <li>Sepsis / Systemic infections causing hepatic dysfunction</li>
+                <li>Leptospirosis</li>
+                <li>Budd-Chiari Syndrome</li>
+                <li>Veno-occlusive disease</li>
+              </ul>
+            </li>
+            <li><strong>Post-hepatic (obstructive - mainly conjugated
+                hyperbilirubinemia):</strong>
+              <ul>
+                <li>Choledocholithiasis (gallstones in the common bile duct -
+                  most common cause)</li>
+                <li>Pancreatic Cancer (especially head of pancreas)</li>
+                <li>Cholangiocarcinoma (bile duct cancer)</li>
+                <li>Ampullary Cancer</li>
+                <li>Strictures of the bile duct (post-surgical, PSC, chronic
+                  pancreatitis)</li>
+                <li>Chronic Pancreatitis causing biliary compression</li>
+                <li>Parasitic infections of the biliary tree (e.g., Ascaris,
+                  Clonorchis)</li>
+                <li>Mirizzi Syndrome</li>
+                <li>External compression of the bile duct (e.g., lymph nodes,
+                  tumors)</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </details>
+    <br>
+    <p><strong>Father's Name:</strong> </p>
+    <strong> </strong>
+    <p></p>
+    <ol>
+      <li><strong>Age:</strong><strong></strong></li>
+      <li><strong>Occupation:</strong> </li>
+      <li>&nbsp;<strong>Education:</strong></li>
+    </ol>
+    <p><strong>Mother's Name:</strong> </p>
+    <p></p>
+    <ol>
+      <li><strong>Age:</strong><strong></strong></li>
+      <li><strong>Occupation:</strong> </li>
+      <li>&nbsp;<strong>Education:</strong> </li>
+    </ol>
+    <p><strong>Socioeconomic Status:</strong></p>
+    <ol>
+      <li>Kuppuswamy Scale
+        <ol>
+          <li>Score</li>
+          <li>Class</li>
+        </ol>
+      </li>
+      <li>BPL</li>
+      <li>APL</li>
+    </ol>
+    <p></p>
+    <p class="detail-prompt"><em>Reliability of Informant:</em></p>
+    <ol>
+      <li>Good</li>
+      <li>Fair</li>
+      <li>Poor</li>
+    </ol>
+    <h3 class="section-title">II. CHIEF COMPLAINTS</h3>
+    <p class="detail-prompt">(In chronological order of appearance, with
+      duration; maximum 3-4 complaints ideally)</p>
+    <ol>
+      <li>Fall<br>
+      </li>
+      <li>pain<br>
+      </li>
+      <li>Diarrhoea<br>
+      </li>
+      <li>vomiting</li>
+    </ol>
+    <h3 class="section-title">III. HISTORY OF PRESENT ILLNESS (HPI)</h3>
+    <p class="detail-prompt">(Elaborate on each chief complaint: onset,
+      duration, progress, severity, aggravating/relieving factors, associated
+      symptoms, treatment taken, and response. For systemic illnesses, describe
+      the evolution of symptoms.)</p>
+    <p>[Detailed narrative of the illness]</p>
+    <h2>Elaboration of Presenting Complaint: Vomiting (based on video content)</h2>
+    <h2><a href="https://www.youtube.com/watch?v=VezCFksfWg4" target="_blank">Nausea
+        and Vomiting Part 5 - Differential diagnosis</a></h2>
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VezCFksfWg4"
+        title="Nausea and Vomiting Part 5 - Differential diagnosis"></iframe>
+    </div>
+    <br>
+    <ul>
+      <li> <strong>S: Site</strong>
+        <ul>
+          <li>see later</li>
+          <li>dissect where the problem is.</li>
+          <li>Site of any associated pain is crucial:
+            <ul>
+              <li>Helps differentiate intra-peritoneal vs. extra-peritoneal
+                causes (general concept from video).</li>
+              <li class="pediatric">In children, diffuse abdominal pain is
+                common.</li>
+              <li class="pediatric">Localized pain might suggest specific
+                pediatric pathologies (e.g., appendicitis in Right Lower
+                Quadrant, intussusception).</li>
+            </ul>
+          </li>
+          <li><em>Site of vomiting itself cannot be directly assigned from this
+              video's content, but relevant for associated symptoms.</em></li>
+        </ul>
+      </li>
+      <li> <strong>O: Onset</strong>
+        <ul>
+          <li>Varies based on the underlying cause:
+            <ul>
+              <li>Acute:
+                <ul>
+                  <li>Video suggests food poisoning, viral gastroenteritis.</li>
+                  <li class="pediatric">Very common in children due to
+                    infections (viral gastroenteritis is a leading cause).</li>
+                  <li class="pediatric">Can also be due to food intolerances or
+                    acute surgical conditions (e.g., appendicitis,
+                    intussusception).</li>
+                </ul>
+              </li>
+              <li>Chronic or Recurrent:
+                <ul>
+                  <li>Video suggests pregnancy, Meniere's disease,
+                    gastroparesis.</li>
+                  <div class="pediatric">
+                    <li>GERD</li>
+                    <li>Eosinophilic esophagitis</li>
+                    <li>Cyclic vomiting syndrome</li>
+                    <li>Metabolic disorders</li>
+                    <li>Increased intracranial pressure (e.g., from a tumor)</li>
+                    <li>Pyloric stenosis (presents with progressively worsening
+                      vomiting in infants).</li>
+                  </div>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Clinician inquiry: Sudden or gradual onset?</li>
+        </ul>
+      </li>
+      <li> <strong>D: Duration</strong>
+        <ul>
+          <li>Acute (short duration):
+            <ul>
+              <li>Video: Food poisoning.</li>
+              <li class="pediatric">Most viral gastroenteritis episodes in
+                children are self-limiting (few days to a week).</li>
+            </ul>
+          </li>
+          <li>Long-term/Recurrent:
+            <ul>
+              <li>Video: </li>
+              <li>Gastroparesis, </li>
+              <li>pregnancy.</li>
+              <div class="pediatric">
+                <li>GERD</li>
+                <li>Cyclic vomiting syndrome</li>
+                <li>Food allergies/intolerances</li>
+                <li>Metabolic conditions</li>
+                <li>Anatomical abnormalities (e.g., malrotation with
+                  intermittent volvulus).</li>
+              </div>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>A: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li><strong>Exacerbating Factors (Aggravating):</strong> </li>
+          <li>Specific foods/recent meal:</li>
+          <ul>
+            <li>Video: Can point to food poisoning. [Video Ref: 22:40]</li>
+            <div class="pediatric">
+              <li>Specific formula or food introduction can trigger vomiting
+                (e.g., Cow's Milk Protein Allergy - CMPA, food intolerance).</li>
+              <li>Overfeeding can be a factor in infants.</li>
+            </div>
+            <li>Medications:</li>
+            <ul>
+              <li>Video: Chemotherapy drugs, apomorphine, digoxin derivatives,
+                opioids, NSAIDs. [Video Ref: 23:05]</li>
+              <li class="pediatric">Antibiotics are a common cause in children.</li>
+            </ul>
+            <li>Eating:</li>
+            <ul>
+              <li>Video implies exacerbation in gastric outlet obstruction
+                (post-prandial timing).</li>
+              <div class="pediatric">
+                <li>Pyloric stenosis: Vomiting typically occurs shortly after
+                  feeding.</li>
+                <li>GERD: Vomiting/regurgitation can occur during or after
+                  feeds, or with changes in position.</li>
+              </div>
+            </ul>
+            <li class="pediatric">Change in position (e.g., lying down after
+              feeds in GERD).</li>
+            <li class="pediatric">Stress or excitement (can be a trigger in
+              cyclic vomiting syndrome).</li>
+            <li class="pediatric">Coughing spells (can induce vomiting, e.g., in
+              pertussis or other respiratory infections).</li>
+          </ul>
+          <li><strong>Relieving Factors:</strong> </li>
+          <li>Vomiting itself relieves pain:</li>
+          <ul>
+            <li>Video: Characteristic of Peptic Ulcer Disease (PUD). [Video Ref:
+              18:13]</li>
+            <div class="pediatric">
+              <li>Less common in young children for PUD, but possible.</li>
+              <li>Cyclic vomiting syndrome: Episode eventually resolves, often
+                with sleep.</li>
+            </div>
+          </ul>
+          <div class="pediatric">
+            <li>Burping an infant well after feeds.</li>
+            <li>Keeping an infant upright after feeds (for GERD).</li>
+            <li>Specific dietary modifications if an allergy/intolerance is
+              identified.</li>
+          </div>
+        </ul>
+      </li>
+      <li> <strong>C: Character (of vomitus)</strong>
+        <ul>
+          <li><strong>Undigested food particles:</strong> </li>
+          <ul>
+            <li>Video: Suggests esophageal disorders (e.g., obstruction before
+              the stomach). [Video Ref: 13:26]</li>
+          </ul>
+          <li><strong>Food particles WITHOUT bile (Non-bilious):</strong> </li>
+          <ul>
+            <li>Video: Suggests gastric outlet obstruction (obstruction before
+              bile enters the duodenum). [Video Ref: 14:00]</li>
+            <li class="pediatric">Classic for pyloric stenosis in infants.</li>
+          </ul>
+          <li><strong>Food particles WITH bile (Bilious - often green or dark
+              yellow):</strong> </li>
+          <ul>
+            <li>Video: Suggests small bowel obstruction (obstruction after bile
+              enters the duodenum). [Video Ref: 14:40]</li>
+            <li class="pediatric"><strong>Bilious vomiting in a neonate is a
+                surgical emergency until proven otherwise</strong> (may indicate
+              malrotation with volvulus, duodenal atresia, jejunal atresia).</li>
+            <li class="pediatric">In older children, can indicate
+              intussusception or other obstructions.</li>
+          </ul>
+          <li><strong>Feculent material (bad odor, like stool):</strong> </li>
+          <ul>
+            <li>Video: Suggests large bowel obstruction (feculent emesis).
+              [Video Ref: 15:30]</li>
+            <div class="pediatric">
+              <li>Hirschsprung's </li>
+              <li>distal intestinal obstruction, or </li>
+              <li>severe constipation with overflow.</li>
+            </div>
+          </ul>
+          <li><strong>Projectile emesis:</strong> </li>
+          <ul>
+            <li>high ICT (CNS cause). [Video Ref: 16:10]</li>
+            <div class="pediatric">
+              <li>pyloric stenosis in infants (though typically non-bilious).</li>
+              <li>severe GERD or forceful vomiting from any cause.</li>
+            </div>
+          </ul>
+          <li class="pediatric"><strong>Bloody (Hematemesis):</strong> </li>
+          <ul>
+            <li>Bright red: Active bleeding </li>
+            <ul>
+              <li>Mallory-Weiss tear, </li>
+              <li>esophagitis, </li>
+              <li>gastritis, </li>
+              <li>swallowed maternal blood in neonates).</li>
+            </ul>
+            <li>Coffee-ground: </li>
+            <ul>
+              <li>&nbsp;stomach acid (e.g., gastritis, PUD).</li>
+            </ul>
+          </ul>
+          <div class="pediatric">
+            <li><strong>Mucus-streaked:</strong> </li>
+            <ul>
+              <li>respiratory infections and </li>
+              <li>post-nasal drip, or with </li>
+              <li>gastritis.</li>
+            </ul>
+            <li><strong>Watery/Clear:</strong> </li>
+            <ul>
+              <li>early viral gastroenteritis or with </li>
+              <li>CNS causes.</li>
+            </ul>
+          </div>
+          <li><em>Other characteristics a clinician might ask about, not
+              detailed in this video: amount, consistency.</em></li>
+        </ul>
+      </li>
+      <li> <strong>R: Radiation</strong>
+        <ul>
+          <li>Vomiting itself does not "radiate." This is relevant for
+            associated pain.</li>
+          <li><em>Cannot be directly assigned for "vomiting" itself from video
+              content.</em></li>
+        </ul>
+      </li>
+      <li> <strong>A: Associated Symptoms</strong>
+        <ul>
+          <li><strong>Abdominal pain:</strong>
+            <ul>
+              <li>Video: Can suggest GIT obstruction. [Video Ref: 17:36]</li>
+              <li class="pediatric">Colicky, intermittent pain is typical of
+                intussusception.</li>
+              <li class="pediatric">Constant, worsening pain with appendicitis.</li>
+            </ul>
+          </li>
+          <li><strong>Pain relieved by vomiting:</strong>
+            <ul>
+              <li>Video: Suggests Peptic Ulcer Disease (PUD). [Video Ref: 18:13]</li>
+            </ul>
+          </li>
+          <li><strong>Fever and/or Diarrhea:</strong>
+            <ul>
+              <li>Video: Suggests viral gastroenteritis or general
+                gastroenteritis. [Video Ref: 19:05]</li>
+              <li class="pediatric">Very common pairing in children.</li>
+              <li class="pediatric">High fever itself can sometimes cause
+                vomiting in young children.</li>
+            </ul>
+          </li>
+          <li><strong>Visual disturbances, Headache, Vertigo, Tinnitus:</strong>
+            <ul>
+              <li>Video: Suggests Meniere's disease or other CNS issues. [Video
+                Ref: 19:26]</li>
+              <li class="pediatric">Headache and vomiting (especially morning
+                vomiting) can be red flags for increased intracranial pressure
+                (e.g., brain tumor, hydrocephalus).</li>
+              <li class="pediatric">Lethargy is a significant associated symptom
+                with CNS issues.</li>
+            </ul>
+          </li>
+          <li><strong>Early satiety</strong> (feeling full quickly):
+            <ul>
+              <li>Video: Suggests gastroparesis. [Video Ref: 20:11]</li>
+            </ul>
+          </li>
+          <li><strong>Signs of Dehydration:</strong>
+            <ul>
+              <li>Video (from physical exam section): Tachycardia, hypotension,
+                poor skin turgor. [Video Ref: 25:30, 26:03]</li>
+              <li class="pediatric">Children dehydrate more quickly. Look for:
+                <ul>
+                  <li>Decreased urine output (number of wet diapers)</li>
+                  <li>Dry mucous membranes</li>
+                  <li>Sunken fontanelle (in infants)</li>
+                  <li>Lethargy</li>
+                  <li>Absence of tears.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <div class="pediatric">
+            <li><strong>Weight loss or failure to thrive:</strong> Suggests
+              chronic issues like malabsorption, severe GERD, metabolic
+              disorder, pyloric stenosis.</li>
+            <li><strong>Lethargy/Irritability:</strong> Can indicate serious
+              illness, dehydration, or CNS involvement.</li>
+            <li><strong>Rash:</strong> Could suggest allergic reaction or
+              certain infections.</li>
+            <li><strong>Jaundice:</strong> May indicate liver disease or biliary
+              obstruction.</li>
+            <li><strong>Constipation:</strong> Can lead to vomiting.</li>
+            <li><strong>Respiratory symptoms (cough, runny nose):</strong>
+              Vomiting may be secondary to a respiratory infection.</li>
+            <li><strong>"Red currant jelly" stool:</strong> Classic for
+              intussusception.</li>
+            <li><strong>Palpable abdominal mass:</strong> Could suggest
+              intussusception ("sausage-shaped mass"), pyloric stenosis
+              ("olive-like mass"), or tumor.</li>
+          </div>
+        </ul>
+      </li>
+      <li> <strong>P: Pattern (Timing / Frequency)</strong>
+        <ul>
+          <li><strong>Timing:</strong>
+            <ul>
+              <li>Morning (especially in females):
+                <ul>
+                  <li>Video: Suggests pregnancy (endocrine cause). [Video Ref:
+                    7:10]</li>
+                </ul>
+              </li>
+              <li>Morning (any gender):
+                <ul>
+                  <li>Video: Can suggest CNS causes, uremia, or alcoholic
+                    gastritis. [Video Ref: 7:51]</li>
+                  <li class="pediatric">Morning vomiting can be a red flag for
+                    increased intracranial pressure in children.</li>
+                </ul>
+              </li>
+              <li>Post-prandial (after meals):
+                <ul>
+                  <li>Video: Can suggest gastroparesis, gastric outlet
+                    obstruction, psychogenic causes, or PUD. [Video Ref: 9:48]</li>
+                  <li class="pediatric">Vomiting immediately after or during
+                    feeds is common in GERD or pyloric stenosis.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><strong>Frequency:</strong>
+            <ul>
+              <li>Video: Helps gauge the severity of the illness. [Video Ref:
+                6:30]</li>
+              <li class="pediatric">The number of vomiting episodes per day is
+                critical in assessing dehydration risk.</li>
+            </ul>
+          </li>
+          <div class="pediatric">
+            <li><strong>Cyclic pattern:</strong> Episodes of intense nausea and
+              vomiting lasting hours to days, with symptom-free intervals,
+              characteristic of Cyclic Vomiting Syndrome.</li>
+            <li><strong>Relation to specific activities:</strong> E.g., car
+              sickness (motion sickness).</li>
+          </div>
+        </ul>
+      </li>
+      <li> <strong>P: Progression</strong>
+        <ul>
+          <li>Video does not detail the progression of a specific patient's
+            vomiting illness over time.</li>
+          <li class="pediatric">Important to ask if vomiting is worsening (e.g.,
+            increasing frequency/forcefulness like in pyloric stenosis), staying
+            the same, or improving.</li>
+          <li><em>Cannot be directly assigned for the progression of a single
+              vomiting episode/illness from video content beyond general
+              implications.</em></li>
+        </ul>
+      </li>
+      <li> <strong>E: Effect on life</strong>
+        <ul>
+          <li>Video does not cover this.</li>
+          <li class="pediatric">Inquire about missed school/daycare, impact on
+            feeding and growth (especially infants), effect on sleep, general
+            activity level.</li>
+          <li><em>Cannot be directly assigned from video content.</em></li>
+        </ul>
+      </li>
+      <li> <strong>S: Severity / Scale</strong>
+        <ul>
+          <li>Gauged by <strong>frequency</strong> of vomiting. [Video Ref:
+            6:30]</li>
+          <li>Indicated by dehydration signs: tachycardia, hypotension, poor
+            skin turgor. [Video Ref: 25:30, 26:03]</li>
+          <li class="pediatric">Clinical dehydration scales (e.g., WHO,
+            Gorelick) are often used in pediatrics, assessing general
+            appearance, eyes, mucous membranes, tears, skin turgor, capillary
+            refill, pulse, respiration, and urine output.</li>
+          <li><em>The video does not mention a numerical severity scale (e.g.,
+              0-10) but focuses on clinical indicators.</em></li>
+        </ul>
+      </li>
+    </ul>
+    <h2><br>
+    </h2>
+    <h2>Elaboration of Presenting Complaint: Jaundice (with Pediatric Focus)</h2>
+    <ul>
+      <li> <strong>S: Site (Distribution of Jaundice)</strong>
+        <ul>
+          <li>Where was the jaundice first noticed? (e.g., eyes, face, chest)</li>
+          <li>How has it spread? (Progression is often cephalocaudal - head to
+            toe)</li>
+          <li class="pediatric">In neonates, assessing the extent of jaundice
+            (e.g., to the chest, abdomen, or soles of feet using Kramer's rule)
+            can give a rough estimate of bilirubin levels, though biochemical
+            testing is definitive.</li>
+          <li>Is it primarily skin, sclera (eyes), or also mucous membranes
+            (e.g., inside the mouth)?</li>
+        </ul>
+      </li>
+      <li> <strong>O: Onset</strong>
+        <ul>
+          <li>When was the jaundice first noticed by the patient or caregiver?
+            <ul>
+              <li class="pediatric"><strong>Neonatal Jaundice:</strong>
+                <ul>
+                  <li>Physiological: </li>
+                  <li>Typically appears after 24 hours of life,</li>
+                  <li>&nbsp;peaks around day 3-5, and </li>
+                  <li>resolves within 1-2 weeks.</li>
+                  <li><br>
+                  </li>
+                  <li>Pathological: </li>
+                  <li>May appear within the first 24 hours of life,</li>
+                  <li>&nbsp;rise rapidly, </li>
+                  <li>persist longer, or be </li>
+                  <li>associated with other concerning signs.</li>
+                </ul>
+              </li>
+              <li class="pediatric">Older Children/Adults: Acute (e.g., viral
+                hepatitis, drug-induced, gallstones) vs. Gradual/Insidious
+                (e.g., chronic liver disease, malignancy).</li>
+            </ul>
+          </li>
+          <li>Was the onset sudden or gradual?</li>
+        </ul>
+      </li>
+      <li> <strong>D: Duration</strong>
+        <ul>
+          <li>How long has the jaundice been present?</li>
+          <li>Is it constant, or does it fluctuate?</li>
+          <li class="pediatric">Physiological jaundice in neonates is transient.</li>
+          <li class="pediatric">Prolonged neonatal jaundice (beyond 2 weeks in
+            term infants, 3 weeks in preterm) requires investigation.</li>
+          <li class="pediatric">In older children, duration helps differentiate
+            acute from chronic conditions.</li>
+        </ul>
+      </li>
+      <li> <strong>A: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li>Are there any factors that make the jaundice appear worse? (e.g.,
+            illness, fasting, certain </li>
+          <li><em>medications </em>- though this is more for underlying cause
+            than jaundice itself)</li>
+          <li><em>herbal&nbsp; </em>medications</li>
+          <li>Are there any factors that make it seem better? (e.g., exposure to
+            <b> sunlight </b>- historically and anecdotally for mild neonatal
+            jaundice, but phototherapy is the medical treatment).</li>
+          <li class="pediatric"><em>Breastfeeding </em>jaundice: May be
+            exacerbated by suboptimal milk intake in the first week.</li>
+          <li class="pediatric">Breast milk jaundice: Can persist for several
+            weeks but the infant is otherwise well; sometimes temporarily
+            interrupting breastfeeding can lower bilirubin (done under medical
+            guidance).</li>
+          <li><em>Relieving factors for jaundice itself are usually related to
+              treatment of the underlying cause rather than patient-initiated
+              actions.</em></li>
+        </ul>
+      </li>
+      <li> <strong>C: Character (of Jaundice and Associated Stool/Urine)</strong>
+        <ul>
+          <li><strong>Color of Jaundice:</strong>
+            <ul>
+              <li>Yellowish (common)</li>
+              <li>Greenish tint (may suggest prolonged or severe cholestasis
+                with biliverdin accumulation)</li>
+            </ul>
+          </li>
+          <li><strong>Urine Color:</strong>
+            <ul>
+              <li>Dark urine (tea-colored or cola-colored): Suggests conjugated
+                hyperbilirubinemia (bilirubinuria).</li>
+              <li>Normal colored urine: May suggest unconjugated
+                hyperbilirubinemia (as unconjugated bilirubin is not
+                water-soluble and not excreted in urine).</li>
+            </ul>
+          </li>
+          <li><strong>Stool Color:</strong>
+            <ul>
+              <li>Pale or clay-colored (acholic) stools: Strongly suggests
+                biliary obstruction (obstructive jaundice), as bilirubin is not
+                reaching the gut.
+                <ul>
+                  <li class="pediatric">A critical sign in neonates, may
+                    indicate biliary atresia.</li>
+                </ul>
+              </li>
+              <li>Normal colored stools.</li>
+              <li>Dark stools (melena) if there's associated GI bleeding
+                contributing to liver issues.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>R: Radiation</strong>
+        <ul>
+        </ul>
+      </li>
+      <li> <strong>A: Associated Symptoms</strong>
+        <ul>
+          <li><strong>General:</strong>
+            <ul>
+              <li>Fever, chills (suggests infection, e.g., hepatitis,
+                cholangitis).</li>
+              <li>Malaise, fatigue, anorexia (common with liver disease,
+                infections).</li>
+              <li>Weight loss (concerning for malignancy, chronic infection, or
+                severe chronic liver disease).
+                <ul>
+                  <li class="pediatric">Poor weight gain or failure to thrive in
+                    infants/children with jaundice is a significant concern.</li>
+                </ul>
+              </li>
+              <li>Pruritus (itching): Common with cholestasis due to bile salt
+                deposition in the skin.</li>
+            </ul>
+          </li>
+          <li><strong>Gastrointestinal:</strong>
+            <ul>
+              <li>Abdominal pain (RUQ pain might suggest gallstones, hepatitis,
+                cholangitis).</li>
+              <li>Nausea, vomiting (as seen in the previous example, can be
+                associated with many causes of jaundice like hepatitis).</li>
+              <li>Abdominal distension (ascites in chronic liver disease).</li>
+            </ul>
+          </li>
+          <li class="pediatric"><strong>Neonatal/Infant Specific:</strong>
+            <ul>
+              <li>Poor feeding, lethargy, irritability (can be signs of sepsis,
+                severe hyperbilirubinemia/kernicterus, or metabolic disease).</li>
+              <li>High-pitched cry, abnormal muscle tone, seizures (concerning
+                for kernicterus).</li>
+              <li>Vomiting (can be seen with sepsis, metabolic disorders,
+                galactosemia).</li>
+              <li>Hepatosplenomegaly (enlarged liver/spleen on examination).</li>
+            </ul>
+          </li>
+          <li><strong>Other systems:</strong>
+            <ul>
+              <li>Easy bruising or bleeding (due to impaired synthesis of
+                clotting factors by the liver).</li>
+              <li>Joint pain (arthralgia), muscle pain (myalgia) (can be seen in
+                viral hepatitis).</li>
+              <li>Neurological changes (confusion, drowsiness, asterixis &ndash;
+                signs of hepatic encephalopathy in severe liver disease).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>P: Progression</strong> (Often covered by Onset, Duration,
+        and Pattern, but can be a distinct inquiry about the course of the
+        illness)
+        <ul>
+          <li>Is the jaundice getting progressively deeper yellow?</li>
+          <li>Are associated symptoms worsening or improving?</li>
+          <li class="pediatric">Tracking bilirubin levels (if known) provides
+            objective measure of progression in neonates.</li>
+          <li><em>This element often overlaps with Pattern/Timing.</em></li>
+        </ul>
+      </li>
+      <li> <strong>P: Pattern (Timing / Evolution)</strong>
+        <ul>
+          <li>How has the jaundice changed since it was first noticed?
+            (Worsening, improving, stable, fluctuating)</li>
+          <li class="pediatric">Physiological neonatal jaundice follows a
+            predictable pattern of rise and fall. Pathological jaundice may show
+            a rapid rise or prolonged course.</li>
+          <li>Any previous episodes of jaundice? or siblings? </li>
+          <li>&nbsp;Gilbert's or </li>
+          <li>Crigler-Najjar, or </li>
+          <li>hemolytic diseases).
+            <ul>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>E: Effect on life</strong>
+        <ul>
+          <li class="pediatric">Impact on feeding, activity levels, growth, and
+            development in children.</li>
+          <li class="pediatric">Parental anxiety and concern, especially with
+            neonatal jaundice.</li>
+          <li>For older individuals: ability to work, engage in daily
+            activities, appetite, sleep.</li>
+          <li><em>This section would be filled with patient/caregiver specific
+              information.</em></li>
+        </ul>
+      </li>
+      <li> <strong>S: Severity / Scale</strong>
+        <ul>
+          <li>Often gauged by the level of bilirubin in blood tests.</li>
+          <li>Clinically, the extent of skin discoloration (cephalocaudal
+            progression).</li>
+          <li>Severity of associated symptoms (e.g., degree of pruritus,
+            presence of hepatic encephalopathy, degree of dehydration if
+            vomiting is present).</li>
+          <li class="pediatric">In neonates, risk of kernicterus is a key aspect
+            of severity based on bilirubin levels and risk factors (e.g.,
+            prematurity, sepsis, acidosis, hypoalbuminemia). Nomograms (e.g.,
+            Bhutani nomogram) are used to assess risk.</li>
+          <li><em>A numerical scale for jaundice itself isn't typically used;
+              severity is a clinical and biochemical assessment.</em></li>
+        </ul>
+      </li>
+    </ul>
+    <h3>Additional Contextual Information to Gather (Beyond SODA CRAPPERS
+      directly for jaundice):</h3>
+    <ul>
+      <li><strong>Birth History (Pediatric):</strong> Gestational age, birth
+        weight, mode of delivery, any birth trauma (e.g., bruising,
+        cephalohematoma which can increase bilirubin), maternal blood group and
+        Rh status, history of maternal infections.</li>
+      <li><strong>Feeding History (Pediatric):</strong> Breastfed or
+        formula-fed? Adequacy of feeding, frequency, volume. Any difficulties
+        with feeding.</li>
+      <li><strong>Family History:</strong> Liver disease, hemolytic anemias
+        (e.g., sickle cell, spherocytosis), Gilbert's syndrome, Crigler-Najjar
+        syndrome, gallstones, metabolic disorders.
+        <div class="pediatric">History of jaundice or liver disease in siblings.</div>
+      </li>
+      <li><strong>Medication History:</strong> Any new medications, herbal
+        remedies, supplements (potential for drug-induced liver injury).
+        <div class="pediatric">Maternal medications during pregnancy or
+          breastfeeding.</div>
+      </li>
+      <li><strong>Travel History:</strong> To areas endemic for hepatitis
+        viruses.</li>
+      <li><strong>Exposure History:</strong> Blood transfusions, IV drug use,
+        high-risk sexual contact (risk factors for viral hepatitis).
+        Contaminated food/water.</li>
+      <li><strong>Alcohol History (for older patients).</strong></li>
+      <li><strong>Vaccination History (Pediatric/Adult):</strong> Hepatitis A
+        and B vaccinations.</li>
+    </ul>
+    <h2><br>
+    </h2>
+    <h2><br>
+    </h2>
+    <h2>Elaboration of Presenting Complaint: Cough (SODA CRAPPERS Framework)</h2>
+    <ul>
+      <li> <strong>S: Site (Perceived Origin)</strong>
+        <ul>
+          <li><em>Wet vs. Dry (see Character) can also give clues to the
+              site/level of airway involvement.</em></li>
+          <li>Does the cough feel like it's coming from the throat, chest, or
+            elsewhere?</li>
+          <ul>
+            <li>tickling sensation in the throat (suggesting upper airway)?</li>
+          </ul>
+          <ul>
+            <li>Is it a deep cough felt in the chest (suggesting lower airway)?</li>
+          </ul>
+        </ul>
+      </li>
+      <li> <strong>O: Onset</strong>
+        <ul>
+          <li>sudden </li>
+          <li>gradual?</li>
+          <li>Categorization by duration (as per your C-MINT related points):
+            <ul>
+              <li>Acute: &lt; 3 weeks</li>
+              <li>Subacute: 3-8 weeks</li>
+              <li>Chronic: &gt; 8 weeks </li>
+              <li class="pediatric">In children, chronic cough is often defined
+                as &gt; 4 weeks.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>D: Duration</strong>
+        <ul>
+          <li>How long has this particular episode of coughing been present?</li>
+          <li>If recurrent, how long do episodes typically last? How frequent
+            are the episodes?</li>
+        </ul>
+      </li>
+      <li> <strong>A: Aggravating / Relieving Factors (incorporating your
+          C-MINT related A/R)</strong>
+        <ul>
+          <li><strong>Aggravating Factors:</strong>
+            <ul>
+              <li>Positional changes? (e.g., worse when lying flat - suggestive
+                of post-nasal drip, GERD, heart failure)</li>
+              <li>Time of day (Diurnal Variations)?
+                <ul>
+                  <li>Worse at night/early morning? (Asthma, post-nasal drip,
+                    GERD)</li>
+                  <li class="pediatric">Nocturnal cough is a key indicator for
+                    asthma in children.</li>
+                </ul>
+              </li>
+              <li>Seasonal variations? (Allergic rhinitis, asthma triggered by
+                seasonal allergens)</li>
+              <li>Exposure to irritants (smoke, dust, fumes, strong odors)?</li>
+              <li>Cold air?</li>
+              <li>Exercise or exertion? (Exercise-induced
+                asthma/bronchoconstriction)</li>
+              <li>Talking or laughing?</li>
+              <li>Eating or drinking? (Aspiration, GERD, tracheo-esophageal
+                fistula in infants)</li>
+            </ul>
+          </li>
+          <li><strong>Relieving Factors:</strong>
+            <ul>
+              <li>Specific positions? (e.g., sitting up)</li>
+              <li>Medications (e.g., inhalers, cough suppressants, antacids)?</li>
+              <li>Warm drinks, honey (for symptomatic relief)?</li>
+              <li>Steam inhalation?</li>
+              <li>Avoiding known triggers?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>C: Character / Nature / Type (incorporating your C-MINT
+          related points 1 &amp; 5)</strong>
+        <ul>
+          <li><strong>Dry</strong>
+            <ul>
+              <li>Dry Cough (Non-productive): </li>
+              <li>Often irritating, tickling.</li>
+              <li>Common in viral infections, asthma, GERD, ACE inhibitor use,
+                interstitial lung disease, early pneumonia.</li>
+              <li class="pediatric">Habit cough, psychogenic cough.</li>
+            </ul>
+          </li>
+          <li>
+            <ul>
+            </ul>
+            <strong><strong>Productive <br>
+              </strong></strong></li>
+          <ul>
+            <li><strong><strong></strong>Amount:</strong> Scant, moderate,
+              copious? </li>
+            <li><strong>Color:</strong> Clear, white (mucoid - viral, chronic
+              bronchitis), yellow, green (purulent - bacterial infection), rusty
+              (pneumococcal pneumonia), pink frothy (pulmonary edema)?
+              <div class="pediatric">Green/yellow sputum doesn't always mean
+                bacterial infection in children, can be seen with viral too.</div>
+            </li>
+            <li><strong>Consistency:</strong> Thin, thick, tenacious?</li>
+            <li><strong>Odor:</strong> Foul-smelling (anaerobic infection,
+              bronchiectasis, lung abscess)?</li>
+            <li><strong>Blood (Hemoptysis):</strong> Streaks of blood, frank
+              blood? (Needs urgent evaluation - TB, malignancy, bronchiectasis,
+              PE, severe infection).</li>
+            <li>Common in bronchitis, pneumonia, bronchiectasis, COPD
+              exacerbation, cystic fibrosis.</li>
+          </ul>
+          <li><strong>Sound/Quality of Cough:</strong>
+            <ul>
+              <li>Barking (like a seal): Croup (laryngotracheobronchitis).</li>
+              <li>Paroxysmal (fits of coughing): Pertussis (whooping cough),
+                asthma, aspiration.
+                <ul>
+                  <li class="pediatric">Associated inspiratory "whoop" in
+                    pertussis. Post-tussive emesis common in pertussis.</li>
+                </ul>
+              </li>
+              <li>Hacking: Often seen with smoking or chronic irritation.</li>
+              <li>Wheezy cough: Asthma, bronchiolitis.</li>
+              <li>Brassy: Tracheal compression.</li>
+              <li>Bovine (non-explosive, weak): Vocal cord paralysis,
+                neuromuscular weakness.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>R: Radiation</strong>
+        <ul>
+        </ul>
+      </li>
+      <li> <strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Fever, chills (infection).</li>
+          <li>Shortness of breath (dyspnea) - at rest or on exertion (pneumonia,
+            asthma, COPD, heart failure, PE).</li>
+          <li>Wheezing (asthma, COPD, bronchiolitis).</li>
+          <li>Chest pain or tightness (pneumonia, pleurisy, bronchitis, PE,
+            cardiac causes, GERD).
+            <ul>
+              <li>Is the pain pleuritic (worse on inspiration or coughing)?</li>
+            </ul>
+          </li>
+          <li>Sore throat, runny nose, nasal congestion (upper respiratory tract
+            infection, post-nasal drip).</li>
+          <li>Hoarseness or voice changes (laryngitis, GERD, vocal cord issues,
+            tumor).</li>
+          <li>Heartburn, acid reflux sensation (GERD).</li>
+          <li>Fatigue, malaise.</li>
+          <li>Body aches (myalgia), joint pain (arthralgia) (viral infections).</li>
+          <li>Weight loss, night sweats (TB, malignancy, chronic infection).</li>
+          <li>Hemoptysis (coughing up blood - see Character).</li>
+        </ul>
+        <br>
+        <ul class="pediatric">
+          <li>Poor feeding or decreased appetite in infants/children.</li>
+          <li>Lethargy, irritability in children.</li>
+          <li>Cyanosis (bluish discoloration of lips/skin) - serious sign.</li>
+          <li>Respiratory distress signs in children: nasal flaring, grunting,
+            intercostal/subcostal retractions, tachypnea.</li>
+          <li>Apneic spells in infants (can be associated with pertussis or
+            severe RSV).</li>
+          <li>Stridor (high-pitched inspiratory noise - croup, foreign body,
+            laryngomalacia).</li>
+        </ul>
+      </li>
+      <li> <strong>P: Pattern (Temporal Relationship - overlaps with
+          Aggravating/Relieving)</strong>
+        <ul>
+          <li>Continous</li>
+          <li>Intermittent</li>
+          <ul>
+            <li>frequency</li>
+          </ul>
+        </ul>
+      </li>
+      <li> <strong>P: Progression</strong>
+        <ul>
+          <li>Is the cough getting better, worse, or staying the same over its
+            duration?</li>
+          <li>Has the character of the cough changed (e.g., from dry to
+            productive)?</li>
+          <li>Have new symptoms developed alongside the cough?</li>
+        </ul>
+      </li>
+      <li> <strong>E: Effect on life</strong>
+        <ul>
+          <li>Impact on sleep (patient's and family members').</li>
+          <li>Effect on daily activities, ability to work or attend school.</li>
+          <li>Limitation of physical activity or exercise tolerance.</li>
+          <li>Social embarrassment or avoidance.</li>
+          <li class="pediatric">Impact on feeding, growth, and development in
+            children.</li>
+          <li class="pediatric">Effect on play and interaction with peers.</li>
+          <li>Stress or anxiety related to the cough.</li>
+        </ul>
+      </li>
+      <li> <strong>S: Severity / Scale</strong>
+        <ul>
+          <li>Subjective rating by patient (e.g., on a scale of 0-10, how
+            bothersome is it?).</li>
+          <li>Frequency of coughing fits (e.g., number of times per hour/day).</li>
+          <li>Does it interrupt conversation or activities?</li>
+          <li>Does it cause syncope (cough syncope)?</li>
+          <li>Does it induce vomiting (post-tussive emesis)?</li>
+          <li class="pediatric">Parental assessment of severity, impact on
+            child's well-being.</li>
+        </ul>
+      </li>
+    </ul>
+    <h3>Additional Contextual Information to Gather for Cough:</h3>
+    <ul>
+      <li>Smoking history (active or passive exposure).
+        <div class="pediatric">Exposure to secondhand smoke is a major risk
+          factor for respiratory illnesses in children.</div>
+      </li>
+      <li>Occupational or environmental exposures (dust, chemicals, allergens).</li>
+      <li>Past medical history (asthma, COPD, allergies, GERD, heart disease,
+        previous pneumonia, TB exposure).
+        <div class="pediatric">History of prematurity, congenital lung/heart
+          conditions, immunodeficiency, atopy.</div>
+      </li>
+      <li>Family history (asthma, allergies, cystic fibrosis, alpha-1
+        antitrypsin deficiency, TB).</li>
+      <li>Medication history (especially ACE inhibitors, beta-blockers).</li>
+      <li>Vaccination status (Influenza, Pneumococcus, Pertussis, Measles).</li>
+      <li class="pediatric">Possibility of foreign body aspiration (sudden onset
+        of choking and coughing, especially in toddlers).</li>
+      <li class="pediatric">Daycare attendance (increased exposure to
+        infections).</li>
+    </ul>
+    <h2>Elaboration of Presenting Complaint: Bedwetting (Nocturnal Enuresis)</h2>
+    <ul>
+      <li> <strong>S: Site</strong>
+        <ul>
+        </ul>
+      </li>
+      <li> <strong>O: Onset</strong>
+        <ul>
+          <li>Age when bedwetting started or became a concern.</li>
+          <li><strong>Primary Enuresis:</strong> Child has never achieved
+            consistent nighttime dryness for at least 6 months.</li>
+          <li><em>Secondary </em><strong>Enuresis:</strong> Child achieved at
+            least 6 months of nighttime dryness and then started wetting again.
+            <ul>
+              <li>If secondary, ascertain age of achieving prior dryness and age
+                of relapse.</li>
+              <li>Any specific triggers or events associated with the onset of
+                secondary enuresis (e.g., stress, illness, new sibling, starting
+                school)?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>D: Duration</strong>
+        <ul>
+          <li>How long has the bedwetting been occurring (for current episode if
+            secondary, or overall if primary)?</li>
+          <li>If secondary, how long was the period of dryness?</li>
+        </ul>
+      </li>
+      <li> <strong>A: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li><strong>Aggravating Factors:</strong>
+            <ul>
+              <li>Increased fluid intake, especially in the evening/before bed?
+                (Type of fluids - e.g., </li>
+              <ul>
+                <li>caffeinated, </li>
+                <li>sugary drinks)</li>
+              </ul>
+              <li>Stressful events or periods?</li>
+              <ul>
+                <li>school</li>
+                <li>parents fighting</li>
+                <li>Social media</li>
+                <li>Parental control</li>
+                <li><br>
+                </li>
+              </ul>
+              <li>Constipation?</li>
+              <li>Deep sleep (child is difficult to arouse)?</li>
+              <ul>
+                <li>too much play exhausted?</li>
+              </ul>
+              <li>Cold weather?</li>
+              <li>Certain foods or drinks (less common, but some parents report
+                associations)?</li>
+              <li>Illness (e.g., UTI, viral illness)?</li>
+              <li>Forgetting to use the toilet before bed?</li>
+            </ul>
+          </li>
+          <li><strong>Relieving Factors (or attempted interventions):</strong>
+            <ul>
+              <li>Fluid restriction in the evening?</li>
+              <li>Scheduled waking at night to void? (By whom? Successful?)</li>
+              <li>Use of bedwetting alarms? (Ever tried? Success rate?)</li>
+              <li>Medications? (e.g., Desmopressin (DDAVP), Imipramine - past or
+                current use, effectiveness, side effects)</li>
+              <li>Positive reinforcement / reward charts?</li>
+              <li>Addressing constipation?</li>
+              <li>Avoiding known dietary triggers?</li>
+              <li>Child spontaneously wakes to void on some nights?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>C: Character (of the wetting episode)</strong>
+        <ul>
+          <li><strong>Volume of urine:</strong>
+            <ul>
+              <li>Small amount, just damp?</li>
+              <li>Large amount, soaking through bedding?</li>
+            </ul>
+          </li>
+          <li><strong>Timing of wetting:</strong>
+            <ul>
+              <li>Typically occurs </li>
+              <ul>
+                <li>early in the night, </li>
+                <li>middle, or </li>
+                <li>towards morning?</li>
+              </ul>
+              <li>Does the child wake up after wetting, or sleep through it?</li>
+            </ul>
+          </li>
+          <li><strong>Nature of stream (if observed during daytime voiding):</strong>
+            Strong, weak, interrupted? (Relevant if daytime symptoms are also
+            present).</li>
+          <li>Is the child aware of the sensation of needing to urinate before
+            wetting at night?</li>
+          <li>Any straining or difficulty initiating urination (day or night)?</li>
+        </ul>
+      </li>
+      <li> <strong>R: Radiation</strong>
+        <ul>
+          <li>Not applicable to bedwetting itself.</li>
+          <li><em>This element is not typically used for enuresis.</em></li>
+        </ul>
+      </li>
+      <li> <strong>A: Associated Symptoms</strong>
+        <ul>
+          <li><strong>Daytime Urinary Symptoms (Crucial to ask, as it may
+              indicate underlying bladder dysfunction rather than simple
+              nocturnal enuresis):</strong>
+            <ul>
+              <li>Daytime incontinence (wetting)?</li>
+              <li>Urgency (sudden, strong need to urinate)?</li>
+              <li>Frequency (urinating more often than usual)?</li>
+              <li>Hesitancy (difficulty starting urine stream)?</li>
+              <li>Straining to urinate?</li>
+              <li>Intermittent stream?</li>
+              <li>Dribbling or post-void dribbling?</li>
+              <li>Pain or burning during urination (dysuria) (suggests UTI)?</li>
+              <li>Holding maneuvers (e.g., squatting, leg crossing, pressing on
+                perineum to prevent wetting)?</li>
+            </ul>
+          </li>
+          <li><strong>Bowel Symptoms:</strong>
+            <ul>
+              <li>Constipation (frequency of bowel movements, stool consistency,
+                straining, pain)? (Very common co-morbidity)</li>
+              <li>Encopresis (fecal soiling)?</li>
+            </ul>
+          </li>
+          <li><strong>Sleep-Related Symptoms:</strong>
+            <ul>
+              <li>Snoring, observed apneas, restless sleep (suggests
+                sleep-disordered breathing, which can contribute)?</li>
+              <li>Difficulty waking the child?</li>
+            </ul>
+          </li>
+          <li><strong>Neurological Symptoms:</strong>
+            <ul>
+              <li>Weakness or changes in gait?</li>
+              <li>Back pain, sacral dimple, hairy patch over the spine (suggests
+                possible spinal cord abnormality like spina bifida occulta)?</li>
+              <li>Changes in bowel/bladder control that are new and sudden
+                (beyond just wetting).</li>
+            </ul>
+          </li>
+          <li><strong>General/Systemic:</strong>
+            <ul>
+              <li>Increased thirst (polydipsia) and increased urination
+                (polyuria) (suggests diabetes mellitus or diabetes insipidus)?</li>
+              <li>Fever, malaise (suggests infection)?</li>
+              <li>Poor growth, failure to thrive?</li>
+              <li>Edema (swelling)?</li>
+            </ul>
+          </li>
+          <li><strong>Psychological/Behavioral:</strong>
+            <ul>
+              <li>Recent stressors or changes in family/school environment?</li>
+              <li>Signs of anxiety, depression, or behavioral problems?</li>
+              <li>Child's emotional reaction to bedwetting (embarrassment,
+                guilt, shame)?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <strong>P: Pattern (Frequency)</strong>
+        <ul>
+          <li>How many nights per week does bedwetting occur? (e.g., every
+            night, 3-4 times/week, occasionally)</li>
+          <li>How many times per night does wetting occur? (Once, multiple
+            times)</li>
+          <li>Is there any pattern to dry nights vs. wet nights?</li>
+        </ul>
+      </li>
+      <li> <strong>P: Progression</strong>
+        <ul>
+          <li>Is the frequency/severity of bedwetting increasing, decreasing, or
+            staying the same over time?</li>
+          <li>Any changes in associated symptoms?</li>
+        </ul>
+      </li>
+      <li> <strong>E: Effect on life (Child and Family)</strong>
+        <ul>
+          <li><strong>Child:</strong>
+            <ul>
+              <li>Emotional impact (shame, embarrassment, guilt, low
+                self-esteem, anxiety)?</li>
+              <li>Impact on social activities (e.g., avoiding sleepovers,
+                camps)?</li>
+              <li>Impact on sleep quality?</li>
+              <li>Child's perception of the problem? (Are they bothered by it?)</li>
+            </ul>
+          </li>
+          <li><strong>Family:</strong>
+            <ul>
+              <li>Parental stress, frustration, or anxiety?</li>
+              <li>Impact on family routines (e.g., laundry burden)?</li>
+              <li>Impact on siblings?</li>
+              <li>Any punitive measures used (which are generally discouraged)?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><em>R</em>:<em>Red flags</em></li>
+      <ul>
+        <li><br>
+        </li>
+      </ul>
+      <li><strong>S: Severity / Scale</strong>
+        <ul>
+          <li>Often judged by:
+            <ul>
+              <li>Frequency of wet nights per week.</li>
+              <li>Number of wetting episodes per night.</li>
+              <li>Volume of urine (small vs. soaking).</li>
+              <li>Impact on the child's and family's quality of life.</li>
+            </ul>
+          </li>
+          <li><em>A specific numerical scale for bedwetting itself is not
+              standard, but these factors contribute to assessing clinical
+              significance.</em></li>
+        </ul>
+      </li>
+    </ul>
+    <h3>Additional Contextual Information to Gather for Bedwetting:</h3>
+    <ul>
+      <li><strong>Developmental History:</strong> Milestones achieved, any
+        developmental delays.</li>
+      <li><strong>Family History:</strong> History of enuresis in parents or
+        siblings (strong genetic component).</li>
+      <li><strong>Fluid Intake:</strong> Type and amount of fluids consumed
+        throughout the day, especially in the evening.</li>
+      <li><strong>Toileting Habits/Training:</strong> Age of toilet training,
+        current daytime toileting routine, resistance to using toilet.</li>
+      <li><strong>Sleep Patterns:</strong> Bedtime, typical sleep duration,
+        depth of sleep, any sleep disturbances.</li>
+      <li><strong>Psychosocial Environment:</strong> Major life changes, family
+        stressors, school environment, peer relationships.</li>
+      <li><strong>Past Medical History:</strong> Previous UTIs, kidney problems,
+        neurological conditions, diabetes, sickle cell disease.</li>
+    </ul>
+    <h2>Elaboration of Presenting Complaint: Night Terrors (Pavor Nocturnus)</h2>
+    <ul>
+      <li>
+        <strong>S: Site (of Manifestation)</strong>
+        <ul>
+          <li>Where does the event primarily occur? (e.g., child's bed, another
+            room if sleepwalking is involved).</li>
+          <li>Are there any physical signs observed on the child during or after
+            the episode (e.g., sweating, flushed face)?</li>
+          <li><em>"Site" is less about a location of pain and more about the
+              setting and physical manifestations.</em></li>
+        </ul>
+      </li>
+      <li>
+        <strong>O: Onset</strong>
+        <ul>
+          <li>At what age did the night terrors first begin?</li>
+          <li>Was there any specific trigger or event around the time they
+            started (e.g., illness, stress, change in routine, new medication)?</li>
+          <li>Did they start suddenly or was there a gradual increase in
+            frequency/intensity?</li>
+          <li class="pediatric">Night terrors typically begin in early
+            childhood, often between ages 3-7, but can occur earlier or later.</li>
+        </ul>
+      </li>
+      <li>
+        <strong>D: Duration</strong>
+        <ul>
+          <li>How long does a typical night terror episode last? (Usually a few
+            minutes, but can range from 1 to 10+ minutes).</li>
+          <li>How long has the child been experiencing these episodes overall
+            (weeks, months, years)?</li>
+        </ul>
+      </li>
+      <li>
+        <strong>A: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li><strong>Aggravating Factors (Triggers):</strong>
+            <ul>
+              <li>Sleep deprivation or irregular sleep schedules?</li>
+              <li>Fever or illness?</li>
+              <li>Stress, anxiety, or exciting/upsetting events during the day?</li>
+              <li>Full bladder?</li>
+              <li>Noisy sleep environment or other disturbances during sleep?</li>
+              <li>Certain medications (e.g., some stimulants, sedatives,
+                antihistamines)?</li>
+              <li>Traveling or sleeping in an unfamiliar environment?</li>
+              <li class="pediatric">Growth spurts or developmental changes?</li>
+              <li class="pediatric">Family history of parasomnias (night
+                terrors, sleepwalking)?</li>
+            </ul>
+          </li>
+          <li><strong>Relieving Factors (or attempted interventions during/after
+              an episode):</strong>
+            <ul>
+              <li>Does waking the child fully stop the episode? (Usually
+                difficult to wake, and may lead to confusion if woken).</li>
+              <li>What do caregivers typically do during an episode? (e.g., try
+                to comfort, hold, speak to the child &ndash; often with little
+                effect during the terror itself).</li>
+              <li>Does ensuring adequate sleep and a regular sleep schedule help
+                reduce frequency?</li>
+              <li>Scheduled awakenings (waking the child briefly about 15-30
+                minutes before episodes typically occur, if predictable)?</li>
+              <li>Creating a safe sleep environment to prevent injury?</li>
+              <li>Reassurance after the child fully awakens (though they usually
+                have no memory of the event)?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>C: Character (Description of the Episode)</strong>
+        <ul>
+          <li><strong>Child's Appearance and Behavior During Episode:</strong>
+            <ul>
+              <li>Sudden arousal from sleep?</li>
+              <li>Intense crying, screaming, shouting?</li>
+              <li>Signs of intense fear or panic (e.g., wide eyes, terrified
+                expression)?</li>
+              <li>Sitting up in bed, thrashing, kicking, flailing?</li>
+              <li>May appear confused, disoriented, and unresponsive to comfort
+                or attempts to awaken.</li>
+              <li>Eyes may be open with a "glassy" stare.</li>
+              <li>Sweating, rapid breathing (tachypnea), rapid heart rate
+                (tachycardia), flushed skin, dilated pupils?</li>
+              <li>May mumble, speak incoherently, or not speak at all.</li>
+              <li>Sleepwalking (somnambulism) may co-occur.</li>
+            </ul>
+          </li>
+          <li><strong>Child's State After the Episode:</strong>
+            <ul>
+              <li>Usually returns to sleep quickly without fully waking up.</li>
+              <li>Amnesia for the event: Child has no memory of the terror,
+                dream, or behaviors the next morning.</li>
+              <li>If awakened during an episode, the child may be confused,
+                disoriented, and agitated for a period.</li>
+            </ul>
+          </li>
+          <li>Is there any dream content recalled by the child? (Typically no,
+            unlike nightmares).</li>
+        </ul>
+      </li>
+      <li>
+        <strong>R: Radiation</strong>
+        <ul>
+          <li>Not applicable to night terrors.</li>
+          <li><em>This element is not used for describing parasomnias.</em></li>
+        </ul>
+      </li>
+      <li>
+        <strong>A: Associated Symptoms (Daytime or other sleep-related)</strong>
+        <ul>
+          <li>Daytime sleepiness or fatigue (if episodes are frequent or
+            disruptive to overall sleep)?</li>
+          <li>Behavioral problems or mood changes during the day?</li>
+          <li>Other sleep problems:
+            <ul>
+              <li>Sleepwalking (somnambulism)?</li>
+              <li>Sleep talking (somniloquy)?</li>
+              <li>Nightmares (distinct from night terrors &ndash; child usually
+                remembers the dream and is easily comforted)?</li>
+              <li>Bruxism (teeth grinding)?</li>
+              <li>Restless Leg Syndrome symptoms?</li>
+              <li>Snoring or signs of sleep-disordered breathing (e.g., gasping,
+                pauses in breathing observed by caregiver)?</li>
+            </ul>
+          </li>
+          <li>Symptoms of anxiety or stress?</li>
+          <li class="pediatric">Headaches, especially if there's concern about
+            underlying neurological issues or sleep deprivation.</li>
+          <li class="pediatric">Enuresis (bedwetting) can sometimes co-occur
+            with other parasomnias.</li>
+          <li class="pediatric">Signs of underlying medical conditions that
+            could trigger night terrors (e.g., GERD causing discomfort, fever).</li>
+        </ul>
+      </li>
+      <li>
+        <strong>P: Pattern (Timing / Frequency of Episodes)</strong>
+        <ul>
+          <li><strong>Timing during the night:</strong>
+            <ul>
+              <li>Typically occur in the first third of the night (during deep
+                non-REM sleep, stages N3). Usually 1-3 hours after falling
+                asleep.</li>
+              <li>Rarely occur during naps.</li>
+            </ul>
+          </li>
+          <li><strong>Frequency:</strong>
+            <ul>
+              <li>How many episodes per night/week/month?</li>
+              <li>Are they clustered (several nights in a row then a period
+                without)?</li>
+              <li>Is the frequency increasing, decreasing, or stable?</li>
+            </ul>
+          </li>
+          <li>Is there a predictable time each night when they occur?</li>
+        </ul>
+      </li>
+      <li>
+        <strong>P: Progression</strong>
+        <ul>
+          <li>How have the night terrors changed since they first started?
+            (e.g., become more intense, more frequent, less frequent, associated
+            with new behaviors like sleepwalking).</li>
+          <li class="pediatric">Night terrors often decrease in frequency and
+            resolve spontaneously as the child gets older, usually by
+            adolescence.</li>
+        </ul>
+      </li>
+      <li>
+        <strong>E: Effect on life (Child and Family)</strong>
+        <ul>
+          <li><strong>Child:</strong>
+            <ul>
+              <li>Although the child doesn't remember the episode, is there any
+                observed daytime sleepiness, fatigue, or mood changes?</li>
+              <li>Risk of injury during an episode (e.g., falling out of bed,
+                hitting objects if sleepwalking)?</li>
+            </ul>
+          </li>
+          <li><strong>Family:</strong>
+            <ul>
+              <li>Significant distress, anxiety, and sleep disruption for
+                parents/caregivers witnessing the episodes.</li>
+              <li>Concern about the child's well-being or potential underlying
+                problems.</li>
+              <li>Impact on family sleep quality.</li>
+              <li>Strain on parental relationships due to stress and sleep loss.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>S: Severity / Scale</strong>
+        <ul>
+          <li>Severity is often judged by:
+            <ul>
+              <li>Frequency and intensity of episodes.</li>
+              <li>Degree of disruption to the child's and family's sleep.</li>
+              <li>Risk of injury.</li>
+              <li>Level of distress experienced by caregivers.</li>
+            </ul>
+          </li>
+          <li><em>A specific numerical scale for night terror severity is not
+              standard, but these factors assess clinical significance.</em></li>
+        </ul>
+      </li>
+    </ul>
+    <h3>Additional Contextual Information to Gather for Night Terrors:</h3>
+    <ul>
+      <li>Detailed sleep history: Bedtime, wake time, total sleep duration,
+        sleep hygiene practices, nap schedule.</li>
+      <li>Family history of parasomnias (night terrors, sleepwalking,
+        nightmares), sleep disorders, or psychiatric conditions.</li>
+      <li>Child's daily routine, school performance, social interactions.</li>
+      <li>Any recent significant life events or stressors.</li>
+      <li>Medication history (prescription, over-the-counter, supplements).</li>
+      <li>Caffeine or stimulant intake (especially in older
+        children/adolescents).</li>
+      <li>Screen time habits, especially before bed.</li>
+      <li>Previous evaluations or treatments for the night terrors or other
+        sleep problems.</li>
+    </ul>
+    <p>Negative History: </p>
+    <ol>
+      <li>Mention relevant negative findings related to the presenting illness,
+        e.g., No h/o fever, vomiting, loose stools, seizures, etc.</li>
+    </ol>
+    <p></p>
+    <h3 class="section-title">IV. PAST MEDICAL HISTORY</h3>
+    <div class="sub-list">
+      <ol>
+        <li>similar complaints</li>
+        <li>ADHD</li>
+        <li>Autism specturn</li>
+        <li>learning difficulties</li>
+        <li>Asthma, </li>
+        <li>TB, </li>
+        <li>Epilepsy, </li>
+        <li>Rheumatic fever, </li>
+        <li>Jaundice, </li>
+        <li>UTIs, </li>
+        <li>Congenital anomalies</li>
+      </ol>
+      <p></p>
+      <h3>MARITAL STATUS :</h3>
+      <ol>
+        <li>Parents biological</li>
+        <li><br>
+        </li>
+      </ol>
+      <h3>CHILDREN :</h3>
+      <ol>
+        <li>&nbsp;&nbsp;&nbsp; other children</li>
+      </ol>
+      <h3>Family H/o:</h3>
+      <ul>
+        <li><strong>Central Nervous System (CNS)</strong>
+          <ul>
+            <li>Febrile Seizures</li>
+            <li>bed wetting</li>
+            <li>Autism Spectrum Disorder (ASD)</li>
+            <li>Attention-Deficit/Hyperactivity Disorder (ADHD)</li>
+            <li>Learning Difficulties</li>
+            <li>Developmental Delay</li>
+            <li>Fragile X Syndrome</li>
+            <li>Rett Syndrome</li>
+          </ul>
+        </li>
+        <li><strong>Musculoskeletal System</strong>
+          <ul>
+            <li>Short Stature</li>
+            <li>Osteogenesis Imperfecta (OI)</li>
+            <li>Cleidocranial Dysostosis</li>
+          </ul>
+        </li>
+        <li><strong>Ear, Nose, and Throat (ENT)</strong>
+          <ul>
+            <li>Hearing Problems</li>
+          </ul>
+        </li>
+        <li><strong>Cardiovascular System (CVS)</strong>
+          <ul>
+            <li>Congenital Heart Defects</li>
+            <li>Noonan Syndrome</li>
+          </ul>
+        </li>
+        <li><strong>Endocrine and Metabolic Disorders</strong>
+          <ul>
+            <li>Type 1 Diabetes Mellitus</li>
+            <li>Phenylketonuria (PKU)</li>
+            <li>Tay&ndash;Sachs Disease</li>
+          </ul>
+        </li>
+        <li><strong>Genetic Syndromes</strong>
+          <ul>
+            <li>Turner Syndrome</li>
+            <li>Prader&ndash;Willi Syndrome</li>
+            <li>Bardet&ndash;Biedl Syndrome</li>
+          </ul>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Behavioral problems:</strong></p>
+      <ol>
+        <li>Details if any</li>
+      </ol>
+      <p></p>
+      <p><strong>History of hospitalizations:</strong> </p>
+      <ol>
+        <li>Reason, duration, outcome</li>
+      </ol>
+      <p></p>
+      <p><strong>History of surgeries/procedures:</strong> </p>
+      <ol>
+        <li>Details</li>
+      </ol>
+      <p></p>
+      <p><strong>History of trauma/accidents:</strong> </p>
+      <ol>
+        <li>Details</li>
+      </ol>
+      <p></p>
+      <p><strong>History of allergies:</strong> </p>
+      <ol>
+        <li>Drug, food, environmental; describe reaction</li>
+      </ol>
+      <p></p>
+      <p><strong>Current medications:</strong> </p>
+      <ol>
+        <li>Name, dose, frequency, duration, reason for taking</li>
+      </ol>
+      <p></p>
+      <p><strong>School/Daycare:</strong></p>
+      <ol>
+        <li>Attendance</li>
+        <li>Performance</li>
+        <li>Interaction with peers</li>
+        <li>Any bullying</li>
+      </ol>
+    </div>
+    <h3 class="section-title">V. PERINATAL HISTORY (BIRTH HISTORY)</h3>
+    <div class="sub-list">
+      <p><strong>Antenatal History:</strong> </p>
+      <ol>
+        <li>Mother's age at conception:
+          <ol>
+            <li>Years</li>
+          </ol>
+        </li>
+        <li>GPLDA <br>
+        </li>
+        <ol>
+          <li>Gravida: </li>
+          <li>Para:</li>
+          <li>Living:</li>
+          <li>Death</li>
+          <li>Abortion/Stillbirth: </li>
+        </ol>
+        <li>Consanguinity:
+          <ol>
+            <li>Yes</li>
+            <ol>
+              <li>degree</li>
+            </ol>
+            <li>No,</li>
+          </ol>
+        </li>
+        <li>Antenatal check-ups:
+          <ol>
+            <li>Regular</li>
+            <li>Irregular, </li>
+            <li><br>
+            </li>
+            <li>Number of visits, </li>
+            <li>Place</li>
+          </ol>
+        </li>
+        <li>Immunizations during pregnancy:
+          <ol>
+            <li>TT</li>
+            <li>other</li>
+          </ol>
+        </li>
+        <li>Supplements:
+          <ol>
+            <li>Iron</li>
+            <li>Folic acid</li>
+            <li>Calcium</li>
+          </ol>
+        </li>
+        <li>History of illness during pregnancy:
+          <ol>
+            <li>e.g., Fever, rash, HTN, DM, UTI, TORCH infections</li>
+          </ol>
+        </li>
+        <li>History of </li>
+        <ol>
+          <li>drug intake/</li>
+          <li>radiation exposure during pregnancy:</li>
+          <li>Details
+            <ol>
+            </ol>
+          </li>
+        </ol>
+        <li>Quickening:
+          <ol>
+            <li>Felt at which month</li>
+          </ol>
+        </li>
+        <li>Any complications:
+          <ol>
+            <li>e.g., Bleeding, PIH, GDM, Oligohydramnios, Polyhydramnios</li>
+          </ol>
+        </li>
+      </ol>
+      <p></p>
+      <p><strong><strong>Intranatal </strong>History :</strong> </p>
+      <ol>
+        <li>Place of delivery:
+          <ol>
+            <li>Home/Hospital; Govt/Private</li>
+          </ol>
+        </li>
+        <li>Conducted by:
+          <ol>
+            <li>Doctor/Nurse/TBA/Other</li>
+          </ol>
+        </li>
+        <li>Term:
+          <ol>
+            <li>Preterm/Term/Post-term; Gestational age in weeks</li>
+          </ol>
+        </li>
+        <li>Mode of delivery:
+          <ol>
+            <li>Normal vaginal/</li>
+            <li>Assisted (Forceps/Vacuum)/</li>
+            <ol>
+              <li>Indication </li>
+            </ol>
+            <li>LSCS - </li>
+            <ol>
+              <li>Indication </li>
+            </ol>
+          </ol>
+        </li>
+        <li>Duration of labor:
+          <ol>
+            <li>Stage 1,</li>
+            <li>&nbsp;Stage 2</li>
+          </ol>
+        </li>
+        <li>Nature of amniotic fluid:
+          <ol>
+            <li>Clear/</li>
+            <li>Meconium stained/</li>
+            <li>Foul smelling</li>
+          </ol>
+        </li>
+        <li>Immediate cry after birth:
+          <ol>
+            <li>Yes/</li>
+            <li>No; </li>
+            <ol>
+              <li>time taken</li>
+            </ol>
+          </ol>
+        </li>
+        <li>APGAR score:
+          <ol>
+            <li>At 1 min, </li>
+            <li>5 min</li>
+          </ol>
+        </li>
+        <li>Birth weight:
+          <ol>
+            <li>kg</li>
+          </ol>
+        </li>
+        <li>Any birth injuries:
+          <ol>
+            <li>Details</li>
+          </ol>
+        </li>
+      </ol>
+      <p></p>
+      <p><strong>Postnatal History:</strong> </p>
+      <ol>
+        <li>Condition at birth:
+          <ol>
+            <li>Vigorous/Crying/Limp/Cyanosed</li>
+          </ol>
+        </li>
+        <li>Breastfeeding initiated:
+          <ol>
+            <li>Within 1 hour/Later</li>
+          </ol>
+        </li>
+        <li>Neonatal problems:
+          <ol>
+            <li>e.g., Jaundice, Sepsis, RDS, Hypoglycemia, Convulsions, NICU
+              admission - duration, reason</li>
+          </ol>
+        </li>
+        <li>Medications given:
+          <ol>
+            <li>e.g., Vitamin K</li>
+          </ol>
+        </li>
+        <li>Rooming-in:
+          <ol>
+            <li>Yes/No</li>
+          </ol>
+        </li>
+        <li>Date of discharge:
+          <ol>
+            <li>Details</li>
+          </ol>
+        </li>
+      </ol>
+      <p></p>
+    </div>
+    <h3 class="section-title">VI. IMMUNIZATION HISTORY</h3>
+    <p class="detail-prompt">(As per National/Local Schedule; include BCG scar,
+      any adverse reactions)</p>
+    <p class="green">GREEN BOOK</p>
+    <p>List vaccines received with dates, or state "Completely immunized as per
+      schedule" / "Partially immunized" / "Unimmunized". Note any missed
+      vaccines or deviations.]</p>
+    <p>BCG Scar: </p>
+    <ol>
+      <li>Present/</li>
+      <ol>
+        <li>Site</li>
+      </ol>
+      <li>Absent, </li>
+    </ol>
+    <p></p>
+    <p>Adverse reactions to any vaccine: </p>
+    <ol>
+      <li>Yes/</li>
+      <ol>
+        <li>details</li>
+      </ol>
+      <li>No, </li>
+    </ol>
+    <p></p>
+    <h3 class="section-title">VII. DEVELOPMENTAL HISTORY</h3>
+    <div>
+      <p><em>RED BOOK</em></p>
+      <p><strong>Gross Motor Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Head holding:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Sitting without support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Crawling:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Standing with support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Standing without support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Walking with support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Walking without support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Running:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Climbing stairs:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Fine Motor Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Reaching for objects:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Transferring objects hand to hand:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Pincer grasp (mature/immature):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Scribbling:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Building tower of cubes:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Copying shapes (circle, cross, square, triangle):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Language Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Cooing:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Monosyllables (ba, da, ma):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Bisyllables (mama, dada - specific/non-specific):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Speaking 2-3 meaningful words:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Speaking simple sentences (2-3 words):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Telling stories/asking questions:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Knows name, age, gender:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Social-Emotional Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Social smile:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Recognizes mother:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Stranger anxiety:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Waves bye-bye:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Plays simple games (peek-a-boo):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Dry by day/night:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Bladder/Bowel control:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Dresses/Undresses self (with/without help):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Plays cooperatively with other children:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Scholastic Performance:</strong> [If applicable -</p>
+      <ol>
+        <li>Grade, </li>
+        <li>performance, </li>
+        <li>any difficulties]</li>
+      </ol>
+      <p><strong>Overall Developmental Assessment:</strong> [Normal/Delayed -
+        specify domains if delayed]</p>
+    </div>
+    <h3 class="section-title">VIII. NUTRITIONAL HISTORY</h3>
+    <div class="sub-list">
+      <p><strong>For Infants:</strong></p>
+      <ol>
+        <li>Breastfeeding:
+          <ol>
+            <li>Exclusive/Partial</li>
+            <li>Duration</li>
+            <li>Frequency</li>
+            <li>Problems</li>
+          </ol>
+        </li>
+        <li>Formula feeding:
+          <ol>
+            <li>Type</li>
+            <li>Amount</li>
+            <li>Frequency</li>
+            <li>Dilution</li>
+            <li>Preparation method</li>
+            <li>Problems</li>
+          </ol>
+        </li>
+        <li>Weaning/Complementary foods:
+          <ol>
+            <li>Age of starting</li>
+            <li>Types of food</li>
+            <li>Frequency</li>
+            <li>Quantity</li>
+            <li>Consistency</li>
+            <li>Any difficulties</li>
+          </ol>
+        </li>
+        <li>Vitamin D/Iron supplementation:
+          <ol>
+            <li>Yes/No</li>
+            <li>Details</li>
+          </ol>
+        </li>
+      </ol>
+      <p><strong>For Older Children:</strong></p>
+      <ol>
+        <li>Dietary pattern:
+          <ol>
+            <li>Vegetarian</li>
+            <li>Non-vegetarian</li>
+            <li>Mixed</li>
+          </ol>
+        </li>
+        <li>24-hour dietary recall:
+          <ol>
+            <li>Detailed account of food consumed in the last 24 hours</li>
+          </ol>
+        </li>
+        <li>Appetite:
+          <ol>
+            <li>Good</li>
+            <li>Fair</li>
+            <li>Poor</li>
+            <li>Changes</li>
+          </ol>
+        </li>
+        <li>Food preferences/aversions:
+          <ol>
+            <li>Details</li>
+          </ol>
+        </li>
+        <li>Snacking habits:
+          <ol>
+            <li>Details</li>
+          </ol>
+        </li>
+        <li>Junk food intake:
+          <ol>
+            <li>Frequency</li>
+          </ol>
+        </li>
+        <li>Fluid intake:
+          <ol>
+            <li>Type</li>
+            <li>Amount</li>
+          </ol>
+        </li>
+      </ol>
+      <p><strong>Assessment of adequacy:</strong></p>
+      <ol>
+        <li>Calorie</li>
+        <li>Protein</li>
+        <li>Micronutrients</li>
+        <li>Based on recall and growth</li>
+      </ol>
+    </div>
+    <h3 class="section-title">XI. REVIEW OF SYSTEMS (ROS)</h3>
+    <p class="detail-prompt">(Brief inquiry about symptoms in other systems not
+      covered in HPI)</p>
+    <div class="sub-list">
+      <p><strong>General:</strong></p>
+      <ol>
+        <li>Fever</li>
+        <li>Weight loss/gain</li>
+        <li>Fatigue</li>
+        <li>Irritability</li>
+        <li>Activity level</li>
+      </ol>
+      <p><strong>Skin:</strong></p>
+      <ol>
+        <li>Rashes</li>
+        <li>Itching</li>
+        <li>Dryness</li>
+        <li>Color changes</li>
+        <li>New lesions</li>
+      </ol>
+      <p><strong>Head, Eyes, Ears, Nose, Throat (HEENT):</strong></p>
+      <ol>
+        <li>Head:
+          <ol>
+            <li>Headache</li>
+            <li>Dizziness</li>
+            <li>Trauma</li>
+          </ol>
+        </li>
+        <li>Eyes:
+          <ol>
+            <li>Vision changes</li>
+            <li>Redness</li>
+            <li>Discharge</li>
+            <li>Pain</li>
+            <li>Squint</li>
+          </ol>
+        </li>
+        <li>Ears:
+          <ol>
+            <li>Hearing changes</li>
+            <li>Pain</li>
+            <li>Discharge</li>
+            <li>Tinnitus</li>
+          </ol>
+        </li>
+        <li>Nose:
+          <ol>
+            <li>Nasal discharge</li>
+            <li>Obstruction</li>
+            <li>Epistaxis</li>
+            <li>Sneezing</li>
+          </ol>
+        </li>
+        <li>Throat:
+          <ol>
+            <li>Sore throat</li>
+            <li>Difficulty swallowing</li>
+            <li>Hoarseness</li>
+            <li>Snoring</li>
+          </ol>
+        </li>
+      </ol>
+      <p><strong>Respiratory:</strong></p>
+      <ol>
+        <li>Cough</li>
+        <li>Wheezing</li>
+        <li>Shortness of breath</li>
+        <li>Chest pain</li>
+        <li>Hemoptysis</li>
+      </ol>
+      <p><strong>Cardiovascular:</strong></p>
+      <ol>
+        <li>Palpitations</li>
+        <li>Chest pain</li>
+        <li>Cyanosis</li>
+        <li>Edema</li>
+        <li>Exercise intolerance</li>
+        <li>Syncope</li>
+      </ol>
+      <p><strong>Gastrointestinal:</strong></p>
+      <ol>
+        <li>Appetite</li>
+        <li>Nausea</li>
+        <li>Vomiting</li>
+        <li>Diarrhea</li>
+        <li>Constipation</li>
+        <li>Abdominal pain</li>
+        <li>Distension</li>
+        <li>Blood in stool</li>
+        <li>Jaundice</li>
+      </ol>
+      <p><strong>Genitourinary:</strong></p>
+      <ol>
+        <li>Urinary frequency</li>
+        <li>Urgency</li>
+        <li>Dysuria</li>
+        <li>Hematuria</li>
+        <li>Enuresis</li>
+        <li>Genital discharge/rash/pain</li>
+      </ol>
+      <p><strong>Musculoskeletal:</strong></p>
+      <ol>
+        <li>Joint pain/swelling</li>
+        <li>Muscle pain/weakness</li>
+        <li>Deformity</li>
+        <li>Difficulty walking</li>
+      </ol>
+      <p><strong>Neurological:</strong></p>
+      <ol>
+        <li>Seizures</li>
+        <li>Headache</li>
+        <li>Loss of consciousness</li>
+        <li>Weakness</li>
+        <li>Abnormal movements</li>
+        <li>Changes in sensation</li>
+        <li>Coordination problems</li>
+        <li>Changes in behavior/mood</li>
+      </ol>
+      <p><strong>Endocrine:</strong></p>
+      <ol>
+        <li>Growth problems</li>
+        <li>Excessive thirst/urination</li>
+        <li>Heat/cold intolerance</li>
+        <li>Thyroid swelling</li>
+      </ol>
+      <p><strong>Hematological/Lymphatic:</strong></p>
+      <ol>
+        <li>Bleeding tendencies</li>
+        <li>Easy bruising</li>
+        <li>Pallor</li>
+        <li>Lymph node swelling</li>
+      </ol>
+    </div>
+    <h3 class="section-title">XII. GENERAL PHYSICAL EXAMINATION</h3>
+    <div class="sub-list">
+      <p><strong>General Appearance:</strong> [Alert, active, playful /
+        Irritable, lethargic, drowsy, comatose / Well-nourished, undernourished,
+        obese / In distress (respiratory, pain) / Comfortable]</p>
+      <p><strong>Built:</strong> [Average/Thin/Obese]
+        &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; <strong>Nourishment:</strong>
+        [Good/Fair/Poor]</p>
+      <p><strong>Level of Consciousness (GCS if applicable):</strong> [Score,
+        E_V_M_]</p>
+      <p><strong>Cooperation:</strong> [Cooperative/Uncooperative]</p>
+      <p><strong>Anthropometry:</strong> </p>
+      <ul>
+        <li>Weight: [kg] (<span class="detail-prompt">Percentile: [...])</span></li>
+        <li>Height/Length: [cm] (<span class="detail-prompt">Percentile: [...])</span></li>
+        <li>Head Circumference (if &lt;3 years): [cm] (<span class="detail-prompt">Percentile:
+            [...])</span></li>
+        <li>Mid-Upper Arm Circumference (MUAC, if applicable): [cm]</li>
+        <li>BMI (if applicable): [kg/m<sup>2</sup>] (<span class="detail-prompt">Percentile:
+            [...])</span></li>
+      </ul>
+      <p></p>
+      <p><strong>Vital Signs:</strong> </p>
+      <ul>
+        <li>Temperature: [...&Acirc;&deg;C/&Acirc;&deg;F] (<span class="detail-prompt">Site:
+            Axillary/Oral/Rectal)</span></li>
+        <li>Pulse Rate: [.../min] (<span class="detail-prompt">Rhythm:
+            Regular/Irregular; <span class="detail-prompt">Volume: Good/Low; <span
+                class="detail-prompt">Character: [...]; <span class="detail-prompt">Peripheral
+                  pulses: Palpable/Equal)</span></span></span></span></li>
+        <li>Respiratory Rate: [.../min] (<span class="detail-prompt">Rhythm:
+            Regular/Irregular; <span class="detail-prompt">Type:
+              Abdominal/Thoracoabdominal)</span></span></li>
+        <li>Blood Pressure: [.../... mmHg] (<span class="detail-prompt">Limb:
+            Right/Left Arm/Leg; <span class="detail-prompt">Cuff size: [...])</span></span></li>
+        <li>SpO<sub>2</sub>: [...% on room air / with O<sub>2</sub> at ...L/min]</li>
+        <li>Capillary Refill Time (CRT): [&lt;3 sec / &gt;3 sec]</li>
+        <li>Pain Score (e.g., FLACC, Wong-Baker FACES, Numeric): [...]</li>
+      </ul>
+      <p></p>
+      <p><strong>General Survey:</strong> </p>
+      <ul>
+        <li>Pallor: [Present/Absent]</li>
+        <li>Icterus: [Present/Absent]</li>
+        <li>Cyanosis: [Central/Peripheral/Absent]</li>
+        <li>Clubbing: [Present (Grade)/Absent]</li>
+        <li>Koilonychia: [Present/Absent]</li>
+        <li>Edema: [Pitting/Non-pitting, Site, Extent]</li>
+        <li>Dehydration: [Signs - sunken eyes, dry tongue, skin turgor, sunken
+          fontanelle if applicable; Grade - Mild/Moderate/Severe/None]</li>
+        <li>Lymphadenopathy: [Site, size, consistency, tenderness, mobility,
+          overlying skin changes]</li>
+        <li>Skin: [Color, texture, turgor, rashes, lesions, scars,
+          neurocutaneous markers (e.g., ash-leaf spots,
+          caf&Atilde;&copy;-au-lait spots, neurofibromas, port-wine stain)]</li>
+        <li>Hair &amp; Nails: [Texture, distribution, abnormalities]</li>
+        <li>Head &amp; Face: [Shape, size, fontanelles (if open - size,
+          tension), sutures, dysmorphic features, facies]</li>
+        <li>Eyes: [Conjunctiva, sclera, pupils (size, symmetry, reaction to
+          light), extraocular movements, strabismus, discharge]</li>
+        <li>Ears: [External ear, canals, tympanic membranes (otoscope if
+          needed), discharge, tenderness]</li>
+        <li>Nose: [Patency, discharge, septum, sinuses (tenderness if older
+          child)]</li>
+        <li>Mouth &amp; Throat: [Lips, oral mucosa, tongue, teeth (dentition,
+          caries), gums, tonsils, pharynx, palate, cry (if infant)]</li>
+        <li>Neck: [Symmetry, swelling, masses, thyroid, range of motion, JVP (if
+          assessable), nuchal rigidity]</li>
+        <li>Obvious swellings/deformities: [Describe]</li>
+      </ul>
+      <p></p>
+    </div>
+    <h3 class="section-title">XIII. SYSTEMIC EXAMINATION</h3>
+    <div class="sub-list">
+      <h4>A. RESPIRATORY SYSTEM</h4>
+      <p><strong>Inspection:</strong> [Shape of chest, symmetry of movements,
+        respiratory rate, rhythm, type of breathing, use of accessory muscles,
+        intercostal/subcostal retractions, nasal flaring, tracheal position,
+        scars, dilated veins]</p>
+      <p><strong>Palpation:</strong> [Chest expansion, vocal fremitus/tactile
+        fremitus, tenderness, rib cage integrity, apical impulse position]</p>
+      <p><strong>Percussion:</strong> [Resonant/Dull/Hyperresonant over all lung
+        fields, comparing sides]</p>
+      <p><strong>Auscultation:</strong> [Breath sounds - character
+        (vesicular/bronchial), intensity, equality; Adventitious sounds -
+        wheezes, rales/crackles, rhonchi, pleural rub; Vocal resonance]</p>
+      <h4>B. CARDIOVASCULAR SYSTEM</h4>
+      <p><strong>Pulse:</strong> (Already noted in vitals, re-evaluate for
+        specific cardiac features if needed)</p>
+      <p><strong>Blood Pressure:</strong> (Already noted, consider 4-limb BP if
+        indicated)</p>
+      <p><strong>JVP:</strong> [If assessable]</p>
+      <p><strong>Precordial Examination:</strong> </p>
+      <ul>
+        <li>Inspection: [Visible pulsations, scars, chest deformity]</li>
+        <li>Palpation: [Apical impulse - location (ICS, MCL), character;
+          Thrills, heaves, palpable heart sounds]</li>
+        <li>Auscultation: [Heart sounds - S1, S2 (splitting, intensity); Added
+          sounds - S3, S4, murmurs (timing, location, radiation, intensity,
+          pitch, quality), clicks, rubs]</li>
+      </ul>
+      <p></p>
+      <p><strong>Peripheral Signs:</strong> [Clubbing, cyanosis, edema, splinter
+        hemorrhages, Janeway lesions, Osler's nodes, peripheral pulses -
+        character, equality]</p>
+      <h4>C. GASTROINTESTINAL SYSTEM (ABDOMEN)</h4>
+      <p><strong>Inspection:</strong> [Shape, contour (flat/scaphoid/distended),
+        symmetry, umbilicus (position, everted/inverted, discharge), skin
+        (scars, striae, dilated veins), visible peristalsis, movements with
+        respiration]</p>
+      <p><strong>Auscultation:</strong> [Bowel sounds - present/absent,
+        character (normoactive/hyperactive/hypoactive); Bruits]</p>
+      <p><strong>Palpation:</strong> </p>
+      <ul>
+        <li>Superficial: [Tenderness (site, nature), guarding, rigidity,
+          superficial masses]</li>
+        <li>Deep: [Organomegaly - Liver (span, consistency, surface, edge,
+          tenderness), Spleen (palpable/not, size, consistency), Kidneys
+          (ballotable/not); Deep masses (site, size, shape, consistency,
+          mobility, tenderness)]</li>
+        <li>Hernial orifices: [Intact/hernia present]</li>
+      </ul>
+      <p></p>
+      <p><strong>Percussion:</strong> [Tympanitic/Dull over abdomen, liver span,
+        splenic dullness, shifting dullness/fluid thrill (if ascites suspected)]</p>
+      <p><strong>Digital Rectal Examination (DRE):</strong> [If indicated -
+        sphincter tone, masses, tenderness, stool characteristics]</p>
+      <p><strong>Genitalia (External):</strong> [If indicated/relevant - Tanner
+        staging for adolescents, abnormalities, discharge, inflammation]</p>
+      <h4>D. CENTRAL NERVOUS SYSTEM</h4>
+      <p><strong>Higher Intellectual Functions (Age-appropriate):</strong> </p>
+      <ol>
+        <li>Consciousness: [Alert/Drowsy/Stuporous/Comatose; GCS if applicable]</li>
+        <li>Orientation: [Time, place, person (age-appropriate)]</li>
+        <li>Memory: [Immediate, recent, remote (age-appropriate assessment)]</li>
+        <li>Speech: [Fluency, comprehension, naming, repetition, dysarthria,
+          aphasia (age-appropriate)]</li>
+        <li>Behavior &amp; Mood: [Appropriate/Inappropriate, irritable,
+          withdrawn, hyperactive]</li>
+        <li>General Intelligence/Cognition: [Impression based on interaction and
+          age]</li>
+      </ol>
+      <p></p>
+      <p><strong>Cranial Nerves (I-XII):</strong> <span class="detail-prompt">(Detailed
+          examination as indicated) </span></p>
+      <ol>
+        <li>I (Olfactory): [Sense of smell - if testable]</li>
+        <li>II (Optic): [Visual acuity, visual fields, fundoscopy (if
+          indicated)]</li>
+        <li>III, IV, VI (Oculomotor, Trochlear, Abducens): [Pupil size/reaction,
+          ptosis, eye movements, nystagmus, diplopia]</li>
+        <li>V (Trigeminal): [Facial sensation, corneal reflex, muscles of
+          mastication]</li>
+        <li>VII (Facial): [Facial symmetry (at rest, on movement - smile, frown,
+          eye closure), taste (anterior 2/3)]</li>
+        <li>VIII (Vestibulocochlear): [Hearing (gross, Rinne's, Weber's - if
+          age-appropriate), vertigo, nystagmus]</li>
+        <li>IX, X (Glossopharyngeal, Vagus): [Gag reflex, palate movement, voice
+          quality, swallowing]</li>
+        <li>XI (Accessory): [Shoulder shrug, head turning against resistance]</li>
+        <li>XII (Hypoglossal): [Tongue protrusion, movements, fasciculations,
+          wasting]</li>
+      </ol>
+      <p></p>
+      <p><strong>Motor System:</strong> </p>
+      <ol>
+        <li>Nutrition/Bulk of Muscles: [Normal/Wasting/Hypertrophy -
+          distribution]</li>
+        <li>Tone: [Normal/Hypotonia/Hypertonia (Spasticity/Rigidity) -
+          distribution]</li>
+        <li>Power (MRC Scale 0-5): [Assess major muscle groups in all four
+          limbs, proximal/distal]</li>
+        <li>Involuntary Movements: [Tremors, chorea, athetosis, dystonia,
+          myoclonus, fasciculations - describe]</li>
+        <li>Coordination: [Finger-nose test, heel-shin test, rapid alternating
+          movements, Romberg's test (age-appropriate)]</li>
+        <li>Gait: [Normal/Abnormal - describe type (e.g., ataxic, spastic,
+          waddling, hemiplegic)]</li>
+      </ol>
+      <p></p>
+      <p><strong>Sensory System:</strong> <span class="detail-prompt">(If
+          cooperative and indicated) </span></p>
+      <ol>
+        <li>Superficial Sensation: [Touch, pain, temperature]</li>
+        <li>Deep Sensation: [Joint position sense, vibration sense]</li>
+        <li>Cortical Sensation: [Stereognosis, graphesthesia, two-point
+          <p></p>
+          <p><strong>Reflexes:</strong> </p>
+          <ol>
+            <li>Superficial Reflexes:
+              <ol>
+                <li>Abdominal</li>
+                <li>Cremasteric</li>
+                <li>Plantar (Babinski sign)</li>
+              </ol>
+            </li>
+            <li>Deep Tendon Reflexes (DTRs):
+              <ol>
+                <li>Biceps</li>
+                <li>Triceps</li>
+                <li>Supinator</li>
+                <li>Knee</li>
+                <li>Ankle - Grade 0 to 4+, symmetry</li>
+              </ol>
+            </li>
+            <li>Clonus:
+              <ol>
+                <li>Ankle</li>
+                <li>Patellar - Present/Absent</li>
+              </ol>
+            </li>
+            <li>Primitive Reflexes (if infant):
+              <ol>
+                <li>Moro</li>
+                <li>Grasp</li>
+                <li>Rooting</li>
+                <li>Sucking</li>
+                <li>ATNR - Present/Absent, appropriate for age</li>
+              </ol>
+            </li>
+          </ol>
+          <p></p>
+          <p><strong>Signs of Meningeal Irritation:</strong></p>
+          <ol>
+            <li>Nuchal rigidity</li>
+            <li>Kernig's sign</li>
+            <li>Brudzinski's sign</li>
+          </ol>
+          <p><strong>Skull &amp; Spine:</strong></p>
+          <ol>
+            <li>Palpate for deformities</li>
+            <li>Tenderness</li>
+            <li>Check for spinal curvature</li>
+          </ol>
+          <h4>E. OTHER SYSTEMS</h4>
+          <p class="detail-prompt">(Brief examination of other systems like
+            Endocrine, Hematological as relevant to the case)</p>
+          <p>[Details]</p>
+        </li>
+      </ol>
+    </div>
+    <h3 class="section-title">XIV. SEXUAL HISTORY (FOR ADOLESCENTS / AS
+      INDICATED)</h3>
+    <div class="sub-list">
+      <p>Are you sexually active? [Yes/No]</p>
+      <p>If yes: </p>
+      <ol>
+        <li>Age of first sexual intercourse: [...]</li>
+        <li>Number of partners (lifetime, last 3/6/12 months): [...]</li>
+        <li>Gender(s) of partners / Sexual orientation: [...]</li>
+        <li>Types of sexual contact:
+          <ol>
+            <li>Oral</li>
+            <li>Vaginal</li>
+            <li>Anal - insertive/receptive</li>
+          </ol>
+        </li>
+        <li>Use of barrier contraception (condoms, dental dams):
+          <ol>
+            <li>Always</li>
+            <li>Sometimes</li>
+            <li>Never</li>
+          </ol>
+        </li>
+        <li>Other methods of contraception: [Details]</li>
+        <li>History of STIs: [Previous diagnosis, treatment]</li>
+        <li>Any concerns about sexual health: [Details]</li>
+        <li>History of sexual abuse or non-consensual contact: [Handle with
+          sensitivity, if disclosed]</li>
+      </ol>
+      <p></p>
+    </div>
+    <h3 class="section-title">XV. SUMMARY OF HISTORY AND EXAMINATION</h3>
+    <p>[A concise summary of the pertinent positive and negative findings from
+      the history and physical examination. e.g., "Master/Miss X, a Y-year-old
+      child, presented with (chief complaints) for (duration). History is
+      significant for... Examination revealed..."]</p>
+    <h3 class="section-title">XVI. PROVISIONAL DIAGNOSIS</h3>
+    <p>[Most likely diagnosis based on history and examination]</p>
+    <h3 class="section-title">XVII. DIFFERENTIAL DIAGNOSES</h3>
+    <ol>
+      <li>[Differential 1]</li>
+      <li>[Differential 2]</li>
+      <li>[Differential 3]</li>
+    </ol>
+    <h3 class="section-title">XVIII. INVESTIGATIONS</h3>
+    <p class="detail-prompt">(Plan investigations to confirm diagnosis, rule out
+      differentials, and assess severity/complications. Categorize as Baseline,
+      Specific, etc.)</p>
+    <div class="sub-list">
+      <p><strong>Baseline Investigations:</strong></p>
+      <ol>
+        <li>Complete Blood Count (CBC) with peripheral smear</li>
+        <li>Erythrocyte Sedimentation Rate (ESR) / C-Reactive Protein (CRP)</li>
+        <li>Urinalysis</li>
+        <li>Blood glucose</li>
+      </ol>
+      <p></p>
+      <p><strong>Specific Investigations:</strong></p>
+      <ol>
+        <li>Blood culture</li>
+        <li>Throat swab</li>
+        <li>Stool culture</li>
+        <li>Chest X-ray</li>
+        <li>Ultrasound abdomen</li>
+        <li>Lumbar puncture and CSF analysis</li>
+        <li>Specific antibody tests</li>
+        <li>PCR</li>
+      </ol>
+      <p></p>
+      <p><strong>Other Investigations (as indicated):</strong></p>
+      <ol>
+        <li>[Details]</li>
+      </ol>
+      <p></p>
+    </div>
+    <h3 class="section-title">XIX. MANAGEMENT PLAN</h3>
+    <div class="sub-list">
+      <p><strong>Immediate Management (if any, e.g., in ER):</strong></p>
+      <ol>
+        <li>[Details]</li>
+      </ol>
+      <p><strong>Specific Treatment (Pharmacological):</strong></p>
+      <ol>
+        <li>Drug name</li>
+        <li>Dose</li>
+        <li>Route</li>
+        <li>Frequency</li>
+        <li>Duration</li>
+      </ol>
+      <p><strong>Supportive Treatment (Non-Pharmacological):</strong></p>
+      <ol>
+        <li>IV fluids</li>
+        <li>Oxygen</li>
+        <li>Nutritional support</li>
+        <li>Physiotherapy</li>
+        <li>Counseling</li>
+      </ol>
+      <p><strong>Monitoring:</strong></p>
+      <ol>
+        <li>Parameters to monitor</li>
+        <li>Frequency</li>
+      </ol>
+      <p><strong>Patient/Parent Education &amp; Counseling:</strong></p>
+      <ol>
+        <li>Regarding illness</li>
+        <li>Treatment</li>
+        <li>Prognosis</li>
+        <li>Prevention</li>
+        <li>Red flag signs</li>
+      </ol>
+      <p><strong>Referral (if any):</strong></p>
+      <ol>
+        <li>To specialist/department</li>
+      </ol>
+      <p><strong>Follow-up Plan:</strong></p>
+      <ol>
+        <li>When</li>
+        <li>Where</li>
+        <li>What to assess</li>
+      </ol>
+    </div>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+  </body>
+</html>

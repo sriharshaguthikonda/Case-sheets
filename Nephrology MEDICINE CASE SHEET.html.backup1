@@ -1,0 +1,774 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Nephrology MEDICINE CASE SHEET</title>
+    <style>
+
+      body {
+        font-size: 8pt;
+        line-height: 1.4;
+        margin: 0 auto;
+        padding:0 15%;
+        font-family: 'Times New Roman', times, serif;
+      }
+      /* Lists */
+      ol, ul {
+        margin-left: 10%;
+        padding-left: 0;
+      }
+      
+      ul {
+        list-style-type: lower-alpha;
+      }
+      
+      ol {
+        list-style-type: decimal;
+      }
+    
+      
+      h3 {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      h4 {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        color: #444;
+        font-family: 'Times New Roman', times, serif;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="section">
+      <h3>PATIENT INFORMATION</h3>
+      <ul>
+        <li>Informant</li>
+        <li>NAME:</li>
+        <li>AGE:</li>
+        <li>SEX:</li>
+        <ul>
+          <li>Females </li>
+          <ul>
+            <li>&nbsp;All autoimmune</li>
+          </ul>
+          <li>males </li>
+          <ul>
+            <li>Ankylosing spoldylitis</li>
+            <li>Gout<br>
+            </li>
+          </ul>
+        </ul>
+        <li>EDUCATION:</li>
+        <li>OCCUPATION:</li>
+        <li>RESIDENCE:</li>
+        <li>RELIGION:</li>
+        <li>T/D:</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
+      <ol>
+        <li>Confusion for 2 days</li>
+        <li>tiredness</li>
+        <li>muscle weakness</li>
+        <li>Decreased urine output for 1 day</li>
+        <li>edema</li>
+        <li>cola urine</li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>HISTORY OF PRESENT ILLNESS</h3>
+      <h4>1ST COMPLAINT: CONFUSION</h4>
+      <ul>
+        <li>Onset: When did the confusion start?
+          <ul>
+            <li>Sudden</li>
+            <ul>
+              can have a renal cause but have to rule out other causes
+              <li>After a head injury</li>
+              <li>After a stroke</li>
+              <li>After a seizure</li>
+              <li>etc...</li>
+            </ul>
+            <li>Gradual</li>
+            <ul>
+              can have a renal cause but have to rule out other causes
+              <li>After a head injury</li>
+              <li>Dementia</li>
+              <li>etc...</li>
+            </ul>
+          </ul>
+        </li>
+        <li>Duration: How long has the confusion been present?</li>
+        <li>Progression: Has the confusion been getting worse?</li>
+        <li>Associated Symptoms:
+          <ul>
+            <li>Decreased urine output</li>
+            <li>Swelling of legs</li>
+            <li>Shortness of breath</li>
+            <li>Nausea/vomiting</li>
+            <li>Weakness</li>
+            <li>Seizures</li>
+          </ul>
+        </li>
+        <li>Triggers: Any known triggers or precipitating factors?</li>
+        <li>Prior episodes: Has this happened before?</li>
+        <li>Medications: Any recent changes in medications?</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h4><br>
+      </h4>
+      <h4><br>
+      </h4>
+      <h4><br>
+      </h4>
+      <h4>2ND COMPLAINT: PAIN (I,N of C-MINT)</h4>
+      <ol>
+        <li>SITE</li>
+        <li>ONSET</li>
+        <li>NATURE/TYPE</li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3><br>
+      </h3>
+      <h3>HISTORY OF PAST ILLNESS</h3>
+      <ol>
+        <li>Simlilar complaints</li>
+        <li>No history suggestive of Neurodegenerative Disorders</li>
+        <ol>
+          <ol>
+            <ol>
+              <ol>
+                <li>Confusion</li>
+              </ol>
+            </ol>
+          </ol>
+        </ol>
+        <li>PATIENT IS A KNOWN Hypertensive</li>
+        <li>PATIENT IS NOT A KNOWN Diabetic</li>
+        <ol>
+          <ol>
+            <ol>
+              <ol>
+                <li>Confusion</li>
+              </ol>
+            </ol>
+          </ol>
+        </ol>
+        <li>No h/o suggestive of asthma</li>
+        <li>h/o suggestive of bleeding disorders</li>
+        <li>TB [CHRONIC COUGH]</li>
+        <li>SYPHILIS</li>
+        <li>MI</li>
+        <li>Hypothyroidism</li>
+        <li>Depression</li>
+        <ol>
+          <li>Drugs - SIADH</li>
+          <li>Hyponatremia - confusion</li>
+        </ol>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>PAST SURGICAL HISTORY</h3>
+      <ol>
+        <li>APPENDICECTOMY &acirc;&dagger;&rsquo; ILLIOINGUINAL N.</li>
+        <li>HERNIA &acirc;&dagger;&rsquo; INCISIONAL HERNIA</li>
+        <li>SPLENECTOMY&acirc;&dagger;&rsquo;Hb [not Hbs]</li>
+        <li><br>
+        </li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>TREATMENT HISTORY</h3>
+      <ol>
+        <li>FOR PRESENT COMPLAINT</li>
+      </ol>
+      <p><br>
+      </p>
+      <p> </p>
+      <p> </p>
+    </div>
+    <div class="section">
+      <h3>DRUG HISTORY</h3>
+      <ul>
+        <li>Hormone replacement
+          <ol>
+            <li>rheumatoid arthritis</li>
+          </ol>
+        </li>
+        <li>diuretics aka water tablets<br>
+          <ol>
+            <li>Gout </li>
+          </ol>
+        </li>
+        <li>SSRIs&nbsp; - Citalopram</li>
+        <ul>
+          <li>Hyponatremia</li>
+        </ul>
+        <li>STEREOIDS
+          <ol>
+            <li> <br>
+            </li>
+          </ol>
+        </li>
+        <li>NSAIDS
+          <ol>
+            <li> &nbsp;analgesic nephropathy<br>
+            </li>
+          </ol>
+        </li>
+        <li>OC
+          <ol>
+            <li> <br>
+            </li>
+          </ol>
+        </li>
+        <li>PILLS
+          <ol>
+            <li> <br>
+            </li>
+          </ol>
+        </li>
+        <li>OPIODS
+          <ol>
+            <li> <br>
+            </li>
+          </ol>
+        </li>
+        <li>HERBAL REMIDIES
+          <ol>
+            <li> <br>
+            </li>
+          </ol>
+        </li>
+        <li> <br>
+        </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3><br>
+      </h3>
+      <h3>MARITAL STATUS</h3>
+      <p><br>
+      </p>
+      <p> </p>
+      <p> </p>
+    </div>
+    <div class="section">
+      <h3>CHILDREN</h3>
+      <p><br>
+      </p>
+      <p> </p>
+      <p> </p>
+    </div>
+    <div class="section">
+      <h3>SEXUAL HISTORY</h3>
+      <p>Hepatitis</p>
+      <p><br>
+      </p>
+      <p> </p>
+      <p> </p>
+    </div>
+    <div class="section">
+      <h3>MENSTRUAL HISTORY</h3>
+      <ol>
+        <li>pregrancy </li>
+        <ol>
+          <li>&nbsp;Carpel tunnel</li>
+        </ol>
+      </ol>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+    </div>
+    <div class="section">
+      <h3>PERSONAL HISTORY</h3>
+      <ol>
+        <li>APPITITE</li>
+        <li>DIET</li>
+        <ul>
+          <li>A. Red meat</li>
+          <ul>
+            <li>Gout</li>
+          </ul>
+          <li>B. processed meat</li>
+          <li>C. Fibre</li>
+          <li>D. Fluid intake</li>
+          <li>E. Have you been eating food outside?</li>
+        </ul>
+        <li>DIGESTION</li>
+        <li>MICTURITION</li>
+        <li>BOWELS</li>
+        <li>SLEEP DISTURBANCES</li>
+        <li>HABITS :</li>
+        <ol>
+          <li>SMOKING</li>
+          <ul>
+            <li>RA (RHEUMATOID ARTHRITIS)</li>
+            <li>CHUTTA CANCER = of hard palate reverse cigar smoking</li>
+          </ul>
+          <li>TOBACCO CHEWING</li>
+          <ul>
+            <li>KHAINI CANCER = LIME + tobacco in gingivolabial sulcus</li>
+          </ul>
+          <li>PAN</li>
+          <li>ALCHOHOL</li>
+          <ul>
+            <li>DOSE</li>
+            <li>TYPE</li>
+            <ol>
+              <li>beer for Gout</li>
+            </ol>
+            <li>DURATION</li>
+          </ul>
+          <li>SWIMMING</li>
+        </ol>
+        <li>DRUGS</li>
+        <ol>
+          <li>Types</li>
+          <li>Mode of use</li>
+          <ul>
+            <li>Snorting</li>
+            <li>Ingest</li>
+            <li>Inject</li>
+            <ul>
+              <li>Needle sharing</li>
+              <li>Needle exchange program</li>
+            </ul>
+          </ul>
+        </ol>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>FAMILY HISTORY</h3>
+      <ol>
+        <li>SIMILAR COMPLAINTS</li>
+        <li>HYPERTENSION</li>
+        <li>DIABETES</li>
+        <li>ASTHMA</li>
+        <li>BLEEDING DISORDERS</li>
+        <li>TB</li>
+        <li>SYPHILIS</li>
+        <li>MI</li>
+        <li>CANCER</li>
+        <li>AIDS</li>
+      </ol>
+    </div>
+    <br>
+    <div class="section">
+      <h3>GENERAL EXAMINATION</h3>
+      <ol>
+        <li>CONSIOUS</li>
+        <li>COHERENT</li>
+        <li>COOPERATIVE</li>
+        <li>COMFORTABLY</li>
+        <li>HT</li>
+        <li>WT</li>
+        <ol>
+          <li>obesity</li>
+          <ol>
+            <li>carpel tunnel</li>
+          </ol>
+        </ol>
+        <li>BM I</li>
+        <li>GAIT</li>
+        <li>BUILT [SKL. FRAM WORK]</li>
+        <li>NOURISHED [OBO
+          <ol>
+            <li>MUSCLE MASS</li>
+            <li>SKIN FOLD THICKMESS</li>
+          </ol>
+        </li>
+        <li>ATTIITUDE [Osteosarcoma on nerve Fracture dislocation]</li>
+        <li>PALLOR</li>
+        <li>ICTERUS</li>
+        <li>CYANOSIS</li>
+        <li>CLUBBING</li>
+        <li>KYPHOSIS</li>
+        <li>SCOLIOSIS</li>
+        <li>KOILONYCHIA</li>
+        <li>GENERALISED LYMPHEADENOPATHY</li>
+        <li>PEDAL EDEMA</li>
+        <li>HAIR</li>
+        <li>SKIN</li>
+        <li>EYE BROWS</li>
+        <li>FROWNING</li>
+        <li>EYES</li>
+        <li>PAROTID</li>
+        <li>NECK SWELLING</li>
+        <li>DROOLING OF SALIVA</li>
+        <li>NAILS</li>
+        <li>DROOPING OF SHOULDER</li>
+        <li>BREAST/GYNECOMASTIA</li>
+        <li>OBVIOUS SWELLINGS</li>
+        <li>GENETALIA[HERNIA,HYDROCELE]</li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>VITALS</h3>
+      <ol>
+        <li>TEMPERATURE : <span> </span>[in inflammatory swelling]</li>
+        <li>PULSE : <span> </span>[in inflammatory swelling]</li>
+        <li>B.P</li>
+        <li>RR</li>
+        <li>SPO2</li>
+      </ol>
+      <p><br>
+      </p>
+      <ol>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>LOCAL EXAMINATION</h3>
+      <p><br>
+      </p>
+      <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<b>&nbsp;&nbsp;
+          POSITIONS :</b></p>
+      <b> </b>
+      <ol>
+        <b> </b>
+        <li><b>INSPECTION</b></li>
+        <b> </b>
+        <li><b>PALPATION</b></li>
+        <b> </b>
+        <li><b>REGIONAL LYMPH NODES</b></li>
+        <b> </b>
+        <li><b>PURCUSSION</b></li>
+        <b> </b>
+        <li><b>AUSCULTATION</b></li>
+      </ol>
+      <p><br>
+      </p>
+      <ol>
+        <li><b>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; INSPECTION</b></li>
+        <ol>
+          <p><strong>1. NUMBER:</strong></p>
+          <ul>
+            <li>SINGLE</li>
+            <li>MULTIPLE [NF2, diaphyseal aclasis, nodes]</li>
+          </ul>
+          <p><strong>2. SITE:</strong> [midline-dermoid, Line of fusion]</p>
+          <ul>
+            <li>e.g: outer canthus &ndash; b/w frontonasal, maxillary processes</li>
+            <li>post auricular &ndash; b/w mesodermal hillocks of pinna</li>
+          </ul>
+          <p><strong>3. EXTENT:</strong></p>
+          <p><strong>4. COLOUR:</strong></p>
+          <ul>
+            <li>Black &ndash; naevus, melanoma</li>
+            <li>Red &ndash; arterial hemangioma</li>
+            <li>Purple &ndash; venous hemangioma</li>
+            <li>Bluish &ndash; ranula [mucocele]</li>
+          </ul>
+          <p><strong>5. SIZE:</strong></p>
+          <ul>
+            <li>Spheroidal &ndash; of 5cm</li>
+            <li>Other shapes &ndash; 4x5cm</li>
+          </ul>
+          <p><strong>6. SHAPE:</strong></p>
+          <ul>
+            <li>Irregular</li>
+            <li>Spheroidal</li>
+            <li>Ovoid</li>
+            <li>Pear shaped</li>
+            <li>Kidney shaped</li>
+          </ul>
+          <p><strong>7. SURFACE:</strong></p>
+          <ul>
+            <li>Smooth</li>
+            <li>Irregular &ndash; cauliflower SCC</li>
+          </ul>
+          <p><strong>8. SKIN OVER THE SWELLING:</strong></p>
+          <ul>
+            <li>Red, edematous &ndash; I</li>
+            <li>Tense, glossy, venous prominence &ndash; N [sarcoma]</li>
+            <li>Black punctum &ndash; sebaceous cyst</li>
+            <li>Pigmented:
+              <ul>
+                <li>moles</li>
+                <li>naevi</li>
+                <li>repeated deep x-rays</li>
+              </ul>
+            </li>
+            <li>SCAR
+              <ul>
+                <li>regular &ndash; injury</li>
+                <li>linear scar + suture marks &ndash; surgery</li>
+                <li>puckered &ndash; suppurated</li>
+              </ul>
+            </li>
+            <li>Peau d'orange &ndash; blocked cutaneous lymphatics</li>
+            <li>Ulcer &ndash; ULCER CASE SHEET</li>
+          </ul>
+          <p><strong>9. SURROUNDINGS:</strong></p>
+          <p><strong>10. EDGE:</strong></p>
+          <ul>
+            <li>Clearly defined</li>
+            <li>Indistinct</li>
+          </ul>
+          <p><strong>11. PEDUNCULATED / SESSILE:</strong></p>
+          <p><strong>12. PULSATION:</strong></p>
+          <ul>
+            <li>Toxic STN</li>
+            <li>2&deg; of follicular Ca. thyroid [&#8757; functional]</li>
+            <li>Aneurysm</li>
+            <li>Vascular growths[carotid body tumor]</li>
+          </ul>
+          <p><strong>11. PEDUNCULATED / SESSILE:</strong></p>
+          <p><strong>12. PULSATION:</strong></p>
+          <ul>
+            <li>Toxic STN</li>
+            <li>2&deg; of follicular Ca. thyroid [&#8757; functional]</li>
+          </ul>
+          <p><strong>13. VISIBLE PERISTALSIS:</strong></p>
+          <ul>
+            <li>Hernia</li>
+            <li>Congenital hypertrophic pyloric stenosis</li>
+            <li>Intestinal obstruction</li>
+          </ul>
+          <p><strong>14. MOVEMENT WITH RESPIRATION:</strong> Upper abdominal
+            viscera</p>
+          <ul>
+            <li>Liver</li>
+            <li>Gall bladder</li>
+            <li>Stomach</li>
+            <li>Spleen</li>
+            <li>Hepatic flexure</li>
+            <li>Splenic flexure</li>
+          </ul>
+          <p><strong>15. COUGH IMPULSE / Swellings in continuation with IMPULSE
+              ON CRYING:</strong></p>
+          <ul>
+            <li>Abdominal cavity</li>
+            <li>Pleural cavity</li>
+            <li>Spinal canal</li>
+            <li>Cranial cavity</li>
+          </ul>
+          <p><strong>16. MOVEMENT WITH DEGLUTATION:</strong> Swellings attached
+            to larynx/trachea</p>
+          <ul>
+            <li>Thyroid swellings</li>
+            <li>Thyroglossal cyst</li>
+            <li>Subhyoid bursitis</li>
+            <li>Pre/para tracheal lymphadenitis</li>
+          </ul>
+          <p><strong>17. MOVEMENT WITH PROTRUSION OF TONGUE:</strong></p>
+          <ul>
+            <li>Thyroglossal cyst</li>
+          </ul>
+          <p><strong>18. PRESSURE EFFECTS LIMB DISTAL TO SWELLING:</strong></p>
+          <ul>
+            <li>Edema of limb - Axillary swelling [lymph node]</li>
+            <li>Disuse Atrophy [wasting] - trauma, fracture, plaster cast,
+              polio, nerve injury</li>
+            <li>Face &amp; neck venous engorgement - retrosternal prolongation</li>
+          </ul>
+        </ol>
+        <p><br>
+        </p>
+        <li>
+          <h2>Palpation: </h2>
+        </li>
+        <ol>
+          <li>GENTLE 3D (May spread malignant)</li>
+          <li>LOCAL RISE OF TEMPERATURE
+            <ul>
+              <li>&acirc;&dagger;&lsquo;ed vascularity - Dorsum of fingers</li>
+              <li>Vascularised tumor[sarcoma]</li>
+              <li>False +ve &acirc;&euro;&ldquo; subsequent examination</li>
+            </ul>
+          </li>
+          <li>TENDERNESS
+            <ul>
+              <li>Tender &acirc;&euro;&ldquo; I,T see wincing</li>
+            </ul>
+          </li>
+          <li>SIZE</li>
+          <li>SHAPE</li>
+          <li>EXTENT
+            <ul>
+              <li>Getting above the swelling</li>
+              <li>Getting below the swelling</li>
+              <li>Extent in all directions</li>
+              <li>Lateral border isn't palpable</li>
+            </ul>
+          </li>
+          <li>SURFACE
+            <ul>
+              <li>Smooth &acirc;&euro;&ldquo; cyst</li>
+              <li>Lobular with smooth bumps &acirc;&euro;&ldquo; lipoma</li>
+              <li>Nodular &acirc;&euro;&ldquo; matted lymph nodes</li>
+              <li>Irregular rough &acirc;&euro;&ldquo; Ca.</li>
+              <li>Medial part &acirc;&euro;&ldquo; nodular + lateral part -
+                smooth</li>
+            </ul>
+          </li>
+          <li>EDGE
+            <ul>
+              <li>Smooth &acirc;&euro;&ldquo; benign (finger tips)</li>
+              <li>Irregular &acirc;&euro;&ldquo; malignant</li>
+              <li>Well defined &acirc;&euro;&ldquo; I chr. Usually slip N
+                benign[lipoma]</li>
+              <li>Cyst DD b/w cyst,lipoma
+                <ul>
+                  <li>Yields, slip sign</li>
+                </ul>
+              </li>
+              <li>Indistinct &acirc;&euro;&ldquo; acute I</li>
+            </ul>
+          </li>
+          <li>CONSISTENCY (OBO what it's made of)
+            <ul>
+              <li>Very soft - lipoma</li>
+              <li>Cystic &acirc;&euro;&ldquo; cyst, Chr. abscess</li>
+              <li>Firm &acirc;&euro;&ldquo; fibroma</li>
+              <li>Hard
+                <ul>
+                  <li>Yielding &acirc;&euro;&ldquo; chondroma</li>
+                  <li>Bony hard &acirc;&euro;&ldquo; osteoma</li>
+                  <li>Stony hard &acirc;&euro;&ldquo; Ca.</li>
+                </ul>
+              </li>
+              <li>Variable &acirc;&euro;&ldquo; malignant (Ca. sarcoma)</li>
+              <li>Crepitus
+                <ul>
+                  <li>Gas gangrene</li>
+                  <li>Surgical emphysema</li>
+                </ul>
+              </li>
+              <li>Putty like indented
+                <ul>
+                  <li>Sebaceous cyst</li>
+                  <li>Dermoid</li>
+                  <li>Faeces in abdominal swelling</li>
+                </ul>
+              </li>
+              <li>Pitting edema &acirc;&euro;&ldquo; I</li>
+            </ul>
+          </li>
+          <li>FLUCTUATION (if cystic consistency)
+            <ul>
+              <li>Contains liquid or gas</li>
+            </ul>
+          </li>
+          <li>FLUID THRILL</li>
+          <li>TRANSLUCENCY</li>
+          <li>MOBILITY</li>
+          <li>COUGH IMPULSE</li>
+          <li>COMPRESSIBILITY</li>
+          <li>REDUCIBILITY</li>
+          <li>PULSATILITY</li>
+          <li>EXPANSILITY</li>
+          <li>PLANE OF SWELLING</li>
+        </ol>
+        <li>
+          <h3>REGIONAL LYMPH NODES</h3>
+          <ol>
+            <li>Palpation</li>
+            <li>Size</li>
+            <li>Consistency</li>
+            <li>Tenderness</li>
+            <li>Matting</li>
+          </ol>
+        </li>
+        <li>
+          <h3>PURCUSSION</h3>
+          <ol>
+            <li>Normal resonance</li>
+            <li>Dullness</li>
+            <li>Hyperresonance</li>
+            <li>Shifting dullness</li>
+          </ol>
+        </li>
+        <li>
+          <h3>AUSCULTATION</h3>
+          <ol>
+            <li>Bowel sounds</li>
+            <li>Friction rub</li>
+            <li>Bruits</li>
+            <li>Peristalsis</li>
+          </ol>
+        </li>
+        <h3>Special tests</h3>
+        <ol>
+          <li>Tinel test</li>
+          <li>Phalen test</li>
+        </ol>
+        <li>
+          <ol>
+          </ol>
+        </li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>DIAGNOSIS</h3>
+      <ol>
+        <li>ANATOMICAL</li>
+        <li>ETIOLOGICAL</li>
+        <li>PATHOLOGICAL</li>
+        <li>CLINICAL</li>
+      </ol>
+    </div>
+    <div class="section">
+      <h3>INVESTIGATIONS</h3>
+      <ul>
+        <li>TO CONFIRM &Icirc;&rdquo;</li>
+        <ol>
+          <li>Rheumatioid Arthritis</li>
+          <ol>
+            <li>FBC</li>
+            <li>ESR</li>
+            <li>CRP</li>
+            <li>anti CCP</li>
+            <li>X- Ray</li>
+            <li>Rheumatioid factor</li>
+          </ol>
+        </ol>
+        <ul>
+          <li>Hyponatremia</li>
+        </ul>
+        <ol>
+          <ol>
+            <li>RFTs</li>
+            <li><br>
+            </li>
+          </ol>
+        </ol>
+        <li>TO RULE OUT</li>
+        <ol>
+          <li>carpel tunnel syndrome</li>
+          <ol>
+            <li>Nerve condiction studies</li>
+            <li>MRI?</li>
+          </ol>
+        </ol>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>TREATMENT</h3>
+      <ul>
+        <li>For this patient</li>
+        <ol>
+          <li> <br>
+          </li>
+        </ol>
+        <li> <br>
+        </li>
+      </ul>
+    </div>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>

@@ -1,0 +1,274 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PAST ILLNESS</title>
+    <link rel="stylesheet" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> taken from GIT case sheet <a href="GIT%20MEDICINE%20CASE%20SHEET.html">GIT
+      MEDICINE CASE SHEET</a>
+    <h3>H/O OF PAST ILLNESS : </h3>
+    <ol>
+      <li>None</li>
+      <ol>
+        <li class="Endocrine cns">Essential tremor</li>
+      </ol>
+      <li>SIMILAR complaints</li>
+      <li>URTI - cold, sore throat etc</li>
+      <ol>
+        <li>Pericarditis/ Myocarditis</li>
+        <li><br>
+        </li>
+        <li>Labrynthitis</li>
+        <li>Vestibular neuritis</li>
+        <li>tonsillitis/ abcesses</li>
+        <li>Otitis media</li>
+        <li>LRTI</li>
+        <li>Conjuntivitis</li>
+      </ol>
+      <li class="cvs">PATIENT IS A KNOWN Hypertensive
+        <ol>
+          <li class="cvs">Erectile dysfunction</li>
+          <li class="cvs cns">Sub-arachnoid hemorrhage</li>
+          <li class="Nephro">Renal failure</li>
+          <li class="ophthalmology">Vision loss</li>
+        </ol>
+      </li>
+      <li class="cvs cns">Cholesterol / High Triglycerides
+        <ol>
+          <li class="derma">Eruptive Xanthomas</li>
+        </ol>
+      </li>
+      <li class="cvs hematology ">h/o suggestive of bleeding disorders
+        <ol>
+          <li class="git">HAEMETEMESIS</li>
+          <li class="respiratory">Hemoptysis</li>
+        </ol>
+      </li>
+      <li class="cvs Respiratory ">MI
+        <ol>
+          <li>Renal stones (Asprin)</li>
+          <li>Hematuria</li>
+        </ol>
+      </li>
+      <li class="cvs Respiratory ">Stroke
+        <ol>
+          <li>Renal stones (Asprin)</li>
+          <li>Hematuria</li>
+        </ol>
+      </li>
+      <li class="cns">Epilepsy</li>
+      <li class="cns">Paralysis - dysphagia</li>
+      <li class="cns">Migraines</li>
+      <ol>
+        <li class="cns">Vestibular migrane</li>
+        <ol>
+          <li class="cns">DD vertigo</li>
+        </ol>
+      </ol>
+      <li class="derma rheumatic cvs">Psoriasis </li>
+      <ol>
+        <li class="rheumatic">Psoriatic arthritis</li>
+        <li class="cvs">Increased cardiovascular risk</li>
+      </ol>
+      <li class="Endocrine ">PATIENT IS NOT A KNOWN Diabetic
+        <ol>
+          <li class="git">NASH</li>
+          <li class="cvs">Erectile dysfunction</li>
+          <li class="Endocrine cns">Fine tremor</li>
+          <li class="derma">Acanthosis Nigricans</li>
+          <li class="derma">Necrobiosis Lipoidica</li>
+          <li class="derma">Bacterial/Fungal Infections</li>
+        </ol>
+      </li>
+      <li class="Endocrine">Thyroid Disease
+        <ol>
+          <li class="derma">Pretibial myxedema (Hyperthyroidism)</li>
+          <li class="derma">Myxedema (Hypothyroidism)</li>
+          <li class="derma">Hair and nail changes</li>
+        </ol>
+      </li>
+      <li class="Endocrine">Cushing Syndrome
+        <ol>
+          <li class="Endocrine cvs">DM</li>
+        </ol>
+      </li>
+      <li class="Endocrine">Addison's Disease
+        <ol>
+          <li class="derma">Hyperpigmentation</li>
+        </ol>
+      </li>
+      <li class="Endocrine">Hyper-parathyroidism
+        <ol>
+          <li class="Nephro urology">Renal stones</li>
+        </ol>
+      </li>
+      <li class="git rheumatic">Inflammatory bowel disease (IBD)
+        <ol>
+          <li class="Nephro urology">Renal stones</li>
+          <li class="derma">Erythema nodosum</li>
+          <li class="derma">Pyoderma gangrenosum</li>
+        </ol>
+      </li>
+      <li class="git">Hepatitis C Infection
+        <ol>
+          <li class="derma">Lichen planus</li>
+          <li class="derma">Porphyria Cutanea Tarda</li>
+        </ol>
+      </li>
+      <li class="git">Hemochromatosis
+        <ol>
+          <li class="derma">Bronze/gray skin discoloration</li>
+        </ol>
+      </li>
+      <li class="git rheumatic">Celiac Disease
+        <ol>
+          <li class="derma">Dermatitis Herpetiformis</li>
+        </ol>
+      </li>
+      <li class="respiratory">Pulmonary Koch&rsquo;s - TB
+        <ol class="respiratory">
+          <li>No contact</li>
+          <li>6,9mnths</li>
+          <li>Red urine</li>
+          <li>chronic cough</li>
+        </ol>
+      </li>
+      <li>SYPHILIS
+        <ol>
+          <li class="derma">Chancre</li>
+          <li class="derma">Condyloma lata</li>
+          <li class="derma">Maculopapular rash</li>
+        </ol>
+      </li>
+      <li class="surgery">UTIs
+        <ol>
+          <li>Renal stones<br>
+          </li>
+          <li>Recurrent
+            <ol>
+              <li>&gt;2 in 6 months</li>
+              <li>&gt;3 in 1 year</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li class="Nephro urology">Renal stones</li>
+      <li>Leukemia / Lymphoma
+        <ol>
+          <li class="derma">Paraneoplastic pemphigus</li>
+        </ol>
+      </li>
+      <li>Carcinoid Tumors
+        <ol>
+          <li class="derma">Carcinoid syndrome (flushing)</li>
+        </ol>
+      </li>
+      <li class="respiratory">No h/o suggestive of asthma
+        <ol>
+          <li class="Endocrine cns">Fine tremor</li>
+          <li class="derma">Eczema</li>
+        </ol>
+      </li>
+      <li class="rheumatic">AUTOIMMUNE Conditions</li>
+      <ol>
+        <li class="cvs">Pericarditis</li>
+      </ol>
+      <li class="rheumatic">Systemic Lupus Erythematosus (SLE)
+        <ol>
+          <li class="cvs">Pericarditis</li>
+          <li class="derma">Malar (butterfly) rash</li>
+          <li class="derma">Discoid lupus</li>
+        </ol>
+      </li>
+      <li class="rheumatic">Dermatomyositis
+        <ol>
+          <li>Increased risk of breast, lung, ovarian, GI cancers</li>
+          <li class="derma">Gottron's papules</li>
+          <li class="derma">Heliotrope rash</li>
+        </ol>
+      </li>
+      <li class="rheumatic">Sarcoidosis
+        <ol>
+          <li class="derma">Erythema nodosum</li>
+          <li class="derma">Lupus pernio</li>
+        </ol>
+      </li>
+    </ol>
+    <br>
+    <h1>old list!</h1>
+    <br>
+    <ol>
+      <li>None</li>
+      <ol>
+        <li class="Endocrine cns">Essential tremor</li>
+      </ol>
+      <li>SIMILAR complaints</li>
+      <li class="cvs">PATIENT IS A KNOWN Hypertensive</li>
+      <ol>
+        <li>Erectile dysfunction</li>
+      </ol>
+      <li class="cvs">PATIENT IS NOT A KNOWN Diabetic</li>
+      <ol>
+        <li>NASH</li>
+        <li>Erectile dysfunction</li>
+        <li class="Endocrine">Fine tremor </li>
+      </ol>
+      <li class="cvs">Cholesterol</li>
+      <li class="respiratory">No h/o suggestive of asthma</li>
+      <ol>
+        <li class="Endocrine">Fine tremor</li>
+        <li class="derma">eczema</li>
+      </ol>
+      <li class="cvs">h/o suggestive of bleeding disorders
+        <ol>
+          <li class="git">HAEMETEMESIS</li>
+        </ol>
+      </li>
+      <li>UTIs</li>
+      <ol>
+        <li>Renal stones<br>
+        </li>
+        <li>Recurrent</li>
+        <ol>
+          <li>&gt;2 in 6 months</li>
+          <li>&gt;3 in 1 year</li>
+        </ol>
+      </ol>
+      <li class="nephro">Renal stones</li>
+      <li class="rheumatic">AUTOIMMUNE CONDITIONS </li>
+      <ol>
+        <li class="cvs">Pericarditis</li>
+      </ol>
+      <li class="git">Inflammatory bowel disease</li>
+      <ol>
+        <li class="Nephro urology">Renal stones</li>
+      </ol>
+      <li class="Endocrine">Hyper-parathyroidism</li>
+      <ol>
+        <li class="Nephro urology">Renal stones</li>
+      </ol>
+      <li class="respiratory">Pulmonary Koch&acirc;&euro;&trade;s - TB</li>
+      <ol class="respiratory">
+        <li>No contact</li>
+        <li>6,9mnths</li>
+        <li>Red urine</li>
+        <li>chronic cough</li>
+      </ol>
+      <li>SYPHILIS</li>
+      <li class="cvs Respiratory">MI</li>
+      <ol>
+        <li>Renal stones (Asprin)</li>
+        <li>Hematuria</li>
+      </ol>
+      <li class="cvs Respiratory">Stroke</li>
+      <ol>
+        <li>Renal stones (Asprin)</li>
+        <li>Hematuria</li>
+      </ol>
+      <li class="cns">Epilepsy</li>
+      <li class="cns">Paralysis - dysphagia</li>
+    </ol>
+    <script src="Iframe_height.js"></script>
+  </body>
+</html>

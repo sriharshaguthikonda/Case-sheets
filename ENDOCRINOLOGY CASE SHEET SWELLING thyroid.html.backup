@@ -1,0 +1,988 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>ENDOCRINOLOGY CASE SHEET SWELLING thyroid</title>
+    <style>
+      body {
+        font-size: 8pt;
+        line-height: 1.4;
+        margin: 0 auto;
+        padding: 0 1cm;
+        font-family: 'Times New Roman', times, serif;
+      }
+
+      
+      /* Lists */
+      ol, ul {
+        margin-left: 10%;
+        padding-left: 0;
+      }
+      
+      ul {
+        list-style-type: lower-alpha;
+      }
+      
+      ol {
+        list-style-type: decimal;
+      }
+      
+      .section {
+        margin-bottom: 15px;
+      }
+      
+      h3 {
+        font-size: 9pt;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        color: #333;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      h4 {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        color: #444;
+        font-family: 'Times New Roman', times, serif;
+      }
+      
+      p {
+        margin: 5px 0;
+      }
+      
+      u {
+        color: #2100fd;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      b {
+        color: #fd0054;
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      em {
+        text-decoration: none;
+        font-weight: bold;
+        font-style: normal;
+        color: #08cca2;
+      }
+
+      strong {
+        color: #09a8cc;
+        font-weight: bold;
+        font-style: normal;
+        text-decoration: none;
+      }
+      .video-container {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 2/ 1; /* Width:Height = 1:2 */
+      }
+      
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      .Sexual_history_section {
+        background-color: rgba(218, 247, 235, 0.7);
+        margin-top: 35px;
+        margin-bottom: 35px;
+        padding: 15px;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <p><strong>NAME :</strong></p>
+    <p><strong>AGE :</strong></p>
+    <p><strong>SEX :</strong></p>
+    <p><strong>EDUCATION:</strong></p>
+    <p><strong>OCCUPATION:</strong></p>
+    <p><strong>RESIDENCE :</strong></p>
+    <p><strong>RELIGION:</strong></p>
+    <p><strong>T/D:</strong></p>
+    <p><strong>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</strong></p>
+    <ol>
+      <li>Lump[vague mass] for 2 months</li>
+      <li>Swelling for 1 month causes : C-MINT</li>
+      <li>Pain for 3 wks</li>
+      <li>Tremors and Sweating</li>
+      <li>Weight loss</li>
+      <ol>
+        <li>Hyperthyroid</li>
+        <li>DM</li>
+      </ol>
+      <li>Depression - hypothyroid</li>
+      <li> frequency of urination, </li>
+      <ol>
+        <li>DI</li>
+        <li>DM</li>
+        <li>UTI</li>
+        <li>BPH</li>
+      </ol>
+      <li>obesity, </li>
+      <ol>
+        <li>Cushing</li>
+        <li>DM</li>
+        <li>Hypo thyroid</li>
+      </ol>
+      <li>tiredness</li>
+      <ol>
+        <li>Thyroid</li>
+        <li>DM</li>
+      </ol>
+    </ol>
+    <p><strong>H/O OF PRESENT ILLNESS : </strong></p>
+    <p><strong>OF COMPLAINT IN ORDER</strong></p>
+    <p><strong>1<sup>ST</sup> COMPLAINT : SWELLING</strong></p>
+    <p> </p>
+    <ul>
+      <li>
+        <ol>
+          <li><strong>SITE where did he first notice</strong>
+            <ol>
+              <li><strong>FROM </strong>
+                <ol>
+                  <li>BURN</li>
+                  <li>SCAR</li>
+                  <li>PIN PRICK</li>
+                </ol>
+              </li>
+              <li>NAEAVS</li>
+            </ol>
+          </li>
+          <li><strong>O WHEN DID U NOTICE cf APPEAR</strong>
+            <ol>
+              <li>GRADUAL</li>
+              <li>SUDDEN [AFTER TRAUMA]</li>
+            </ol>
+          </li>
+          <li><strong>D </strong>
+            <ol>
+              <li><strong>&Atilde;�&Acirc;&plusmn; PAINLESSNESS</strong>
+                <ol>
+                  <li>SHORT=INFLAMMATORY [PAIN]</li>
+                  <li>A BIT LONG=MALGNANT [NO PAIN]</li>
+                  <li>LONG=CHR.INFLAMMATION[LESS PAIN]</li>
+                  <li>LONG=BENIGN [NO PAIN]</li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+          <li><strong>P</strong>
+            <ol>
+              <li><strong>PROGRESSIVE</strong>
+                <ol>
+                  <li>VERY RAPID INFLAMMATORY</li>
+                  <li>RAPIDLY MALIGNANT</li>
+                  <li>SLOWLY BENIGN</li>
+                </ol>
+              </li>
+              <li>REGRESSIVE inflammatory</li>
+              <li>STATIC</li>
+              <li>STATIC&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;RAPID
+                [benign &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;
+                malignant]</li>
+            </ol>
+          </li>
+          <li><strong>A/R</strong></li>
+          <li><strong>ASSOCIATED Sx Pt concentrates on pain ask for other Sx</strong>
+            <ol>
+              <li>PAIN</li>
+              <li>FEVER</li>
+              <li>DIFFICULTY IN RESPIRATION</li>
+              <li>DIFICULTY IN SWALLOWING</li>
+              <li>INTERFERING WITH MOVEMENT</li>
+              <li>DISFIGUREMENT</li>
+              <li>H/O of chr. Cough</li>
+              <li> <br>
+              </li>
+              <li>OTHER SWELLINGS</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ul>
+    <p>NF</p>
+    <p>DIAPHYSEAL ACLASIS</p>
+    <p>HODGKIN</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ol>
+              <li><strong>SECONDARY CHANGES</strong></li>
+            </ol>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>SOFTENING</p>
+    <p>ULCERATION</p>
+    <p>FUNGATION</p>
+    <p>INFLAMMATION</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ol>
+              <li><strong>IMPAIRMENT OF FUNCTION [osteosarcoma
+                  &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;in/complete
+                  loss of knee movement</strong></li>
+            </ol>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Cold abscess&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;
+      &Atilde;&cent;&acirc;&sbquo;&not;&Aring;&ldquo;
+      &Atilde;&cent;&acirc;&sbquo;&not;&Aring;&ldquo; spine movement ]</p>
+    <p>NATURE OF MOVEMENT</p>
+    <p>DEGREE</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ol>
+              <li><strong>RECURRENCE after excision</strong></li>
+            </ol>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Benign &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade; malignant</p>
+    <p>Malignant</p>
+    <p>Cyst recur if wall incompletely removed</p>
+    <p>Eg :</p>
+    <p>Paget&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;s recurrent
+      fibroid</p>
+    <p>Hydrocele if sac not removed completely</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ol>
+              <li><strong>LOSS OF BODY WT</strong></li>
+            </ol>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>TB + SWELLING</p>
+    <p>COLD ABCESS +TB</p>
+    <p>MALIGNANCY</p>
+    <p>AIDS</p>
+    <p><strong>2<sup>ND</sup> COMPLAINT : Tremors and Sweating</strong></p>
+    <p><strong>3<sup>ND</sup> COMPLAINT : Weight loss</strong></p>
+    <p><strong>4<sup>th</sup> COMPLAINT : Tiredness</strong></p>
+    <p><strong>H/O OF PAST ILLNESS : </strong></p>
+    <p>Simlilar complaints</p>
+    <p>PATIENT IS A KNOWN Hypertensive</p>
+    <p>PATIENT IS NOT A KNOWN Diabetic</p>
+    <p>No h/o suggestive of asthma</p>
+    <p>h/o suggestive of bleeding disorders</p>
+    <p>TB [CHRONIC COUGH]</p>
+    <p>SYPHILIS</p>
+    <p>MI</p>
+    <p><strong>PAST SURGICAL H/O :</strong></p>
+    <p> </p>
+    <ol>
+      <li>APPENDICECTOMY &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;
+        ILLIOINGUINAL N.&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;</li>
+      <li>HERNIA &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;
+        INCISIONAL HERNIA</li>
+      <li>SPLENECTOMY&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;Hb
+        [not Hbs] </li>
+    </ol>
+    <p><strong>TREATMRNT H/O:</strong></p>
+    <p>FOR PRESENT COMPLAINT</p>
+    <p><strong>DRUG H/O:</strong></p>
+    <p><strong>MENSTRUAL H/O</strong></p>
+    <p><strong>MARITAL STATUS :</strong></p>
+    <p><strong>CHILDREN :</strong></p>
+    <p><strong>PERSONAL H/O:</strong></p>
+    <ol>
+      <li><strong>APPITITE:</strong></li>
+      <li><strong>DIET</strong></li>
+      <li><strong>DIGESTION</strong></li>
+      <li><strong>MICTURITION</strong></li>
+      <li><strong>BOWELS</strong></li>
+      <li><strong>SLEEP DISTURBANCES</strong></li>
+      <li><strong>HABITS :</strong>
+        <ol>
+          <li>SMOKING CHUTTA CANCER = of hard palate reverse cigar smoking</li>
+          <li>TOBACCO CHEWING KHAINI CANCER = LIME+tobacco in gingivolabial
+            sulcus</li>
+          <li>PAN </li>
+          <li>ALCHOHOL</li>
+          <li>SWIMMING</li>
+        </ol>
+      </li>
+    </ol>
+    <p><strong>FAMILY H/O :</strong></p>
+    <ol>
+      <li>SIMILAR COMPLAINTS</li>
+      <li>DM</li>
+      <li>HTN</li>
+      <li>TB</li>
+      <li>ASTHMA</li>
+      <li>BLLEEDING DISORDERS</li>
+    </ol>
+    <p><strong>GENERAL EXAMINATION :</strong></p>
+    <ol>
+      <li>CONSIOUS</li>
+      <li>COHERENT</li>
+      <li>COOPERATIVE</li>
+      <li>COMFORTABLY</li>
+      <li>HT</li>
+      <li>WT</li>
+      <li>BM I</li>
+      <li>GAIT</li>
+      <li>BUILT [SKL. FRAM WORK]</li>
+      <li>NOURISHED [OBO </li>
+    </ol>
+    <p>MUSCLE MASS</p>
+    <p>SKIN FOLD THICKMESS]</p>
+    <ol>
+      <li>ATTIITUDE [Osteosarcoma on nerve</li>
+    </ol>
+    <p>Fracture</p>
+    <p>dislocation]</p>
+    <ol>
+      <li>PALLOR</li>
+      <li>ICTERUS</li>
+      <li>CYANOSIS</li>
+      <li>CLUBBING</li>
+      <li>KYPHOSIS</li>
+      <li>SCOLIOSIS</li>
+      <li>KOILONYCHIA</li>
+      <li>GEN`ERALISED LYMPHEADENOPATHY</li>
+      <li>PEDAL EDEMA</li>
+      <li>HAIR</li>
+      <li>SKIN</li>
+      <li>EYE BROWS</li>
+      <li>FROWNING</li>
+      <li>EYES</li>
+      <li>PAROTID</li>
+      <li>NECK SWELLING</li>
+      <li>DROOLING OF SALIVA</li>
+      <li>NAILS</li>
+      <li>DROOPING OF SHOULDER</li>
+      <li>BREAST/GYNECOMASTIA</li>
+      <li>OBVIOUS SWELLINGS</li>
+      <li>GENETALIA[HERNIA,HYDROCELE]</li>
+    </ol>
+    <p> </p>
+    <p><strong>VITALS :</strong></p>
+    <ol>
+      <li><strong>TEMPERATURE :</strong>
+        [&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&tilde; in inflammatory
+        swelling]</li>
+      <li><strong>PULSE :</strong>
+        [&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&tilde;in inflammatory
+        swelling]</li>
+      <li><strong>B.P</strong></li>
+      <li><strong>R.R</strong></li>
+      <li><strong>SPO<sub>2</sub>:</strong></li>
+    </ol>
+    <p><strong>LOCAL EXAMINATION : </strong></p>
+    <p><strong> POSITIONS :</strong></p>
+    <ol>
+      <li>INSPECTION</li>
+      <li>PALPATION</li>
+      <li>REGIONAL LYMPH NODES</li>
+      <li>PURCUSSION</li>
+      <li>AUSCULTATION</li>
+      <li><strong>INSPECTION :</strong> we have only 2D
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>NUMBER: </strong></li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ol>
+    <p>SINGLE </p>
+    <p>MULTIPLE [NF2,diaphyseal aclasis,nodes</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>SITE :</strong> [midline-dermoid</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Line of fusion </p>
+    <p>e.g : 1. outer canthus
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; b/w
+      frontonasal,maxillary processes</p>
+    <p>2. post auricular &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      b/w mesodermal hillocks of pinna]</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>EXTENT :</strong></li>
+                  <li><strong>COLOUR :</strong> [Black
+                    &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; naevus
+                    ,melanoma</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Red &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; arterial
+      hemangioma</p>
+    <p>purpule &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; venous
+      hemangioma</p>
+    <p>bluish &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      ranula[mucocele]</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>SIZE :</strong> spheroidal
+                    &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; of 5cm</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Other shapes &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; 4x5cm</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>SHAPE :</strong> [irregular</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Spheroidal</p>
+    <p>Ovoid</p>
+    <p>Pear shaped</p>
+    <p>Kidney &Atilde;&cent;&acirc;&sbquo;&not;&Aring;&ldquo;</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>SURFACE:</strong> Smooth</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Irregular &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      cauliflower SCC</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>SKIN OVER THE SWELLING:</strong> 1. Red,edematous
+                    &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; I</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>2.tense,glossy,venos prominence
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; N[sarcoma]</p>
+    <p>3.black punctum &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      sebaceous cyst</p>
+    <p>4.pigmented &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; a.
+      moles</p>
+    <p>b. naevi</p>
+    <p>c. repeated deep x-rays </p>
+    <p>5.SCAR</p>
+    <p>A. regular &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; injury</p>
+    <p>B. linear scar+suture marks
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; surgery </p>
+    <p>C. puckered &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      suppurated</p>
+    <p>6.Peau d&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent; orange
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; blocked cutaneous
+      lympatics</p>
+    <p>7. Ulcer &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; ULCER CASE
+      SHEET</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>SURROUNDINGS :</strong></li>
+                  <li><strong>EDGE:</strong> Clearly defined</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Indistinct</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>PEDUNCULATED / SESSILE :</strong></li>
+                  <li><strong>PULSATION :</strong> Toxic STN</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>2` of follicular Ca. thyroid [`.` functional]</p>
+    <p>Aneurysm</p>
+    <p>Vascular growths[carotid body tumor]</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>VISIBLE PERISTALSIS :</strong> Hernia</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Congenital hypertrophic pyloric stenosis</p>
+    <p>Intestinal obstruction</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>MOVEMENT WITH RESPIRATION :</strong> Upper abd
+                    viscera</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Liver</p>
+    <p>Gall bladder</p>
+    <p>Stomach</p>
+    <p>Spleen</p>
+    <p>Hepatic flexure</p>
+    <p>Splenic flexure </p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>COUGH IMPULSE / Swellings in continuation with</strong></li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p><strong>IMPULSE ON CRYING : </strong></p>
+    <p>abd cavity</p>
+    <p>pleural cavity</p>
+    <p>spinal canal</p>
+    <p>cranial cavity</p>
+    <p> </p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>MOVEMENT WITH DEGLUTATION :</strong> Swellings
+                    attached to larynx/trachea</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Thyroid swellings</p>
+    <p>Thyroglossal cyst</p>
+    <p>Subhyoid bursitis</p>
+    <p>Pre/para tracheal lymphadenitis</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>MOVEMENT WITH PROTRUSION OF TONGUE</strong></li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Thyroglossal cyst</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li><strong>PRESSURE EFFECTS LIMB DISTAL TO SWELLING</strong></li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Edema of limb - Axillary swelling[lymph node] </p>
+    <p>Disuse Atrophy[wasting]
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; trauma,
+      fracture,plaster cast,polio, nerve injury</p>
+    <p>Face &amp; nect venous engorgement
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; retrosternal
+      prolangation</p>
+    <ol>
+      <li><strong>PALPATION :</strong> GENTLE 3D</li>
+    </ol>
+    <p>MAY SPREAD MALIGNANT</p>
+    <p>1.. <strong>LOCAL RISE OF TEMP</strong>
+      &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&tilde;ed vascularity - I
+      dorsum of fingers</p>
+    <p>Vascularised tumor[sarcoma] - N</p>
+    <p>False +ve &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      subsequent examination</p>
+    <p> </p>
+    <p><strong>TENDERNESS</strong> tender
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; I,T see winsing</p>
+    <p><strong>SIZE : </strong></p>
+    <p><strong>SHAPE :</strong></p>
+    <p><strong>EXTENT :</strong> i.. getting above the swelling</p>
+    <p>ii.. getting below the swelling</p>
+    <p>iii. extent in all directions[lat. Border
+      isn&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;t palpable]</p>
+    <p><strong>SURFACE :</strong> i.. smooth
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; cyst</p>
+    <p>ii.. lobular with smooth bumps
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; lipoma</p>
+    <p>iii. nodilar &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; matted
+      lymph nodes</p>
+    <p>iv. irregular rough &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      Ca.</p>
+    <p>v. medial part &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+      nodular + lateral part - smooth </p>
+    <p><strong>EDGE :</strong> Smooth
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; benign finger Tips </p>
+    <p>Irregular &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; malignant</p>
+    <p>well defined &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; I chr.
+      Usually slip</p>
+    <p>N benign[lipoma]</p>
+    <p>Cyst DD b/w cyst,lipoma</p>
+    <p>Yields, slip sign</p>
+    <p>Indistinct &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; acute I</p>
+    <p><strong>CONSISTENCY :</strong> OBO what its made of</p>
+    <p>Very soft - lipoma</p>
+    <p>Cystic &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; cyst,</p>
+    <p>Chr. abcess</p>
+    <p>Firm &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; fibroma</p>
+    <p>Hard &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; a. yielding
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; chondroma</p>
+    <p>Bony hard &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; osteoma</p>
+    <p>Stony hard &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; Ca.</p>
+    <p>Variable &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; malignant
+      &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; Ca.</p>
+    <p>sarcoma</p>
+    <p>Crepitus &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; a. gas
+      gangrene</p>
+    <p>b.. surgical emphysema</p>
+    <p>Putty like indented &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig;
+    </p>
+    <p>a..sebaceous cyst</p>
+    <p>b..dermoid</p>
+    <p>c..faeces in abdinal swelling</p>
+    <p>x. Pitting edema &Atilde;&cent;&acirc;&sbquo;&not;&acirc;&euro;&oelig; I</p>
+    <p> </p>
+    <p><strong>FLUCTUATION :</strong> if cystic consistency </p>
+    <p>Contains lig. Or gas</p>
+    <p>FLUID THRILL</p>
+    <p>TRANSLUCENCY</p>
+    <p>COUGH IMPULSE</p>
+    <p>COMPRESSIBILITY</p>
+    <p>REDUCIBILITY</p>
+    <p>PULSATILITY </p>
+    <p>EXPANSILITY</p>
+    <p>PALNE OF SWELLING</p>
+    <ol>
+      <li><strong>REGIONAL LYMPH NODES :</strong></li>
+      <li><strong>PURCUSSION :</strong></li>
+      <li><strong>AUSCULTATION :</strong></li>
+    </ol>
+    <p><strong>DIAGNOSIS : </strong></p>
+    <ol>
+      <li>ANATOMICAL</li>
+      <li>ETIOLOGICAL</li>
+      <li>PATHOLOGICAL</li>
+      <li>CLINICAL</li>
+    </ol>
+    <p><strong>SOLITARY THYROID NODULE</strong></p>
+    <p><strong>DEF :</strong> Circumscribed swelling in therwise impalpable
+      gland </p>
+    <p><strong>INVESTIGATIONS :</strong></p>
+    <p><strong> TO CONFIRM &Atilde;�&acirc;&euro;�</strong></p>
+    <p><strong>DD :</strong> 1. Adenoma</p>
+    <ol>
+      <li>Dominant nodule of MNG</li>
+      <li>Ca.</li>
+      <li>Hydatid cyst</li>
+      <li>Hashimoto&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;s[can
+        present iin any way]</li>
+      <li> <br>
+      </li>
+    </ol>
+    <p><strong>TREATMENT : </strong></p>
+    <p><strong>FOR THIS PATIENT</strong></p>
+    <p><strong>INDICATIONS FOR SURGERY IN MNG</strong></p>
+    <p>MNG isn&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;t an
+      indication for surgery</p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li>LARE&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;
+                    pressure Sx</li>
+                  <li><strong>Malignant change usually into follicular Ca.</strong>
+                    <ol>
+                      <li>FNAC</li>
+                      <li>Clinical suspicion :</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>Age</p>
+    <p>Male sex</p>
+    <p>Recent rapid growth cf: sudden rapid growth [heamorrhage</p>
+    <p>RLN involvement[Change in voice] similar to parotid mixed tumor
+      transformation ivolve facial N.</p>
+    <p>Hard texture</p>
+    <p>Fixity</p>
+    <p>lymphadenopathy </p>
+    <ul>
+      <li>
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <ol>
+                  <li>Toxic change to TMNG[this is 2` thyrotoxicosis]</li>
+                  <li>Cosmotic[`.` thyroid disorders are common in young
+                    females]</li>
+                  <li>Pt wishes</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p><strong>TYPES OF SURGERIES :</strong></p>
+    <p>1..EXICISION</p>
+    <p>2.ISTHMUSECTOMY</p>
+    <p>3.LOBECTOMY</p>
+    <p>4.HEMI THYROIDECTOMY</p>
+    <p>5.PARTIAL THYROIDECTOMY</p>
+    <p>6..SUBTOTAL THYROIDECTOMY</p>
+    <p>7..NEAR TOTAL THYROIDECTOMY</p>
+    <p>8.TOTAL THYROIDECTOMY</p>
+    <p>9. MODIFIED RADICAL THYROIDECTOMY</p>
+    <p>10.RADICAL THYROIDECTOMY</p>
+    <p><strong>1..EXICISION : </strong></p>
+    <p> Out dated `.`</p>
+    <ol>
+      <li>Recurrence common</li>
+      <li>In surgery for recurrence it is difficult `.` fibrosis</li>
+      <li>If biopsy turns to be Ca. completion thyroidectomy will be difficult</li>
+    </ol>
+    <p><strong>2.isthumusectomy :</strong></p>
+    <p> Indication :</p>
+    <ol>
+      <li>Reidel&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;s
+        thyroiditis=woody thyroiditis
+        &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade; constricting
+        trachea</li>
+    </ol>
+    <p><strong>3.lobectomy:</strong></p>
+    <p> Not done bcoz recurrence[most of nodules occur at junction of lobe
+      ,isthumus]</p>
+    <p><strong>4.Hemi THYROIDECTOMY</strong></p>
+    <p><strong>5.PARTIAL THYROIDECTOMY</strong></p>
+    <p><strong>6.SUBTOTAL THYROIDECTOMY</strong></p>
+    <p><strong>Indications :</strong></p>
+    <p>1. MNG</p>
+    <p>a.. 7/8<sup>th</sup> gland removed or</p>
+    <p>b. 5-10gms gland left in tracheoesophageal groove </p>
+    <ol>
+      <li>Both are difficult on table assessment of tissue to be left</li>
+    </ol>
+    <p>.`. A. in toxic patients thumb distal phalanx size tissue left on \</p>
+    <p>both sides</p>
+    <p>B. little finger distal phalanx size left on both sides in euthyroid
+      patients </p>
+    <ol>
+      <li>tracheoesophageal groove because</li>
+    </ol>
+    <p>To prevent injury to RLN</p>
+    <p>To preserve parathyroid glands</p>
+    <p>Even after cutting blood supply to gland it can survive bcoz of </p>
+    <ol>
+      <li>esophageal A.</li>
+      <li>tracheal A. </li>
+    </ol>
+    <p><strong>COMPLICATIONS :</strong> thyrotoxicosis</p>
+    <p><strong>Rx : </strong>anti tthyroid drugs</p>
+    <p><strong>ADR :</strong> agranulocytosis pt can die of it</p>
+    <p>So we don&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;t want that
+      complication so we are shifting towards near/total thyroidectomy</p>
+    <p>Even if hypothyroidism occurs HRT will be easy </p>
+    <p><strong>7.NEAR TOTAL THYROIDECTOMY</strong></p>
+    <p><strong> INDICATIONS :</strong></p>
+    <ol>
+      <li>Well defined Ca.</li>
+      <li>MNG</li>
+    </ol>
+    <p>On Less involved side same amount like above is left</p>
+    <p><strong>8.TOTAL THYROIDECTOMY</strong></p>
+    <p><strong>9.RADICAL THYROIDECTOMY</strong></p>
+    <p><strong>INDICATIONS :</strong></p>
+    <ol>
+      <li>MALIGNANCY</li>
+    </ol>
+    <p>ALONG WITH LYMPH NODE DISSECTION FOR EASY DISSECTION </p>
+    <p>INTERNAL JUGULAR VEIN</p>
+    <p>STERNOCLEIDOMASTOID</p>
+    <p>XI NERVE ARE EXICSED</p>
+    <p><strong>10.MODIFIED RADICAL THYROIDECTOMY</strong></p>
+    <p><strong>ALL SAME</strong></p>
+    <p><strong>1`THYROTOXICOSIS =</strong></p>
+    <p><strong>GRAVES DISEASE =</strong></p>
+    <p><strong>PARRY&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;S
+        DISEASE =</strong></p>
+    <p><strong>BASEDOW&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;S
+        DISEASE =</strong></p>
+    <p><strong>DIFFUSE TOXIC GOITRE =</strong></p>
+    <p><strong>EXOPTHALMIC GOITRE =</strong></p>
+    <p><strong>SURGERY</strong></p>
+    <p><strong>bring pt to euthyroid stste if hyperthyroid</strong></p>
+    <p><strong>ANESTHESIA :</strong></p>
+    <ol>
+      <li>GENERAL for all practical purposes</li>
+      <li>Cervical lexus block</li>
+    </ol>
+    <p><strong>POSITION :</strong></p>
+    <p> Supine position</p>
+    <p>Sand bag under shoulders ,</p>
+    <p>neck extended</p>
+    <p><strong>INCISION :</strong></p>
+    <p><strong>KOCHER&Atilde;&cent;&acirc;&sbquo;&not;&acirc;&bdquo;&cent;S
+        Incision</strong></p>
+    <p>Emil Theodor Kocher was a&Atilde;&sbquo;&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Switzerland">Swiss</a>&Atilde;&sbquo;&Acirc;&nbsp;physician
+      and medical researcher who received the 1909&Atilde;&sbquo;&Acirc;&nbsp;<a
+
+        href="http://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine">Nobel
+        Prize in Physiology or Medicine</a>&Atilde;&sbquo;&Acirc;&nbsp;for his
+      work in the physiology, pathology and surgery of
+      the&Atilde;&sbquo;&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Thyroid">thyroid</a>.
+      Among his many accomplishments are the introduction and promotion of
+      aseptic surgery and scientific methods in surgery, specifically
+      &Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&oelig;ing the mortality of
+      &Atilde;&sbquo;&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Thyroidectomy">thyroidectomies</a>
+      &lt; 1% in his operations.</p>
+    <p>He was the first Swiss citizen and the first surgeon to ever receive a
+      Nobel prize. He was considered a pioneer and leader in the field of
+      surgery in his time.<a href="http://en.wikipedia.org/wiki/Emil_Theodor_Kocher#cite_note-gautschi2009-3"><sup>[3]</sup></a></p>
+    <p><a href="http://en.wikipedia.org/w/index.php?title=Kocher%27s_forceps&amp;action=edit&amp;redlink=1">Kocher's
+        forceps</a>, a surgical instrument with serrated blades and interlocking
+      teeth at the tips used to control bleeding in surgery, is named after
+      him.&Atilde;&sbquo;&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Emil_Theodor_Kocher#cite_note-4"><sup>[4]</sup></a></p>
+    <p>Radiation papillary ca.</p>
+    <p>Sleep disturbances b`.` anxiety,pressure sx</p>
+    <p>Tongue,dd b/w tremors &amp; fasciculat</p>
+    <p>hand tremors</p>
+    <p>toxic mng- plummers disease` \</p>
+    <p>scabbaads trachea</p>
+
+         <script src="harsha_iframe_youtube_player.js"></script>
+  </body>
+</html>
