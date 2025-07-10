@@ -7,42 +7,42 @@
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body>
-    <h2> <a href="https://youtu.be/3omQxhgD9T0">Study genie video - Aspire
-        Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024</a></h2>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/3omQxhgD9T0"
 
-        title="Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"
 
-        width="100%"> </iframe> </div>
     <div class="section">
       <h3>PATIENT INFORMATION</h3>
-      <ul>
-        <li>Informant: </li>
-        <li>NAME: </li>
-        <li>AGE: </li>
-        <li>SEX: </li>
-        <li>EDUCATION: </li>
-        <li>OCCUPATION: </li>
-        <li>RESIDENCE: </li>
-        <li>RELIGION: </li>
-        <li>T/D: </li>
-      </ul>
+      <iframe src="Biodata.html" frameborder="0"></iframe>
     </div>
+
+      <div class="video-container"> 
+        
+    <h1> <a href="https://youtu.be/3omQxhgD9T0">Study genie video - Aspire
+      Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024</a></h2>
+      
+      <iframe src="https://www.youtube.com/embed/3omQxhgD9T0"
+
+          title="Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"
+
+          width="100%"> </iframe>
+      </div>
+        
+    
+
     <div class="section">
-      <h3 class="section-title">CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
+      <h3 >CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
       <ol>
         <li>Skin lesion/rash</li>
         <li>Lymph node swelling</li>
         <li>Itching</li>
         <li>Pain</li>
       </ol>
-      <details>F CHIEF COMPLAINTS</h4>
-      <p class="derma">(Click on each complaint to expand and provide detailed
-        elaboration)</p>
+      <h3>ELABORATION OF CHIEF COMPLAINTS</h3>
+
       <details>
-        <summary><strong>1. COMPLAINT: SKIN LESION/RASH</strong></summary>
+        <summary>1. COMPLAINT: SKIN LESION/RASH</summary>
         <ol>
         </ol>
         <h4>Skin Lesion/Rash</h4>
@@ -246,6 +246,7 @@
             <ul>
               <li>Any lumps and bumps</li>
               <li>Weight loss</li>
+              <li>tiredness</li>
             </ul>
           </ul>
           <li>E: Effect on life (Radiation, spread)</li>
@@ -253,13 +254,13 @@
         </ul>
       </details>
       <details>
-        <summary><strong>2. COMPLAINT: LYMPH NODE SWELLING</strong></summary>
+        <summary>2. COMPLAINT: LYMPH NODE SWELLING</summary>
         <p class="derma">(Follow similar structure as above for lymph node
-      <details>
+          swelling)</p>
         <h4>Lymph Node Swelling</h4>
       </details>
       <details>
-        <summary><strong>3. COMPLAINT: ITCHING</strong></summary>
+        <summary>3. COMPLAINT: ITCHING</summary>
         <ol>
           <strong>S: Site (Location of itching)</strong>
           <div class="section">
@@ -479,15 +480,17 @@
         </ol>
       </details>
       <details>
-        <summary><strong>4. COMPLAINT: PAIN</strong></summary>
+        <summary>4. COMPLAINT: PAIN</summary>
         <p class="derma">(Follow similar structure as above for pain)</p>
       </details>
     </div>
+
+
+    
+
+
     <div class="section">
-      <h3 class="section-title">HISTORY OF PRESENT ILLNESS</h3>
-    </div>
-    <div class="section">
-      <h4>Treatment History</h4>
+      <h3>Treatment History</h3>
       <ul>
         <li>Current topical medications: </li>
         <ul>
@@ -498,9 +501,9 @@
         <li>Previous treatments: </li>
         <li>Response to treatment: </li>
       </ul>
-      <h4><br>
-      </h4>
-      <h4>Drug History</h4>
+      <h3><br>
+      </h3>
+      <h3>Drug History</h3>
       <ol>
         <li>Lithium</li>
         <ol>
@@ -509,7 +512,7 @@
         <li>Drug induced SLE</li>
       </ol>
       <p></p>
-      <h4>Allergy h/o</h4>
+      <h3>Allergy h/o</h3>
       <ul>
         <li>Drug allergies: </li>
         <li>Contact allergies: </li>
@@ -583,76 +586,10 @@
       </ul>
     </div>
     <div class="section">
-      <h3>PERSONAL AND SOCIAL HISTORY</h3>
-      <h4>PERSONAL HISTORY</h4>
-      <ol>
-        <li>APPETITE: </li>
-        <li>DIET
-          <ol type="A">
-            <li>Red meat: </li>
-            <li>Processed meat: </li>
-            <li>Fibre: </li>
-            <li>Fluid intake: </li>
-            <li>Have you been eating food outside?: </li>
-          </ol>
-        </li>
-        <li>DIGESTION: </li>
-        <li>MICTURITION: </li>
-        <li>BOWELS: </li>
-        <li>SLEEP DISTURBANCES: </li>
-        <li>HABITS:
-          <ol type="a">
-            <li>SMOKING (CHUTTA CANCER = of hard palate reverse cigar smoking)
-              <ol type="A">
-                <li>Have you smoked in the past?
-                  <ol>
-                    <li>He might have stopped!</li>
-                    <li>Then you ask above questions</li>
-                  </ol>
-                </li>
-                <li>Weed: </li>
-                <li>Vape: </li>
-              </ol>
-            </li>
-            <li>TOBACCO CHEWING (KHAINI CANCER = LIME + tobacco in gingivolabial
-              sulcus): </li>
-            <li>PAN: </li>
-            <li>ALCOHOL
-              <ol type="a">
-                <li>Dose: </li>
-                <li>Type: </li>
-                <li>Duration: </li>
-              </ol>
-            </li>
-            <li>SWIMMING: </li>
-            <li>Trekking</li>
-            <ol>
-              <ol>
-                <li>Lyme disease</li>
-              </ol>
-            </ol>
-          </ol>
-        </li>
-        <li>DRUGS
-          <ol type="a">
-            <li>Types: </li>
-            <li>Mode of use:
-              <ol type="A">
-                <li>Snorting: </li>
-                <li>Ingest: </li>
-                <li>Inject:
-                  <ol>
-                    <li>Needle sharing: </li>
-                    <li>Needle exchange program: </li>
-                  </ol>
-                </li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>TATTOOS: </li>
-        <li>PIERCINGS: </li>
-      </ol>
+      <details>
+        <summary style="color: rgb(247, 0, 255)">PERSONAL HISTORY</summary>
+        <iframe src="Personal_history.html" frameborder="0"></iframe>
+      </details>
     </div>
     <div class="section">
       <h3>SYSTEMIC REVIEW</h3>
@@ -718,154 +655,21 @@
       </ul>
     </div>
     <div class="section">
-      <h3>INVESTIGATIONS</h3>
-      <h4>To Confirm Diagnosis</h4>
-      <ul>
-        <li>Blood tests: </li>
-        <li>Imaging: </li>
-        <li>Biopsy: </li>
-        <ul>
-          <li>Excisional biopsy - we dont sample biopsy</li>
-          <ul>
-            <li>Mole suspect</li>
-            <li>BCC</li>
-            <li>SCC</li>
-          </ul>
-          <li>if positive then wide excision</li>
-        </ul>
-        <li>Other: </li>
-      </ul>
     </div>
-    <div class="section">
-      <h3>MANAGEMENT PLAN</h3>
-      <h4>Urgency</h4>
-      <ul>
-        <li>Urgent Admission: </li>
-        <li>Urgent Referral (2 weeks): </li>
-        <li>Routine Referral: </li>
-        <li>Handling In-House: </li>
-      </ul>
-      <h4>Patient-Specific Plan</h4>
-      <ul>
-        <li>Initial Investigations
-          <ul>
-            <li>Blood work: </li>
-            <li>Imaging: </li>
-            <li>Other: </li>
-          </ul>
-        </li>
-        <li>Patient Communication
-          <ul>
-            <li><b>ICE </b>(Ideas, Concerns, Expectations): </li>
-            <li>Diagnosis disclosure: </li>
-            <li>Explanation of findings: </li>
-          </ul>
-        </li>
-        <li>Further Investigations
-          <ul>
-            <li>Specialized tests: </li>
-            <li>Referrals: </li>
-          </ul>
-        </li>
-        <li>Treatment Plan
-          <ul>
-            <li>Symptomatic treatment: </li>
-            <li>Specific treatment: </li>
-            <li>Non-Medical: </li>
-            <ul>
-              <li>dont have contact</li>
-              <ul>
-                <li>Scabies</li>
-                <li>Chicken pox - 2 days before till 5 days after all pox
-                  crusted </li>
-              </ul>
-            </ul>
-            <li>
-              <h4>Medical</h4>
-            </li>
-            <ul>
-              <li>Topical: </li>
-              <ul>
-                <li>Mouzterizers</li>
-                <ul>
-                  <ul>
-                    <li>simple eczema</li>
-                  </ul>
-                </ul>
-                <li>steroids</li>
-                <ul>
-                  <ul>
-                    <li>Severe eczema</li>
-                  </ul>
-                </ul>
-                <li>Retenoids</li>
-                <ul>
-                  <ul>
-                    <li>acne</li>
-                  </ul>
-                </ul>
-                <li>Permethrin / Ivermectin</li>
-                <ul>
-                  <ul>
-                    <li>Scabies</li>
-                  </ul>
-                </ul>
-              </ul>
-              <li>Systemic: </li>
-              <li>Other:</li>
-            </ul>
-            <li>Surgical </li>
-          </ul>
-        </li>
-        <ul>
-          <ul>
-            <li>Procedure: </li>
-            <ul>
-              <li>cant do simple cosmetic procedures</li>
-              <li>if lesions causes other problem then Sgx</li>
-            </ul>
-            <li>Timing: </li>
-          </ul>
-        </ul>
-        <li>Follow Up
-          <ul>
-            <li>Frequency: </li>
-            <li>Monitoring</li>
-            <li>Specialist referrals: </li>
-            <li>Allied health:
-              <ul>
-                <li>Occupational Therapist: </li>
-                <li>Physio Therapist: </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>Patient Education
-          <ul>
-            <li>Warning Signs/Red Flags: </li>
-            <ul>
-              <ul>
-                <ul>
-                  <li>mole</li>
-                  <ul>
-                    <li><br>
-                    </li>
-                  </ul>
-                </ul>
-              </ul>
-            </ul>
-            <li>Educational materials provided:
-              <ul>
-                <li>Leaflets/</li>
-                <li>Pamphlets</li>
-              </ul>
-            </li>
-            <li>Useful resources/links: </li>
-          </ul>
-        </li>
-      </ul>
-    </div>
+
+
+
+    <details>
+
+      <summary><a href="Management_plan.html">MANAGEMENT PLAN</a></summary>
+      <iframe src="Management_plan.html" frameborder="0"></iframe>
+    </details>
     <br>
     <script src="harsha_iframe_youtube_player.js"></script>
-  </body>
+      <script src="Iframe_height_mothership.js"></script>
+      <script src="Iframe_height.js"></script>
+
+
+
+</body>
 </html>

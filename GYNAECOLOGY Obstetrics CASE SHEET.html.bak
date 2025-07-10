@@ -8,7 +8,6 @@
   <body>
     <p><br>
     </p>
-   
     <iframe src="Biodata.html"></iframe>
     <h3>CHIEF COMPLAINTS: (In chronological order with duration)</h3>
     <h4>Gynaecological Complaints:</h4>
@@ -221,7 +220,6 @@
         <li><strong>A: Associated Symptoms</strong>
           <ol>
             <li>Fever, chills (PID, appendicitis, tubo-ovarian abscess)?</li>
-            <li>Abnormal vaginal bleeding?</li>
             <li>Vaginal discharge (color, odor, consistency)?</li>
             <li>Nausea, vomiting?</li>
             <li>Bowel symptoms (diarrhea, constipation, bloating, rectal pain)?</li>
@@ -239,6 +237,9 @@
         <li><strong>E: Effect on life</strong> - Impact on daily activities,
           work, sexual function, mood.</li>
         <li><strong><strong>R: Red Flags</strong></strong></li>
+        <ul>
+          <li>vaginal bleeding?</li>
+        </ul>
         <li><strong><strong></strong>S: Severity</strong> - Pain scale (0-10).
           How it affects function.</li>
       </ul>
@@ -724,7 +725,9 @@
       <li>Auscultation: Breath sounds (type, intensity, equality), added sounds
         (wheezes, crackles/crepitations, pleural rub).</li>
     </ul>
-    <h4>ABDOMINAL EXAMINATION: <br>
+    <details>
+      <summary>ABDOMINAL EXAMINATION</summary>
+    <h4><br>
       <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 
           allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yJnyLR_I1Vw"
@@ -733,6 +736,7 @@
 
           width="1520"> </iframe> </div>
       <br>
+      <h4>Chaperone</h4>
       (Patient supine. <br>
       <em> <b>Prerequisites:</b> Explain procedure: "now I'll be examining your
         tummy over your hand for your baby's well-being" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=0s">Video
@@ -899,7 +903,14 @@
         </li>
       </ol>
     </li>
-    <h4>PELVIC EXAMINATION: <br>
+
+    </details>
+
+    <details>
+
+      <summary>PELVIC EXAMINATION:</summary>
+      <h4>
+        <br>
       <br>
       <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 
@@ -910,8 +921,7 @@
           height="864" frameborder="0" width="1520"></iframe> </div>
       <br>
     </h4>
-    <div class="video-container">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 
         allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Deu2c_VmRTY"
 
@@ -1096,6 +1106,10 @@
 
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=527s">Video
           8:47-9:09</a>)</em></p>
+          
+    </details>
+
+
     <h4>CENTRAL NERVOUS SYSTEM (CNS) &amp; OTHER SYSTEMS: As indicated by
       history.
       <ul>
@@ -1121,9 +1135,9 @@
     <h4><u>Urgency of Management:</u></h4>
     <ul>
       <li class="obstetric">Urgent Admission/Intervention: [e.g., ruptured
-        ectopic, severe PPH, acute PID with sepsis, <span class="obstetric">eclampsia,
+        ectopic, severe PPH, acute PID with sepsis, eclampsia,
           cord prolapse, significant antepartum haemorrhage, preterm labour with
-          fetal distress</span>]</li>
+          fetal distress]</li>
       <li>Urgent Referral (e.g., suspected malignancy, within 2 weeks):</li>
       <li>Routine Referral:</li>
       <li>Manage as Outpatient/In-house:</li>
@@ -1340,7 +1354,7 @@
     <p><br>
     </p>
     <script src="Iframe_height_mothership.js"></script>
-<script src="Iframe_height.js"></script>
+    <script src="Iframe_height.js"></script>
     <script src="harsha_iframe_youtube_player.js"></script>
   </body>
 </html>
