@@ -8,7 +8,6 @@
   <body>
     <p><br>
     </p>
-   
     <iframe src="Biodata.html"></iframe>
     <h3>CHIEF COMPLAINTS: (In chronological order with duration)</h3>
     <h4>Gynaecological Complaints:</h4>
@@ -75,6 +74,15 @@
     </ol>
     <p><br>
     </p>
+    <h3>INFORM BROAD PLAN</h3>
+    <h4>
+      <li>I am going to </li>
+      <ul>
+        <li>ask questions</li>
+        <li>examine</li>
+        <li>then give you...</li>
+      </ul>
+    </h4>
     <h3>HISTORY OF PRESENT ILLNESS: (Elaboration of each complaint using SODA
       CRAPPERS or similar format)</h3>
     <details>
@@ -221,7 +229,6 @@
         <li><strong>A: Associated Symptoms</strong>
           <ol>
             <li>Fever, chills (PID, appendicitis, tubo-ovarian abscess)?</li>
-            <li>Abnormal vaginal bleeding?</li>
             <li>Vaginal discharge (color, odor, consistency)?</li>
             <li>Nausea, vomiting?</li>
             <li>Bowel symptoms (diarrhea, constipation, bloating, rectal pain)?</li>
@@ -239,6 +246,9 @@
         <li><strong>E: Effect on life</strong> - Impact on daily activities,
           work, sexual function, mood.</li>
         <li><strong><strong>R: Red Flags</strong></strong></li>
+        <ul>
+          <li>vaginal bleeding?</li>
+        </ul>
         <li><strong><strong></strong>S: Severity</strong> - Pain scale (0-10).
           How it affects function.</li>
       </ul>
@@ -294,6 +304,14 @@
       </ul>
       <p><em>(Elaborate other chief complaints similarly, tailoring SODA
           CRAPPERS to the specific complaint)</em></p>
+    </details>
+    <details open="">
+      <summary>4<sup>TH</sup> COMPLAINT: SWELLING/LUMP IN RIGHT BREAST</summary>
+      <iframe src="Breast_swellings_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary>COMPLAINT: SKIN LESION/RASH</summary>
+      <iframe src="SKIN_LESION_RASH_CASE_SHEET_PART.html" frameborder="0"></iframe>
     </details>
     <h3 class="obstetric">MENSTRUAL HISTORY:</h3>
     <ul class="obstetric">
@@ -592,16 +610,32 @@
     </ul>
     <h3>FAMILY HISTORY:</h3>
     <ul>
-      <li>Similar complaints in family members?</li>
-      <li>History of gynecological cancers (ovarian, endometrial, cervical,
-        breast) in mother, sisters, daughters? (Specify relationship and age at
-        diagnosis)</li>
-      <li>History of other cancers?</li>
-      <li class="obstetric">History of inherited conditions relevant to
-        pregnancy (e.g., thalassaemia, cystic fibrosis, muscular dystrophy,
-        congenital abnormalities, recurrent miscarriages, pre-eclampsia, GDM).</li>
-      <li>History of DM, HTN, Thyroid disorders, Bleeding disorders, TB in the
-        family?</li>
+      <li>gynec cancers (</li>
+      <ul>
+        <li>ovarian, </li>
+        <li>endometrial, </li>
+        <li>cervical, </li>
+        <li>breast) </li>
+        <ul>
+          <li>relationship and </li>
+          <li>age at diagnosis)</li>
+        </ul>
+      </ul>
+      <li>other cancers?</li>
+      <ul>
+        <li><em>BRCA also causes</em></li>
+        <li>prostate </li>
+        <li>pancreatic </li>
+        <li>melanoma.</li>
+      </ul>
+      <li class="obstetric">Inherited conditions </li>
+      <ul>
+        <li class="obstetric">thalassaemia, </li>
+        <li class="obstetric">cystic fibrosis, </li>
+        <li class="obstetric">muscular dystrophy, </li>
+        <li class="obstetric">congenital abnormalities, </li>
+        <li class="obstetric">recurrent miscarriages, </li>
+      </ul>
       <li>Consanguinity in parents?</li>
     </ul>
     <h3>PERSONAL HISTORY:</h3>
@@ -679,8 +713,7 @@
       <li>Clubbing: Yes/No (Grades)</li>
       <li>Lymphadenopathy: (Site, size, consistency, mobility, tenderness -
         cervical, axillary, inguinal, supraclavicular)</li>
-      <li>Edema: (Pitting/Non-pitting, site - pedal, sacral, generalized) <span
-
+      <li>Edema: (Pitting/Non-pitting, site - pedal, sacral, generalized) <span
           class="obstetric">(Physiological vs. pre-eclampsia)</span></li>
       <li>Thyroid gland examination: (Enlarged, nodules, tenderness)</li>
       <li class="obstetric">Breast Examination: (Signs of pregnancy:
@@ -725,30 +758,25 @@
         (wheezes, crackles/crepitations, pleural rub).</li>
     </ul>
     <h4>ABDOMINAL EXAMINATION: <br>
-      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yJnyLR_I1Vw"
-
-          title="Antenatal Examination by Dr Ankur #GotAspirEd" height="864" frameborder="0"
-
+      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yJnyLR_I1Vw"
+          title="Antenatal Examination by Dr Ankur #GotAspirEd" height="864" frameborder="0"
           width="1520"> </iframe> </div>
       <br>
-      (Patient supine. <br>
-      <em> <b>Prerequisites:</b> Explain procedure: "now I'll be examining your
-        tummy over your hand for your baby's well-being" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=0s">Video
-          0:00-0:06</a>), request patient to undress: "I want you to
-        undress...below your breasts till mid thigh" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=7s">Video
-          0:07-0:10</a>), confirm chaperone: "I have a chaplain with me
-        throughout my examination to ensure your privacy okay" (<a class="timestamp"
-
-          href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=12s">Video
-          0:12-0:15</a>), request patient to empty bladder: "also please empty
-        your bladder before we start the examination" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=16s">Video
-          0:16-0:20</a>). Ask patient to lie down (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=22s">Video
-          0:22</a>). Ask if patient has any pain: "Are you in pain anyway?" (<a
-
-          class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=37s">Video
-          0:37</a>).</em>) </h4>
+    </h4>
+    <h4>Chaperone</h4>
+    (Patient supine. <br>
+    <em> <b>Prerequisites:</b> Explain procedure: "now I'll be examining your
+      tummy over your hand for your baby's well-being" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=0s">Video
+        0:00-0:06</a>), request patient to undress: "I want you to
+      undress...below your breasts till mid thigh" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=7s">Video
+        0:07-0:10</a>), confirm chaperone: "I have a chaplain with me throughout
+      my examination to ensure your privacy okay" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=12s">Video
+        0:12-0:15</a>), request patient to empty bladder: "also please empty
+      your bladder before we start the examination" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=16s">Video
+        0:16-0:20</a>). Ask patient to lie down (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=22s">Video
+        0:22</a>). Ask if patient has any pain: "Are you in pain anyway?" (<a class="timestamp"
+        href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=37s">Video 0:37</a>).</em>)
     <li><strong>Inspection:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=41s">Video
         0:41-0:57</a>)
       <ol>
@@ -763,8 +791,7 @@
               </ol>
             </li>
             <li class="obstetric">(Globular if pregnant, note specific
-              gestational shape). "abdomen is uniformly distended" (<a class="timestamp"
-
+              gestational shape). "abdomen is uniformly distended" (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=41s">Video
                 0:41-0:44</a>).</li>
           </ol>
@@ -775,8 +802,7 @@
             <li>everted,</li>
             <li>position,</li>
             <li>discharge,</li>
-            <li>hernia). "umbilicus is central and everted" (<a class="timestamp"
-
+            <li>hernia). "umbilicus is central and everted" (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=44s">Video
                 0:44-0:48</a>).</li>
           </ol>
@@ -809,18 +835,15 @@
     </li>
     <li><strong>Palpation (General Gynae &amp; Obstetric):</strong>
       <ol>
-        <li>General approach: Inform patient "now I'll be touching your tummy" (<a
-
+        <li>General approach: Inform patient "now I'll be touching your tummy" (<a
             class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=59s">Video
             0:59-1:01</a>). Start away from painful area if any.</li>
         <li class="obstetric">Temperature: Check for localized rise of
-          temperature. "there is no localized rise of temperature" (<a class="timestamp"
-
+          temperature. "there is no localized rise of temperature" (<a class="timestamp"
             href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=75s">Video
             1:15-1:16</a>).</li>
         <li>Superficial Palpation: Assess for tenderness, guarding, rigidity.
-          "there is no pain or tenderness on superficial palpation" (<a class="timestamp"
-
+          "there is no pain or tenderness on superficial palpation" (<a class="timestamp"
             href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=81s">Video
             1:21-1:37</a> for general superficial palpation).</li>
         <li class="obstetric">Symphysio-fundal Height (SFH) Measurement (if
@@ -838,8 +861,7 @@
             <li>Lateral Grip (Umbilical Grip):
               <ul>
                 <li>Left side: "on left laterally...I can feel a broad round
-                  structure and curved structure seems to be baby's back" (<a class="timestamp"
-
+                  structure and curved structure seems to be baby's back" (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=101s">Video
                     1:41-1:54</a>). (Determines fetal back/limbs and lie).</li>
                 <li>Right side: "all right lateral bit I can feel some irregular
@@ -851,8 +873,7 @@
               hard structure seems to be baby's head" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=129s">Video
                 2:09-2:22</a>). (To determine fetal pole at fundus).</li>
             <li>Pelvic Grip (Pawlik's Grip mentioned): "on Pawlik grip I can
-              feel a soft broad structure seems to be baby's buttocks" (<a class="timestamp"
-
+              feel a soft broad structure seems to be baby's buttocks" (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=148s">Video
                 2:28-2:36</a>). (To determine presenting part over pelvic inlet
               and engagement).</li>
@@ -901,45 +922,35 @@
     </li>
     <h4>PELVIC EXAMINATION: <br>
       <br>
-      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/vrLA8QqN7IE"
-
-          title="Per Speculum Examination: Introduction &amp; Key Points | PLAB2/UKMLA"
-
+      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/vrLA8QqN7IE"
+          title="Per Speculum Examination: Introduction &amp; Key Points | PLAB2/UKMLA"
           height="864" frameborder="0" width="1520"></iframe> </div>
       <br>
     </h4>
-    <div class="video-container">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Deu2c_VmRTY"
-
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Deu2c_VmRTY"
         title="Per Speculum Examination" height="864" frameborder="0" width="1520"></iframe>
     </div>
     <h4>(<em><b>Prerequisites:</b> Explain procedure and purpose: "examination
         of the internal and external genitalia organs" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=60s">Video
           1:00-1:04</a>), obtain consent, ensure chaperone is present and
-        acknowledged: "we have to have a chaperone with us" (<a class="timestamp"
-
+        acknowledged: "we have to have a chaperone with us" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=105s">Video
           1:45-1:47</a>), ensure privacy, ask patient to undress below the
         waist: "we want you to undress below the waist" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=120s">Video
           2:00</a>), and request patient to empty their bladder: "make sure you
-        tell the patient to empty the bladder very important" (<a class="timestamp"
-
+        tell the patient to empty the bladder very important" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=152s">Video
           2:32-2:37</a>). Good light source is necessary (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=264s">Video
           4:24</a>). Position patient appropriately: "patient to lie down
         comfortably on the back bring the heels as much as close to the
         bottom...bend the knees and bring the heels as much as close to the
-        border and then knees fall apart on either side of the bed" (<a class="timestamp"
-
+        border and then knees fall apart on either side of the bed" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=129s">Video
           2:09-2:22</a>)</em>)</h4>
     <ul>
-      <li><strong>Inspection of External Genitalia:</strong> (<a class="timestamp"
-
+      <li><strong>Inspection of External Genitalia:</strong> (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=230s">Video
           3:50-4:00</a>)
         <ol>
@@ -954,8 +965,7 @@
             <li>"looking for if there is any </li>
             <li>redness and </li>
             <li>swelling and it's [scar] mark of any previous surgery or if
-              there is any bleeding discharge coming out from the vagina" (<a class="timestamp"
-
+              there is any bleeding discharge coming out from the vagina" (<a class="timestamp"
                 href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=233s">Video
                 3:53-4:00</a>). </li>
             <li>Skin changes, lesions, ulcers, warts, erythema, excoriation,
@@ -992,8 +1002,7 @@
         lubricate well: (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=299s">Video
           4:59</a>). Hold correctly (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=280s">Video
           4:40</a>). Insert obliquely/sideways then rotate upwards: "insert it
-        in this way and when you are going in we have to rotate it upward" (<a class="timestamp"
-
+        in this way and when you are going in we have to rotate it upward" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=303s">Video
           5:03-5:13</a>).)
         <ol>
@@ -1076,8 +1085,7 @@
               labour: assess dilatation, effacement, station, position.</span></li>
           <li class="obstetric">Uterus: Size (correlate with gestational age -
             e.g., 12 wks at symphysis, 20 wks at umbilicus), shape, position
-            (anteverted/retroverted, anteflexed/retroflexed), consistency (<span
-
+            (anteverted/retroverted, anteflexed/retroflexed), consistency (<span
               class="obstetric">softens in pregnancy - Hegar's sign</span>),
             mobility, tenderness, any masses (fibroids).</li>
           <li>Adnexa (Ovaries and Fallopian Tubes): Palpable? (Ovaries often not
@@ -1092,8 +1100,7 @@
         masses, rectal involvement)</li>
     </ul>
     <p class="obstetric"><em>Post-procedure: Offer patient wipes, thank them,
-        explain next steps regarding samples/results if taken. (<a class="timestamp"
-
+        explain next steps regarding samples/results if taken. (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=527s">Video
           8:47-9:09</a>)</em></p>
     <h4>CENTRAL NERVOUS SYSTEM (CNS) &amp; OTHER SYSTEMS: As indicated by
@@ -1196,8 +1203,7 @@
         <li><strong>Microbiology/Pathology:</strong>
           <ul>
             <li>High Vaginal Swab (HVS) / Endocervical Swab (for infection -
-              microscopy, culture, NAAT for STIs like Chlamydia/Gonorrhea) <span
-
+              microscopy, culture, NAAT for STIs like Chlamydia/Gonorrhea) <span
                 class="obstetric">(Group B Strep screen in pregnancy).</span></li>
             <li>Cervical Smear (Pap test) / HPV testing</li>
             <li>Endometrial Biopsy (Pipelle, D&amp;C - for AUB, suspected
@@ -1340,7 +1346,7 @@
     <p><br>
     </p>
     <script src="Iframe_height_mothership.js"></script>
-<script src="Iframe_height.js"></script>
+    <script src="Iframe_height.js"></script>
     <script src="harsha_iframe_youtube_player.js"></script>
   </body>
 </html>
