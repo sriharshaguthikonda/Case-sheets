@@ -38,8 +38,9 @@
       </li>
       <li><strong>C: Character / Type</strong>
         <ul>
-          <li>Is it more <b>physical</b> ("heavy," weak) or <b>mental</b>
-            ("brain fog," poor concentration)?</li>
+          <li>Is it more&nbsp;</li>
+          <li><b>physical</b> ("heavy," weak) or&nbsp;</li>
+          <li><b>mental</b> ("brain fog," poor concentration)?</li>
         </ul>
       </li>
       <li><strong>R: Radiation</strong>
@@ -50,7 +51,11 @@
       <li><strong>A: Associated Symptoms</strong>
         <ul>
           <li><b>Constitutional:</b> Fever, night sweats, appetite changes.</li>
-          <li><b>Mood:</b> Low mood, loss of interest or pleasure (anhedonia).</li>
+          <li><b>Psychiatric:</b></li>
+          <ol>
+            <li>Low mood</li>
+            <li>loss of interest or pleasure (anhedonia)</li>
+          </ol>
           <li><em>bleeding</em> </li>
           <ul>
             <li><em>Menstrual</em></li>
@@ -60,9 +65,38 @@
             <li>easy <em>bruising</em></li>
             <li>any <em>other</em>?</li>
           </ul>
-          <li><b>Pain:</b> Body aches, joint pain, specific back pain.</li>
-          <li><b>Other:</b> Shortness of breath, palpitations, hair loss,
-            feeling cold.</li>
+          <li><b>endocrine:</b></li>
+          <ol>
+            <li>hair loss</li>
+            <li>feeling cold</li>
+          </ol>
+          <li><b>neuro:</b> </li>
+          <li><b>cardio:</b> </li>
+          <ol>
+            <li>Palpitations</li>
+            <li>Shortness of breath</li>
+          </ol>
+          <li><b>respiratory:</b> </li>
+
+          <li><b>gastrointestinal:</b> </li>
+          <ol>
+            <li>diarrhoea</li>
+            <li>constipation</li>
+            <li>heartburn</li>
+          </ol>
+          <li><b>genito:</b> </li>
+          <li><b>musculoskeletal:</b> </li>
+          <ol>
+            <li>body aches</li>
+            <li>joint pain</li>
+            <li>rashes</li>
+          </ol>
+          <li><b>skin:</b> </li>
+          <li>infections</li>
+          <ol>
+            <li>fever</li>
+          </ol>
+          <li><b>other:</b> </li>
         </ul>
       </li>
       <li><strong>P: Progression</strong>
