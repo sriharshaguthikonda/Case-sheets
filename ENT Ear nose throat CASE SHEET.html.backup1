@@ -108,7 +108,7 @@
     </style>
   </head>
   <body>
-    <p> <br>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p> <br>
       <a href="https://www.scribd.com/doc/26094453/Ent-Case-Sheet-Proforma">this
         case sheet is taken from the said link Ent Case Sheet Proforma | PDF |
         Human Nose | Ear</a> </p>
@@ -2345,5 +2345,6 @@
       several bugs</p>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

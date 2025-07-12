@@ -146,7 +146,7 @@
     </style>
   </head>
   <body>
-    <h2> <a href="https://youtu.be/3omQxhgD9T0">Study genie video - Aspire
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <h2> <a href="https://youtu.be/3omQxhgD9T0">Study genie video - Aspire
         Dermatology in PLAB2 - Aspire PLAB/UKMLA Academy 2024</a></h2>
     <div class="video-container"> <iframe src="https://www.youtube.com/embed/3omQxhgD9T0"
 
@@ -855,5 +855,6 @@
     <br>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

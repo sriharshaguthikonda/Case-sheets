@@ -108,7 +108,7 @@
     </style>
   </head>
   <body>
-    <p><strong>productivePlace of Examination:</strong></p>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p><strong>productivePlace of Examination:</strong></p>
     <ol>
       <li>OPD</li>
       <li>Ward</li>
@@ -2771,5 +2771,6 @@
     </div>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

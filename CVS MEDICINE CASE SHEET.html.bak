@@ -2,11 +2,13 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>CVS MEDICINE CASE SHEET</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body>
-    <p> </p>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p> </p>
     <iframe src="Biodata.html"></iframe>
     <p>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</p>
     <ol>
@@ -349,9 +351,11 @@
         adult individual's cardiac frequency and temperature when in fever. Each
         Celsius grade of&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Thermoregulation">body
           temperature</a>increment corresponds to an 8&Acirc;&nbsp;<em>beats per
-          minute</em>&Acirc;&nbsp;increase in cardiac frequency.<a href="http://en.wikipedia.org/wiki/Liebermeister%27s_rule#cite_note-1"><sup>[1]</sup></a><a
+          minute</em>&Acirc;&nbsp;increase in cardiac frequency.<a href="http://en.wikipedia.org/wiki/Liebermeister%27s_rule#cite_note-1"><sup>[1]</sup></a><a
+
           href="http://en.wikipedia.org/wiki/Liebermeister%27s_rule#cite_note-2"><sup>[2]</sup></a>&Acirc;&nbsp;An
-        exception to this rule by creating a&Acirc;&nbsp;<strong>relative</strong>&Acirc;&nbsp;<a
+        exception to this rule by creating a&Acirc;&nbsp;<strong>relative</strong>&Acirc;&nbsp;<a
+
           href="http://en.wikipedia.org/wiki/Bradycardia">bradycardia</a>&Acirc;&nbsp;is
         known as&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Faget_sign">Fagetsign</a>&Acirc;&nbsp;(pulse-temperature
         dissociation) common in some diseases, especially&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Yellow_fever">yellow
@@ -513,20 +517,25 @@
       <summary>MANAGEMENT PLAN</summary>
       <iframe src="Management_plan.html" frameborder="0"></iframe> </details>
     <p> <strong>Aortic unfolding</strong>&Acirc;&nbsp;is an old term that was
-      used to describe the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Radiological">radiological</a>&Acirc;&nbsp;<a
-        href="http://en.wikipedia.org/wiki/Abnormal">abnormality</a>&Acirc;&nbsp;on&Acirc;&nbsp;<a
+      used to describe the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Radiological">radiological</a>&Acirc;&nbsp;<a
+
+        href="http://en.wikipedia.org/wiki/Abnormal">abnormality</a>&Acirc;&nbsp;on&Acirc;&nbsp;<a
+
         href="http://en.wikipedia.org/wiki/Chest_X-ray">chest X-ray</a>&Acirc;&nbsp;that
       show widening of the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Mediastinum">mediastinum</a>&Acirc;&nbsp;which
       might look like&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Thoracic_aortic_aneurysm">thoracic
         aortic aneurysm</a>.<a href="http://en.wikipedia.org/wiki/Aortic_unfolding#cite_note-1"><sup>[1]</sup></a>&Acirc;&nbsp;With
       aging the length increases by approximately 12% per decade, whereas the
       diameter increases by just 3% per decade. This elongation causes the
-      descending aorta to appear as a vertical shadow on the left&Acirc;&nbsp;<a
-        href="http://en.wikipedia.org/wiki/Heart">heart</a>&Acirc;&nbsp;border.<a
+      descending aorta to appear as a vertical shadow on the left&Acirc;&nbsp;<a
+
+        href="http://en.wikipedia.org/wiki/Heart">heart</a>&Acirc;&nbsp;border.<a
+
         href="http://en.wikipedia.org/wiki/Aortic_unfolding#cite_note-2"><sup>[2]</sup></a>&Acirc;&nbsp;Aortic
       unfolding, though not serious, should be differentiated from the more
       severe dissection of the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Aorta">aorta</a>.</p>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

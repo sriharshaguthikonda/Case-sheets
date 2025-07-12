@@ -7,7 +7,7 @@
   </head>
   
   <body>
-
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/x-w4eO5p9BY"
         title="ABG Interpretation Simplified: Essential Theory for PLAB2/UKMLA"
@@ -216,5 +216,6 @@
 
 
     <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

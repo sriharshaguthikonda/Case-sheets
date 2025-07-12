@@ -100,7 +100,7 @@
     </style>
   </head>
   <body>
-    <p>INFORMANT: [Self, Family Member (specify relationship), Friend, Other;
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p>INFORMANT: [Self, Family Member (specify relationship), Friend, Other;
       Reliability of informant]</p>
     <p>NAME :</p>
     <p>AGE :</p>
@@ -1110,5 +1110,6 @@
     </ol>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

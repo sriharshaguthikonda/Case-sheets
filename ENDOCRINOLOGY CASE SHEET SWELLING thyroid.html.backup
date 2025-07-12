@@ -102,7 +102,7 @@
     </style>
   </head>
   <body>
-    <p><br>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p><br>
     </p>
     <p><strong>NAME :</strong></p>
     <p><strong>AGE :</strong></p>
@@ -984,5 +984,6 @@
     <p>scabbaads trachea</p>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

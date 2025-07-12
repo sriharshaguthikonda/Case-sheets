@@ -5,7 +5,9 @@
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 <title>PSYCHIATRY CASE SHEET</title>
 
-<link rel="stylesheet" href="Case_sheet_styles.css">
+
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
 
 
 <script src="https://www.youtube.com/iframe_api"></script>
@@ -16,7 +18,7 @@
 
 </head>
 <body>
-
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
 <iframe src="Biodata.html" frameborder="0"></iframe>
         
 <h3>CHIEF COMPLAINTS: (In patient's/informant's own words, chronological
@@ -42,10 +44,8 @@
 </ol>
 <p><br/>
 </p>
-<details>
-  <summary>Suicide Risk Assessment (Post-Attempt/Poisoning)</summary>
-  <iframe src="Suicide_Risk_Assessment_SODARAPPERS_case_sheet_part.html" frameborder="0"></iframe>
-</details>
+
+
 <h3>INFORM BROAD PLAN</h3>
 <h4>
   <li>I am going to </li>
@@ -57,6 +57,17 @@
    </h4>
 <h3>HISTORY OF PRESENT ILLNESS: (Elaboration of each complaint using SODA
       CRAPPERS framework)</h3>
+
+
+
+      
+
+<details>
+    <summary>0<sup>TH</sup>COMPLAINT:Suicide Attempt/Poisoning)</summary>
+    <iframe src="Suicide_attempt_SODARAPPERS_case_sheet_part.html" frameborder="0"></iframe>
+  </details>
+
+
 
 
       <details>
@@ -891,5 +902,6 @@
          <script src="harsha_iframe_youtube_player.js"></script>
       <script src="Iframe_height_mothership.js"></script>
 <script src="Iframe_height.js"></script>
-</body>
+    <script src="theme-toggle.js"></script>
+  </body>
 </html>

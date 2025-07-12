@@ -2000,5 +2000,6 @@
             NICE patient information, Versus Arthritis).</strong></li>
 </ul>
 </div>
-</body>
+    <script src="theme-toggle.js"></script>
+  </body>
 </html>

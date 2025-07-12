@@ -105,7 +105,7 @@
     </style>
   </head>
   <body>
-    <h3>UPPER LIMB &amp; NECK EXAMINATION (Whiplash Injury Scenario)</h3>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <h3>UPPER LIMB &amp; NECK EXAMINATION (Whiplash Injury Scenario)</h3>
     <div class="video-container"> <iframe src="https://www.youtube.com/embed/p4GHGCM_aiM"
 
         title="Comprehensive Upper Limb &amp; Neck Examination Guide | PLAB2/UKMLA"
@@ -810,5 +810,6 @@
     </script>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

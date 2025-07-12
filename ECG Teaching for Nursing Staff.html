@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ECG Teaching for Nursing Staff</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
 
     <script src="https://www.youtube.com/iframe_api"></script>
 
@@ -12,7 +14,7 @@
 <body>
 
     <body>
-        <div class="video-container">
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>        <div class="video-container">
             <iframe src="https://www.youtube.com/embed/bn_fFN1xZtg" title="ECG Interpretation: An Introduction for PLAB2/UKMLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     
@@ -121,5 +123,6 @@
 
     <script src="Iframe_height_mothership.js"></script>
 <script src="Iframe_height.js"></script>
-</body>
+    <script src="theme-toggle.js"></script>
+  </body>
 </html>

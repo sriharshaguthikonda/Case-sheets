@@ -6,8 +6,10 @@
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/0R0z73Xj7_s"
-        title="Basic Life Support (BLS) Overview | PLAB2/UKMLA Essentials" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <div class="video-container"> <iframe src="https://www.youtube.com/embed/0R0z73Xj7_s"
+
+        title="Basic Life Support (BLS) Overview | PLAB2/UKMLA Essentials" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
     </div>
     <h3>BASIC LIFE SUPPORT (BLS) OVERVIEW &amp; TEACHING GUIDE</h3>
@@ -22,7 +24,8 @@
         chart will likely be present in the cubicle, which can be used as a
         reference. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=57s">Video
           0:57-1:06</a>)</li>
-      <li><strong>Initial Interaction (Rapport &amp; Assessment):</strong> (<a class="timestamp"
+      <li><strong>Initial Interaction (Rapport &amp; Assessment):</strong> (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=74s">Video
           1:14-1:41</a>)
         <ul>
@@ -68,7 +71,8 @@
       <li><strong>R - Response:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=193s">Video
           3:13</a>)
         <ul>
-          <li>Check for response by gently asking "Hello, can you hear me?" (<a
+          <li>Check for response by gently asking "Hello, can you hear me?" (<a
+
               class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=194s">Video
               3:14-3:18</a>)</li>
           <li>Gently tap the shoulders. Be gentle to avoid causing further
@@ -89,10 +93,12 @@
       <li><strong>A - Airway:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=223s">Video
           3:43-3:48</a>)
         <ul>
-          <li>Open the airway using the head-tilt chin-lift maneuver. (<a class="timestamp"
+          <li>Open the airway using the head-tilt chin-lift maneuver. (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=228s">Video
               3:48-3:50</a>)</li>
-          <li>If any visible foreign body is present, remove it. (<a class="timestamp"
+          <li>If any visible foreign body is present, remove it. (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=230s">Video
               3:50-3:52</a>)</li>
         </ul>
@@ -100,20 +106,24 @@
       <li><strong>B - Breathing:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=234s">Video
           3:54-3:57</a>)
         <ul>
-          <li>Check for normal breathing for no more than 10 seconds. (<a class="timestamp"
+          <li>Check for normal breathing for no more than 10 seconds. (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=255s">Video
               4:15-4:18</a>) Be quick. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=258s">Video
               4:18-4:22</a>)</li>
           <li>Use Look, Listen, and Feel: (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=238s">Video
               3:58-4:02</a>)
             <ul>
-              <li><strong>Look</strong> for chest rise and fall. (<a class="timestamp"
+              <li><strong>Look</strong> for chest rise and fall. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=242s">Video
                   4:02</a>)</li>
-              <li><strong>Listen</strong> for breath sounds. (<a class="timestamp"
+              <li><strong>Listen</strong> for breath sounds. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=245s">Video
                   4:05</a>)</li>
-              <li><strong>Feel</strong> for breath on your cheek. (<a class="timestamp"
+              <li><strong>Feel</strong> for breath on your cheek. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=248s">Video
                   4:08-4:11</a>)</li>
             </ul>
@@ -133,7 +143,8 @@
               <li>Use the heel of your dominant hand on the lower half of the
                 sternum. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=283s">Video
                   4:43-4:48</a>)</li>
-              <li>Interlock fingers of the other hand on top. (<a class="timestamp"
+              <li>Interlock fingers of the other hand on top. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=288s">Video
                   4:48-4:51</a>)</li>
               <li>Keep elbows straight; pressure should come from the shoulders.
@@ -142,10 +153,12 @@
               <li>Compress the chest to a depth of at least 1/3 of the chest
                 diameter. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=299s">Video
                   4:59-5:03</a>)</li>
-              <li>Allow full chest recoil between compressions. (<a class="timestamp"
+              <li>Allow full chest recoil between compressions. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=306s">Video
                   5:06-5:08</a>)</li>
-              <li>Do not lift hands from the chest during compressions. (<a class="timestamp"
+              <li>Do not lift hands from the chest during compressions. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=308s">Video
                   5:08-5:12</a>)</li>
               <li>Count compressions aloud. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=312s">Video
@@ -164,12 +177,14 @@
               <li>Give mouth-to-mouth resuscitation. Deliver a normal breath
                 (not forceful) until you see chest rise. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=335s">Video
                   5:35-5:43</a>)</li>
-              <li>Allow chest to fall, then deliver a second breath. (<a class="timestamp"
+              <li>Allow chest to fall, then deliver a second breath. (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=343s">Video
                   5:43-5:48</a>)</li>
               <li><em>Exam note: You may be asked to verbally explain rescue
                   breaths rather than demonstrate, or use a sheet over the
-                  dummy's face. Follow instructions given.</em> (<a class="timestamp"
+                  dummy's face. Follow instructions given.</em> (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=348s">Video
                   5:48-6:12</a>)</li>
             </ul>
@@ -186,16 +201,20 @@
     <h4>D. PEDIATRIC BLS CONSIDERATIONS (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=546s">Video
         9:06</a>)</h4>
     <ul>
-      <li>Two protocols: Out-of-hospital and In-hospital. (<a class="timestamp"
+      <li>Two protocols: Out-of-hospital and In-hospital. (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=548s">Video
-          9:08-9:16</a>) The exam will specify which to teach. (<a class="timestamp"
+          9:08-9:16</a>) The exam will specify which to teach. (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=570s">Video
           9:30-9:58</a>)</li>
-      <li><strong>Out-of-Hospital Pediatric BLS:</strong> (<a class="timestamp"
+      <li><strong>Out-of-Hospital Pediatric BLS:</strong> (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=598s">Video
           9:58</a>)
         <ul>
-          <li>Designed to be simple, similar to adult BLS for lay rescuers. (<a
+          <li>Designed to be simple, similar to adult BLS for lay rescuers. (<a
+
               class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=602s">Video
               10:02-10:10</a>)</li>
           <li>Check responsiveness, shout for help, open airway, check
@@ -211,7 +230,8 @@
               11:12-11:16, 10:10-10:12, 10:24</a>)</li>
           <li><strong>Calling for help (single rescuer):</strong> If alone,
             perform CPR for 1 minute before going to call emergency services
-            (unless phone with speaker is available for earlier call). (<a class="timestamp"
+            (unless phone with speaker is available for earlier call). (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=689s">Video
               11:29-11:50</a>)</li>
         </ul>
@@ -220,7 +240,8 @@
         (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=726s">Video
           12:06</a>)
         <ul>
-          <li>Call for help using hospital emergency number (e.g., 2222). (<a class="timestamp"
+          <li>Call for help using hospital emergency number (e.g., 2222). (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=736s">Video
               12:16-12:28</a>)</li>
           <li>Follow similar initial steps (responsiveness, airway, breathing).</li>
@@ -236,7 +257,8 @@
           <li>Child (approx 1 year to puberty): One hand may be sufficient if
             the 1/3 chest depth can be achieved. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=791s">Video
               13:11-13:18</a>)</li>
-          <li>Infant (under 1 year): Two fingers may be used for compressions. (<a
+          <li>Infant (under 1 year): Two fingers may be used for compressions. (<a
+
               class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=798s">Video
               13:18-13:25</a>)</li>
           <li>The aim is always to compress the chest by at least one-third of
@@ -245,19 +267,22 @@
         </ul>
       </li>
     </ul>
-    <h4>E. ASSESSING THE LEARNER &amp; PROVIDING FEEDBACK (<a class="timestamp"
+    <h4>E. ASSESSING THE LEARNER &amp; PROVIDING FEEDBACK (<a class="timestamp"
+
         href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=377s">Video 6:17</a>)</h4>
     <ul>
       <li>After explaining, ask the student (Alex) to demonstrate the BLS steps.
         (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=379s">Video
           6:19-6:21</a>)</li>
-      <li>Observe their performance. They will likely make a mistake or two. (<a
+      <li>Observe their performance. They will likely make a mistake or two. (<a
+
           class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=383s">Video
           6:23-6:27</a>)</li>
       <li><strong>Correcting Mistakes:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=387s">Video
           6:27-6:29</a>)
         <ul>
-          <li>Correct constructively and politely. Avoid sounding accusatory. (<a
+          <li>Correct constructively and politely. Avoid sounding accusatory. (<a
+
               class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=391s">Video
               6:31-6:32</a>)</li>
           <li>Example: If student bends elbows during compressions: "Alex,
@@ -266,7 +291,8 @@
             should be coming from the shoulder... Let's give another try.
             Perfect, you're doing good now." (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=395s">Video
               6:35-7:02</a>)</li>
-          <li>Encourage and correct them as they perform. (<a class="timestamp"
+          <li>Encourage and correct them as they perform. (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=500s">Video
               8:20-8:30</a>)</li>
         </ul>
@@ -277,7 +303,8 @@
     <ul>
       <li>The patient shows signs of life (e.g., starts breathing normally,
         moving). (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=479s">Video
-          7:59-8:01</a>) - If so, place in recovery position. (<a class="timestamp"
+          7:59-8:01</a>) - If so, place in recovery position. (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v_%0A%20%20=0R0z73Xj7_s&amp;t=481s">Video
           8:01-8:03</a>)</li>
       <li>Qualified help arrives and takes over. (<a class="timestamp" href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=483s">Video
@@ -286,9 +313,11 @@
           8:08-8:10</a>)</li>
     </ul>
     <p><em>Always refer to the Resuscitation Council UK chart provided during
-        the exam for specific guidelines and sequences.</em> (<a class="timestamp"
+        the exam for specific guidelines and sequences.</em> (<a class="timestamp"
+
         href="https://www.youtube.com/watch?v=0R0z73Xj7_s&amp;t=798s">Video
         13:18-13:25</a>)</p>
     <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

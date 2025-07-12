@@ -118,7 +118,7 @@
     </style>
   </head>
   <body>
-  
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>  
       <h3>CEREBELLAR EXAMINATION</h3>
 
       <p class="Red">This is not how you should approach cases - patient doesnt come qith ceebellar ataxia they come with the cheif complaints below!!!</p>
@@ -279,6 +279,7 @@
   
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
   </html>
 </html>

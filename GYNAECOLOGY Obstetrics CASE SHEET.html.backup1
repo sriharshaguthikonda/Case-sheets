@@ -122,7 +122,7 @@
     </style>
   </head>
   <body>
-    <p><br>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p><br>
     </p>
     <p>INFORMANT: [Self, Husband, Mother, etc. Relationship, Reliability]</p>
     <p>NAME :</p>
@@ -1570,5 +1570,6 @@
   </script>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

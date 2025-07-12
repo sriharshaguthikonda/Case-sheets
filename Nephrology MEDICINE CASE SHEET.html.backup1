@@ -47,7 +47,7 @@
     </style>
   </head>
   <body>
-    <div class="section">
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <div class="section">
       <h3>PATIENT INFORMATION</h3>
       <ul>
         <li>Informant</li>
@@ -770,5 +770,6 @@
     </div>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

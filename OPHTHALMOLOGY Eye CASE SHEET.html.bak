@@ -3,11 +3,13 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Ophthalmology Proformas</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body>
-    <p> </p>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p> </p>
     <br>
     <p><br>
     </p>
@@ -15,9 +17,12 @@
         to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology
         Made Easy"</a> </div>
     <iframe src="Biodata.html" frameborder="0"></iframe>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/1SkcFjdJ40M"
-        title="&quot;How to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology Made Easy&quot;"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/1SkcFjdJ40M"
+
+        title="&quot;How to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology Made Easy&quot;"
+
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
     </div>
     <div class="section">
@@ -1012,9 +1017,12 @@
     <p><br>
     </p>
     <h2>Local Examination:</h2>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/IJ6wspfz55M"
-        title="Mastering Eye Examination for PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/IJ6wspfz55M"
+
+        title="Mastering Eye Examination for PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
+
         frameborder="0" width="1520"></iframe> </div>
     <h2></h2>
     <p> remove the glasses/ contacts</p>
@@ -1251,9 +1259,12 @@
                   <li>ishihara charts</li>
                 </ol>
               </ol>
-              <div class="video-container"> <iframe src="https://www.youtube.com/embed/_HwWfnB0nBg"
-                  title="Visual Field Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
+              <div class="video-container"> <iframe src="https://www.youtube.com/embed/_HwWfnB0nBg"
+
+                  title="Visual Field Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
+
                   height="864" frameborder="0" width="1520"></iframe> </div>
             </td>
             <td><br>
@@ -1282,14 +1293,20 @@
               Checked for posterior segment pathologies.<br>
               Do <em>not </em>use <em>drops</em>!!! in Closure <em>Glaucoma</em>!
               <h5>FUNDOSCOPY PROTOCOL</h5>
-              <div class="video-container"> <iframe src="https://www.youtube.com/embed/SiuyE7w0lUc"
-                  title="How to use an Ophthalmoscope; #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
+              <div class="video-container"> <iframe src="https://www.youtube.com/embed/SiuyE7w0lUc"
+
+                  title="How to use an Ophthalmoscope; #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
+
                   height="500" frameborder="0" width="908"></iframe> </div>
               <br>
-              <div class="video-container"> <iframe src="https://www.youtube.com/embed/vWENp_B8vn4"
-                  title="Fundoscopy Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
+              <div class="video-container"> <iframe src="https://www.youtube.com/embed/vWENp_B8vn4"
+
+                  title="Fundoscopy Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
+
                   height="864" frameborder="0" width="1520"></iframe> </div>
               <p><em>Ensure appropriate setting (dimmed room if possible),
                   patient comfort, and proper ophthalmoscope use (correct lens,
@@ -1882,5 +1899,6 @@
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

@@ -3,10 +3,12 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>SOB breathlessness</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
   </head>
   <body>
-    <p>"subjective experience of breathing discomfort that consists of
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p>"subjective experience of breathing discomfort that consists of
       qualitatively distinct sensations that vary in intensity. experience
       derives from interactions among multiple physiological, psychological,
       social, &amp; environmental factors &amp; may induce 2` physiological
@@ -173,5 +175,6 @@
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

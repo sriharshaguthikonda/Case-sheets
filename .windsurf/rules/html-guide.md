@@ -13,7 +13,9 @@ html templete:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JAN 2025 NEW UPDATES</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
     <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
@@ -43,6 +45,7 @@ html templete:
 .
 .
     <script src="harsha_iframe_youtube_player.js"></script>
-</body>
+    <script src="theme-toggle.js"></script>
+  </body>
 
 

@@ -1,0 +1,454 @@
+/* Base Styles */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12.0pt;
+    line-height: 1.4;
+    padding: 0 4%;
+    background-color: #1b1b1b;
+    color: #ffffff;
+}
+
+/* Typography */
+h1 {
+    font-size: 16.0pt;
+    align-items: center;
+    color: #ffffff;
+}
+h2 {
+    color: #0066fe; 
+    font-size: 14.0pt;
+    font-weight: bold;
+}
+h3 {
+    color: #00fe2a; 
+    font-size: 14.0pt;
+    font-weight: bold;
+}
+h4 {
+    color: #e5fe00; 
+    font-size: 12.0pt;
+    font-weight: bold;
+}
+h5 {
+    color: #fe5d00; 
+    font-size: 10.0pt;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Lists */
+ol, ul {
+    margin-left: 20%;
+    padding-left: 0;
+}
+
+ul {
+    list-style-type: lower-alpha;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+li {
+    margin-bottom: 5px;
+    padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Layout */
+.section {
+    margin-bottom: 15px;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ffffff;
+    margin: 10px;
+}
+
+th, td {
+    border: 1px solid #ffffff;
+    padding: 2px;
+    text-align: left;
+    font-size: 12.0pt;
+}
+
+iframe {
+    width: 108%;
+    height: 30vh;
+    margin-left: -4%;
+    margin-right: -4%;
+}
+
+object {
+    width: 100%;
+    height: 70vh;
+    margin-left: -5%;
+}
+
+.video-container {
+    float: right;
+    position: sticky;
+    top: 2px;
+    left: 80%;
+    width: 60%;
+    z-index: 1000;
+    padding-left: 30px;
+    cursor: move;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+
+.video-container.shrunk {
+    left: 30%;
+    width: 75%;
+}
+
+/* point and actual question */
+.point {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    padding: 5px 0;
+    border-bottom: 1px solid #161308;
+}
+.description { 
+    color: #813dff; 
+    font-weight: bold; 
+    flex: 1; 
+}
+
+.verbal {
+    grid-column: 2;
+    display: block;
+    font-style: italic;
+    color: #f6d7bd;
+}
+
+/* SEXES */
+.female {
+    background-color: rgba(255, 102, 217, 0.2);
+}
+
+.male {
+    background-color: rgba(0, 73, 62, 0.2);
+}
+
+.pediatric {
+    background-color: rgba(126, 255, 147, 0.2);
+}
+
+
+
+
+
+
+
+
+
+/* SYSTEMS */
+li {
+    position: relative;
+    padding-left: 35px;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    margin-bottom: 5px;
+}
+
+li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    background-color: transparent;
+}
+
+li::after {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.General {
+    
+}
+
+.cvs { background-color: rgba(245, 31, 42, 0.2); }
+
+.rheumatic { background-color:rgba(155, 31, 186, 0.2); }
+
+.psychiatric::before { border-left: 7px solid rgb(0, 122, 178); }
+.git::before { background-color: #4fc618; }
+.Respiratory::before, .respiratory::before { border-right: 5px solid #fa75c3; }
+
+.derma::after { border-left: 5px solid #c87100; }
+.hematology::after { background-color: rgba(255, 0, 0); }
+.Endocrine::after, .endocrine::after { border-right: 5px solid rgb(51, 235, 91); }
+
+.infectious::after { border-left: 5px solid #c8002b; }
+
+.gynob { background-color: rgba(255, 59, 134, 0.8); }
+.surgery { background-color: rgba(37, 132, 19, 0.2); }
+
+.cns { border-right: 5px solid rgb(231, 219, 51); }
+.Nephro, .nephro { background-color: hsla(2, 100%, 58%, 0.288); }
+
+.obstetric { border-left: 7px solid rgb(255, 65, 90); }
+.gynaecology { background-color: rgba(231, 127, 196, 0.2); }
+.ortho-specific { background-color: rgba(255, 155, 55, 0.1); }
+.ophthalmology { background-color: rgba(255, 255, 255, 0.2); }
+
+.Sexual_history_section {
+    background-color: rgba(37, 8, 20, 0.7);
+    margin: 35px 0;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* COMPLAINTS */
+.confusion {
+    background-color: rgba(230, 255, 0, 0.2);
+}
+
+.section-title {
+    border-bottom: 1px solid #333333; 
+    color: #cccccc; 
+    font-size: 13.0pt; 
+    font-weight: bold; 
+    margin-bottom: 10; 
+    margin-top: 20; 
+    padding-bottom: 3px;
+}
+
+details {
+    height: auto;
+    width: 100%;
+    box-shadow: 0 0 3px rgba(255,255,255,0.1);
+    margin-bottom: 15px; 
+    padding: 3px 5px;
+    margin-left: -0.1cm;
+}
+
+summary {
+    color: #e6ff00; 
+    font-family: "times new roman", times, serif; 
+    font-size: 13.0pt; 
+    font-weight: bold;
+}
+
+summary:hover {
+    background-color: #0a0a0a;
+}
+
+.section-title {
+    border-bottom: 1px solid #333333; 
+    color: #cccccc; 
+    font-size: 13.0pt; 
+    font-weight: bold; 
+    margin-bottom: 10; 
+    margin-top: 15px; 
+    padding-bottom: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* COLOURS */
+.grey {
+    color: #646464;
+}
+
+.Red {
+    color: rgb(255, 41, 52);
+}
+
+.green {
+    color: #7bff00; 
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+td {
+    font-size: 12.0pt;
+}
+
+th {
+    font-size: 13.0pt;
+}
+
+.highlight-prompt {
+    color: #02ffab; 
+    font-weight: bold;
+}
+
+.detail-prompt {
+    color: #f7335d; 
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* UNIVERSAL STYLES */
+u {
+    color: #deff02;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+b {
+    color: #02ffab;
+    font-weight: bold;
+}
+
+em {
+    color: #f7335d;
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: #f65733;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* Theme Toggle Button Styles */
+      #theme-toggle {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        padding: 5px 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background-color: #f8f9fa;
+        cursor: pointer;
+        z-index: 1000;
+        font-size: 12px;
+        transition: all 0.3s ease;
+      }
+      
+      #theme-toggle:hover {
+        background-color: #e9ecef;
+      }
+      
+      [data-theme="dark"] #theme-toggle {
+        background-color: #2a2a2a;
+        border-color: #555;
+        color: #fff;
+      }
+      
+      [data-theme="dark"] #theme-toggle:hover {
+        background-color: #3a3a3a;
+      }

@@ -101,7 +101,7 @@
     </style>
   </head>
   <body>
-    <h2><a href="https://youtu.be/yz_JVHidZsk">Sexual Health History</a><a href="https://youtu.be/yz_JVHidZsk">
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <h2><a href="https://youtu.be/yz_JVHidZsk">Sexual Health History</a><a href="https://youtu.be/yz_JVHidZsk">
         <br>
       </a></h2>
     <h2><a href="https://youtu.be/yz_JVHidZsk">Demonstration | OSCE Guide |
@@ -282,5 +282,6 @@
     <p></p>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

@@ -2,11 +2,13 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>PEDIATRIC CASE SHEET</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body>
-    <p><strong>productivePlace of Examination:</strong></p>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p><strong>productivePlace of Examination:</strong></p>
     <ol>
       <li>OPD</li>
       <li>Ward</li>
@@ -235,8 +237,10 @@
     <h2>Elaboration of Presenting Complaint: Vomiting (based on video content)</h2>
     <h2><a href="https://www.youtube.com/watch?v=VezCFksfWg4" target="_blank">Nausea
         and Vomiting Part 5 - Differential diagnosis</a></h2>
-    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VezCFksfWg4"
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VezCFksfWg4"
+
         title="Nausea and Vomiting Part 5 - Differential diagnosis"></iframe>
     </div>
     <br>
@@ -2333,7 +2337,8 @@
         <li>Temperature: [...&Acirc;&deg;C/&Acirc;&deg;F] (<span class="detail-prompt">Site:
             Axillary/Oral/Rectal)</span></li>
         <li>Pulse Rate: [.../min] (<span class="detail-prompt">Rhythm:
-            Regular/Irregular; <span class="detail-prompt">Volume: Good/Low; <span
+            Regular/Irregular; <span class="detail-prompt">Volume: Good/Low; <span
+
                 class="detail-prompt">Character: [...]; <span class="detail-prompt">Peripheral
                   pulses: Palpable/Equal)</span></span></span></span></li>
         <li>Respiratory Rate: [.../min] (<span class="detail-prompt">Rhythm:
@@ -2671,5 +2676,6 @@
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

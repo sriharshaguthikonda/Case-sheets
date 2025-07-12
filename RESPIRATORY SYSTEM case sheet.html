@@ -2,10 +2,15 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>RESPIRATORY SYSTEM CASE SHEET</title>
-    <link rel="stylesheet" href="Case_sheet_styles.css">
+    
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body> <iframe src="Biodata.html"></iframe>
+  <body> 
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>   
+    
+    <iframe src="Biodata.html"></iframe>
     <h3>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</h3>
     <ol>
       <li>Breathlessness[sob] for 4 days Causes : C-MINT</li>
@@ -33,23 +38,38 @@
     <p><br>
     </p>
     <details>
-      <summary><b>1<sup>ST</sup> COMPLAINT : BREATHLESSNESS [NOT SOB] </b></summary>
+      <summary>1<sup>ST</sup> COMPLAINT : BREATHLESSNESS [NOT SOB] </summary>
       <iframe src="Shortness of breath SOB CASE SHEET.html"></iframe>
     </details>
 
 
     <details>
-      <summary><b>2<sup>nd</sup> complaint COUGH</b></summary>
+      <summary>2<sup>nd</sup> complaint COUGH</summary>
       <iframe src="Cough CASE SHEET.html"></iframe>
     </details>
+
+
+
     <br>
-    <h3>3rd complaint : SPUTUM - children no sputum</h3>
+    <details>
+      <summary>3<sup>rd</sup> COMPLAINT : SPUTUM</summary>
     <iframe src="SPUTUM_Respiratory_case_sheet_part.html" frameborder="0"></iframe>
-    <h3>4<sup>TH</sup> COMPLAINT : HAEMOPTYSIS</h3>
+    </details>
+
+
+
+    <details>
+      <summary>4<sup>th</sup> COMPLAINT : HAEMOPTYSIS</summary>
     <iframe src="HAEMOPTYSIS_Respiratory_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+
+
+
+
     <details>
       <summary>5<sup>TH</sup> COMPLAINT : CHEST PAIN - SOCRATES</summary>
-      <iframe src="Chest_pain_case_sheet_part.html"></iframe> </details>
+      <iframe src="Chest_pain_case_sheet_part.html"></iframe> 
+    </details>
     <ol>
       <li>A/R:
         <ol>
@@ -61,27 +81,57 @@
     </ol>
     <details>
       <summary>6<sup>TH</sup> COMPLAINT : FEVER</summary>
-      <iframe src="Fever_chief_complaint.html"></iframe> </details>
-    <p>ALSO ASK ABOUT : </p>
-    <p>CARDIOVASCULAR </p>
-    <p>Chest pain </p>
-    <p>Palpitations </p>
-    <p>Oedema </p>
-    <p>NEUROLOGICAL </p>
-    <p>Visual disturbance </p>
-    <p>Motor/ sensory symptoms </p>
-    <p>Headache </p>
-    <p>GASTROINTESTINAL </p>
-    <p>Dyspepsia </p>
-    <p>Nausea/vomiting </p>
-    <p>Dysphagia </p>
-    <p>MUSCULOSKELETAL </p>
-    <p>Joint pain </p>
-    <p>GENITOURINARY </p>
-    <p>Oliguria </p>
-    <p>Polyuria </p>
-    <p> DERMATOLOGICAL</p>
-    <p>Rashes </p>
+      <iframe src="Fever_chief_complaint.html"></iframe>
+     </details>
+
+
+     <details>
+      <summary>7<sup>th</sup> COMPLAINT : TIREDNESS</summary>
+      <iframe src="Tiredness.html"></iframe>
+    </details>
+
+
+
+    <h3>ALSO ASK ABOUT : </h3>
+    <ol>
+      <li>CARDIOVASCULAR
+        <ol>
+          <li>Chest pain</li>
+          <li>Palpitations</li>
+          <li>Oedema</li>
+        </ol>
+      </li>
+      <li>NEUROLOGICAL
+        <ol>
+          <li>Visual disturbance</li>
+          <li>Motor/ sensory symptoms</li>
+          <li>Headache</li>
+        </ol>
+      </li>
+      <li>GASTROINTESTINAL
+        <ol>
+          <li>Dyspepsia</li>
+          <li>Nausea/vomiting</li>
+          <li>Dysphagia</li>
+        </ol>
+      </li>
+      <li>MUSCULOSKELETAL
+        <ol>
+          <li>Joint pain</li>
+        </ol>
+      </li>
+      <li>GENITOURINARY
+        <ol>
+          <li>Oliguria</li>
+          <li>Polyuria</li>
+        </ol>
+      </li>
+      <li>DERMATOLOGICAL
+        <ol>
+          <li>Rashes</li>
+        </ol>
+      </li>
+    </ol>
     <details>
       <summary>H/O OF PAST ILLNESS :</summary>
       <iframe src="Past_illness.html"></iframe> </details>
@@ -733,5 +783,6 @@
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>

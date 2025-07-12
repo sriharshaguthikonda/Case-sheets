@@ -113,7 +113,7 @@
     </style>
   </head>
   <body>
-    <div class="section"><a href="https://www.youtube.com/watch?v=1SkcFjdJ40M"><br>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <div class="section"><a href="https://www.youtube.com/watch?v=1SkcFjdJ40M"><br>
       </a></div>
     <div class="section"><a href="https://www.youtube.com/watch?v=1SkcFjdJ40M">"How
         to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology
@@ -2050,5 +2050,6 @@
     </div>
 
          <script src="harsha_iframe_youtube_player.js"></script>
+      <script src="theme-toggle.js"></script>
   </body>
 </html>
