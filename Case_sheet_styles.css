@@ -254,8 +254,7 @@ General will be empty !*/
 .ent, .Ent { 
     box-shadow: 7px 0 0 0 rgb(0, 199, 99);
 }
-
-
+.emergency { box-shadow: 20px 0 0 0 rgb(0, 255, 255); }    
 .Nephro, .nephro { background-color: hsla(182, 100%, 42%, 0.288); }
 
 /* Background-based classes remain as they are, as they don't conflict */

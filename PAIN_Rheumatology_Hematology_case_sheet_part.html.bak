@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PAIN (Rheumatology Hematology)</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+<ul>
+  <li><strong>S - Site:</strong>
+    <ul>
+      <li>Exact location? (Point)</li>
+      <li>Localized or Widespread/Diffuse?</li>
+      <li>Specific joints involved? (Small/Large)
+        <ul>
+          <li>Rheum: Symmetrical involvement?</li>
+        </ul>
+      </li>
+      <li>Muscle, bone, or nerve path?</li>
+    </ul>
+  </li>
+  <li><strong>O - Onset:</strong>
+    <ul>
+      <li>When did it start? (Specific date/duration)</li>
+      <li>Sudden or Gradual?</li>
+      <li>Any specific trigger? (Injury, illness, medication)</li>
+      <li class="emergency">If injury-related:
+        <ul>
+          <li class="emergency">Type of injury (MVA, fall, sports, assault, etc.)</li>
+          <li class="emergency">Date and time of injury</li>
+          <li class="emergency">Speed and direction of impact (for MVA)</li>
+          <li class="emergency">Position in vehicle (driver, passenger)</li>
+          <li class="emergency">Use of seatbelt/airbags</li>
+          <li class="emergency">Loss of consciousness (duration if yes)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>C - Character:</strong>
+    <ul>
+      <li>Describe the pain: (Aching, Sharp, Burning, Throbbing, Dull)
+        <ul>
+          <li>Rheum: Associated stiffness? (Especially morning)</li>
+        </ul>
+      </li>
+      <li>Constant or Intermittent?</li>
+    </ul>
+  </li>
+  <li><strong>R - Radiation:</strong>
+    <ul>
+      <li>Does it travel/spread anywhere? Where?</li>
+    </ul>
+  </li>
+  <li><strong>A - Associated Symptoms:</strong>
+    <ul>
+      <li class="emergency"><strong>Injury-related symptoms:</strong>
+        <ul>
+          <li class="emergency">Initial symptoms at time of injury</li>
+          <li class="emergency">Neck pain onset (immediate vs delayed)</li>
+          <li class="emergency">Headache location and characteristics</li>
+          <li class="emergency">Neck stiffness or reduced range of motion</li>
+          <li class="emergency">Arm pain, numbness, or tingling</li>
+          <li class="emergency">Dizziness or balance problems</li>
+          <li class="emergency">Visual disturbances</li>
+          <li class="emergency">Difficulty concentrating or memory issues</li>
+          <li class="emergency">Sleep disturbances</li>
+        </ul>
+      </li>
+      <li><strong>Systemic:</strong>
+        <ul>
+          <li>Fever, Chills, Night sweats</li>
+          <li>Fatigue, Malaise</li>
+          <li>Weight loss, Appetite change</li>
+        </ul>
+      </li>
+      <li><strong>Rheumatology Specifics:</strong> </li>
+      <ul>
+        <li>tingling, numbness</li>
+        <ul>
+          <li>Raynaud's phenomenon</li>
+        </ul>
+        <li>Joint: Swelling, Redness, Warmth, Morning stiffness
+          (duration?), &darr;ROM</li>
+        <li>Skin: Rash (type?), Nodules, Photosensitivity</li>
+        <li>Sicca symptoms (Dry eyes/mouth)</li>
+        <li>Muscle weakness</li>
+        <li>Enthesitis (e.g., heel pain)</li>
+        <li>Inflammatory back pain features</li>
+        <li>Eye inflammation (redness, pain)</li>
+      </ul>
+      <li><strong>Hematology Specifics:</strong>
+        <ul>
+          <li>Bleeding: Easy bruising, Petechiae, Epistaxis, Gum
+            bleeding, Menorrhagia, Hematuria, GI bleed</li>
+          <li>Thrombosis: Limb swelling/pain (DVT?), SOB/Chest pain
+            (PE?)</li>
+          <li>Anemia: Pallor, Dyspnea on exertion, Dizziness</li>
+          <li>Lymphadenopathy (location, painful?)</li>
+          <li>Hepatosplenomegaly</li>
+          <li>Bone pain (if not primary site, character?)</li>
+          <li>Recurrent/unusual infections</li>
+          <li>Pruritus</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>T - Timing / Treatment Tried / Trauma:</strong>
+    <ul>
+      <li><strong>Timing:</strong>
+        <ul>
+          <li>When is it worse? (Morning, night, with activity, at rest)</li>
+          <li>Does it wake you from sleep?</li>
+          <li>Pattern over time? (Flare-ups, remissions)</li>
+          <li class="emergency">Changes in symptoms since injury</li>
+        </ul>
+      </li>
+      <li><strong>Treatment Tried:</strong>
+        <ul>
+          <li>Medications? (OTC, prescribed - name, dose, effectiveness, side effects)</li>
+          <li>Non-pharmacological? (Rest, ice, heat, physio - effectiveness)</li>
+          <li class="emergency">Initial treatment received (ER, immobilization, etc.)</li>
+          <li class="emergency">Previous treatments and response</li>
+          <li class="emergency">Imaging studies done (X-ray, CT, MRI)</li>
+        </ul>
+      </li>
+
+    </ul>
+  </li>
+  <li><strong>E - Exacerbating / Relieving Factors:</strong>
+    <ul>
+      <li>Makes it worse? (Movement, activity, posture, rest - specify for inflammatory vs mechanical)</li>
+      <li>Makes it better? (Rest, activity, meds, position, heat/cold)</li>
+      <li class="emergency">Specific movements that aggravate injury symptoms</li>
+      <li class="emergency">Positions that provide relief</li>
+    </ul>
+  </li>
+  <li><strong>S - Severity / Significance:</strong>
+    <ul>
+      <li><strong>Severity:</strong> Pain score (0-10: current, worst, best, average)</li>
+      <li class="emergency">WAD (Whiplash Associated Disorder) Grade:
+        <ol type="I" class="emergency">
+          <li class="emergency">Neck pain, stiffness, or tenderness only</li>
+          <li class="emergency">Neck symptoms + musculoskeletal signs</li>
+          <li class="emergency">Neck symptoms + neurological signs</li>
+          <li class="emergency">Neck symptoms + fracture/dislocation</li>
+        </ol>
+      </li>
+      <li><strong>Significance (Impact on Life):</strong>
+        <ul>
+          <li>Daily activities (ADLs)</li>
+          <li>Work / Hobbies / Social life</li>
+          <li>Sleep</li>
+          <li>Mood</li>
+          <li class="emergency">Driving ability</li>
+          <li class="emergency">Exercise tolerance</li>
+          <li class="emergency">Work status changes</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>R - Red Flags (General &amp; Specific):</strong>
+    <ul class="emergency">
+      <li class="emergency"><strong>Serious Injury Red Flags:</strong>
+        <ul class="emergency">
+          <li class="emergency">Severe, unrelenting pain</li>
+          <li class="emergency">Progressive neurological symptoms</li>
+          <li class="emergency">History of osteoporosis or bone disorders</li>
+          <li class="emergency">Recent infection or fever</li>
+          <li class="emergency">History of malignancy</li>
+          <li class="emergency">Use of corticosteroids</li>
+          <li class="emergency">Age >50 with significant trauma</li>
+        </ul>
+      </li>
+      <li>Giant cell arteritis GCA</li>
+      <ol>
+        <li>Temporal pain</li>
+        <li>visual disturbances</li>
+        <li>jaw claudication</li>
+      </ol>
+      <li>Systemic: Unexplained fever, night sweats, significant weight
+        loss.</li>
+      <li>Rheum: rapidly progressive
+        neurological deficit.</li>
+        <ol>
+          <li>Acute arthritis (hot swollen joint)</li>
+        </ol>
+      <li>Hem: Symptoms of acute leukemia (severe fatigue, bleeding,
+        infection), spinal cord compression, severe unexplained
+        bleeding/thrombosis.</li>
+    </ul>
+  </li>
+</ul>
+    <script src="theme-toggle.js"></script>
+  
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+</body>
+</html>
