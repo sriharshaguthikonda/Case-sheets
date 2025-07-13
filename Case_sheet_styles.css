@@ -16,12 +16,12 @@ body {
 
 /* Typography */
 h1 {
-    font-size: 16.0pt;
+    font-size: 18.0pt;
     align-items: center;
 }
 h2 {
     color: #ff9901; 
-    font-size: 14.0pt;
+    font-size: 16.0pt;
     font-weight: bold;
 }
 h3 {
