@@ -947,7 +947,7 @@
         <li>Any other Procedure - immobilization</li>
       </ol>
     </details>
-    <details open="">
+    <details >
       <summary>DRUG H/O :</summary>
       <ol>
         <li><strong>Paracetamol (Acetaminophen)</strong> &ndash; High </li>
@@ -1153,7 +1153,7 @@
         <li>Hematuria</li>
       </ol>
     </ol>
-    <details open="">
+    <details >
       <summary><a href="Personal_history.html">PERSONAL H/O:</a></summary>
       <iframe src="Personal_history.html" frameborder="0"></iframe> </details>
     <h3>MARITAL STATUS :</h3>

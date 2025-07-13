@@ -17,7 +17,7 @@
     <h3 class="section-title">I. IDENTIFICATION DATA</h3>
     <p><strong>Name of Patient:</strong> [Full Name]</p>
     <p><strong>Age:</strong> [Years, Months, Days] </p>
-    <details open="">
+    <details >
       <ol>
         <li> <strong>&lt;&nbsp; 24 h = Pathological):</strong>
           <ul>
