@@ -1,0 +1,33 @@
+  get all the menstrual history sections from all the case sheets and 
+  combine it into MENSTRUAL_HISTORY_case_sheet_part.html 
+  link it to all the case sheets at the same location where the menstrual history was taken from
+   link in the form of iframe like this :
+     <details>
+      <summary>MENSTRUAL HISTORY</summary>
+      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+   
+
+
+   
+   in MENSTRUAL_HISTORY_case_sheet_part.html file 
+    ad pointers, ask carefully in more than 50 years old women because of menopause.
+     don't ask contraception if more than 50 years after menopause.
+     ask about menopause if more than 50 years old.
+      ask about hormone replacement therapy.
+
+    
+
+    ask about menopause if more than 50 years old.
+
+
+
+
+
+
+     after introductions, ask if there is someone else that they have come with or do they want someone else to be informed.
+
+
+
+
+  

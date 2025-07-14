@@ -2,20 +2,16 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>ENT ear nose throat CASE SHEET</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body><a href="https://www.scribd.com/doc/26094453/Ent-Case-Sheet-Proforma">this
       case sheet is taken from the said link Ent Case Sheet Proforma | PDF |
       Human Nose | Ear</a>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/5hgOYp3Wvto"
-
-        title="Comprehensive Ear Examination Guide | PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
-
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/5hgOYp3Wvto"
+        title="Comprehensive Ear Examination Guide | PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
         frameborder="0" width="1520"></iframe> </div>
     <h3>PATIENT INFORMATION</h3>
     <ul>
@@ -56,815 +52,24 @@
       the other?</p>
     <details>
       <summary>1<sup>ST</sup> COMPLAINT: <strong>EAR PAIN (OTALGIA)</strong></summary>
-      <ol>
-        <li>SITE (S):
-          <ol>
-            <li>Which ear is painful (Right/Left/Both)?</li>
-            <li>Is the pain felt </li>
-            <ol>
-              <li><strong>deep inside </strong>the ear, </li>
-              <li>in the ear <b><u>canal</u></b>, </li>
-              <li>on the outer ear (<b><u>pinna</u></b>), or</li>
-              <li>behind the ear (<em>mastoid </em>area)?</li>
-            </ol>
-            <li>Can you <b><u>point </u></b>to the exact spot of maximum pain?</li>
-            <li>Is it a </li>
-            <ol>
-              <li>localized pain or </li>
-              <li>more diffuse?</li>
-            </ol>
-          </ol>
-        </li>
-        <li>ONSET (O):
-          <ol>
-            <li>When did the ear pain first start? (Specific date/time if
-              possible)</li>
-            <li>Was the onset sudden (e.g., after an injury, swimming, flying)
-              or gradual?</li>
-            <li>Was it associated with a cold, flu, sore throat, sinus
-              infection, or dental problems?</li>
-            <li>Any recent ear cleaning, foreign body insertion, or trauma?</li>
-          </ol>
-        </li>
-        <li>DURATION (D):
-          <ol>
-            <li>How long have you been experiencing this pain? (Hours, days,
-              weeks)</li>
-            <li>Is the pain constant or does it come and go (intermittent)?</li>
-            <li>If intermittent, how long does each episode typically last, and
-              how frequent are they?</li>
-          </ol>
-        </li>
-        <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-          <ol>
-            <li>Aggravating Factors: What makes the pain worse?
-              <ol>
-                <li>do you use any ear tips to clean </li>
-                <li>how long do you use earpods earbuds hearing devices?</li>
-                <li>Touching or pulling on the outer ear (pinna or tragus)?
-                  (Suggests otitis externa)</li>
-                <li>Chewing, swallowing, or yawning? (May suggest TMJ,
-                  pharyngeal cause, or Eustachian tube dysfunction)</li>
-                <li>Lying down, especially on the affected side?</li>
-                <li>Exposure to cold air or wind?</li>
-                <li>Water exposure (swimming, showering)?</li>
-              </ol>
-            </li>
-            <li>Relieving Factors: What makes the pain better?
-              <ol>
-                <li>Pain medications (OTC or prescribed)? Which ones and how
-                  effective?</li>
-                <li>Warm or cold compresses?</li>
-                <li>Keeping the ear dry?</li>
-                <li>Specific positions?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>CHARACTER/TYPE (C):
-          <ol>
-            <li>How would you describe the pain?
-              <ol>
-                <li>Sharp, stabbing, shooting?</li>
-                <li>Dull, aching, throbbing, pounding?</li>
-                <li>Burning, itching?</li>
-                <li>Feeling of fullness or pressure in the ear?</li>
-                <li>Is it a deep boring pain?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>RADIATION (R):
-          <ol>
-            <li>Does the pain spread or radiate anywhere else? (e.g., to the
-              jaw, teeth, neck, throat, temple)</li>
-          </ol>
-        </li>
-        <li>ASSOCIATED SYMPTOMS (A):
-          <ol>
-            <li><u>Hearing loss</u> or muffled hearing in the affected ear?</li>
-            <li><u>Ear discharge</u> (otorrhea)? (Color, consistency, odor,
-              amount)</li>
-            <li><u>Tinnitus</u> (ringing or other noises in the ear)?</li>
-            <li><u>Dizziness or vertigo</u> (sensation of spinning)?</li>
-            <li>Fever, chills, general malaise?</li>
-            <li>Itching in the ear canal?</li>
-            <li>Feeling of blockage or fullness in the ear?</li>
-            <li>Swelling around the ear or lymph nodes in the neck?</li>
-            <li>Sore throat, nasal congestion, cough?</li>
-            <li>Pain or clicking in the jaw (<strong>TMJ </strong>symptoms)?</li>
-            <li>Toothache?</li>
-            <li>Recent upper respiratory tract infection?</li>
-          </ol>
-        </li>
-        <li>PROGRESSION (P):
-          <ol>
-            <li>How has the pain changed since it first started? (Getting worse,
-              better, staying the same?)</li>
-            <li>If it's recurrent, are the episodes changing in nature or
-              severity?</li>
-            <li>If treatment was received, how did it respond? Any changes since
-              then?</li>
-          </ol>
-        </li>
-        <li>PATTERN (P):
-          <ol>
-            <li>Is the pain continuous or does it occur in waves/episodes?</li>
-            <li>Any specific times of day when it's worse or better?</li>
-          </ol>
-        </li>
-        <li>EFFECT ON LIFE (E):
-          <ol>
-            <li>How is the ear pain affecting your daily activities (sleep,
-              work, concentration, eating)?</li>
-            <li>Has it affected your hearing or balance, and how does that
-              impact you?</li>
-            <li>Has it affected your mood?</li>
-          </ol>
-        </li>
-        <li>RED FLAGS (R):
-          <ol>
-            <li>Meningitis</li>
-            <ol>
-              <li>Rash</li>
-              <li>neck stiff</li>
-              <li>photophobia</li>
-              <li>fever</li>
-            </ol>
-            <li>Sudden, severe hearing loss +- pain.</li>
-            <li>Foul-smelling <strong>discharge</strong>, especially if bloody.</li>
-            <li>Swelling and tenderness behind the ear (mastoiditis).</li>
-            <li>Facial nerve - weakness or asymmetry on the side of the ear pain
-              , Ramsay Hunt syndrome).</li>
-            <li>Severe vertigo, nausea, vomiting with ear pain and hearing loss.</li>
-            <li>Persistent pain unresponsive to simple analgesia, especially in
-              diabetics or immunocompromised individuals (concern for malignant
-              otitis externa).</li>
-            <li>History of recent head trauma.</li>
-            <li>Neurological deficits (e.g., other cranial nerve palsies,
-              altered mental state).</li>
-          </ol>
-        </li>
-        <li>SCALE (S) (Severity):
-          <ol>
-            <li>On a scale of 0 to 10, with 0 being no pain and 10 being the
-              worst pain imaginable, how would you rate your pain:
-              <ol>
-                <li>Right now?</li>
-                <li>At its worst?</li>
-                <li>On average?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-      </ol>
+      <iframe src="EAR_PAIN_OTALGIA_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
       <summary>2<sup>ND</sup> COMPLAINT: <strong>HEARING LOSS</strong></summary>
-      <ol>
-        <li>SITE (S):
-          <ol>
-            <li>Which ear is affected (</li>
-            <ol>
-              <li>Right/</li>
-              <li>Left/</li>
-              <li><em>Acoustic neuroma</em></li>
-              <li>trauma</li>
-            </ol>
-            <li>If both, </li>
-            <ol>
-              <li>is one worse than the other?</li>
-              <li>Explosions</li>
-            </ol>
-          </ol>
-        </li>
-        <li>ONSET (O):
-          <ol>
-            <li>Did it start</li>
-            <ol>
-              <li>sudden (e.g., after loud noise exposure, trauma, viral
-                illness) or</li>
-              <li>gradual over time?</li>
-            </ol>
-            <li>Anything specific that you were doing or that happened when it
-              started?</li>
-          </ol>
-        </li>
-        <li>DURATION (D):
-          <ol>
-            <li>How long have you had the hearing loss?</li>
-            <li>Is it constant or does it fluctuate? If fluctuating, describe
-              the pattern.</li>
-          </ol>
-        </li>
-        <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-          <ol>
-            <li>Aggravating Factors: What makes the hearing loss seem worse?
-              <ol>
-                <li>Noisy environments (difficulty discriminating speech)?</li>
-                <li>Presence of a cold or sinus infection?</li>
-                <li>Earwax buildup?</li>
-                <li>Certain medications?</li>
-              </ol>
-            </li>
-            <li>Relieving Factors: Does anything improve your hearing?
-              <ol>
-                <li>Turning the head to one side?</li>
-                <li>Cleaning the ear (though generally not advised without
-                  professional guidance)?</li>
-                <li>Hearing aids (if used, how effective are they)?</li>
-                <li>Quieter environments?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>CHARACTER/TYPE (C):
-          <ol>
-            <li>How would you describe the hearing loss?
-              <ol>
-                <li>Difficulty hearing certain sounds (e.g., high-pitched like
-                  female/children's voices, low-pitched, speech in general)?</li>
-                <li>Difficulty understanding speech, especially in noisy
-                  backgrounds or in group conversations?</li>
-                <li>Does sound seem muffled, distorted, or unclear?</li>
-                <li>Is it like a blockage in the ear or just a reduction in
-                  overall volume?</li>
-                <li>Do you hear better in noisy environments than in quiet ones
-                  (paracusis Willisiana - suggests conductive loss)?</li>
-                <li>Do you have difficulty hearing on the telephone?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>RADIATION (R): (Not typically applicable for hearing loss itself)</li>
-        <li>ASSOCIATED SYMPTOMS (A):
-          <ol>
-            <li><u>Ear pain</u> (otalgia)?</li>
-            <li><u>Tinnitus</u> (ringing, buzzing, hissing in the ears)? Is it
-              in the same ear(s) as the hearing loss?</li>
-            <li><u>Dizziness or vertigo</u> (sensation of spinning or
-              unsteadiness)?</li>
-            <li><u>Ear discharge</u> (otorrhea)? (Color, consistency, odor,
-              amount)</li>
-            <li>Feeling of fullness or pressure in the ear?</li>
-            <li>Headache?</li>
-            <li>History of recurrent ear infections (otitis media)?</li>
-            <li>History of exposure to loud noises (occupational, recreational,
-              military)?</li>
-            <li>Family history of hearing loss (and at what age)?</li>
-            <li>Use of potentially ototoxic medications (e.g., certain
-              antibiotics like gentamicin, aminoglycosides, diuretics like
-              furosemide, chemotherapy agents, high-dose aspirin)?</li>
-            <li>Recent head trauma or ear surgery?</li>
-            <li>Neurological symptoms (e.g., facial weakness, numbness, visual
-              changes)?</li>
-            <li>Autoimmune conditions?</li>
-          </ol>
-        </li>
-        <li>PROGRESSION (P):
-          <ol>
-            <li>Is the hearing loss getting progressively worse, better, or
-              staying the same?</li>
-            <li>If worsening, how quickly is it progressing?</li>
-            <li>Has it changed in nature (e.g., started with high frequencies,
-              now affects all)?</li>
-            <li>Response to any previous treatments or interventions?</li>
-          </ol>
-        </li>
-        <li>PATTERN (P):
-          <ol>
-            <li>Is it a continuous, stable loss, or does it fluctuate
-              significantly from day to day or over longer periods?</li>
-          </ol>
-        </li>
-        <li>EFFECT ON LIFE (E):
-          <ol>
-            <li>How does the hearing loss affect your daily communication
-              (understanding conversations, phone calls)?</li>
-            <li>Does it impact your social interactions, work performance, or
-              safety (e.g., hearing alarms, traffic)?</li>
-            <li>Do you find yourself asking people to repeat themselves often?</li>
-            <li>Do you turn up the volume on the TV or radio louder than others
-              prefer?</li>
-            <li>Has it led to any feelings of social isolation, frustration, or
-              anxiety?</li>
-            <li>Impact on hobbies or enjoyment of music/sounds?</li>
-          </ol>
-        </li>
-        <li>RED FLAGS (R):
-          <ol>
-            <li>Sudden onset sensorineural hearing loss (SSNHL)
-              &acirc;&euro;&ldquo; requires urgent assessment.</li>
-            <li>Unilateral hearing loss of unknown cause (could indicate
-              retrocochlear pathology like an acoustic neuroma).</li>
-            <li>Hearing loss associated with neurological symptoms (e.g., facial
-              weakness, vertigo, severe headache, visual changes, ataxia).</li>
-            <li>Hearing loss following significant head trauma.</li>
-            <li>Pulsatile tinnitus associated with unilateral hearing loss.</li>
-            <li>Visible abnormality in the ear canal or eardrum on otoscopy
-              (e.g., tumor, cholesteatoma, foreign body).</li>
-            <li>Rapidly progressive hearing loss.</li>
-            <li>Hearing loss in a child with speech and language delay.</li>
-          </ol>
-        </li>
-        <li>SCALE (S) (Severity/Impact):
-          <ol>
-            <li>On a scale of 0-10, where 0 is normal hearing and 10 is complete
-              deafness in that ear, how would you rate your hearing loss?</li>
-            <li>(Alternatively, patient's subjective assessment: "How much of a
-              problem is your hearing loss for you on a scale of 0-10?")</li>
-          </ol>
-        </li>
-      </ol>
+      <iframe src="HEARING_LOSS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
       <summary>3<sup>RD</sup> COMPLAINT: <strong>TINNITUS (Ringing/Noises in
           the Ear)</strong></summary>
-      <ol>
-        <li>SITE (S):
-          <ol>
-            <li>Which ear is affected (Right/Left/Both)?</li>
-            <li>If both, is it equal or worse in one ear?</li>
-            <li>Does the sound seem to be located in the ear(s) or more
-              generally in the head?</li>
-          </ol>
-        </li>
-        <li>ONSET (O):
-          <ol>
-            <li>When did the tinnitus first start?</li>
-            <li>Was the onset sudden or gradual?</li>
-            <li>Was it related to any specific event (e.g., loud noise exposure,
-              head injury, ear infection, medication change, period of stress)?</li>
-          </ol>
-        </li>
-        <li>DURATION (D):
-          <ol>
-            <li>How long have you had the tinnitus?</li>
-            <li>Is it constant or intermittent? If intermittent, how long do
-              episodes last and how often do they occur?</li>
-          </ol>
-        </li>
-        <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-          <ol>
-            <li>Aggravating Factors: What makes the tinnitus worse or more
-              noticeable?
-              <ol>
-                <li>Quiet environments?</li>
-                <li>Stress, anxiety, fatigue, lack of sleep?</li>
-                <li>Certain foods or drinks (e.g., caffeine, salt, alcohol,
-                  MSG)?</li>
-                <li>Loud noise exposure?</li>
-                <li>Certain head or neck movements or positions?</li>
-                <li>Clenching jaw or dental problems?</li>
-              </ol>
-            </li>
-            <li>Relieving Factors: Does anything make the tinnitus better or
-              less noticeable?
-              <ol>
-                <li>Background noise (e.g., fan, music, white noise machine)?</li>
-                <li>Relaxation techniques or mindfulness?</li>
-                <li>Distraction through activities?</li>
-                <li>Any medications or supplements?</li>
-                <li>Masking devices (if used)?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>CHARACTER/TYPE (C):
-          <ol>
-            <li>How would you describe the sound(s) you hear?
-              <ol>
-                <li>Ringing, buzzing, hissing, whistling, clicking, roaring,
-                  humming, cicada-like, rushing water?</li>
-                <li>Is it pulsatile (like a heartbeat or whooshing in time with
-                  your pulse)?</li>
-                <li>Is it a single sound or multiple different sounds?</li>
-                <li>Is it high-pitched or low-pitched?</li>
-                <li>Does the sound vary in intensity or pitch?</li>
-                <li>Is it a tonal sound or more like noise?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>RADIATION (R): (Not typically applicable)</li>
-        <li>ASSOCIATED SYMPTOMS (A):
-          <ol>
-            <li><u>Hearing loss</u> (in one or both ears)?</li>
-            <li><u>Dizziness or vertigo</u> (sensation of spinning or
-              unsteadiness)?</li>
-            <li><u>Ear pain</u> (otalgia)?</li>
-            <li><u>Ear discharge</u> (otorrhea)?</li>
-            <li>Feeling of fullness or pressure in the ear?</li>
-            <li>Headache?</li>
-            <li>Sensitivity to loud sounds (hyperacusis)?</li>
-            <li>History of significant loud noise exposure (occupational,
-              recreational, acoustic trauma)?</li>
-            <li>Use of ototoxic medications?</li>
-            <li>Symptoms of Temporomandibular Joint (TMJ) disorder (jaw pain,
-              clicking, limited opening)?</li>
-            <li>Symptoms suggestive of Meniere's disease (episodic vertigo,
-              fluctuating hearing loss, aural fullness)?</li>
-            <li>Symptoms of anxiety, depression, or insomnia?</li>
-            <li>Neck pain or stiffness?</li>
-            <li>History of head or neck trauma?</li>
-          </ol>
-        </li>
-        <li>PROGRESSION (P):
-          <ol>
-            <li>Has the tinnitus changed in character, intensity, or frequency
-              since it started?</li>
-            <li>Is it getting worse, better, or staying the same?</li>
-            <li>Has its impact on your life changed?</li>
-            <li>Response to any previous treatments?</li>
-          </ol>
-        </li>
-        <li>PATTERN (P):
-          <ol>
-            <li>Is it more noticeable at certain times of the day (e.g., at
-              night when it's quiet)?</li>
-            <li>Is it always present (continuous) or does it come in episodes
-              (intermittent)?</li>
-          </ol>
-        </li>
-        <li>EFFECT ON LIFE (E):
-          <ol>
-            <li>How much does the tinnitus bother you or interfere with your
-              life?</li>
-            <li>Does it affect your sleep?</li>
-            <li>Does it impact your concentration, ability to work, or enjoy
-              quiet activities?</li>
-            <li>Does it affect your mood (e.g., cause annoyance, frustration,
-              anxiety, depression)?</li>
-            <li>Has it led to social withdrawal?</li>
-          </ol>
-        </li>
-        <li>RED FLAGS (R):
-          <ol>
-            <li>Unilateral tinnitus (especially if new onset and persistent).</li>
-            <li>Pulsatile tinnitus (rhythmic with heartbeat - may indicate
-              vascular abnormality, glomus tumor).</li>
-            <li>Tinnitus associated with sudden or rapidly progressive hearing
-              loss.</li>
-            <li>Tinnitus accompanied by neurological symptoms (e.g., facial
-              weakness, numbness, visual disturbances, significant balance
-              problems/vertigo, severe headache).</li>
-            <li>Tinnitus after head trauma.</li>
-            <li>Objective tinnitus (audible to the examiner).</li>
-          </ol>
-        </li>
-        <li>SCALE (S) (Severity/Bothersomeness):
-          <ol>
-            <li>On a scale of 0-10, where 0 is no tinnitus and 10 is the loudest
-              imaginable tinnitus, how would you rate its loudness?</li>
-            <li>On a scale of 0-10, where 0 is not at all bothersome and 10 is
-              extremely bothersome/distressing, how much does it bother you?</li>
-          </ol>
-        </li>
-      </ol>
+      <iframe src="TINNITUS_Ringing_Noises_in_the_Ear_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <details >
+    <details>
       <summary>4<sup>TH</sup> COMPLAINT: <strong>VERTIGO / DIZZINESS</strong></summary>
-      <ol>
-        <li><em>SITE </em>(S):-
-          <ol>
-            <li>Dissect System involved</li>
-            <li>Can you describe the sensation you experience?
-              <ol>
-                <li>Is it a true spinning (vertigo) &acirc;&euro;&ldquo; </li>
-                <li>either you feel like you are spinning, </li>
-                <li>or </li>
-                <li>the room/surroundings are spinning around you?</li>
-                <li><em>CVS</em></li>
-                <li>Or is it more of a lightheadedness, </li>
-                <li>faintness, </li>
-                <li>feeling of being about to pass out (presyncope)?</li>
-                <li><b><u>CNS</u></b></li>
-                <li>Is it a feeling of unsteadiness, </li>
-                <li>being off-balance, or </li>
-                <li>like you are on a boat (disequilibrium)?</li>
-                <li><br>
-                </li>
-                <li>Is it a vague "foggy head" feeling or a sensation of being
-                  detached from your surroundings?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>ONSET (O):
-          <ol>
-            <li>Was the onset sudden or did it develop gradually?</li>
-            <li>What were you doing when it started?</li>
-            <li>Were there any specific triggers (e.g., specific head movements
-              like looking up or rolling over in bed, change in body position,
-              stress, particular foods/drinks, bright lights, loud sounds, viral
-              illness)?</li>
-          </ol>
-        </li>
-        <li>DURATION (D):
-          <ol>
-            <li>How long do the episodes of vertigo/dizziness typically last?
-              (Seconds, minutes, hours, days)</li>
-            <li>Is it a constant feeling or does it occur in distinct, separate
-              episodes?</li>
-          </ol>
-        </li>
-        <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-          <ol>
-            <li>Aggravating Factors: What makes the vertigo/dizziness worse or
-              brings it on?
-              <ol>
-                <li>Specific head movements or changes in position (e.g.,
-                  rolling over in bed, looking up quickly, bending down
-                  &acirc;&euro;&ldquo; suggests BPPV)?</li>
-                <li>Standing- from- sitting </li>
-                <li>Stress, anxiety, fatigue, lack of sleep?</li>
-                <li>Bright lights, busy visual environments (e.g.,
-                  supermarkets)?</li>
-                <li>Certain foods or drinks (e.g., caffeine, salt, alcohol)?</li>
-                <li>Loud sounds (Tullio phenomenon)?</li>
-                <li>Straining or changes in ear pressure (e.g., coughing,
-                  sneezing)?</li>
-              </ol>
-            </li>
-            <li>Relieving Factors: What makes it better or helps it to pass?
-              <ol>
-                <li>Lying still or keeping the head still?</li>
-                <li>Keeping eyes open or closed?</li>
-                <li>Focusing on a fixed point?</li>
-                <li>Specific body positions?</li>
-                <ol>
-                  <li>lying down</li>
-                </ol>
-                <li>Any medications (e.g., anti-emetics, vestibular suppressants
-                  like meclizine or prochlorperazine)? How effective are they?</li>
-                <li>Time (does it resolve on its own)?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>CHARACTER/TYPE (C):
-          <ol>
-            <li>If vertigo (spinning), in which direction does the spinning seem
-              to occur (clockwise, counter-clockwise, horizontal, vertical - if
-              discernible)?</li>
-            <li>Is the sensation of motion internal (you are moving) or external
-              (surroundings are moving)?</li>
-            <li>Is there any sense of impending blackout or fainting
-              (presyncope)?</li>
-            <li>Is it accompanied by a feeling of tilting or being pushed?</li>
-          </ol>
-        </li>
-        <li>RADIATION (R): (Not typically applicable for the sensation of
-          vertigo itself, but associated pain might radiate)</li>
-        <li>ASSOCIATED SYMPTOMS (A):
-          <ol>
-            <li><u>Nausea and/or vomiting</u>? (Common with acute vertigo)</li>
-            <li><u>Hearing loss</u> (sudden, fluctuating, or progressive)? Is it
-              in one or both ears?</li>
-            <li><u>Tinnitus</u> (ringing or other noises in the ear)? Is it in
-              one or both ears?</li>
-            <li><u>Ear pain</u> (otalgia) or a feeling of fullness or pressure
-              in the ear(s)?</li>
-            <li>Labrynthitis</li>
-            <ol>
-              <li>unilateral hearing loss</li>
-              <li>Headache? (Is it a typical migraine for you, if you get them?)</li>
-            </ol>
-            <li>Visual disturbances (e.g.,</li>
-            <ol>
-              <li>&nbsp;blurred vision, </li>
-              <li>double vision (diplopia), </li>
-              <li>oscillopsia (objects appearing to oscillate), </li>
-              <li>nystagmus observed by others)?</li>
-            </ol>
-            <li>Autonomic symptoms: </li>
-            <ol>
-              <li>Sweating, </li>
-              <li>pallor, </li>
-              <li><em>palpitations</em>?</li>
-            </ol>
-            <li>History of migraines (vestibular migraine)?</li>
-            <li>Recent viral illness (e.g., upper respiratory infection,
-              labyrinthitis, vestibular neuronitis)?</li>
-            <li>Symptoms of anxiety or panic attacks?</li>
-            <li>History of head trauma or neck injury?</li>
-            <li>Cardiovascular symptoms (e.g., chest pain, irregular heartbeat)?</li>
-          </ol>
-        </li>
-        <li>PROGRESSION (P):
-          <ol>
-            <li>Are the episodes of vertigo/dizziness becoming more frequent,
-              more severe, or lasting longer over time?</li>
-            <li>Is the nature or character of the episodes changing?</li>
-            <li>Has there been any improvement or resolution with time or
-              treatment?</li>
-          </ol>
-        </li>
-        <li>PATTERN (P):
-          <ol>
-            <li>Is there any pattern to when the episodes occur? (e.g., specific
-              times of day, relation to meals, specific activities, menstrual
-              cycle)</li>
-            <li>Are there periods completely free of symptoms, or is there a
-              constant underlying unsteadiness?</li>
-          </ol>
-        </li>
-        <li>EFFECT ON LIFE (E):
-          <ol>
-            <li>How do these episodes of vertigo/dizziness affect your ability
-              to perform daily activities, work, drive, or care for
-              yourself/others?</li>
-            <li>Do you avoid certain activities, movements, or situations due to
-              fear of triggering an episode or falling?</li>
-            <li>Has it led to any falls or injuries?</li>
-            <li>How does it impact your mood or cause anxiety?</li>
-          </ol>
-        </li>
-        <li>RED FLAGS (R):
-          <ol>
-            <li><strong>Stroke&nbsp; (especially posterior)</strong></li>
-            <li>Sudden severe, persistent vertigo, </li>
-            <li>+ neurological deficits (the "5 D's": </li>
-            <ol>
-              <li>Dizziness, </li>
-              <li>Diplopia, </li>
-              <li>Dysarthria, </li>
-              <li>Dysphagia, </li>
-              <li>Dysmetria/Ataxia; </li>
-              <li>also weakness, sensory changes) &acirc;&euro;&ldquo; could
-                indicate stroke/TIA affecting the brainstem or cerebellum
-                (Central Vertigo).</li>
-              <li><em>vascular risk factors</em> </li>
-            </ol>
-            <li>Vertigo with a new onset severe headache, especially if
-              different from previous headaches.</li>
-            <li>Loss of <b><u>consciousness </u></b>associated with the
-              episode.</li>
-            <li>Inability to stand or walk at all even with support during an
-              episode (severe ataxia).</li>
-            <li>Nystagmus that is purely vertical, purely torsional, or changes
-              direction with gaze (suggests central cause).</li>
-            <li>Associated <em>cranial nerve </em>palsies (e.g., facial droop,
-              asymmetric eye movements).</li>
-            <li><em>Failure </em>to improve with time or appropriate <em>maneuvers
-                </em>(for BPPV).</li>
-          </ol>
-        </li>
-        <li>SCALE (S) (Severity/Impact):
-          <ol>
-            <li>On a scale of 0-10, where 0 is no dizziness/vertigo and 10 is
-              the worst imaginable, how severe is it when it occurs?</li>
-            <li>On a scale of 0-10, how much does it impact your daily
-              functioning when it happens?</li>
-          </ol>
-        </li>
-      </ol>
+      <iframe src="VERTIGO_DIZZINESS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
       <summary>5<sup>TH</sup> COMPLAINT: <strong>EAR DISCHARGE (OTORRHEA)</strong></summary>
-      <ol>
-        <li>SITE (S):
-          <ol>
-            <li>Which ear is discharging (Right/Left/Both)?</li>
-          </ol>
-        </li>
-        <li>ONSET (O):
-          <ol>
-            <li>When did the discharge first start?</li>
-            <li>Was it sudden or did it begin gradually?</li>
-            <li>Was it associated with ear pain, an infection (cold/flu, otitis
-              media), swimming, trauma (e.g., Q-tip injury, head injury), or
-              recent ear cleaning?</li>
-          </ol>
-        </li>
-        <li>DURATION (D):
-          <ol>
-            <li>How long has the discharge been present (days, weeks, months)?</li>
-            <li>Is it constant or intermittent? If intermittent, how often does
-              it occur and for how long?</li>
-          </ol>
-        </li>
-        <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-          <ol>
-            <li>Aggravating Factors: Does anything make the discharge worse or
-              more noticeable?
-              <ol>
-                <li>Water entering the ear (swimming, showering)?</li>
-                <li>Upper respiratory infections (colds, sinus infections)?</li>
-                <li>Touching or attempting to clean the ear?</li>
-                <li>Pressure changes (e.g., flying)?</li>
-              </ol>
-            </li>
-            <li>Relieving Factors: Does anything reduce or stop the discharge?
-              <ol>
-                <li>Keeping the ear dry?</li>
-                <li>Antibiotic ear drops or oral antibiotics (if used)? How
-                  effective?</li>
-                <li>Specific ear cleaning techniques (if professionally
-                  advised)?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>CHARACTER/TYPE (C):
-          <ol>
-            <li>What does the discharge look like?
-              <ol>
-                <li>Color: Clear, watery, whitish, yellow, green, brown, bloody
-                  (frank blood or blood-tinged)?</li>
-                <li>Consistency: Thin and watery, thick and mucoid (like mucus),
-                  purulent (pus-like), cheesy?</li>
-                <li>Odor: Is there any foul or offensive smell?</li>
-                <li>Amount: Scant (just a little moisture), moderate, copious
-                  (runs out of the ear, stains pillow)?</li>
-                <li>Does it contain any debris or flakes?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>RADIATION (R): (Not applicable for discharge itself, but associated
-          pain might radiate)</li>
-        <li>ASSOCIATED SYMPTOMS (A):
-          <ol>
-            <li><u>Ear pain</u> (otalgia)? (Is the pain relieved, worsened, or
-              unchanged by the onset of discharge?)</li>
-            <li><u>Hearing loss</u> or muffled hearing in the affected ear?</li>
-            <li><u>Tinnitus</u> (ringing or other noises in the ear)?</li>
-            <li><u>Dizziness or vertigo</u>?</li>
-            <li>Itching in the ear canal or outer ear?</li>
-            <li>Fever, chills, or general feeling of illness?</li>
-            <li>Swelling, redness, or tenderness around the ear or in the ear
-              canal?</li>
-            <li>Pain or tenderness over the mastoid bone (behind the ear)?</li>
-            <li>History of recurrent ear infections (otitis media, otitis
-              externa)?</li>
-            <li>History of a perforated eardrum or previous ear surgery (e.g.,
-              grommets)?</li>
-            <li>Symptoms of a current cold, flu, or sinus infection (nasal
-              congestion, sore throat, cough)?</li>
-            <li>Skin conditions like eczema or psoriasis that might affect the
-              ear canal?</li>
-            <li>History of head trauma (especially if discharge is clear and
-              watery, or bloody)?</li>
-            <li>Facial weakness or asymmetry?</li>
-          </ol>
-        </li>
-        <li>PROGRESSION (P):
-          <ol>
-            <li>Has the nature (color, consistency, odor, amount) of the
-              discharge changed since it first started?</li>
-            <li>Is it getting better, worse, or staying the same over time?</li>
-            <li>Response to any treatments tried?</li>
-          </ol>
-        </li>
-        <li>PATTERN (P):
-          <ol>
-            <li>Is the discharge continuous or does it occur in episodes?</li>
-            <li>Is it more noticeable at certain times (e.g., morning, after
-              lying down)?</li>
-          </ol>
-        </li>
-        <li>EFFECT ON LIFE (E):
-          <ol>
-            <li>How bothersome is the ear discharge?</li>
-            <li>Does it require frequent cleaning or the use of cotton
-              wool/plugs?</li>
-            <li>Does it cause any social embarrassment due to odor or
-              appearance?</li>
-            <li>Has it affected your hearing, sleep, or other activities?</li>
-            <li>Do you have to avoid swimming or getting water in the ear?</li>
-          </ol>
-        </li>
-        <li>RED FLAGS (R):
-          <ol>
-            <li>Foul-smelling, persistent discharge (may indicate cholesteatoma
-              or chronic suppurative otitis media with complications).</li>
-            <li>Bloody discharge, especially after head trauma or if unilateral
-              and unexplained.</li>
-            <li>Clear, watery discharge after head trauma (potential
-              Cerebrospinal Fluid - CSF leak &acirc;&euro;&ldquo; an emergency).</li>
-            <li>Discharge associated with facial weakness, severe vertigo, or
-              other neurological symptoms.</li>
-            <li>Persistent discharge despite appropriate antibiotic treatment.</li>
-            <li>Granulation tissue or a polyp visible in the ear canal.</li>
-            <li>Discharge in an immunocompromised individual or diabetic,
-              particularly if associated with severe pain or swelling (increased
-              risk of malignant/necrotizing otitis externa).</li>
-            <li>Significant swelling, redness, and tenderness behind the ear
-              (mastoiditis).</li>
-          </ol>
-        </li>
-        <li>SCALE (S) (Bothersomeness/Amount):
-          <ol>
-            <li>On a scale of 0-10, where 0 is no problem and 10 is extremely
-              problematic, how bothersome is the ear discharge?</li>
-            <li>How would you describe the amount of discharge on a typical day
-              (e.g., minimal &acirc;&euro;&ldquo; just a little moisture;
-              moderate &acirc;&euro;&ldquo; needs occasional wiping; copious
-              &acirc;&euro;&ldquo; frequently runs out or soaks cotton)?</li>
-          </ol>
-        </li>
-      </ol>
+      <iframe src="EAR_DISCHARGE_OTORRHEA_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
       <summary>6<sup>TH</sup> COMPLAINT: <strong>NOSE</strong></summary>
@@ -906,12 +111,10 @@
       </ol>
     </div>
     <div class="section">
-      <h3>TREATMENT HISTORY</h3>
-      <p>FOR PRESENT COMPLAINT</p>
-      <p><br>
-      </p>
-      <p> </p>
-      <p> </p>
+      <details>
+        <summary>TREATMENT HISTORY</summary>
+        <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+      </details>
     </div>
     <div class="section">
       <h3>DRUG HISTORY</h3>
@@ -971,13 +174,9 @@
       </ul>
     </div>
     <div class="section">
+      <h3>ALLERGY HISTORY</h3>
       <h3><br>
       </h3>
-      <br>
-      <p> </p>
-      <p> </p>
-    </div>
-    <div class="section">
       <h3>SEXUAL HISTORY</h3>
       <p>Hepatitis</p>
       <p><br>
@@ -999,133 +198,17 @@
     </div>
     <div class="section">
       <h3>PERSONAL H/O:</h3>
+      <p><br>
+      </p>
+      <p><br>
+      </p>
+      <p><br>
+      </p>
+      <p><br>
+      </p>
+      <p><br>
+      </p>
       <ol>
-        <li>APPITITE:</li>
-        <li>DIET </li>
-        <ol>
-          <li>Types</li>
-          <ol>
-            <li>Vegan Diet(also Raw Vegan)</li>
-            <ul>
-              <ul>
-                <li>B12</li>
-              </ul>
-            </ul>
-            <li>Lacto-Ovo Vegetarian Diet</li>
-            <ul>
-              <ul>
-                <li>B12</li>
-              </ul>
-            </ul>
-            <li>Pescatarian Diet</li>
-            <li>Flexitarian Diet</li>
-            <li>Ketogenic (Keto) Diet</li>
-            <ul>
-              <ul>
-                <li>low fibre</li>
-              </ul>
-            </ul>
-            <li>Paleo Diet</li>
-            <ul>
-              <ul>
-                <li>Ca</li>
-              </ul>
-            </ul>
-            <li>Mediterranean Diet</li>
-            <li>DASH Diet (Dietary Approaches to Stop Hypertension)</li>
-            <li>MIND Diet (Mediterran + DASH)</li>
-          </ol>
-          <li>Bread</li>
-          <ul>
-            <li>Uric Acid stones(Gout)</li>
-          </ul>
-          <li>Red meat</li>
-          <ul>
-            <li>Uric Acid stones(Gout)</li>
-            <li>Renal stones</li>
-          </ul>
-          <li>processed meat</li>
-          <li>Fibre</li>
-          <ol>
-            <li>Low</li>
-            <ol>
-              <li>Renal stones</li>
-            </ol>
-          </ol>
-          <li>Fruits</li>
-          <ul>
-            <li>Citrus </li>
-          </ul>
-          <li>Vegetables</li>
-          <li>Fluid intake</li>
-          <ul>
-            <li>Increase</li>
-            <ul>
-              <li>DM</li>
-              <li>DI</li>
-              <li>Hypercalcemia</li>
-              <li><br>
-              </li>
-            </ul>
-          </ul>
-          <li>Have you been eating food outside?</li>
-        </ol>
-        <li>DIGESTION</li>
-        <li>MICTURITION</li>
-        <li>BOWELS</li>
-        <li>SLEEP DISTURBANCES</li>
-        <li>HABITS :
-          <ol>
-            <li>SMOKING CHUTTA CANCER = of hard palate reverse cigar smoking
-              <ol>
-                <li>Have you smoked in the past?
-                  <ol>
-                    <li>He might have stopped! </li>
-                    <li>Then you ask above questions </li>
-                  </ol>
-                </li>
-                <li>Weed</li>
-                <li>Vape</li>
-                <li>.</li>
-              </ol>
-            </li>
-            <li>TOBACCO CHEWING KHAINI CANCER = LIME + tobacco in gingivolabial
-              sulcus</li>
-            <li>PAN </li>
-            <li>ALCHOHOL
-              <ol>
-                <li>DOSE</li>
-                <li>TYPE</li>
-                <li>DURATION</li>
-              </ol>
-            </li>
-            <li>SWIMMING</li>
-            <ol>
-              <li>EAC infection</li>
-              <li>ASOM</li>
-              <li>skin infections</li>
-            </ol>
-          </ol>
-        </li>
-        <li>DRUGS
-          <ol>
-            <li>Types</li>
-            <li>Mode of use
-              <ol>
-                <li>Snorting</li>
-                <li>Ingest</li>
-                <li>Inject
-                  <ol>
-                    <li>Needle sharing</li>
-                    <li>Needle exchange program</li>
-                  </ol>
-                </li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>TATOOS</li>
-        <li>PIERCINGS</li>
       </ol>
     </div>
     <div class="section">
@@ -1155,6 +238,10 @@
       </ol>
     </div>
     <br>
+    <h2>SUMMARIZATION OF HISTORY</h2>
+    <ol>
+      <li>summarize what is heard so far</li>
+    </ol>
     <div class="section">
       <h3>GENERAL EXAMINATION</h3>
       <ol>
@@ -1195,7 +282,10 @@
         <li>FROWNING</li>
         <li>EYES</li>
         <li>PAROTID</li>
-        <li>NECK SWELLING</li>
+        <li class="ent">NECK SWELLING</li>
+        <ol>
+          <li>sleep apnea</li>
+        </ol>
         <li>DROOLING OF SALIVA</li>
         <li>NAILS</li>
         <li>DROOPING OF SHOULDER</li>
@@ -1217,10 +307,8 @@
       </p>
     </div>
     <h2>Local Examination:</h2>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/ZfQoXk7eprI"
-
-        title="Ear Examination OSCE | Aspire PLAB/UKMLA Academy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/ZfQoXk7eprI"
+        title="Ear Examination OSCE | Aspire PLAB/UKMLA Academy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
     </div>
     <h4>EARS:</h4>
@@ -1862,9 +950,8 @@
                 <li>Topical Acetic Acid 2% spray/drops: <em>For mild OE.</em></li>
                 <li>Topical antibiotic drops/spray: <em>(e.g., Ciprofloxacin,
                     Gentamicin, Neomycin-containing).</em></li>
-                <li>Topical antibiotic with corticosteroid drops/spray: <em>Often
-                    first-line for moderate/severe OE to reduce inflammation and
-                    pain (e.g., Otomize, Gentisone HC).</em></li>
+                first-line for moderate/severe OE to reduce inflammation and
+                pain (e.g., Otomize, Gentisone HC).
                 <li>Aural toilet/microsuction: <em>By trained professional if
                     canal occluded by debris/swelling.</em></li>
                 <li>Ear wick: <em>May be inserted by GP/ENT if canal very
@@ -2137,6 +1224,15 @@
       Facial asymmetry<br>
       Impairment of vision<br>
       <br>
+      <h3>INFORM BROAD PLAN</h3>
+      <h4>
+        <li>I am going to </li>
+        <ul>
+          <li>ask questions</li>
+          <li>examine</li>
+          <li>then give you...</li>
+        </ul>
+      </h4>
       History of Present Illness:<br>
       <br>
       Apparently asymptomatic ____ time ago and then developed&hellip;.<br>
@@ -2365,6 +1461,15 @@
     </ul>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script> __________.
+    <p></p>
+    <p>Rx</p>
+    <p> Tonsil is one of the main defence against many infections - if we remove
+      it at this stage it is going to affect the childs immune response to
+      several bugs</p>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
   </body>
 </html>

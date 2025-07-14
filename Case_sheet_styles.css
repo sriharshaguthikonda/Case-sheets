@@ -40,7 +40,10 @@ h5 {
     font-weight: bold;
 }
 
-
+hr {
+    margin: 1em;
+    opacity: 0.1;
+}
 
 
 
@@ -91,7 +94,7 @@ th, td {
 
 iframe {
     width: 108%;
-    height: 30vh;
+    height: 70vh;
     margin-left: -4%;
     margin-right: -4%;
 }
@@ -228,7 +231,7 @@ General will be empty !*/
 
 
 
-.cvs { background-color: rgba(0, 221, 203, 0.527); }
+.cvs { background-color: rgba(0, 221, 203, 0.27); }
 
 
 .rheumatic {  box-shadow: -6px 0 0 0 rgb(157, 255, 0); }
