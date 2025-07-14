@@ -47,6 +47,46 @@ hr {
 
 
 
+
+/* Typography classes */
+.h1 {
+    font-size: 18.0pt;
+    align-items: center;
+}
+.h2 {
+    color: #ff9901; 
+    font-size: 16.0pt;
+    font-weight: bold;
+}
+.h3 {
+    color: #ff01d5; 
+    font-size: 14.0pt;
+    font-weight: bold;
+}
+.h4 {
+    color: #1a01ff; 
+    font-size: 12.0pt;
+    font-weight: bold;
+}
+.h5 {
+    color: #01a2ff; 
+    font-size: 10.0pt;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Lists */
 ol, ul {
     margin-left: 20%;
@@ -383,7 +423,7 @@ th {
 
 /* UNIVERSAL STYLES */
 u {
-    color: #2100fd;
+    color: #0065fd;
     font-weight: bold;
     text-decoration: none;
 }
