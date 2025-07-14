@@ -1,0 +1,287 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> LEG_PAIN_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+    <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+
+
+
+<div class="osce-protocol">
+    <h3>1ST COMPLAINT: LEG PAIN</h3>
+    <ul>
+        <li class="point">
+            <span class="description"><strong>S</strong>: Site</span>
+            <span class="verbal">"Where exactly is the pain? Can you point with one finger?"</span>
+            <ul>
+                <li>UNILATERAL 
+                    <ul>
+                        <li>DVT</li>
+                        <li>Cellulitis</li>
+                        <li>Trauma</li>
+                        <li>Sciatica</li>
+                        <li>PAD</li>
+                    </ul>
+                </li>
+                <li>BILATERAL 
+                    <ul>
+                        <li>Peripheral Neuropathy</li>
+                        <li>Spinal Stenosis</li>
+                        <li>Bilateral PAD</li>
+                    </ul>
+                </li>
+                <li>CALF 
+                    <ul>
+                        <li>DVT</li>
+                        <li>Muscle strain</li>
+                        <li>Ruptured Baker’s Cyst</li>
+                        <li>Claudication</li>
+                    </ul>
+                </li>
+                <li>JOINT 
+                    <ul>
+                        <li>Arthritis - OA/RA/Septic/Gout</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>O</strong>: Onset</span>
+            <span class="verbal">"When did the pain start? Did it come on suddenly or gradually?"</span>
+            <ul>
+                <li>SUDDEN 
+                    <ul>
+                        <li>DVT</li>
+                        <li>Acute Limb Ischemia</li>
+                        <li>Muscle/Tendon rupture</li>
+                        <li>Compartment Syndrome</li>
+                        <li>Trauma</li>
+                    </ul>
+                </li>
+                <li>GRADUAL 
+                    <ul>
+                        <li>Chronic Limb Ischemia (PAD)</li>
+                        <li>Neuropathy</li>
+                        <li>Arthritis</li>
+                        <li>Chronic Venous Insufficiency</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>D</strong>: Duration</span>
+            <span class="verbal">"How long does the pain last when it comes on? Is it there for seconds, minutes, or hours?"</span>
+        </li>
+        <li class="point">
+            <span class="description"><strong>A</strong>: Aggravating Factors</span>
+            <span class="verbal">"Is there anything that seems to make the pain better or worse?"</span>
+            <ul>
+                <li>WITH WALKING (EXERTION) 
+                    <ul>
+                        <li>Vascular Claudication</li>
+                        <li>Neurogenic Claudication</li>
+                    </ul>
+                </li>
+                <li>WITH STANDING 
+                    <ul>
+                        <li>Venous Insufficiency</li>
+                        <li>Spinal Stenosis</li>
+                    </ul>
+                </li>
+                <li>WITH TOUCH 
+                    <ul>
+                        <li>Cellulitis</li>
+                        <li>Compartment Syndrome</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>R</strong>: Relieving Factors</span>
+            <span class="verbal">"Does anything make it better or worse?"</span>
+            <ul>
+                <li>REST 
+                    <ul>
+                        <li>Vascular Claudication</li>
+                    </ul>
+                </li>
+                <li>LEANING FORWARD / SITTING 
+                    <ul>
+                        <li>Neurogenic Claudication</li>
+                    </ul>
+                </li>
+                <li>ELEVATING THE LEG 
+                    <ul>
+                        <li>Venous Insufficiency</li>
+                    </ul>
+                </li>
+                <li>HANGING LEG DOWN (DEPENDENCY) 
+                    <ul>
+                        <li>Critical Limb Ischemia / PAD</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>C</strong>: Character</span>
+            <span class="verbal">"What does the pain feel like? Is it sharp, dull, burning...?"</span>
+            <ul>
+                <li>CRAMPING / ACHING 
+                    <ul>
+                        <li>Claudication</li>
+                        <li>Muscle cramps</li>
+                        <li>DVT</li>
+                    </ul>
+                </li>
+                <li>BURNING / TINGLING / SHOOTING 
+                    <ul>
+                        <li>Neuropathic - Sciatica</li>
+                        <li>Peripheral Neuropathy</li>
+                    </ul>
+                </li>
+                <li>THROBBING 
+                    <ul>
+                        <li>Infection - Cellulitis</li>
+                        <li>Septic Arthritis</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>R</strong>: Radiation</span>
+            <span class="verbal">"Does the pain seem to travel anywhere else from where it starts?"</span>
+            <ul>
+                <li>DOWN BACK OF LEG TO FOOT 
+                    <ul>
+                        <li>Sciatica - L5/S1 radiculopathy</li>
+                    </ul>
+                </li>
+                <li>DOWN FRONT/SIDE OF THIGH 
+                    <ul>
+                        <li>L2/L3/L4 radiculopathy</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>A</strong>: Associated Symptoms</span>
+            <span class="verbal">"Have you noticed anything else along with the pain?"</span>
+            <ul>
+                <li>SWELLING 
+                    <ul>
+                        <li>DVT</li>
+                        <li>Cellulitis</li>
+                        <li>Venous Insufficiency</li>
+                        <li>Heart/Kidney/Liver failure</li>
+                    </ul>
+                </li>
+                <li>SKIN CHANGES 
+                    <ul>
+                        <li>Redness</li>
+                        <li>Pallor</li>
+                        <li>Shininess</li>
+                        <li>Hairlessness</li>
+                        <li>Ulcers</li>
+                    </ul>
+                </li>
+                <li>NUMBNESS or WEAKNESS 
+                    <ul>
+                        <li>Nerve issue</li>
+                        <li>Severe Ischemia</li>
+                    </ul>
+                </li>
+                <li>FEVER or feeling generally unwell 
+                    <ul>
+                        <li>Infection</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>P</strong>: Progression</span>
+            <span class="verbal">"Since it first started, would you say the pain has been getting better, worse, or staying about the same?"</span>
+        </li>
+        <li class="point">
+            <span class="description"><strong>P</strong>: Pattern</span>
+            <span class="verbal">"Is the pain there constantly, or does it tend to come and go?"</span>
+             <ul>
+                <li>CONSTANT 
+                    <ul>
+                        <li>Infection</li>
+                        <li>Fracture</li>
+                        <li>Critical Limb Ischemia</li>
+                        <li>DVT</li>
+                    </ul>
+                </li>
+                <li>INTERMITTENT 
+                    <ul>
+                        <li>Claudication</li>
+                    </ul>
+                </li>
+                <li>WORSE AT A PARTICULAR TIME (e.g., Night) 
+                    <ul>
+                        <li>Ischemic rest pain</li>
+                        <li>Bone tumour</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>E</strong>: Effect on Life</span>
+            <span class="verbal">"How has this pain been affecting your daily activities, like walking or sleeping?"</span>
+        </li>
+        <li class="point">
+            <span class="description"><strong>R</strong>: Red Flags</span>
+            <span class="verbal">"I just need to ask a few specific questions to make sure we're not missing anything serious."</span>
+             <ul>
+                <li>ACUTE LIMB ISCHEMIA (The 6 P's) 
+                    <ul>
+                        <li>Pain</li>
+                        <li>Pallor</li>
+                        <li>Pulselessness</li>
+                        <li>Perishingly Cold</li>
+                        <li>Paraesthesia</li>
+                        <li>Paralysis</li>
+                    </ul>
+                </li>
+                <li>PULMONARY EMBOLISM 
+                    <ul>
+                        <li>Associated chest pain or shortness of breath</li>
+                    </ul>
+                </li>
+                <li>CAUDA EQUINA SYNDROME 
+                    <ul>
+                        <li>Numbness around your bottom, or any trouble with your bladder or bowels</li>
+                    </ul>
+                </li>
+                <li>SYSTEMIC INFECTION / CANCER 
+                    <ul>
+                        <li>Fever, night sweats, or any unplanned weight loss</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li class="point">
+            <span class="description"><strong>S</strong>: Severity / Scale</span>
+            <span class="verbal">"On a scale of 1 to 10, with 10 being the worst pain you can imagine, how would you rate it?"</span>
+        </li>
+    </ul>
+</div>
+
+
+
+
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+
+    <script src="theme-toggle.js"></script>
+  </body>
+</html>
