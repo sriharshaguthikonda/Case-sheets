@@ -1,10 +1,10 @@
-  get all the menstrual history sections from all the case sheets and 
-  combine it into MENSTRUAL_HISTORY_case_sheet_part.html 
-  link it to all the case sheets at the same location where the menstrual history was taken from
+  get all the vitals sections from all the case sheets and 
+  combine it into   "Vitals_case_sheet_part.html" 
+  link it to all the case sheets at the same location where the vitals was taken from
    link in the form of iframe like this :
      <details>
-      <summary>MENSTRUAL HISTORY</summary>
-      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+      <summary class="h3">VITALS</summary>
+      <iframe src="Vitals_case_sheet_part.html" frameborder="0"></iframe>
     </details>
    
 
@@ -25,7 +25,12 @@
 
 
 
-     after introductions, ask if there is someone else that they have come with or do they want someone else to be informed.
+
+
+
+     In emergency after introductions, ask if there is someone else that they have come with or do they want someone else to be informed.
+
+
 
 
 

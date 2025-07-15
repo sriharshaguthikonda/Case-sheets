@@ -350,7 +350,7 @@
       <p> </p>
     </div>
     <details>
-      <summary style="color: rgb(247, 0, 255)">PERSONAL HISTORY</summary>
+      <summary class="h3">PERSONAL HISTORY</summary>
       <iframe src="Personal_history.html" type="text/html"></iframe>
     </details>
     <div class="section">
