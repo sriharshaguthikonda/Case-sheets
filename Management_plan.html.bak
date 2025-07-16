@@ -3,41 +3,45 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Management plan</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
   </head>
-  <body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <h4>MANAGEMENT PLAN</h4>
-    <h4>��� ��� ��� ��� ��� ��� ��� ��� ��� Urgency</h4>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h3 class="General">MANAGEMENT PLAN</h3>
+    <h4 class="General">OBO Urgency</h4>
     <ul>
-      <li>Urgent Admission:</li>
-      <li>Urgent Referral (2 weeks):</li>
-      <li>Routine Referral:</li>
-      <li>Handling In-House:</li>
+      <li class="General">Urgent Admission:</li>
+      <li class="General">Urgent Referral (2 weeks):</li>
+      <li class="General">Routine Referral:</li>
+      <li class="General">Handling In-House:</li>
     </ul>
-    <h4>Patient-Specific Plan</h4>
+    <h4 class="General">Patient-Specific Plan</h4>
     <ol>
+      <li class="General">Want someone to listen in?</li>
+      <li class="emergency">family coming?</li>
+      <ol>
+        <li>we can call ..... for you</li>
+      </ol>
       <li>Initial Investigations
         <ul>
-          <li><em>Consent </em></li>
-          <li>Blood work: </li>
+          <li class="General"><em>Consent </em></li>
+          <li class="General cvs">Blood work: </li>
           <ul>
-            <li>Prostate specific antigen</li>
+            <li class="surgery" style="left: -1px;">Prostate specific antigen</li>
           </ul>
-          <li>Imaging: </li>
+          <li class="cvs">Imaging: </li>
           <ul>
-            <li>Urine dip stick</li>
-            <li>X- Ray</li>
+            <li class="nephro">Urine dip stick</li>
+            <li class="cvs">X- Ray</li>
             <ul>
-              <li>Multiple myeloma</li>
+              <li class="hematology">Multiple myeloma</li>
             </ul>
-            <li>MRI</li>
-            <li>CT Scan</li>
+            <li class="cvs">MRI</li>
+            <li class="cvs">CT Scan</li>
             <ul>
-              <li>Renal stones</li>
+              <li class="nephro">Renal stones</li>
             </ul>
-            <li>Ultrasound</li>
+            <li class="cvs">Ultrasound</li>
           </ul>
           <li class="derma">Dermoscopy</li>
           <li class="derma">Photography</li>
@@ -59,58 +63,68 @@
               <li class="derma">disfigurement</li>
             </ul>
           </ul>
-          <li>Further Investigations</li>
+          <li class="cvs">Further Investigations</li>
           <ul>
-            <li>Specialized tests: </li>
+            <li class="cvs">Specialized tests: </li>
             <ul>
-              <li>Cystoscope</li>
-              <li>biopsy</li>
+              <li class="surgery">Cystoscope</li>
+              <li class="surgery">biopsy</li>
             </ul>
-            <li>Referrals: </li>
+            <li class="cvs">Referrals: </li>
           </ul>
         </ul>
       </li>
-      <li>EXPLAIN FINDINGS</li>
-      <li>ICE : <br>
+    </ol>
+    <ol>
+      <li class="General">EXPLAIN FINDINGS</li>
+      <li class="General">ICE : <br>
         <strong></strong></li>
-      <li><strong>PROVISIONAL &Icirc;&rdquo; :</strong></li>
+      <li class="General"><strong>PROVISIONAL DIAGNOSIS :</strong></li>
       <ol>
-        <li>ANATOMICAL</li>
-        <li>ETIOLOGICAL</li>
-        <li>PATHOLOGICAL</li>
-        <li>CLINICAL</li>
+        <li class="cvs">ANATOMICAL</li>
+        <li class="cvs">ETIOLOGICAL</li>
+        <li class="cvs">PATHOLOGICAL</li>
+        <li class="cvs">CLINICAL</li>
       </ol>
-      <li>Treatment Plan
+      <li class="General">Treatment Plan
         <ul>
-          <li>Symptomatic treatment: </li>
-          <li>Specific treatment: </li>
-          <li>Consent </li>
-          <li>Non-Medical: </li>
+          <li class="General">Symptomatic treatment: </li>
+          <li class="cvs">Specific treatment: </li>
+          <li class="General">Consent </li>
+          <li class="cvs">Non-Medical: </li>
           <ol>
-            <li>Watch and wait!</li>
-            <li> Chronic fatigue syndrome</li>
+            <li class="General">Watch and wait!</li>
+            <li class="General">Behavior diary</li>
+            <li class="Endocrine cvs cns">Diabetes</li>
+            <ul class="Endocrine">
+              <li class="Endocrine">food</li>
+              <li class="Endocrine"><a href="https://chatgpt.com/g/g-685ef36778488191a2d2704177c22a64-plab-2-feedback/c/6865ad97-b148-8007-94b7-f44171ebd0cf#:%7E:text=DAFNE%20%28%E2%80%9CDose%20Adjustment%20For%20Normal%20Eating%E2%80%9D%29">
+                  DAFNE</a> ("Dose Adjustment For Normal Eating")</li>
+              <li class="Endocrine cvs">exercise</li>
+            </ul>
+            <li class="rheumatic">Chronic fatigue syndrome</li>
             <ol>
-              <li>CBT</li>
-              <li>Life style</li>
-              <li>not graded exercise </li>
+              <li class="rheumatic">CBT</li>
+              <li class="rheumatic">Life style</li>
+              <li class="rheumatic">not graded exercise </li>
             </ol>
-            <li> Thalassemia minor<br>
+            <li class="hematology">Thalassemia minor<br>
             </li>
             <ol>
-              <li>Counselling</li>
-              <li>Marrige counselling</li>
-              <li>Iron if Severe</li>
+              <li class="hematology">Counselling</li>
+              <li class="hematology">Marrige counselling</li>
+              <li class="hematology">Iron if Severe</li>
             </ol>
-            <li>Renal stones</li>
+            <li class="nephro">Renal stones</li>
             <ol>
-              <li>Strainer for collecting Renal stones</li>
+              <li class="nephro">Strainer for collecting Renal stones</li>
             </ol>
             <li class="derma">Eczema: </li>
             <ul class="derma">
               <li class="derma"> simple = Mouzterizers</li>
             </ul>
           </ol>
-          <li>Medical/</li>
+          <li class="cvs">Medical/</li>
           <ul>
             <li class="derma">Severe eczema</li>
             <ul>
@@ -124,105 +138,122 @@
             <ul>
               <li class="derma">Permethrin / Ivermectin</li>
             </ul>
-            <li>Anti pyretic </li>
-            <li>Anti epileptic</li>
+            <li class="cvs">Anti pyretic </li>
+            <li class="cns">Anti epileptic</li>
             <ul>
-              <li>Febrile seizures if the child is far away</li>
+              <li class="cns">Febrile seizures if the child is far away</li>
             </ul>
-            <li>Pain killers</li>
+            <li class="cvs">Pain killers</li>
             <ul>
-              <li>UTI</li>
-              <li>Renal stones</li>
+              <li class="nephro">UTI</li>
+              <li class="nephro">Renal stones</li>
             </ul>
-            <li>Abx</li>
+            <li class="cvs">Abx</li>
             <ul>
-              <li>UTI</li>
-              <li>Trimithoprim</li>
-              <li>Nitrofurantoin</li>
+              <li class="nephro">UTI</li>
+              <li class="nephro">Trimithoprim</li>
+              <li class="nephro">Nitrofurantoin</li>
             </ul>
-            <li>Tamsulosin</li>
+            <li class="surgery">Tamsulosin</li>
             <ul>
-              <li>BPH</li>
+              <li class="surgery">BPH</li>
             </ul>
-            <li>Finasteride</li>
+            <li class="surgery">Finasteride</li>
             <ul>
-              <li>BPH</li>
+              <li class="surgery">BPH</li>
             </ul>
-            <li>Chemo</li>
-            <li>Radio</li>
-            <li>Steroids</li>
+            <li class="hematology">Chemo</li>
+            <li class="hematology">Radio</li>
+            <li class="hematology">Steroids</li>
             <ul>
-              <li>ITP</li>
+              <li class="hematology">ITP</li>
             </ul>
           </ul>
-          <li>Surgical</li>
+          <li class="surgery">Surgical</li>
           <ul>
-            <li>Stem cell </li>
-            <li>Bone Marrow Transplant</li>
-            <li>Splenectomy - </li>
+            <li class="hematology">Stem cell </li>
+            <li class="hematology">Bone Marrow Transplant</li>
+            <li class="surgery">Splenectomy - </li>
             <ul>
-              <li>ITP severe</li>
+              <li class="hematology">ITP severe</li>
             </ul>
-            <li>Stent</li>
+            <li class="surgery">Stent</li>
             <ul>
-              <li>Renal stones</li>
+              <li class="nephro">Renal stones</li>
             </ul>
-            <li>PCNL</li>
+            <li class="surgery">PCNL</li>
             <ul>
-              <li>Renal stones</li>
+              <li class="nephro">Renal stones</li>
             </ul>
             <li class="derma">cant do simple cosmetic procedures</li>
             <li class="derma">if lesions causes other problem then Sgx</li>
           </ul>
-          <li>Admission required: Yes/No</li>
+          <li class="cvs">Admission required: Yes/No</li>
         </ul>
       </li>
-      <li>Follow Up
+      <li class="General">Follow Up
         <ul>
-          <li>Frequency: </li>
-          <li>Monitoring</li>
-          <li>Specialist referrals: </li>
-          <li>Allied health:
+          <li class="cvs">Frequency: </li>
+          <li class="cvs">Monitoring</li>
+          <li class="cvs">Specialist referrals: </li>
+          <li class="cvs">Allied health:
             <ul>
-              <li>Occupational Therapist: </li>
-              <li>Physio Therapist: </li>
+              <li class="cvs">Occupational Therapist: </li>
+              <li class="cvs">Physio Therapist: </li>
             </ul>
           </li>
         </ul>
       </li>
-      <li>Patient Education
+      <li class="General">Patient Education
         <ul>
-          <li>Warning Signs/Red Flags:</li>
+          <li class="General">Warning Signs/Red Flags:</li>
           <ul>
-            <li>Call <em>999 </em>or <em>112</em> </li>
-            <li>Call <strong>111</strong></li>
-            <li class="derma">mole--&gt; melanoma</li>
-            <li>Hyperkalemia - ACE, ARBs, Spironolactone</li>
-            <ul>
-              <li> dont take K+ salt </li>
-              <li>Muscle weakness, cramps or floppiness</li>
-              <li>Tingling or pins and needles</li>
-              <li>Palpitations, chest heaviness or dizziness</li>
-              <li>Feeling unusually tired or short of breath</li>
+            <li class="rheumatic">Gaint cell arteritis</li>
+            <ol>
+              <li class="rheumatic">Vision disturbances</li>
+              <li class="rheumatic">headache</li>
+            </ol>
+            <li class="General ent cns">Driving</li>
+            <li class="General ent cns">Heavy machinery</li>
+            <li class="General">Call </li>
+            <ol>
+              <li class="General">999 - emergency</li>
+              <li class="General">112 - emergency</li>
+              <li class="General">111 - non emergency</li>
+              <li class="General oncology">2-wk-wait coordinator - Cancer</li>
+              <li class="psychiatric">111-2 - mental health</li>
+              <li class="psychiatric">0300 123 1100 - Acas Helpline </li>
+              <li class="psychiatric"> 116 123 Samaritans </li>
+              <li class="cns">SUDEP</li>
+            </ol>
+            <li class="derma">mole --&gt; melanoma</li>
+            <li class="nephro">Hyperkalemia - ACE, ARBs, Spironolactone</li>
+            <ul class="nephro">
+              <li class="nephro"> dont take K+ salt </li>
+              <li class="nephro">Muscle weakness, cramps or floppiness</li>
+              <li class="nephro">Tingling or pins and needles</li>
+              <li class="nephro">Palpitations, chest heaviness or dizziness</li>
+              <li class="nephro">Feeling unusually tired or short of breath</li>
             </ul>
           </ul>
-          <li>Educational materials provided: </li>
+          <li class="cvs">DVLA</li>
+          <li class="General">Educational materials provided: </li>
           <ul>
-            <li>Leaflets/</li>
+            <li class="cvs">Leaflets/</li>
             <ol>
               <li class="derma">British Association of Dermatologists (BAD)
                 leaflets</li>
             </ol>
-            <li>Pamphlets</li>
+            <li class="cvs">Pamphlets</li>
           </ul>
-          <li>Useful resources/links: </li>
+          <li class="General">Useful resources/links: </li>
         </ul>
       </li>
-      <li>Report to the Authorities ?</li>
+      <li class="General">Report to the Authorities ?</li>
     </ol>
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script>
   </body>
 </html>

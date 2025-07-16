@@ -1,12 +1,21 @@
-  get all the vitals sections from all the case sheets and 
-  combine it into   "Vitals_case_sheet_part.html" 
-  link it to all the case sheets at the same location where the vitals was taken from
+  get all the sexual history sections from all the case sheets and 
+  add it into   Sexual History section CASE SHEET.html
+  link it to all the case sheets at the same location where the sexual history was taken from
    link in the form of iframe like this :
      <details>
-      <summary class="h3">VITALS</summary>
-      <iframe src="Vitals_case_sheet_part.html" frameborder="0"></iframe>
+      <summary class="h3">SEXUAL HISTORY</summary>
+      <iframe src="Sexual_History_section_CASE_SHEET.html" frameborder="0"></iframe>
     </details>
    
+
+
+
+
+
+
+
+
+
 
 
    

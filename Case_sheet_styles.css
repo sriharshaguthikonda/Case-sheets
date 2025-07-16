@@ -302,7 +302,12 @@ General will be empty !*/
 .cvs { background-color: rgba(0, 221, 203, 0.27); }
 
 
+.oncology { box-shadow: -12px 0 0 0 rgb(0, 255, 255); }
+
+
 .rheumatic {  box-shadow: -6px 0 0 0 rgb(157, 255, 0); }
+
+
 
 
 .psychiatric::before { border-left: 7px solid rgb(255, 115, 0); }
@@ -317,6 +322,11 @@ General will be empty !*/
 
 .gynob { background-color: rgba(0, 196, 121, 0.8); } /* Kept as border-left for variety */
 .surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
+
+
+
+
+
 /* Box-shadow-based classes converted to ::before */
 .cns { 
     border-right: 5px solid rgb(0, 17, 255);
@@ -326,6 +336,10 @@ General will be empty !*/
     box-shadow: 7px 0 0 0 rgb(0, 199, 99);
 }
 .emergency { box-shadow: 20px 0 0 0 rgb(0, 255, 255); }    
+
+
+
+
 .Nephro, .nephro { background-color: hsla(182, 100%, 42%, 0.288); }
 
 /* Background-based classes remain as they are, as they don't conflict */
@@ -339,6 +353,17 @@ General will be empty !*/
     margin: 35px 0;
     padding: 15px;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
