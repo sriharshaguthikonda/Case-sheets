@@ -79,6 +79,33 @@ hr {
 
 
 
+a {
+    color: #0066cc;
+    text-decoration: none;
+    border-bottom: 1px solid #0066cc;
+    transition: color .2s, border-color .2s;
+  }
+  
+  a:visited {
+    color: #663399;
+    border-bottom-color: #663399;
+  }
+  
+  a:hover,
+  a:focus {
+    color: #004499;
+    border-bottom-width: 2px;
+    outline: none;
+  }
+  
+  a:active {
+    color: #cc0000;
+    background-color: rgba(0,0,0,.05);
+  }
+  
+
+
+
 
 
 
@@ -283,7 +310,7 @@ General will be empty !*/
 .Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
 
 .derma::after { border-left: 5px solid #378eff; }
-.hematology::after { background-color: rgba(0, 255, 255); }
+.hematology::after hematologic::after{ background-color: rgba(0, 255, 255); }
 .Endocrine::after, .endocrine::after { border-right: 5px solid rgb(204, 20, 164); }
 
 .infectious::after { border-left: 5px solid #37ffd4; }
@@ -308,7 +335,7 @@ General will be empty !*/
 .ophthalmology { background-color: rgba(0, 0, 0, 0.2); }
 
 .Sexual_history_section {
-    background-color: rgba(218, 247, 235, 0.7);
+    background-color: rgba(218, 247, 235, 0.4);
     margin: 35px 0;
     padding: 15px;
 }
