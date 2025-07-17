@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,53 +10,68 @@
   <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <h3 class="General">MANAGEMENT PLAN</h3>
     <h4 class="General">OBO Urgency</h4>
-    <ul>
+    <ul class="General">
       <li class="General">Urgent Admission:</li>
+      <ol class="General">
+        <li class="General">systemic, or</li>
+        <li class="General ent">mastoiditis</li>
+      </ol>
       <li class="General">Urgent Referral (2 weeks):</li>
+      <ol class="General ent">
+        <li class="General ent">Recurrent AOM, treatment failure, or</li>
+        <li class="General ent">complications</li>
+      </ol>
       <li class="General">Routine Referral:</li>
+      <ol class="General ent">
+        <li class="ent">Recurrent AOM (≥3 episodes in 6 months or ≥4 in 12 months)</li>
+      </ol>
       <li class="General">Handling In-House:</li>
+      <ol class="General ent">
+        <li class="General ent">Uncomplicated AOM</li>
+      </ol>
     </ul>
+    
     <h4 class="General">Patient-Specific Plan</h4>
-    <ol>
+    <ol class="General">
       <li class="General">Want someone to listen in?</li>
       <li class="emergency">family coming?</li>
-      <ol>
-        <li>we can call ..... for you</li>
+      <ol class="General">
+        <li class="General">we can call ..... for you</li>
       </ol>
-      <li>Initial Investigations
-        <ul>
-          <li class="General"><em>Consent </em></li>
-          <li class="General cvs">Blood work: </li>
-          <ul>
-            <li class="surgery" style="left: -1px;">Prostate specific antigen</li>
+      <li class="General">Initial Investigations
+        <ul class="General">
+          <li class="General"><em>Consent</em></li>
+          <li class="General cvs hematology">Blood work: </li>
+          <ul class="General surgery">
+            <li class="surgery urology">Prostate specific antigen</li>
           </ul>
-          <li class="cvs">Imaging: </li>
-          <ul>
-            <li class="nephro">Urine dip stick</li>
-            <li class="cvs">X- Ray</li>
-            <ul>
+          <li class="General cvs">Imaging: </li>
+          <ul class="General">
+            <li class="nephro urology">Urine dip stick</li>
+            <li class="respiratory cvs">X-Ray</li>
+            <ul class="hematology">
               <li class="hematology">Multiple myeloma</li>
             </ul>
-            <li class="cvs">MRI</li>
-            <li class="cvs">CT Scan</li>
-            <ul>
-              <li class="nephro">Renal stones</li>
+            <li class="cns respiratory">MRI</li>
+            <li class="cns respiratory">CT Scan</li>
+            <ul class="nephro urology">
+              <li class="nephro urology">Renal stones</li>
             </ul>
-            <li class="cvs">Ultrasound</li>
+            <li class="respiratory general">Ultrasound</li>
           </ul>
           <li class="derma">Dermoscopy</li>
           <li class="derma">Photography</li>
           <li class="derma">Biopsy: </li>
-          <ul>
+          <ul class="derma">
             <li class="derma">Excisional biopsy - we dont sample biopsy</li>
-            <ul>
+            <ul class="derma">
               <li class="derma">Mole suspect</li>
               <li class="derma">BCC</li>
               <li class="derma">SCC</li>
             </ul>
             <li class="derma">if positive then wide excision</li>
-            <li class="derma"><em>ADR </em>= <em>Complications</em></li>
-            <ul>
+            <li class="derma"><em>ADR</em> = <em>Complications</em></li>
+            <ul class="derma">
               <li class="derma">bleeding</li>
               <li class="derma">infection</li>
               <li class="derma">pain</li>
@@ -63,190 +79,246 @@
               <li class="derma">disfigurement</li>
             </ul>
           </ul>
-          <li class="cvs">Further Investigations</li>
-          <ul>
-            <li class="cvs">Specialized tests: </li>
-            <ul>
-              <li class="surgery">Cystoscope</li>
+          <li class="General cvs">Further Investigations</li>
+          <ul class="General">
+            <li class="General cvs">Specialized tests: </li>
+            <ul class="surgery urology">
+              <li class="surgery urology">Cystoscope</li>
               <li class="surgery">biopsy</li>
             </ul>
-            <li class="cvs">Referrals: </li>
+            <li class="General">Referrals: </li>
           </ul>
         </ul>
       </li>
     </ol>
-    <ol>
+    <ol class="General">
       <li class="General">EXPLAIN FINDINGS</li>
-      <li class="General">ICE : <br>
-        <strong></strong></li>
-      <li class="General"><strong>PROVISIONAL DIAGNOSIS :</strong></li>
-      <ol>
-        <li class="cvs">ANATOMICAL</li>
-        <li class="cvs">ETIOLOGICAL</li>
-        <li class="cvs">PATHOLOGICAL</li>
-        <li class="cvs">CLINICAL</li>
+      <li class="General">ICE (Ideas, Concerns, Expectations): <br>
+        <strong class="General">Ideas:</strong> <span class="General">Explain that AOM is a common ear infection often following a cold</span><br>
+        <strong class="General">Concerns:</strong> <span class="General">Address worries about hearing loss, need for antibiotics, and recurrence</span><br>
+        <strong class="General">Expectations:</strong> <span class="General">Discuss treatment options, expected course, and warning signs</span></li>
+      <li class="General"><strong>PROVISIONAL DIAGNOSIS:</strong></li>
+      <ol class="General">
+        <li class="General">ANATOMICAL: </li>
+        <ul>
+          <li class="ent">middle ear</li>
+        </ul>
+        <li class="General">ETIOLOGICAL:
+          <ul class="General infectious">
+            <li class="General infectious">Bacterial (S. pneumoniae, H. influenzae, M. catarrhalis)</li>
+            <li class="General infectious">viral</li>
+          </ul>
+        </li>
+        <li class="General">PATHOLOGICAL:</li>
+        <ul>
+          <li class="ent">Acute inflammation with middle ear effusion</li>
+        </ul>
+        <li class="General">CLINICAL:</li>
+        <ul>
+          <li class="ent">Acute Otitis Media (AOM) - [Mild/Moderate/Severe]</li>
+        </ul>
       </ol>
       <li class="General">Treatment Plan
-        <ul>
-          <li class="General">Symptomatic treatment: </li>
-          <li class="cvs">Specific treatment: </li>
-          <li class="General">Consent </li>
-          <li class="cvs">Non-Medical: </li>
-          <ol>
+        <ul class="General">
+          <li class="General">Symptomatic treatment: 
+            <ul class="General">
+              <li class="General">Analgesia: 
+                <ol>
+                  <li>Paracetamol 15mg/kg/dose Q4-6H PRN (max 4g/day) or</li>
+                  <li>Ibuprofen 10mg/kg/dose Q6-8H PRN</li>
+                </ol>
+              </li>
+              <li class="ent">Topical analgesia:  </li>
+                <ol>
+                  <li>Antipyrine-benzocaine otic drops if TM intact</li>
+                </ol>
+              <li class="respiratory ent">Nasal decongestants:  </li>
+                <ol>
+                  <li>Consider in children >12 years and adults (e.g., oxymetazoline 0.05% 2-3 sprays per nostril BID for ≤3 days)</li>
+                </ol>
+                
+            </ul>
+          </li>
+          <li class="General">Specific treatment: 
+            <ul class="General infectious">
+              <li class="General infectious"><strong>Immediate antibiotics if:</strong>
+                <ul class="General infectious">
+                  <li class="General pediatric">Age <6 months</li>
+                  <li class="General">Severe symptoms (moderate-severe otalgia or fever ≥39°C)</li>
+                  <li class="ent">Otorrhea</li>
+                  <li class="ent pediatric">Bilateral AOM in children <2 years</li>
+                  <li class="infectious">Immunocompromised</li>
+                </ul>
+              </li>
+              <li class="ent pharmacology"><strong>First-line antibiotic:</strong> <span class="pharmacology">Amoxicillin 40-45mg/kg/day PO divided BID (max 1g/dose) for 5-10 days</span></li>
+              <li class="ent pharmacology"><strong>Penicillin allergy or recent amoxicillin use:</strong> <span class="pharmacology">Cefdinir 14mg/kg/day PO divided QD-BID (max 600mg/day)</span></li>
+              <li class="ent pharmacology"><strong>Treatment failure after 48-72h:</strong> <span class="pharmacology">Amoxicillin-clavulanate 45mg/kg/day PO divided BID (max 875mg/dose)</span></li>
+            </ul>
+          </li>
+          <li class="General">Consent</li>
+          <li class="General">Non-Medical: 
+            <ul class="General">
+              <li class="ent">Warm compresses to affected ear</li>
+              <li class="General">Maintain hydration</li>
+              <li class="respiratory">Smoking cessation counseling if applicable</li>
+              <li class="pediatric">Breastfeeding support for infants (protective against AOM)</li>
+            </ul>
+          </li>
+          <ol class="General">
             <li class="General">Watch and wait!</li>
             <li class="General">Behavior diary</li>
-            <li class="Endocrine cvs cns">Diabetes</li>
-            <ul class="Endocrine">
-              <li class="Endocrine">food</li>
-              <li class="Endocrine"><a href="https://chatgpt.com/g/g-685ef36778488191a2d2704177c22a64-plab-2-feedback/c/6865ad97-b148-8007-94b7-f44171ebd0cf#:%7E:text=DAFNE%20%28%E2%80%9CDose%20Adjustment%20For%20Normal%20Eating%E2%80%9D%29">
-                  DAFNE</a> ("Dose Adjustment For Normal Eating")</li>
-              <li class="Endocrine cvs">exercise</li>
-            </ul>
-            <li class="rheumatic">Chronic fatigue syndrome</li>
-            <ol>
-              <li class="rheumatic">CBT</li>
-              <li class="rheumatic">Life style</li>
-              <li class="rheumatic">not graded exercise </li>
-            </ol>
-            <li class="hematology">Thalassemia minor<br>
+            <li class="endocrine">Diabetes
+              <ul class="endocrine">
+                <li class="endocrine">food</li>
+                <li class="endocrine"><a href="https://chatgpt.com/g/g-685ef36778488191a2d2704177c22a64-plab-2-feedback/c/6865ad97-b148-8007-94b7-f44171ebd0cf#:%7E:text=DAFNE%20%28%E2%80%9CDose%20Adjustment%20For%20Normal%20Eating%E2%80%9D%29">
+                    DAFNE</a> ("Dose Adjustment For Normal Eating")</li>
+                <li class="endocrine">exercise</li>
+              </ul>
             </li>
-            <ol>
-              <li class="hematology">Counselling</li>
-              <li class="hematology">Marrige counselling</li>
-              <li class="hematology">Iron if Severe</li>
-            </ol>
-            <li class="nephro">Renal stones</li>
-            <ol>
-              <li class="nephro">Strainer for collecting Renal stones</li>
-            </ol>
-            <li class="derma">Eczema: </li>
-            <ul class="derma">
-              <li class="derma"> simple = Mouzterizers</li>
-            </ul>
-          </ol>
-          <li class="cvs">Medical/</li>
-          <ul>
-            <li class="derma">Severe eczema</li>
-            <ul>
-              <li class="derma">steroids</li>
-            </ul>
-            <li class="derma">Acne</li>
-            <ul>
-              <li class="derma">Retenoids</li>
-            </ul>
-            <li class="derma">Scabies</li>
-            <ul>
-              <li class="derma">Permethrin / Ivermectin</li>
-            </ul>
-            <li class="cvs">Anti pyretic </li>
-            <li class="cns">Anti epileptic</li>
-            <ul>
-              <li class="cns">Febrile seizures if the child is far away</li>
-            </ul>
-            <li class="cvs">Pain killers</li>
-            <ul>
-              <li class="nephro">UTI</li>
-              <li class="nephro">Renal stones</li>
-            </ul>
-            <li class="cvs">Abx</li>
-            <ul>
-              <li class="nephro">UTI</li>
-              <li class="nephro">Trimithoprim</li>
-              <li class="nephro">Nitrofurantoin</li>
-            </ul>
-            <li class="surgery">Tamsulosin</li>
-            <ul>
-              <li class="surgery">BPH</li>
-            </ul>
-            <li class="surgery">Finasteride</li>
-            <ul>
-              <li class="surgery">BPH</li>
-            </ul>
-            <li class="hematology">Chemo</li>
-            <li class="hematology">Radio</li>
-            <li class="hematology">Steroids</li>
-            <ul>
-              <li class="hematology">ITP</li>
-            </ul>
+            <li class="rheumatic">Chronic fatigue syndrome
+              <ol class="rheumatic">
+                <li class="rheumatic">CBT</li>
+                <li class="rheumatic">Life style</li>
+                <li class="rheumatic">not graded exercise</li>
+              </ol>
+            </li>
+            <li class="hematology">Thalassemia minor
+              <ol class="hematology">
+                <li class="hematology">Counselling</li>
+                <li class="hematology">Marriage counselling</li>
+                <li class="hematology">Iron if Severe</li>
+              </ol>
+            </li>
+            <li class="nephro urology">Renal stones
+              <ol class="nephro urology">
+                <li class="nephro urology">Strainer for collecting Renal stones</li>
+              </ol>
+            </li>
           </ul>
-          <li class="surgery">Surgical</li>
-          <ul>
-            <li class="hematology">Stem cell </li>
-            <li class="hematology">Bone Marrow Transplant</li>
-            <li class="surgery">Splenectomy - </li>
-            <ul>
-              <li class="hematology">ITP severe</li>
+          <li class="surgery">Surgical
+            <ul class="surgery">
+              <li class="hematology">Stem cell transplant</li>
+              <li class="hematology">Bone Marrow Transplant</li>
+              <li class="surgery">Splenectomy
+                <ul class="hematology">
+                  <li class="hematology">ITP severe</li>
+                </ul>
+              </li>
+              <li class="surgery urology">Stent
+                <ul class="urology">
+                  <li class="nephro urology">Renal stones</li>
+                </ul>
+              </li>
+              <li class="surgery urology">PCNL (Percutaneous Nephrolithotomy)
+                <ul class="urology">
+                  <li class="nephro urology">Renal stones</li>
+                </ul>
+              </li>
+              <li class="derma">Can't do simple cosmetic procedures</li>
+              <li class="derma">If lesions cause other problems then surgery</li>
             </ul>
-            <li class="surgery">Stent</li>
-            <ul>
-              <li class="nephro">Renal stones</li>
-            </ul>
-            <li class="surgery">PCNL</li>
-            <ul>
-              <li class="nephro">Renal stones</li>
-            </ul>
-            <li class="derma">cant do simple cosmetic procedures</li>
-            <li class="derma">if lesions causes other problem then Sgx</li>
-          </ul>
-          <li class="cvs">Admission required: Yes/No</li>
+          </li>
+          <li class="General">Admission required: <span contenteditable="true">Yes/No</span></li>
         </ul>
       </li>
       <li class="General">Follow Up
-        <ul>
-          <li class="cvs">Frequency: </li>
-          <li class="cvs">Monitoring</li>
-          <li class="cvs">Specialist referrals: </li>
-          <li class="cvs">Allied health:
-            <ul>
-              <li class="cvs">Occupational Therapist: </li>
-              <li class="cvs">Physio Therapist: </li>
+        <ul class="General">
+          <li class="General">Frequency: 
+            <ul class="General">
+              <li class="ent">If symptoms worsen or persist >48h on antibiotics</li>
+              <li class="ent pediatric">Routine follow-up in 2-4 weeks if recurrent AOM or concern for hearing/developmental issues</li>
+            </ul>
+          </li>
+          <li class="General">Monitoring
+            <ul class="General">
+              <li class="ent">Resolution of fever and pain within 48-72h of treatment</li>
+              <li class="ent pediatric">Hearing assessment if speech/language delay or recurrent AOM</li>
+              <li class="ent">TM mobility and appearance at follow-up</li>
+            </ul>
+          </li>
+          <li class="General">Specialist referrals: 
+            <ul class="General">
+              <li class="ent">ENT referral for recurrent AOM (≥3 episodes in 6 months or ≥4 in 12 months)</li>
+              <li class="ent audiology">Consider audiology referral if persistent hearing loss or speech delay</li>
+            </ul>
+          </li>
+          <li class="General">Allied health:
+            <ul class="General">
+              <li class="rehab">Occupational Therapist: </li>
+              <li class="rehab">Physiotherapist: </li>
             </ul>
           </li>
         </ul>
       </li>
       <li class="General">Patient Education
-        <ul>
-          <li class="General">Warning Signs/Red Flags:</li>
-          <ul>
-            <li class="rheumatic">Gaint cell arteritis</li>
-            <ol>
-              <li class="rheumatic">Vision disturbances</li>
-              <li class="rheumatic">headache</li>
-            </ol>
-            <li class="General ent cns">Driving</li>
-            <li class="General ent cns">Heavy machinery</li>
-            <li class="General">Call </li>
-            <ol>
-              <li class="General">999 - emergency</li>
-              <li class="General">112 - emergency</li>
-              <li class="General">111 - non emergency</li>
-              <li class="General oncology">2-wk-wait coordinator - Cancer</li>
-              <li class="psychiatric">111-2 - mental health</li>
-              <li class="psychiatric">0300 123 1100 - Acas Helpline </li>
-              <li class="psychiatric"> 116 123 Samaritans </li>
-              <li class="cns">SUDEP</li>
-            </ol>
-            <li class="derma">mole --&gt; melanoma</li>
-            <li class="nephro">Hyperkalemia - ACE, ARBs, Spironolactone</li>
-            <ul class="nephro">
-              <li class="nephro"> dont take K+ salt </li>
-              <li class="nephro">Muscle weakness, cramps or floppiness</li>
-              <li class="nephro">Tingling or pins and needles</li>
-              <li class="nephro">Palpitations, chest heaviness or dizziness</li>
-              <li class="nephro">Feeling unusually tired or short of breath</li>
+        <ul class="General">
+          <li class="General">Warning Signs/Red Flags (Return immediately if):
+            <ul class="General emergency">
+              <li class="neurology emergency">Severe headache, neck stiffness, or photophobia</li>
+              <li class="neurology emergency">Facial weakness or asymmetry</li>
+              <li class="ent emergency">Worsening pain or fever after 48h of antibiotics</li>
+              <li class="ent emergency">Signs of mastoiditis (post-auricular swelling, erythema, or tenderness)</li>
+              <li class="ent neurology emergency">Dizziness, vertigo, or nystagmus</li>
             </ul>
+          </li>
+          <ul class="General">
+            <li class="rheumatic">Giant cell arteritis
+              <ol class="rheumatic">
+                <li class="rheumatic ophthalmology">Vision disturbances</li>
+                <li class="rheumatic">Headache</li>
+              </ol>
+            </li>
+            <li class="General neurology">Driving</li>
+            <li class="General occupational">Heavy machinery</li>
+            <li class="General">Emergency Contacts:
+              <ol class="General">
+                <li class="emergency">999 - emergency</li>
+                <li class="emergency">112 - emergency</li>
+                <li class="General">111 - non emergency</li>
+                <li class="oncology">2-wk-wait coordinator - Cancer</li>
+                <li class="psychiatric">111-2 - mental health</li>
+                <li class="psychiatric">0300 123 1100 - Acas Helpline</li>
+                <li class="psychiatric">116 123 Samaritans</li>
+                <li class="neurology">SUDEP (Sudden Unexpected Death in Epilepsy)</li>
+              </ol>
+            </li>
+            <li class="derma">Mole → melanoma
+              <ul class="derma">
+                <li class="derma">ABCDE assessment</li>
+                <li class="derma">Urgent referral if suspicious</li>
+              </ul>
+            </li>
+            <li class="nephro cardiology">Hyperkalemia - ACE, ARBs, Spironolactone
+              <ul class="nephro">
+                <li class="nephro">Don't take K+ supplements</li>
+                <li class="nephro">Muscle weakness, cramps or floppiness</li>
+                <li class="nephro neurology">Tingling or pins and needles</li>
+                <li class="nephro cardiology">Palpitations, chest heaviness or dizziness</li>
+                <li class="nephro">Feeling unusually tired or short of breath</li>
+              </ul>
+            </li>
           </ul>
-          <li class="cvs">DVLA</li>
-          <li class="General">Educational materials provided: </li>
-          <ul>
-            <li class="cvs">Leaflets/</li>
-            <ol>
-              <li class="derma">British Association of Dermatologists (BAD)
-                leaflets</li>
-            </ol>
-            <li class="cvs">Pamphlets</li>
-          </ul>
-          <li class="General">Useful resources/links: </li>
+          <li class="General">DVLA (Driver and Vehicle Licensing Agency) Notification</li>
+          <li class="General">Educational materials provided: 
+            <ul class="General">
+              <li class="General">Leaflets
+                <ol class="General">
+                  <li class="derma">British Association of Dermatologists (BAD) leaflets</li>
+                  <li class="respiratory">British Lung Foundation materials</li>
+                  <li class="cardiology">British Heart Foundation resources</li>
+                </ol>
+              </li>
+              <li class="General">Pamphlets</li>
+              <li class="General">Websites and apps</li>
+            </ul>
+          </li>
+          <li class="General">Useful resources/links: 
+            <ul class="General">
+              <li class="General">NHS Choices</li>
+              <li class="General">Patient.co.uk</li>
+              <li class="General">Condition-specific charities and support groups</li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li class="General">Report to the Authorities ?</li>
@@ -255,5 +327,9 @@
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
+
+
+    
+
   </body>
 </html>
