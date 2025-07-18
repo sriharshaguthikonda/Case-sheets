@@ -201,29 +201,36 @@ object {
 
 
 
+/* point and actual question - REVISED LAYOUT */
 
-
-/* point and actual question */
 .point {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
-    padding: 5px 0;
+    /* Column 1 for the Description, Column 2 for all the content */
+    grid-template-columns: auto 1fr;
+    gap: 10px 20px; /* Row and Column gaps */
+    padding: 10px 0;
     border-bottom: 1px solid #e9ecef;
 }
+
 .description { 
+    grid-column: 1; /* Place in the first column */
+    /* Neon-like glow effect */
     color: #7ec200; 
     font-weight: bold; 
-    flex: 1; 
 }
 
 .verbal {
-    grid-column: 2; /* All verbal phrases in second column */
-    display: block; /* Stack vertically */
+    grid-column: 2; /* Place in the second column */
     font-style: italic;
     color: #092842;
+    margin-bottom: 10px; /* Add some space before the list starts */
 }
 
+/* This is the key change */
+.point > ul {
+    grid-column: 2; /* Place the ENTIRE list in the second column */
+    padding-left: 20px; /* Add a little indentation for clarity */
+}
 
 
 
@@ -315,10 +322,10 @@ General will be empty !*/
 .Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
 
 .derma::after { border-left: 5px solid #378eff; }
-.hematology::after hematologic::after{ background-color: rgba(0, 255, 255); }
+.hematology::after ,.hematologic::after{ background-color: rgba(0, 255, 255); }
 .Endocrine::after, .endocrine::after { border-right: 5px solid rgb(204, 20, 164); }
 
-.infectious::after { border-left: 5px solid #37ffd4; }
+.infectious::after { border-left: 5px solid #7b89ff; }
 
 .gynob { background-color: rgba(0, 196, 121, 0.8); } /* Kept as border-left for variety */
 .surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
@@ -345,7 +352,7 @@ General will be empty !*/
 /* Background-based classes remain as they are, as they don't conflict */
 .obstetric { border-left: 7px solid rgb(0, 190, 165); }
 .gynaecology { background-color: rgba(24, 128, 59, 0.2); }
-.ortho-specific { background-color: rgba(0, 100, 200, 0.1); }
+.ortho-specific { background-color: rgba(0, 0, 0, 0.199); }
 .ophthalmology { background-color: rgba(0, 0, 0, 0.2); }
 
 .Sexual_history_section {
