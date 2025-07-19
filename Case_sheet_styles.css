@@ -116,7 +116,7 @@ a {
 
 /* Lists */
 ol, ul {
-    margin-left: 20%;
+    margin-left: 15%;
     padding-left: 0;
 }
 
@@ -325,7 +325,7 @@ General will be empty !*/
 .hematology::after ,.hematologic::after{ background-color: rgba(0, 255, 255); }
 .Endocrine::after, .endocrine::after { border-right: 5px solid rgb(204, 20, 164); }
 
-.infectious::after { border-left: 5px solid #7b89ff; }
+.infectious::after { border-left: 5px solid #4400ff; }
 
 .gynob { background-color: rgba(0, 196, 121, 0.8); } /* Kept as border-left for variety */
 .surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
