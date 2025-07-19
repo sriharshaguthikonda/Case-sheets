@@ -10,11 +10,12 @@
 
 
 for all the case sheets in list of all case sheeets.html file 
-  identify list of chief complaints of just before the elaboration of first chief complaint and add Capacity_check_case_sheet_part.html
+  identify Family history section and move it  to Family_history.html
    link in the form of iframe like this :
+   
      <details>
-      <summary class="h3">Capacity Check</summary>
-      <iframe src="Capacity_check_case_sheet_part.html" frameborder="0"></iframe>
+      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+      <iframe src="Family_history.html" frameborder="0"></iframe>
     </details>
    
 
