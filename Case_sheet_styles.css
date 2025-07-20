@@ -318,7 +318,7 @@ General will be empty !*/
 
 
 .psychiatric::before { border-left: 7px solid rgb(255, 115, 0); }
-.git::before { background-color: #b039e7; }
+.git::before { background-color: #d987ff; }
 .Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
 
 .derma::after { border-left: 5px solid #378eff; }
@@ -347,7 +347,7 @@ General will be empty !*/
 
 
 
-.Nephro, .nephro { background-color: hsla(182, 100%, 42%, 0.288); }
+.Nephro, .nephro { background-color: hsla(194, 100%, 50%, 0.459); }
 
 /* Background-based classes remain as they are, as they don't conflict */
 .obstetric { border-left: 7px solid rgb(0, 190, 165); }
@@ -543,3 +543,23 @@ strong {
       [data-theme="dark"] #theme-toggle:hover {
         background-color: #3a3a3a;
       }
+
+
+
+
+
+
+
+
+              .enzyme-section { 
+                  margin-left: 20px; 
+                  border-left: 2px solid #4fc3f7; 
+                  padding-left: 10px;
+              }
+              .enzyme-header { color: #2c3e50; font-weight: bold; }
+              .substrate-list { margin-left: 15px; }
+              .interaction-high { color: #00ffd5; }
+              .interaction-mod { color: #0099ff; }
+              .interaction-low { color: #1612f3; }
+              .herb-name { font-weight: bold; color: #27ae60; }
+              .affected-drug { font-style: italic; }
