@@ -1,0 +1,563 @@
+
+
+
+/* i think box shadow is the only thing you need to use that to highlight different classes even if there are multiple of them even if they don't overlap. */
+
+
+/* Base Styles */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f8f8f8;
+    font-size: 12.0pt;
+    line-height: 1.4;
+    padding: 0 4%;
+}
+
+
+/* Typography */
+h1 {
+    font-size: 18.0pt;
+    align-items: center;
+}
+h2 {
+    color: #ff9901; 
+    font-size: 16.0pt;
+    font-weight: bold;
+}
+h3 {
+    color: #ff01d5; 
+    font-size: 14.0pt;
+    font-weight: bold;
+}
+h4 {
+    color: #1a01ff; 
+    font-size: 12.0pt;
+    font-weight: bold;
+}
+h5 {
+    color: #01a2ff; 
+    font-size: 10.0pt;
+    font-weight: bold;
+}
+
+hr {
+    margin: 1em;
+    opacity: 0.1;
+}
+
+
+
+
+/* Typography classes */
+.h1 {
+    font-size: 18.0pt;
+    align-items: center;
+}
+.h2 {
+    color: #ff9901; 
+    font-size: 16.0pt;
+    font-weight: bold;
+}
+.h3 {
+    color: #ff01d5; 
+    font-size: 14.0pt;
+    font-weight: bold;
+}
+.h4 {
+    color: #1a01ff; 
+    font-size: 12.0pt;
+    font-weight: bold;
+}
+.h5 {
+    color: #01a2ff; 
+    font-size: 10.0pt;
+    font-weight: bold;
+}
+
+
+
+
+
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    border-bottom: 1px solid #0066cc;
+    transition: color .2s, border-color .2s;
+  }
+  
+  a:visited {
+    color: #663399;
+    border-bottom-color: #663399;
+  }
+  
+  a:hover,
+  a:focus {
+    color: #004499;
+    border-bottom-width: 2px;
+    outline: none;
+  }
+  
+  a:active {
+    color: #cc0000;
+    background-color: rgba(0,0,0,.05);
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+/* Lists */
+ol, ul {
+    margin-left: 15%;
+    padding-left: 0;
+}
+
+ul {
+    list-style-type: lower-alpha;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+
+li {
+    margin-bottom: 5px;
+    padding-left: 15px;
+}
+
+
+/* Layout */
+.section {
+    margin-bottom: 15px;
+}
+
+
+
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 2px;
+    text-align: left;
+    font-size: 12.0pt;
+}
+
+
+iframe {
+    width: 108%;
+    max-height: 70vh;
+    margin-left: -4%;
+    margin-right: -4%; 
+}
+
+object {
+    width: 100%;
+    height: 70vh;
+    margin-left: -5%  ;
+}
+
+.video-container {
+    float: right;
+    position: sticky;
+
+    top: 2px;
+    left: 80%;
+    width: 60%;
+
+    z-index: 1000;
+    /* TODO: this was changed ..it did not exist before this will prevent the video from overlapping the content on left*/
+    padding-left: 30px;
+    cursor: move; /* Indicates draggable */
+}
+
+.video-container iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+
+.video-container.shrunk {
+    left: 30%;
+    width: 75%;
+}
+
+
+
+
+/* point and actual question - REVISED LAYOUT */
+
+.point {
+    display: grid;
+    /* Column 1 for the Description, Column 2 for all the content */
+    grid-template-columns: auto 1fr;
+    gap: 10px 20px; /* Row and Column gaps */
+    padding: 10px 0;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.description { 
+    grid-column: 1; /* Place in the first column */
+    /* Neon-like glow effect */
+    color: #7ec200; 
+    font-weight: bold; 
+}
+
+.verbal {
+    grid-column: 2; /* Place in the second column */
+    font-style: italic;
+    color: #092842;
+    margin-bottom: 10px; /* Add some space before the list starts */
+}
+
+/* This is the key change */
+.point > ul {
+    grid-column: 2; /* Place the ENTIRE list in the second column */
+    padding-left: 20px; /* Add a little indentation for clarity */
+}
+
+
+
+
+
+
+
+/* SEXES */
+.female {
+    background-color: rgba(0, 153, 38, 0.2);
+}
+
+.male {
+    background-color: rgba(255, 182, 193, 0.2);
+}
+
+.pediatric {
+    background-color: rgba(129, 0, 108, 0.2);
+}
+
+
+
+
+
+
+
+
+
+/*SYSTEMS*/
+
+
+
+/* 2. UNIFORM INDICATOR STYLING USING ::before */
+li {
+    position: relative;
+    padding-left: 35px; /* Space for the indicator */
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    margin-bottom: 5px;
+}
+
+/* The base style for all indicator bars */
+li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 5px; /* Uniform width for all indicators */
+    border-left: 5px  ;
+    border-right: 5px  ;
+    background-color: transparent; /* Default to no color */
+}
+/* The base style for all indicator bars */
+li::after {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 5px; /* Uniform width for all indicators */
+    border-left: 5px  ;
+    border-right: 5px  ;
+    background-color: transparent; /* Default to no color */
+}
+
+
+/* Border-based classes converted to ::before 
+General will be empty !*/
+.General { 
+}
+
+
+
+.cvs { background-color: rgba(0, 221, 203, 0.27); }
+
+
+.oncology { box-shadow: -12px 0 0 0 rgb(0, 255, 255); }
+
+
+.rheumatic {  box-shadow: -6px 0 0 0 rgb(157, 255, 0); }
+
+
+
+
+.psychiatric{ border-left: 7px solid rgba(255, 115, 0, 0.2); }
+.git::before { background-color: #d987ff; }
+.Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
+
+.derma::after { border-left: 5px solid #378eff; }
+.hematology::after ,.hematologic::after{ background-color: rgba(0, 255, 255); }
+.Endocrine::after, .endocrine::after { border-right: 5px solid rgb(204, 20, 164); }
+
+.infectious::after { border-left: 5px solid #4400ff; }
+
+.gynob { background-color: rgba(0, 196, 121, 0.2); } /* Kept as border-left for variety */
+.surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
+
+
+
+
+
+/* Box-shadow-based classes converted to ::before */
+.cns { 
+    border-right: 5px solid rgb(0, 17, 255);
+ }
+
+.ent, .Ent { 
+    box-shadow: 7px 0 0 0 rgb(0, 199, 99);
+}
+.emergency { box-shadow: 20px 0 0 0 rgb(0, 255, 255); }    
+
+
+
+
+.Nephro, .nephro { background-color: hsla(194, 100%, 50%, 0.3); }
+
+/* Background-based classes remain as they are, as they don't conflict */
+.obstetric { border-left: 7px solid rgb(0, 190, 165); }
+.gynaecology { background-color: rgba(24, 128, 59, 0.2); }
+.ortho-specific { background-color: rgba(0, 0, 0, 0.199); }
+.ophthalmology { background-color: rgba(0, 0, 0, 0.2); }
+
+.Sexual_history_section {
+    background-color: rgba(218, 247, 235, 0.4);
+    margin: 35px 0;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*COMPLAINTS*/
+.confusion {
+  background-color: rgba(25, 0, 255, 0.2);
+}
+
+.section-title {
+    border-bottom: 1px solid #ccc; font-size: 13.0pt; font-weight: bold; margin-bottom: 10; margin-top: 20; padding-bottom: 3px
+}
+
+
+
+details {
+    height: auto;
+    width: 100%;
+    /* No borders, just a subtle shadow */
+    box-shadow: 0 0 3px rgba(0,0,0,0.1);
+    margin-bottom: 15px; 
+    padding: 3px 5px;
+    margin-left: -0.1cm;
+}
+
+/* details iframe {
+  width: 110%;
+  height: 50%;
+} */
+
+
+
+summary {
+    color: #1900ff; 
+  font-family: "times new roman", times, serif; 
+  font-size: 13.0pt; 
+  font-weight: bold
+}
+
+summary:hover {
+    background-color: #f5f5f5
+}
+
+
+.section-title {
+    border-bottom: 1px solid #ccc; color: #333; font-size: 13.0pt; font-weight: bold; margin-bottom: 10; margin-top: 15px; padding-bottom: 3px
+}
+
+
+
+
+
+
+/*COLOURS*/
+
+.grey {
+    color: #9b9b9b
+}
+
+
+.Red {
+    color: rgb(0, 214, 203)
+}
+
+.green {
+    color: #8400ff; font-weight: bold
+}
+
+
+
+td {
+    font-size: 12.0pt
+}
+
+th {
+    font-size: 13.0pt
+}
+
+
+
+.highlight-prompt {
+    color: #fd0054; font-weight: bold
+}
+
+.detail-prompt {
+    color: #08cca2; font-style: italic
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* UNIVERSAL STYLES */
+u {
+    color: #0065fd;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+b {
+    color: #fd0054;
+    font-weight: bold;
+}
+
+em {
+    color: #08cca2;
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: #09a8cc;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+      /* Theme Toggle Button Styles */
+      #theme-toggle {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 9999;
+        padding: 8px 15px;
+        border: none;
+        border-radius: 20px;
+        background-color: #4a90e2;
+        color: white;
+        cursor: pointer;
+        font-size: 14px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease;  
+      }
+      
+      #theme-toggle:hover {
+        background-color: #e9ecef;
+      }
+      
+      [data-theme="dark"] #theme-toggle {
+        background-color: #2a2a2a;
+        border-color: #555;
+        color: #fff;
+      }
+      
+      [data-theme="dark"] #theme-toggle:hover {
+        background-color: #3a3a3a;
+      }
+
+
+
+
+
+
+
+
+              .enzyme-section { 
+                  margin-left: 20px; 
+                  border-left: 2px solid #4fc3f7; 
+                  padding-left: 10px;
+              }
+              .enzyme-header { color: #2c3e50; font-weight: bold; }
+              .substrate-list { margin-left: 15px; }
+              .interaction-high { color: #00ffd5; }
+              .interaction-mod { color: #0099ff; }
+              .interaction-low { color: #1612f3; }
+              .herb-name { font-weight: bold; color: #27ae60; }
+              .affected-drug { font-style: italic; }

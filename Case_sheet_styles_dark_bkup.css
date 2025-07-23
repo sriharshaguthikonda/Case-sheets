@@ -1,41 +1,106 @@
+/* i think box shadow is the only thing you need to use that to highlight different classes even if there are multiple of them even if they don't overlap. */
+
+
 /* Base Styles */
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: #070707; /* Inverted from #f8f8f8 */
+    color: #ffffff; /* Added white text for dark background */
     font-size: 12.0pt;
     line-height: 1.4;
     padding: 0 4%;
-    background-color: #1b1b1b;
-    color: #ffffff;
 }
+
 
 /* Typography */
 h1 {
-    font-size: 16.0pt;
+    font-size: 18.0pt;
     align-items: center;
-    color: #ffffff;
 }
 h2 {
-    color: #0066fe; 
-    font-size: 14.0pt;
+    color: #0066fe; /* Inverted from #ff9901 */
+    font-size: 16.0pt;
     font-weight: bold;
 }
 h3 {
-    color: #00fe2a; 
+    color: #00fe2a; /* Inverted from #ff01d5 */
     font-size: 14.0pt;
     font-weight: bold;
 }
 h4 {
-    color: #e5fe00; 
+    color: #e5fe00; /* Inverted from #1a01ff */
     font-size: 12.0pt;
     font-weight: bold;
 }
 h5 {
-    color: #fe5d00; 
+    color: #fe5d00; /* Inverted from #01a2ff */
+    font-size: 10.0pt;
+    font-weight: bold;
+}
+
+hr {
+    margin: 1em;
+    opacity: 0.9; /* Inverted from 0.1 */
+}
+
+
+
+
+/* Typography classes */
+.h1 {
+    font-size: 18.0pt;
+    align-items: center;
+}
+.h2 {
+    color: #0066fe; /* Inverted from #ff9901 */
+    font-size: 16.0pt;
+    font-weight: bold;
+}
+.h3 {
+    color: #00fe2a; /* Inverted from #ff01d5 */
+    font-size: 14.0pt;
+    font-weight: bold;
+}
+.h4 {
+    color: #e5fe00; /* Inverted from #1a01ff */
+    font-size: 12.0pt;
+    font-weight: bold;
+}
+.h5 {
+    color: #fe5d00; /* Inverted from #01a2ff */
     font-size: 10.0pt;
     font-weight: bold;
 }
 
 
+
+
+
+
+a {
+    color: #ff9933; /* Inverted from #0066cc */
+    text-decoration: none;
+    border-bottom: 1px solid #ff9933; /* Inverted from #0066cc */
+    transition: color .2s, border-color .2s;
+  }
+  
+  a:visited {
+    color: #99cc66; /* Inverted from #663399 */
+    border-bottom-color: #99cc66; /* Inverted from #663399 */
+  }
+  
+  a:hover,
+  a:focus {
+    color: #ffbb66; /* Inverted from #004499 */
+    border-bottom-width: 2px;
+    outline: none;
+  }
+  
+  a:active {
+    color: #33ffff; /* Inverted from #cc0000 */
+    background-color: rgba(255,255,255,.05); /* Inverted from rgba(0,0,0,.05) */
+  }
+  
 
 
 
@@ -49,7 +114,7 @@ h5 {
 
 /* Lists */
 ol, ul {
-    margin-left: 20%;
+    margin-left: 15%;
     padding-left: 0;
 }
 
@@ -61,24 +126,11 @@ ol {
     list-style-type: decimal;
 }
 
+
 li {
     margin-bottom: 5px;
     padding-left: 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* Layout */
@@ -86,43 +138,50 @@ li {
     margin-bottom: 15px;
 }
 
+
+
+
 /* Tables */
 table {
     border-collapse: collapse;
     width: 100%;
-    border: 1px solid #ffffff;
+    border: 1px solid white; /* Inverted from black */
     margin: 10px;
 }
 
 th, td {
-    border: 1px solid #ffffff;
+    border: 1px solid #fff; /* Inverted from #000 */
     padding: 2px;
     text-align: left;
     font-size: 12.0pt;
 }
 
+
 iframe {
     width: 108%;
-    height: 30vh;
+    max-height: 70vh;
     margin-left: -4%;
-    margin-right: -4%;
+    margin-right: -4%; 
 }
 
 object {
     width: 100%;
     height: 70vh;
-    margin-left: -5%;
+    margin-left: -5%  ;
 }
 
 .video-container {
     float: right;
     position: sticky;
+
     top: 2px;
     left: 80%;
     width: 60%;
+
     z-index: 1000;
+    /* TODO: this was changed ..it did not exist before this will prevent the video from overlapping the content on left*/
     padding-left: 30px;
-    cursor: move;
+    cursor: move; /* Indicates draggable */
 }
 
 .video-container iframe {
@@ -136,38 +195,57 @@ object {
     width: 75%;
 }
 
-/* point and actual question */
+
+
+
+/* point and actual question - REVISED LAYOUT */
+
 .point {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
-    padding: 5px 0;
-    border-bottom: 1px solid #161308;
+    /* Column 1 for the Description, Column 2 for all the content */
+    grid-template-columns: auto 1fr;
+    gap: 10px 20px; /* Row and Column gaps */
+    padding: 10px 0;
+    border-bottom: 1px solid #161304; /* Inverted from #e9ecef */
 }
+
 .description { 
-    color: #813dff; 
+    grid-column: 1; /* Place in the first column */
+    /* Neon-like glow effect */
+    color: #813dff; /* Inverted from #7ec200 */
     font-weight: bold; 
-    flex: 1; 
 }
 
 .verbal {
-    grid-column: 2;
-    display: block;
+    grid-column: 2; /* Place in the second column */
     font-style: italic;
-    color: #f6d7bd;
+    color: #f6d7bd; /* Inverted from #092842 */
+    margin-bottom: 10px; /* Add some space before the list starts */
 }
+
+/* This is the key change */
+.point > ul {
+    grid-column: 2; /* Place the ENTIRE list in the second column */
+    padding-left: 20px; /* Add a little indentation for clarity */
+}
+
+
+
+
+
+
 
 /* SEXES */
 .female {
-    background-color: rgba(255, 102, 217, 0.2);
+    background-color: rgba(255, 102, 217, 0.2); /* Inverted from rgba(0, 153, 38, 0.2) */
 }
 
 .male {
-    background-color: rgba(0, 73, 62, 0.2);
+    background-color: rgba(0, 73, 62, 0.2); /* Inverted from rgba(255, 182, 193, 0.2) */
 }
 
 .pediatric {
-    background-color: rgba(126, 255, 147, 0.2);
+    background-color: rgba(126, 255, 147, 0.2); /* Inverted from rgba(129, 0, 108, 0.2) */
 }
 
 
@@ -178,83 +256,104 @@ object {
 
 
 
-/* SYSTEMS */
+/*SYSTEMS*/
+
+
+
+/* 2. UNIFORM INDICATOR STYLING USING ::before */
 li {
     position: relative;
-    padding-left: 35px;
+    padding-left: 35px; /* Space for the indicator */
     border: none;
     box-shadow: none;
     border-radius: 0;
     margin-bottom: 5px;
 }
 
+/* The base style for all indicator bars */
 li::before {
     content: '';
     position: absolute;
     left: 0;
     top: 0;
     bottom: 0;
-    width: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    background-color: transparent;
+    width: 5px; /* Uniform width for all indicators */
+    border-left: 5px  ;
+    border-right: 5px  ;
+    background-color: transparent; /* Default to no color */
 }
-
+/* The base style for all indicator bars */
 li::after {
     content: '';
     position: absolute;
     left: 15px;
     top: 0;
     bottom: 0;
-    width: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    background-color: transparent;
+    width: 5px; /* Uniform width for all indicators */
+    border-left: 5px  ;
+    border-right: 5px  ;
+    background-color: transparent; /* Default to no color */
+}
+
+
+/* Border-based classes converted to ::before 
+General will be empty !*/
+.General { 
 }
 
 
 
+.cvs { background-color: rgba(255, 34, 52, 0.27); } /* Inverted from rgba(0, 221, 203, 0.27) */
+
+
+.oncology { box-shadow: -12px 0 0 0 rgb(255, 0, 0); } /* Inverted from rgb(0, 255, 255) */
+
+
+.rheumatic {  box-shadow: -6px 0 0 0 rgb(98, 0, 255); } /* Inverted from rgb(157, 255, 0) */
+
+
+
+
+.psychiatric{ border-left: 7px solid rgba(0, 140, 255, 0.2); } /* Inverted from rgba(255, 115, 0, 0.2) */
+.git::before { background-color: #267800; } /* Inverted from #d987ff */
+.Respiratory::before, .respiratory::before { border-right: 5px solid #fa75c3; } /* Inverted from #058a3c */
+
+.derma::after { border-left: 5px solid #c87100; } /* Inverted from #378eff */
+.hematology::after ,.hematologic::after{ background-color: rgba(255, 0, 0); } /* Inverted from rgba(0, 255, 255) */
+.Endocrine::after, .endocrine::after { border-right: 5px solid rgb(51, 235, 91); } /* Inverted from rgb(204, 20, 164) */
+
+.infectious::after { border-left: 5px solid #bbff00; } /* Inverted from #4400ff */
+
+.gynob { background-color: rgba(255, 59, 134, 0.2); } /* Inverted from rgba(0, 196, 121, 0.2) */
+.surgery { background-color: rgba(37, 132, 19, 0.2); } /* Inverted from rgba(218, 123, 236, 0.2) */
 
 
 
 
 
+/* Box-shadow-based classes converted to ::before */
+.cns { 
+    border-right: 5px solid rgb(255, 238, 0); /* Inverted from rgb(0, 17, 255) */
+ }
 
-
-
-
-
-.General {
-    
+.ent, .Ent { 
+    box-shadow: 7px 0 0 0 rgb(255, 56, 156); /* Inverted from rgb(0, 199, 99) */
 }
+.emergency { box-shadow: 20px 0 0 0 rgb(255, 0, 0); } /* Inverted from rgb(0, 255, 255) */   
 
-.cvs { background-color: rgba(245, 31, 42, 0.2); }
 
-.rheumatic { background-color:rgba(155, 31, 186, 0.2); }
 
-.psychiatric::before { border-left: 7px solid rgb(0, 122, 178); }
-.git::before { background-color: #4fc618; }
-.Respiratory::before, .respiratory::before { border-right: 5px solid #fa75c3; }
 
-.derma::after { border-left: 5px solid #c87100; }
-.hematology::after { background-color: rgba(255, 0, 0); }
-.Endocrine::after, .endocrine::after { border-right: 5px solid rgb(51, 235, 91); }
+.Nephro, .nephro { background-color: hsla(14, 100%, 50%, 0.3); } /* Inverted from hsla(194, 100%, 50%, 0.3) */
 
-.infectious::after { border-left: 5px solid #c8002b; }
-
-.gynob { background-color: rgba(255, 59, 134, 0.8); }
-.surgery { background-color: rgba(37, 132, 19, 0.2); }
-
-.cns { border-right: 5px solid rgb(231, 219, 51); }
-.Nephro, .nephro { background-color: hsla(2, 100%, 58%, 0.288); }
-
-.obstetric { border-left: 7px solid rgb(255, 65, 90); }
-.gynaecology { background-color: rgba(231, 127, 196, 0.2); }
-.ortho-specific { background-color: rgba(255, 155, 55, 0.1); }
-.ophthalmology { background-color: rgba(255, 255, 255, 0.2); }
+/* Background-based classes remain as they are, as they don't conflict */
+.obstetric { border-left: 7px solid rgb(255, 65, 90); } /* Inverted from rgb(0, 190, 165) */
+.gynaecology { background-color: rgba(231, 127, 196, 0.2); } /* Inverted from rgba(24, 128, 59, 0.2) */
+.ortho-specific { background-color: rgba(255, 255, 255, 0.199); } /* Inverted from rgba(0, 0, 0, 0.199) */
+.ophthalmology { background-color: rgba(255, 255, 255, 0.2); } /* Inverted from rgba(0, 0, 0, 0.2) */
 
 .Sexual_history_section {
-    background-color: rgba(37, 8, 20, 0.7);
+    background-color: rgba(37, 8, 20, 0.4); /* Inverted from rgba(218, 247, 235, 0.4) */
     margin: 35px 0;
     padding: 15px;
 }
@@ -272,51 +371,60 @@ li::after {
 
 
 
-
-
-/* COMPLAINTS */
+/*COMPLAINTS*/
 .confusion {
-    background-color: rgba(230, 255, 0, 0.2);
+  background-color: rgba(230, 255, 0, 0.2); /* Inverted from rgba(25, 0, 255, 0.2) */
 }
 
 .section-title {
-    border-bottom: 1px solid #333333; 
-    color: #cccccc; 
+    border-bottom: 1px solid #333; /* Inverted from #ccc */
+    color: #ccc; /* Added inverted color */
     font-size: 13.0pt; 
     font-weight: bold; 
     margin-bottom: 10; 
     margin-top: 20; 
-    padding-bottom: 3px;
+    padding-bottom: 3px
 }
+
+
 
 details {
     height: auto;
     width: 100%;
-    box-shadow: 0 0 3px rgba(255,255,255,0.1);
+    /* No borders, just a subtle shadow */
+    box-shadow: 0 0 3px rgba(255,255,255,0.1); /* Inverted from rgba(0,0,0,0.1) */
     margin-bottom: 15px; 
     padding: 3px 5px;
     margin-left: -0.1cm;
 }
 
+/* details iframe {
+  width: 110%;
+  height: 50%;
+} */
+
+
+
 summary {
-    color: #e6ff00; 
-    font-family: "times new roman", times, serif; 
-    font-size: 13.0pt; 
-    font-weight: bold;
+    color: #e6ff00; /* Inverted from #1900ff */
+  font-family: "times new roman", times, serif; 
+  font-size: 13.0pt; 
+  font-weight: bold
 }
 
 summary:hover {
-    background-color: #0a0a0a;
+    background-color: #0a0a0a /* Inverted from #f5f5f5 */
 }
 
+
 .section-title {
-    border-bottom: 1px solid #333333; 
-    color: #cccccc; 
+    border-bottom: 1px solid #333; /* Inverted from #ccc */
+    color: #ccc; /* Inverted from #333 */
     font-size: 13.0pt; 
     font-weight: bold; 
     margin-bottom: 10; 
     margin-top: 15px; 
-    padding-bottom: 3px;
+    padding-bottom: 3px
 }
 
 
@@ -324,55 +432,51 @@ summary:hover {
 
 
 
+/*COLOURS*/
 
-
-
-
-
-
-/* COLOURS */
 .grey {
-    color: #646464;
+    color: #646464 /* Inverted from #9b9b9b */
 }
+
 
 .Red {
-    color: rgb(255, 41, 52);
+    color: rgb(255, 41, 52) /* Inverted from rgb(0, 214, 203) */
 }
 
 .green {
-    color: #7bff00; 
-    font-weight: bold;
+    color: #7bff00; /* Inverted from #8400ff */
+    font-weight: bold
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
 td {
-    font-size: 12.0pt;
+    font-size: 12.0pt
 }
 
 th {
-    font-size: 13.0pt;
+    font-size: 13.0pt
 }
 
+
+
 .highlight-prompt {
-    color: #02ffab; 
-    font-weight: bold;
+    color: #02ffab; /* Inverted from #fd0054 */
+    font-weight: bold
 }
 
 .detail-prompt {
-    color: #f7335d; 
-    font-style: italic;
+    color: #f7335d; /* Inverted from #08cca2 */
+    font-style: italic
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -391,27 +495,26 @@ th {
 
 /* UNIVERSAL STYLES */
 u {
-    color: #deff02;
+    color: #ff9a02; /* Inverted from #0065fd */
     font-weight: bold;
     text-decoration: none;
 }
 
 b {
-    color: #02ffab;
+    color: #02ffab; /* Inverted from #fd0054 */
     font-weight: bold;
 }
 
 em {
-    color: #f7335d;
+    color: #f7335d; /* Inverted from #08cca2 */
     font-style: normal;
     font-weight: bold;
 }
 
 strong {
-    color: #f65733;
+    color: #f65733; /* Inverted from #09a8cc */
     font-weight: bold;
 }
-
 
 
 
@@ -430,9 +533,10 @@ strong {
         top: 10px;
         right: 10px;
         padding: 5px 10px;
-        border: 1px solid #ccc;
+        border: 1px solid #333; /* Inverted from #ccc */
         border-radius: 4px;
-        background-color: #f8f9fa;
+        background-color: #070605; /* Inverted from #f8f9fa */
+        color: #fff; /* Added white text */
         cursor: pointer;
         z-index: 1000;
         font-size: 12px;
@@ -440,15 +544,35 @@ strong {
       }
       
       #theme-toggle:hover {
-        background-color: #e9ecef;
+        background-color: #161312; /* Inverted from #e9ecef */
       }
       
       [data-theme="dark"] #theme-toggle {
-        background-color: #2a2a2a;
-        border-color: #555;
-        color: #fff;
+        background-color: #d5d5d5; /* Inverted from #2a2a2a */
+        border-color: #aaa; /* Inverted from #555 */
+        color: #000; /* Inverted from #fff */
       }
       
       [data-theme="dark"] #theme-toggle:hover {
-        background-color: #3a3a3a;
+        background-color: #c5c5c5; /* Inverted from #3a3a3a */
       }
+
+
+
+
+
+
+
+
+              .enzyme-section { 
+                  margin-left: 20px; 
+                  border-left: 2px solid #b03c08; /* Inverted from #4fc3f7 */
+                  padding-left: 10px;
+              }
+              .enzyme-header { color: #d3c1af; /* Inverted from #2c3e50 */ font-weight: bold; }
+              .substrate-list { margin-left: 15px; }
+              .interaction-high { color: #ff002a; } /* Inverted from #00ffd5 */
+              .interaction-mod { color: #ff6600; } /* Inverted from #0099ff */
+              .interaction-low { color: #e9ed0c; } /* Inverted from #1612f3 */
+              .herb-name { font-weight: bold; color: #d8519f; } /* Inverted from #27ae60 */
+              .affected-drug { font-style: italic; }
