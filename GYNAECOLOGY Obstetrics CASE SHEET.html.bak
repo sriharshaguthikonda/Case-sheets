@@ -2,13 +2,12 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>GYNAECOLOGY &amp; OBSTETRICS CASE SHEET</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p><br>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <p><br>
     </p>
     <iframe src="Biodata.html"></iframe>
     <h3>CHIEF COMPLAINTS: (In chronological order with duration)</h3>
@@ -88,92 +87,13 @@
     <h3>HISTORY OF PRESENT ILLNESS: (Elaboration of each complaint using SODA
       CRAPPERS or similar format)</h3>
     <details>
-      <summary>1<sup>ST</sup> COMPLAINT: <u>BLEEDING</u> (Gynaecological)</summary>
-      <ul>
-        <li><strong>S: Site</strong> - </li>
-        <ul>
-          <li>Uterine/</li>
-          <li>Vaginal bleeding.</li>
-        </ul>
-        <li><strong>O: Onset</strong> - </li>
-        <ul>
-          <li>When did it start? </li>
-          <li>Relation to LMP? </li>
-          <li>Sudden </li>
-          <li>gradual?</li>
-        </ul>
-        <li><strong>D: Duration</strong> - How long does each episode last? How
-          long has the pattern been abnormal?</li>
-        <li><strong>A/R: Aggravating/Relieving Factors</strong>
-          <ol>
-            <li><em>Aggravated </em>by: </li>
-            <li>Stress? </li>
-            <li>Exertion? </li>
-            <li>Intercourse? </li>
-            <li>Medications (e.g., anticoagulants
-&ETH;&acute;&ETH;&micro;&ETH;&frac14;&ETH;&frac34;&ETH;&ordm;&Ntilde;&euro;&ETH;&deg;&Ntilde;&sbquo;&ETH;&cedil;&Ntilde;&Dagger;&ETH;&micro;&Ntilde;�&ETH;&ordm;&ETH;&cedil;&Ntilde;&hellip;?</li>
-            <li><br>
-            </li>
-            <li><b>Relieved </b>by: </li>
-            <li>Rest? </li>
-            <li>Medications (e.g., tranexamic acid, NSAIDs, hormones)?</li>
-          </ol>
-        </li>
-        <li><br>
-          <strong></strong></li>
-        <li><strong>C: Character/Type</strong>
-          <ol>
-            <li><strong>Amount:</strong> (No. of pads/tampons per day, soaking,
-              passing clots?)
-              <ul>
-                <li>Size of clots (small, large like a coin?)</li>
-              </ul>
-            </li>
-            <li><strong>Color:</strong> Bright red, dark red, brown?</li>
-            <li><strong>Consistency:</strong> Watery, thick?</li>
-            <li><strong>Nature:</strong> Continuous, intermittent?</li>
-            <li>Relationship to menstrual cycle:
-              <ul>
-                <li>Menorrhagia (heavy +/- prolonged, regular cycles)</li>
-                <li>Metrorrhagia (irregular bleeding between periods)</li>
-                <li>Menometrorrhagia (heavy and irregular)</li>
-                <li>Oligomenorrhea (infrequent, &gt;35 day cycles)</li>
-                <li>Polymenorrhea (too frequent, &lt;21 day cycles)</li>
-              </ul>
-            </li>
-          </ol>
-        </li>
-        <li><strong>R: Radiation</strong> - Not applicable.</li>
-        <li><strong>A: Associated Symptoms</strong>
-          <ol>
-            <li>Pain (dysmenorrhea, intermenstrual pain)?</li>
-            <li>Symptoms of anemia (fatigue, dizziness, pallor, palpitations,
-              shortness of breath)?</li>
-            <li>Vaginal discharge, itching, odor?</li>
-            <li>Fever?</li>
-            <li>Weight changes (gain/loss)?</li>
-            <li>Hirsutism, acne (suggestive of PCOS)?</li>
-            <li>Symptoms of thyroid dysfunction (fatigue, weight changes, hair
-              loss)?</li>
-            <li class="obstetric">Symptoms of pregnancy (nausea, breast
-              tenderness, missed period)?</li>
-            <li>Post-coital bleeding?</li>
-            <li>Dyspareunia?</li>
-          </ol>
-        </li>
-        <li><strong>P: Pattern (Timing/Frequency of episodes)</strong> - How
-          often do these bleeding episodes occur? Regularity?</li>
-        <li><strong>P: Progression</strong> - Is it getting worse, better, or
-          staying the same?</li>
-        <li><strong>E: Effect on life</strong> - Impact on daily activities,
-          work, social life, emotional well-being.</li>
-        <li><strong>S: Severity</strong> - Based on amount, duration, impact on
-          Hb, and quality of life.</li>
-      </ul>
+      <summary class="h4">1<sup>ST</sup> COMPLAINT: <u>BLEEDING</u>
+        (Gynaecological)</summary>
+      <iframe src="BLEEDING_Gynaecological_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary>ELABORATION OF AN OBSTETRIC COMPLAINT (Example: Bleeding in Early
-        Pregnancy)</summary>
+      <summary class="h4">ELABORATION OF AN OBSTETRIC COMPLAINT (Example:
+        Bleeding in Early Pregnancy)</summary>
       <ul class="obstetric">
         <li><strong>S: Site</strong> - Vaginal bleeding.</li>
         <li><strong>O: Onset</strong> - When did it start? Gestational age if
@@ -203,7 +123,7 @@
       </ul>
     </details>
     <details>
-      <summary>2<sup>ND</sup> COMPLAINT: <b>PELVIC PAIN</b></summary>
+      <summary class="h4">2<sup>ND</sup> COMPLAINT: <b>PELVIC PAIN</b></summary>
       <h4><a href="GIT%20MEDICINE%20SURGERY%20CASE%20SHEET.html">2<sup>ND</sup>
           COMPLAINT: <b>PELVIC PAIN</b></a></h4>
       <ul>
@@ -256,81 +176,22 @@
       </ul>
     </details>
     <details>
-      <summary>3<sup>RD</sup> COMPLAINT: <em>VAGINAL DISCHARGE</em></summary>
-      <ul>
-        <li><strong>S: Site</strong> - Vaginal.</li>
-        <li><strong>O: Onset</strong> - When did it start? Sudden or gradual?</li>
-        <li><strong>D: Duration</strong> - How long has it been present?
-          Continuous or intermittent?</li>
-        <li><strong>A/R: Aggravating/Relieving Factors</strong>
-          <ol>
-            <li>Aggravated by: Menstruation? Intercourse? Certain
-              soaps/douching? Tight clothing?</li>
-            <li>Relieved by: Medications? Hygiene changes?</li>
-          </ol>
-        </li>
-        <li><strong>C: Character/Type</strong>
-          <ol>
-            <li><strong>Amount:</strong> Scant, moderate, copious?</li>
-            <li><strong>Color:</strong> White, yellow, green, grey, brownish,
-              blood-tinged?</li>
-            <li><strong>Consistency:</strong> Thin, watery, thick, curdy
-              (cottage cheese-like), frothy?</li>
-            <li><strong>Odor:</strong> None, fishy, foul, musty?</li>
-          </ol>
-        </li>
-        <li><strong>R: Radiation</strong> - Not applicable.</li>
-        <li><strong>A: Associated Symptoms</strong>
-          <ol>
-            <li>Vulvovaginal itching (pruritus)?</li>
-            <li>Burning or soreness?</li>
-            <li>Dyspareunia (painful intercourse)?</li>
-            <li>Dysuria (painful urination)?</li>
-            <li>Lower abdominal pain?</li>
-            <li>Fever?</li>
-            <li>Skin changes or rash in the vulval area?</li>
-            <li>Relationship to sexual activity, new partners?</li>
-            <li class="obstetric">Change in discharge during pregnancy?
-              (Physiological increase vs. pathological)</li>
-          </ol>
-        </li>
-        <li><strong>P: Pattern (Timing/Frequency)</strong> - Constant? Relation
-          to menstrual cycle?</li>
-        <li><strong>P: Progression</strong> - Changing in character, amount, or
-          associated symptoms?</li>
-        <li><strong>E: Effect on life</strong> - Discomfort, embarrassment,
-          impact on sexual health, hygiene concerns.</li>
-        <li><strong>R: Red Flags</strong></li>
-        <li><strong>S: Severity</strong> - Degree of discomfort, amount of
-          discharge, impact on daily life.</li>
-      </ul>
-      <p><em>(Elaborate other chief complaints similarly, tailoring SODA
-          CRAPPERS to the specific complaint)</em></p>
+      <summary class="h4">3<sup>RD</sup> COMPLAINT: <em>VAGINAL DISCHARGE</em></summary>
+      <iframe src="VAGINAL_DISCHARGE_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <details >
-      <summary>4<sup>TH</sup> COMPLAINT: SWELLING/LUMP IN RIGHT BREAST</summary>
+    <details>
+      <summary class="h4">4<sup>TH</sup> COMPLAINT: SWELLING/LUMP IN RIGHT
+        BREAST</summary>
       <iframe src="Breast_swellings_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary>COMPLAINT: SKIN LESION/RASH</summary>
+      <summary class="h4">COMPLAINT: SKIN LESION/RASH</summary>
       <iframe src="SKIN_LESION_RASH_CASE_SHEET_PART.html" frameborder="0"></iframe>
     </details>
-    <h3 class="obstetric">MENSTRUAL HISTORY:</h3>
-    <ul class="obstetric">
-      <li class="obstetric">Age of Menarche:</li>
-      <li class="obstetric">Last Menstrual Period (LMP): (First day of last
-        period - Crucial for EDD calculation)</li>
-      <li class="obstetric">Previous Menstrual Period (PMP):</li>
-      <li class="obstetric">Cycle: Regular/Irregular, Length (e.g., Q28 days),
-        Duration of flow (e.g., 5 days)</li>
-      <li class="obstetric">Amount of flow: (Scant, moderate, heavy; No. of
-        pads/tampons per day, clots - size)</li>
-      <li>Dysmenorrhea: Yes/No (If yes, severity, timing, relieving factors)</li>
-      <li>Intermenstrual bleeding/spotting: Yes/No</li>
-      <li>Post-coital bleeding: Yes/No</li>
-      <li>Age of Menopause (if applicable): Symptoms? Hormone Replacement
-        Therapy (HRT) - type, duration?</li>
-    </ul>
+    <details>
+      <summary style="color: rgb(255, 0, 221)">MENSTRUAL HISTORY</summary>
+      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
     <h3 class="obstetric">OBSTETRIC HISTORY: (GTPAL Format)</h3>
     <ol class="grey obstetric">
       <li><strong>G</strong>: Total number of pregnancies</li>
@@ -349,6 +210,13 @@
       <li><strong>A</strong>: Number of abortions (&lt;20 weeks -
         spontaneous/induced) or ectopic pregnancies</li>
       <li><strong>L</strong>: Number of living children</li>
+      <li>.</li>
+      <li>Planning for more?</li>
+      <li>imp if we order <em>Mammogram</em></li>
+    </ol>
+    <p><br>
+    </p>
+    <ol class="obstetric">
     </ol>
     <p>Details of each pregnancy (chronologically):</p>
     <ul class="obstetric">
@@ -451,106 +319,21 @@
       <h2>SEXUAL HISTORY: (Approach with sensitivity)</h2>
     </a>
     <ul>
-      <li>Sexually active: Yes/No</li>
-      <li>Number of partners:</li>
-      <li>Gender of partners:</li>
       <li>Pain during intercourse (Dyspareunia - superficial/deep):</li>
       <li>Any concerns regarding sexual function or satisfaction:</li>
       <li>History of sexual assault (if appropriate and patient is willing to
         disclose):</li>
     </ul>
-    <h3>PAST MEDICAL HISTORY:</h3>
-    <ul>
-      <li>Known medical conditions: (e.g., </li>
-      <ul>
-        <li class="obstetric">Ectopic pregnancy history</li>
-        <li>STI</li>
-        <li>PID</li>
-        <li class="obstetric">Hypertension, PIH (Pregnancy-Induced
-          Hypertension), Pre-eclampsia/Eclampsia history
-          <ul>
-            <li class="obstetric">miscarriages, </li>
-            <li class="obstetric">IUGR, </li>
-            <li class="obstetric">preterm birth</li>
-          </ul>
-        </li>
-        <li class="obstetric">GDM (Gestational Diabetes Mellitus), Diabetes
-          Mellitus
-          <ul>
-            <li class="obstetric">miscarriages, </li>
-            <li class="obstetric">congenital anomalies, </li>
-            <li class="obstetric">macrosomia</li>
-            <li>PCOS</li>
-          </ul>
-        </li>
-        <li>obesity
-          <ul>
-            <li>PCOS</li>
-            <li class="obstetric">Increased obstetric risks</li>
-          </ul>
-        </li>
-        <li>Cushing
-          <ul>
-            <li>PCOS</li>
-          </ul>
-        </li>
-        <li>androgen secreting tumors
-          <ul>
-            <li>PCOS</li>
-          </ul>
-        </li>
-        <li>Thyroid disorders (Hypo/Hyperthyroidism)
-          <ul>
-            <li>Amenorrhea</li>
-            <li>Menorrhagia</li>
-            <li class="obstetric">infertility</li>
-            <li class="obstetric">Retardation in child</li>
-            <li class="obstetric">pregnancy outcome</li>
-          </ul>
-        </li>
-        <li>Autoimmune diseases (e.g., SLE, Antiphospholipid Syndrome)
-          <ul>
-            <li class="obstetric">recurrent abortions, </li>
-            <li class="obstetric">IUGR, </li>
-            <li class="obstetric">pre-eclampsia</li>
-            <li>Vaginal bleed</li>
-          </ul>
-        </li>
-        <li>Bleeding disorders (e.g., Von Willebrand's disease)
-          <ul>
-            <li>Menorrhagia</li>
-            <li>Vaginal bleed</li>
-            <li class="obstetric">Risk of PPH</li>
-          </ul>
-        </li>
-        <li class="obstetric">Cardiac disease (may affect pregnancy management)</li>
-        <li class="obstetric">Renal disease (may affect pregnancy management)</li>
-        <li>Psychiatric illness (depression, anxiety)
-          <ul>
-            <li>Associated with PCOS</li>
-            <li>Amenorrhea</li>
-            <li class="obstetric">Postnatal depression risk</li>
-          </ul>
-        </li>
-        <li>History of TB, Syphilis, HIV:</li>
-      </ul>
-      <li>Previous significant illnesses or hospitalizations:</li>
-      <li>Childhood illnesses:</li>
-    </ul>
-    <h3>PAST SURGICAL HISTORY: (Non-gynecological)</h3>
-    <ul>
-      <li>Any other surgeries, dates, indications, complications:</li>
-    </ul>
-    <h3>TREATMENT HISTORY:</h3>
-    <ul>
-      <li>Current medications: (Prescription, over-the-counter, supplements,
-        herbal remedies - name, dose, frequency, duration)</li>
-      <li class="obstetric">Specifically ask about medications taken during
-        pregnancy or if planning pregnancy (teratogenicity).</li>
-      <li>Known drug allergies and nature of reaction:</li>
-      <li class="obstetric">History of blood transfusions: (When, why, any
-        reactions - important for Rh status and antibody history).</li>
-    </ul>
+    <details>
+      <summary class="h3">PAST MEDICAL HISTORY</summary>
+      <iframe src="Past_illness.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h3">PAST SURGICAL HISTORY: (Non-gynecological)</summary>
+      <iframe src="Past_Surgical_history.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h3">TREATMENT HISTORY</summary>
+      <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
     <h3>DRUG HISTORY</h3>
     <ul>
       <li>Hormone replacement
@@ -604,42 +387,13 @@
             respiratory depression if used near term.</li>
         </ol>
       </li>
-      <li>HERBAL REMEDIES
-        <ol>
-          <li class="obstetric">Many have unknown safety in pregnancy.</li>
-        </ol>
-      </li>
     </ul>
-    <h3>FAMILY HISTORY:</h3>
-    <ul>
-      <li>gynec cancers (</li>
-      <ul>
-        <li>ovarian, </li>
-        <li>endometrial, </li>
-        <li>cervical, </li>
-        <li>breast) </li>
-        <ul>
-          <li>relationship and </li>
-          <li>age at diagnosis)</li>
-        </ul>
-      </ul>
-      <li>other cancers?</li>
-      <ul>
-        <li><em>BRCA also causes</em></li>
-        <li>prostate </li>
-        <li>pancreatic </li>
-        <li>melanoma.</li>
-      </ul>
-      <li class="obstetric">Inherited conditions </li>
-      <ul>
-        <li class="obstetric">thalassaemia, </li>
-        <li class="obstetric">cystic fibrosis, </li>
-        <li class="obstetric">muscular dystrophy, </li>
-        <li class="obstetric">congenital abnormalities, </li>
-        <li class="obstetric">recurrent miscarriages, </li>
-      </ul>
-      <li>Consanguinity in parents?</li>
-    </ul>
+    <details>
+      <summary>HERBAL REMEDIES INTERACTIONS</summary>
+      <iframe src="HERBAL_REMEDIES_INTERACTIONS.html"></iframe> </details>
+    <details>
+      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+      <iframe src="Family_history.html" frameborder="0"></iframe> </details>
     <h3>PERSONAL HISTORY:</h3>
     <ul>
       <li>Diet: (Vegetarian/Non-vegetarian, balanced, any specific dietary
@@ -683,9 +437,14 @@
         </ul>
       </li>
     </ul>
+    <h2>SUMMARIZATION OF HISTORY</h2>
+    <ol>
+      <li>summarize what is heard so far</li>
+    </ol>
     <p><br>
     </p>
     <h3>GENERAL PHYSICAL EXAMINATION:</h3>
+    <h4>CHAPERONE</h4>
     <ol>
       <li>General appearance, conscious, coherent, cooperative, well-oriented in
         TPP.</li>
@@ -715,8 +474,7 @@
       <li>Clubbing: Yes/No (Grades)</li>
       <li>Lymphadenopathy: (Site, size, consistency, mobility, tenderness -
         cervical, axillary, inguinal, supraclavicular)</li>
-      <li>Edema: (Pitting/Non-pitting, site - pedal, sacral, generalized) <span
-
+      <li>Edema: (Pitting/Non-pitting, site - pedal, sacral, generalized) <span
           class="obstetric">(Physiological vs. pre-eclampsia)</span></li>
       <li>Thyroid gland examination: (Enlarged, nodules, tenderness)</li>
       <li class="obstetric">Breast Examination: (Signs of pregnancy:
@@ -741,6 +499,7 @@
     <p><br>
     </p>
     <h3>SYSTEMIC EXAMINATION:</h3>
+    <h4>CHAPERONE</h4>
     <h4>CARDIOVASCULAR SYSTEM (CVS):</h4>
     <ul>
       <li>Inspection: Praecordium, visible pulsations, scars.</li>
@@ -761,12 +520,9 @@
         (wheezes, crackles/crepitations, pleural rub).</li>
     </ul>
     <h4>ABDOMINAL EXAMINATION: <br>
-      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yJnyLR_I1Vw"
-
-          title="Antenatal Examination by Dr Ankur #GotAspirEd" height="864" frameborder="0"
-
+      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yJnyLR_I1Vw"
+          title="Antenatal Examination by Dr Ankur #GotAspirEd" height="864" frameborder="0"
           width="1520"> </iframe> </div>
       <br>
     </h4>
@@ -781,8 +537,7 @@
         0:12-0:15</a>), request patient to empty bladder: "also please empty
       your bladder before we start the examination" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=16s">Video
         0:16-0:20</a>). Ask patient to lie down (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=22s">Video
-        0:22</a>). Ask if patient has any pain: "Are you in pain anyway?" (<a class="timestamp"
-
+        0:22</a>). Ask if patient has any pain: "Are you in pain anyway?" (<a class="timestamp"
         href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=37s">Video 0:37</a>).</em>)
     <li><strong>Inspection:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=41s">Video
         0:41-0:57</a>)
@@ -798,8 +553,7 @@
               </ol>
             </li>
             <li class="obstetric">(Globular if pregnant, note specific
-              gestational shape). "abdomen is uniformly distended" (<a class="timestamp"
-
+              gestational shape). "abdomen is uniformly distended" (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=41s">Video
                 0:41-0:44</a>).</li>
           </ol>
@@ -810,8 +564,7 @@
             <li>everted,</li>
             <li>position,</li>
             <li>discharge,</li>
-            <li>hernia). "umbilicus is central and everted" (<a class="timestamp"
-
+            <li>hernia). "umbilicus is central and everted" (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=44s">Video
                 0:44-0:48</a>).</li>
           </ol>
@@ -844,18 +597,15 @@
     </li>
     <li><strong>Palpation (General Gynae &amp; Obstetric):</strong>
       <ol>
-        <li>General approach: Inform patient "now I'll be touching your tummy" (<a
-
+        <li>General approach: Inform patient "now I'll be touching your tummy" (<a
             class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=59s">Video
             0:59-1:01</a>). Start away from painful area if any.</li>
         <li class="obstetric">Temperature: Check for localized rise of
-          temperature. "there is no localized rise of temperature" (<a class="timestamp"
-
+          temperature. "there is no localized rise of temperature" (<a class="timestamp"
             href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=75s">Video
             1:15-1:16</a>).</li>
         <li>Superficial Palpation: Assess for tenderness, guarding, rigidity.
-          "there is no pain or tenderness on superficial palpation" (<a class="timestamp"
-
+          "there is no pain or tenderness on superficial palpation" (<a class="timestamp"
             href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=81s">Video
             1:21-1:37</a> for general superficial palpation).</li>
         <li class="obstetric">Symphysio-fundal Height (SFH) Measurement (if
@@ -873,8 +623,7 @@
             <li>Lateral Grip (Umbilical Grip):
               <ul>
                 <li>Left side: "on left laterally...I can feel a broad round
-                  structure and curved structure seems to be baby's back" (<a class="timestamp"
-
+                  structure and curved structure seems to be baby's back" (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=101s">Video
                     1:41-1:54</a>). (Determines fetal back/limbs and lie).</li>
                 <li>Right side: "all right lateral bit I can feel some irregular
@@ -886,8 +635,7 @@
               hard structure seems to be baby's head" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=129s">Video
                 2:09-2:22</a>). (To determine fetal pole at fundus).</li>
             <li>Pelvic Grip (Pawlik's Grip mentioned): "on Pawlik grip I can
-              feel a soft broad structure seems to be baby's buttocks" (<a class="timestamp"
-
+              feel a soft broad structure seems to be baby's buttocks" (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=148s">Video
                 2:28-2:36</a>). (To determine presenting part over pelvic inlet
               and engagement).</li>
@@ -936,44 +684,37 @@
     </li>
     <h4>PELVIC EXAMINATION: <br>
       <br>
-      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/vrLA8QqN7IE"
-
-          title="Per Speculum Examination: Introduction &amp; Key Points | PLAB2/UKMLA"
-
+      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/vrLA8QqN7IE"
+          title="Per Speculum Examination: Introduction &amp; Key Points | PLAB2/UKMLA"
           height="864" frameborder="0" width="1520"></iframe> </div>
       <br>
     </h4>
-    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Deu2c_VmRTY"
-
+    <h4>CHAPERONE</h4>
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Deu2c_VmRTY"
         title="Per Speculum Examination" height="864" frameborder="0" width="1520"></iframe>
     </div>
     <h4>(<em><b>Prerequisites:</b> Explain procedure and purpose: "examination
         of the internal and external genitalia organs" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=60s">Video
           1:00-1:04</a>), obtain consent, ensure chaperone is present and
-        acknowledged: "we have to have a chaperone with us" (<a class="timestamp"
-
+        acknowledged: "we have to have a chaperone with us" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=105s">Video
           1:45-1:47</a>), ensure privacy, ask patient to undress below the
         waist: "we want you to undress below the waist" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=120s">Video
           2:00</a>), and request patient to empty their bladder: "make sure you
-        tell the patient to empty the bladder very important" (<a class="timestamp"
-
+        tell the patient to empty the bladder very important" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=152s">Video
           2:32-2:37</a>). Good light source is necessary (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=264s">Video
           4:24</a>). Position patient appropriately: "patient to lie down
         comfortably on the back bring the heels as much as close to the
         bottom...bend the knees and bring the heels as much as close to the
-        border and then knees fall apart on either side of the bed" (<a class="timestamp"
-
+        border and then knees fall apart on either side of the bed" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=129s">Video
           2:09-2:22</a>)</em>)</h4>
+    <h4>CHAPERONE</h4>
     <ul>
-      <li><strong>Inspection of External Genitalia:</strong> (<a class="timestamp"
-
+      <li><strong>Inspection of External Genitalia:</strong> (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=230s">Video
           3:50-4:00</a>)
         <ol>
@@ -988,8 +729,7 @@
             <li>"looking for if there is any </li>
             <li>redness and </li>
             <li>swelling and it's [scar] mark of any previous surgery or if
-              there is any bleeding discharge coming out from the vagina" (<a class="timestamp"
-
+              there is any bleeding discharge coming out from the vagina" (<a class="timestamp"
                 href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=233s">Video
                 3:53-4:00</a>). </li>
             <li>Skin changes, lesions, ulcers, warts, erythema, excoriation,
@@ -1026,8 +766,7 @@
         lubricate well: (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=299s">Video
           4:59</a>). Hold correctly (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=280s">Video
           4:40</a>). Insert obliquely/sideways then rotate upwards: "insert it
-        in this way and when you are going in we have to rotate it upward" (<a class="timestamp"
-
+        in this way and when you are going in we have to rotate it upward" (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=303s">Video
           5:03-5:13</a>).)
         <ol>
@@ -1110,8 +849,7 @@
               labour: assess dilatation, effacement, station, position.</span></li>
           <li class="obstetric">Uterus: Size (correlate with gestational age -
             e.g., 12 wks at symphysis, 20 wks at umbilicus), shape, position
-            (anteverted/retroverted, anteflexed/retroflexed), consistency (<span
-
+            (anteverted/retroverted, anteflexed/retroflexed), consistency (<span
               class="obstetric">softens in pregnancy - Hegar's sign</span>),
             mobility, tenderness, any masses (fibroids).</li>
           <li>Adnexa (Ovaries and Fallopian Tubes): Palpable? (Ovaries often not
@@ -1126,8 +864,7 @@
         masses, rectal involvement)</li>
     </ul>
     <p class="obstetric"><em>Post-procedure: Offer patient wipes, thank them,
-        explain next steps regarding samples/results if taken. (<a class="timestamp"
-
+        explain next steps regarding samples/results if taken. (<a class="timestamp"
           href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=527s">Video
           8:47-9:09</a>)</em></p>
     <h4>CENTRAL NERVOUS SYSTEM (CNS) &amp; OTHER SYSTEMS: As indicated by
@@ -1230,8 +967,7 @@
         <li><strong>Microbiology/Pathology:</strong>
           <ul>
             <li>High Vaginal Swab (HVS) / Endocervical Swab (for infection -
-              microscopy, culture, NAAT for STIs like Chlamydia/Gonorrhea) <span
-
+              microscopy, culture, NAAT for STIs like Chlamydia/Gonorrhea) <span
                 class="obstetric">(Group B Strep screen in pregnancy).</span></li>
             <li>Cervical Smear (Pap test) / HPV testing</li>
             <li>Endometrial Biopsy (Pipelle, D&amp;C - for AUB, suspected
@@ -1376,6 +1112,6 @@
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="harsha_iframe_youtube_player.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script>
   </body>
 </html>

@@ -13,7 +13,8 @@
       <li>Number of Doses taken</li>
       <li>Mode</li>
       <li>Volume of each dose taken</li>
-      <li>all items taken</li>
+      <li><br>
+      </li>
       <li class="obstetric">Many have unknown safety in pregnancy.</li>
       <!-- St. John's Wort -->
       <li class="herb-name">St. John's Wort (Hypericum perforatum)

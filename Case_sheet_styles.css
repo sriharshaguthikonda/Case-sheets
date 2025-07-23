@@ -162,7 +162,6 @@ th, td {
 iframe {
     width: 108%;
     max-height: 70vh;
-    min-height: 40vh;
     margin-left: -4%;
     margin-right: -4%; 
 }
@@ -317,7 +316,7 @@ General will be empty !*/
 
 
 
-.psychiatric::before { border-left: 7px solid rgb(255, 115, 0); }
+.psychiatric{ border-left: 7px solid rgba(255, 115, 0, 0.2); }
 .git::before { background-color: #d987ff; }
 .Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
 
@@ -327,7 +326,7 @@ General will be empty !*/
 
 .infectious::after { border-left: 5px solid #4400ff; }
 
-.gynob { background-color: rgba(0, 196, 121, 0.8); } /* Kept as border-left for variety */
+.gynob { background-color: rgba(0, 196, 121, 0.2); } /* Kept as border-left for variety */
 .surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
 
 
@@ -347,7 +346,7 @@ General will be empty !*/
 
 
 
-.Nephro, .nephro { background-color: hsla(194, 100%, 50%, 0.459); }
+.Nephro, .nephro { background-color: hsla(194, 100%, 50%, 0.3); }
 
 /* Background-based classes remain as they are, as they don't conflict */
 .obstetric { border-left: 7px solid rgb(0, 190, 165); }
