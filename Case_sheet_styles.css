@@ -162,6 +162,7 @@ th, td {
 iframe {
     width: 108%;
     max-height: 70vh;
+    height: 70vh;
     margin-left: -4%;
     margin-right: -4%; 
 }
