@@ -10,14 +10,17 @@
 
 
 for all the case sheets in list of all case sheeets.html file 
-  identify list of chief complaints of just before the elaboration of first chief complaint and add Capacity_check_case_sheet_part.html
+  identify drug history and add it to the case sheet
    link in the form of iframe like this :
-     <details>
-      <summary class="h3">Capacity Check</summary>
-      <iframe src="Capacity_check_case_sheet_part.html" frameborder="0"></iframe>
+
+br
+    <details>
+      <summary class="h3">DRUG H/O : </summary>
+      <iframe src="DRUG_HISTORY.html" frameborder="0"></iframe>
     </details>
    
 
+    
 
 
 

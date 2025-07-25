@@ -2,15 +2,14 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>CVS MEDICINE CASE SHEET</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p> </p>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <p> </p>
     <iframe src="Biodata.html"></iframe>
-    <p>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</p>
+    <h3>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</h3>
     <ol>
       <li>CHEST PAIN Causes: C-MINT</li>
       <li>BREATH LESS NESS [EXERTIONAL]</li>
@@ -21,150 +20,46 @@
       <li>FATIGUE</li>
       <li>SUDDEN LIMB PAIN</li>
     </ol>
-    <p>H/O OF PRESENT ILLNESS : S,O,D, C, R, P, A/R, Timing, Ass.</p>
+    <h3>INFORM BROAD PLAN</h3>
+    <h4>
+      <li>I am going to </li>
+      <ul>
+        <li>ask questions</li>
+        <li>examine</li>
+        <li>then give you...</li>
+      </ul>
+    </h4>
+    <h3>H/O OF PRESENT ILLNESS : S,O,D, C, R, P, A/R, Timing, Ass.</h3>
     <p>OF COMPLAINT IN ORDER</p>
     <p>APPARANTLY ASX .........MONTHS BACK</p>
-    <details >
-      <summary> <a href="Chest_pain_case_sheet_part.html">1<sup>ST </sup>COMPLAINT:
+    <details>
+      <summary class="h4"> <a href="Chest_pain_case_sheet_part.html">1<sup>ST </sup>COMPLAINT:
           CHEST PAIN</a></summary>
       <iframe src="Chest_pain_case_sheet_part.html" type="text/html"></iframe> </details>
     <details>
-      <summary>2<sup>ND </sup>COMPLAINT : BREATHLESSNESS I,N of C-MINT</summary>
-      <p></p>
-      <ol>
-        <li class="grey">SITE</li>
-        <li>ONSET: </li>
-        <li>DURATION </li>
-        <li>PROGRESSION </li>
-        <li>GRADE &acirc;&euro;&ldquo; NEW YORK HEART ASSOCIATION[NYHA]
-          <ol>
-            <li>CLASS I DYSPNEA ON UNACCOUSTOMED WORK</li>
-            <li>CLASS II DYSPNEA ON ACCOUSTOMED WORK</li>
-            <li>CLASS III DYSPNEA ON &lt; N ACTIVITY</li>
-            <li>CLASS IV DYSPNEA AT REST &acirc;&euro;&ldquo; requires bed rest
-              or O2 inhalation
-              <ul>
-                <li>
-                  <ol>
-                    <li>SUBSIDES c BACK REST</li>
-                    <li>DOESN&acirc;&euro;&trade;T &acirc;&euro;&oelig; BAD Px</li>
-                  </ol>
-                </li>
-              </ul>
-            </li>
-          </ol>
-        </li>
-        <li>PND</li>
-        <li>POSTURAL -</li>
-        <ol>
-          <li>ORTHO</li>
-          <li>PLATY</li>
-          <li>TREPPOPNOEA</li>
-          <li>RT LATREAL POSTITION</li>
-          <li>LT LATREAL</li>
-        </ol>
-      </ol>
-      <ol>
-        <li>DIURINAL</li>
-        <li>SEASONAL</li>
-        <li>A/R - </li>
-      </ol>
+      <summary class="h4">2<sup>ND </sup>COMPLAINT : BREATHLESSNESS I,N of
+        C-MINT</summary>
+      <iframe src="BREATHLESSNESS_IN_of_CMINT_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <p>3<sup>RD</sup> COMPLAINT SYNCOPE=MOMENTARY LOSS OF CONSCIOUSNESS</p>
-    <table>
-      <tbody>
-        <tr>
-          <td>
-            <p><a id="HC018158"></a></p>
-            <p>Stokes-Adams attacks </p>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <table>
-      <tbody>
-        <tr>
-          <td>
-            <p><a id="P018353"></a>Episodes of <strong>ventricular</strong> <strong>asystole</strong>
-              may complicate complete heart block or Mobitz type II
-              second-degree AV block, or occur in patients with sinoatrial
-              disease (see Fig. 18.50). This may cause recurrent <strong>syncope</strong>
-              or 'Stokes-Adams' attacks.</p>
-          </td>
-        </tr>
-      </tbody>
-    </table>
     <details>
-      <summary>4<sup>TH</sup> COMPLAINT PEDAL EDEMA</summary>
-      <ol>
-        <li>SITE &acirc;&euro;&ldquo; UE/BE cellulitis</li>
-      </ol>
-      <p>FILARIASIS</p>
-      <p>DVT</p>
-      <ol>
-        <li>O</li>
-        <li>D</li>
-        <li>P</li>
-        <li>TYPE</li>
-        <li>GRADE</li>
-        <li>IN DEPENDENT AREAS &acirc;&euro;&ldquo; SACRUM</li>
-      </ol>
+      <summary class="h4">3<sup>RD</sup> COMPLAINT SYNCOPE=MOMENTARY LOSS OF
+        CONSCIOUSNESS</summary>
+      <iframe src="SYNCOPE_MOMENTARY_LOSS_OF_CONSCIOUSNESS_case_sheet_part.html"
+        frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h4">4<sup>TH</sup> COMPLAINT PEDAL EDEMA</summary>
+      <iframe src="PEDAL_EDEMA_case_sheet_part.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h4">5<sup>TH</sup> COMPLAINT PALPITATIONS</summary>
+      <iframe src="PALPITATIONS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <p>5<sup>TH</sup> COMPLAINT PALPITATIONS</p>
-    <ol>
-      <li>IR/REGULAR?</li>
-    </ol>
-    <p>IR- RAPID AF</p>
-    <p>R -ABOPT ONSET</p>
-    <p> ATRIAL</p>
-    <p> JUNCTIONAL</p>
-    <p> VT</p>
-    <ol>
-      <li>A/R</li>
-      <li>ASSOCIATE c SYNCOPE </li>
-    </ol>
-    <p>POLYURIA</p>
-    <ol>
-      <li>DRUGS - SYMPATHOMYMETICS</li>
-    </ol>
-    <p> DIGOXIN</p>
-    <p> VASODIALATORS</p>
-    <ol>
-      <li>.</li>
-    </ol>
-    <p>6<sup>TH</sup> COMPLAINT COUGH I,N of C-MINT</p>
-    <ol>
-      <li>Type: DRY/PRODUCTIVE =&gt; SITE :</li>
-      <li>ONSET:</li>
-      <li>DURATION:</li>
-      <li>A/R :
-        <ol>
-          <li>DIURINAL VARIATIONS</li>
-          <li>SEASONAL</li>
-          <li>POSITIONAL side</li>
-        </ol>
-      </li>
-    </ol>
-    <p>SPUTUM</p>
-    <ol>
-      <li>QUANTITY</li>
-      <li>CHARACTER</li>
-      <li>COLOUR</li>
-      <li>ODOUR</li>
-      <li>ANY BLOOD</li>
-    </ol>
-    <p>7<sup>RD </sup>COMPLAINT : HAEMOPTYSIS</p>
-    <ol>
-      <li>DURATION</li>
-      <li>FREQUENCY</li>
-      <li>TYPE
-        <ol>
-          <li>streaky</li>
-          <li>frank blood</li>
-          <li>clots with cough/vomiting</li>
-        </ol>
-      </li>
-    </ol>
+    <details>
+      <summary class="h4">6<sup>TH</sup> COMPLAINT COUGH I,N of C-MINT</summary>
+      <iframe src="COUGH_IN_of_CMINT_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h4">7<sup>RD </sup>COMPLAINT : HAEMOPTYSIS</summary>
+      <iframe src="HAEMOPTYSIS_case_sheet_part.html" frameborder="0"></iframe> </details>
     <p>H/O FEVER</p>
     <p>H/O CYANOTIC ATTACKS</p>
     <p>H/O PND</p>
@@ -174,14 +69,13 @@
     <p>ASK OTHER CARDINAL FEATURES</p>
     <p>H/O HTN</p>
     <p>H/O DM</p>
-    <p>H/O </p>
     <p>H/O JAUNDICE [VIRAL HEPATITIS]</p>
     <p>H/O FEVER</p>
     <p>H/O BLOOD TRANSFUSION[HEPATITIS]</p>
     <p>H/O TB[PERITONITIS]</p>
     <p>H/O ALCOHOL CONSUMPTION</p>
     <p>H/O HERBAL REMIDIES</p>
-    <p>DRUG H/O : </p>
+    <h3>DRUG H/O : </h3>
     <ol>
       <li>CARDIOTOXIC - anthracyclines</li>
       <li>HR</li>
@@ -196,9 +90,11 @@
       <li>b blockers</li>
       <li>CCB</li>
     </ol>
-    <h3>H/O OF PAST ILLNESS: </h3>
     <details>
-      <summary>PAST ILLNESS</summary>
+      <summary>HERBAL REMEDIES INTERACTIONS</summary>
+      <iframe src="HERBAL_REMEDIES_INTERACTIONS.html"></iframe> </details>
+    <details>
+      <summary class="h3">H/O OF PAST ILLNESS:</summary>
       <iframe src="Past_illness.html" frameborder="0"></iframe>
       <ol>
         <li>No h/o suggestive of PENICILLIN PROPHYTLAXIS</li>
@@ -214,27 +110,27 @@
         </ol>
       </li>
     </ol>
-    <p>FAMILY H/O : IF ANY DIED WHY ,HOW ? +</p>
-    <p>TREATMENT H/O:</p>
-    <p> FOR PRESENT COMPLAINT</p>
-    <p>MENSTRUAL H/O :</p>
-    <ol>
-      <li>age of menearche</li>
-      <li>Menses ir/regular</li>
-      <li>Associated pain ?</li>
-      <li>No of days ?</li>
-      <li>No.of pads</li>
-      <li>Blood/clots ?</li>
-      <li>Preganncy?</li>
-      <ol>
-        <li>pulmonary embolism</li>
-      </ol>
-      <li>Age of menopause</li>
-    </ol>
     <details>
-      <summary>PERSONAL H/O</summary>
+      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+      <iframe src="Family_history.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h3">TREATMENT HISTORY</summary>
+      <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h3">MENSTRUAL HISTORY</summary>
+      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h3">PERSONAL H/O</summary>
       <iframe src="Personal_history.html"></iframe> </details>
-    <p>GENERAL EXAMINATION :</p>
+    <br>
+    <h2>SUMMARIZATION OF HISTORY</h2>
+    <ol>
+      <li>summarize what is heard so far</li>
+    </ol>
+    <h3>GENERAL EXAMINATION :</h3>
+    <h4>CHAPERONE</h4>
     <ol>
       <li>CONSIOUS</li>
       <li>COHERENT</li>
@@ -243,6 +139,19 @@
       <li>HT</li>
       <li>WT</li>
       <li>BMI</li>
+      <ol>
+        <li>obesity</li>
+        <li>Insulin Resistance</li>
+        <li>Metabolic Syndrome</li>
+        <li>Hypertension</li>
+        <li>Diabetes Mellitus</li>
+        <li>Polycystic Ovarian Syndrome</li>
+        <li>Sleep Apnoea</li>
+        <li>Osteoarthritis</li>
+        <li>Hyperlipidemia</li>
+        <li>Fatty Liver Disease</li>
+        <li>Gastroesophageal Reflux Disease</li>
+      </ol>
       <li>WHR [WAIST HIP RATIO]</li>
       <li>GAIT</li>
       <li>ARM SPAN</li>
@@ -343,40 +252,11 @@
       </li>
     </ol>
     <p> </p>
-    <p>VITALS :</p>
-    <ol>
-      <li>TEMPERATURE : [&acirc;&dagger;&lsquo; in inflammatory swelling]</li>
-      <li>PULSE : [&acirc;&dagger;&lsquo;in inflammatory swelling]<strong>Liebermeister's
-          rule</strong>&Acirc;&nbsp;concerns the increment ratio between and
-        adult individual's cardiac frequency and temperature when in fever. Each
-        Celsius grade of&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Thermoregulation">body
-          temperature</a>increment corresponds to an 8&Acirc;&nbsp;<em>beats per
-          minute</em>&Acirc;&nbsp;increase in cardiac frequency.<a href="http://en.wikipedia.org/wiki/Liebermeister%27s_rule#cite_note-1"><sup>[1]</sup></a><a
-
-          href="http://en.wikipedia.org/wiki/Liebermeister%27s_rule#cite_note-2"><sup>[2]</sup></a>&Acirc;&nbsp;An
-        exception to this rule by creating a&Acirc;&nbsp;<strong>relative</strong>&Acirc;&nbsp;<a
-
-          href="http://en.wikipedia.org/wiki/Bradycardia">bradycardia</a>&Acirc;&nbsp;is
-        known as&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Faget_sign">Fagetsign</a>&Acirc;&nbsp;(pulse-temperature
-        dissociation) common in some diseases, especially&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Yellow_fever">yellow
-          fever</a>&Acirc;&nbsp;and salmonella typhi
-        <ol>
-          <li>RATE</li>
-          <li>RHYTHM - IR/REGULAR</li>
-          <li>CHARACTER</li>
-          <li>VOLUME</li>
-          <li>CONDITION OF VESSEL WALL</li>
-          <li>RR DELAY</li>
-          <li>RF DELAY</li>
-          <li>PULSE DEFICIT[HR-PULSE RATE] </li>
-        </ol>
-      </li>
-      <li>B.P : 4 LIMB B.P OF RT UL MEASURED IN SUPINE POSITION IS ___/___
-        MILLIMETER OF MERCURY</li>
-      <li>R.R :</li>
-      <li>SPO<sub>2</sub>:</li>
-    </ol>
+    <details>
+      <summary class="h3">VITALS</summary>
+      <iframe src="Vitals_case_sheet_part.html" frameborder="0"></iframe> </details>
     <h3>SYSTEMIC EXAMINATION :</h3>
+    <h4>CHAPERONE</h4>
     <p>EXAMINATION OF................SYSTEM </p>
     <p>EXAMINATION OF ARTERIAL SYSTEM: PULSE POSITIONS :</p>
     <ol>
@@ -514,28 +394,25 @@
     <p>GIT &acirc;&euro;&ldquo; PALPABLE LIVER[RVF], SPLEEN [IE]</p>
     <p><a id="_Hlk197975152"></a></p>
     <details>
-      <summary>MANAGEMENT PLAN</summary>
+      <summary class="h3">MANAGEMENT PLAN</summary>
       <iframe src="Management_plan.html" frameborder="0"></iframe> </details>
     <p> <strong>Aortic unfolding</strong>&Acirc;&nbsp;is an old term that was
-      used to describe the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Radiological">radiological</a>&Acirc;&nbsp;<a
-
-        href="http://en.wikipedia.org/wiki/Abnormal">abnormality</a>&Acirc;&nbsp;on&Acirc;&nbsp;<a
-
+      used to describe the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Radiological">radiological</a>&Acirc;&nbsp;<a
+        href="http://en.wikipedia.org/wiki/Abnormal">abnormality</a>&Acirc;&nbsp;on&Acirc;&nbsp;<a
         href="http://en.wikipedia.org/wiki/Chest_X-ray">chest X-ray</a>&Acirc;&nbsp;that
       show widening of the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Mediastinum">mediastinum</a>&Acirc;&nbsp;which
       might look like&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Thoracic_aortic_aneurysm">thoracic
         aortic aneurysm</a>.<a href="http://en.wikipedia.org/wiki/Aortic_unfolding#cite_note-1"><sup>[1]</sup></a>&Acirc;&nbsp;With
       aging the length increases by approximately 12% per decade, whereas the
       diameter increases by just 3% per decade. This elongation causes the
-      descending aorta to appear as a vertical shadow on the left&Acirc;&nbsp;<a
-
-        href="http://en.wikipedia.org/wiki/Heart">heart</a>&Acirc;&nbsp;border.<a
-
+      descending aorta to appear as a vertical shadow on the left&Acirc;&nbsp;<a
+        href="http://en.wikipedia.org/wiki/Heart">heart</a>&Acirc;&nbsp;border.<a
         href="http://en.wikipedia.org/wiki/Aortic_unfolding#cite_note-2"><sup>[2]</sup></a>&Acirc;&nbsp;Aortic
       unfolding, though not serious, should be differentiated from the more
       severe dissection of the&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/Aorta">aorta</a>.</p>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="theme-toggle.js"></script>
   </body>
 </html>

@@ -206,7 +206,7 @@ object {
 .point {
     display: grid;
     /* Column 1 for the Description, Column 2 for all the content */
-    grid-template-columns: auto 1fr;
+    grid-template-columns: 70% 30%;
     gap: 10px 20px; /* Row and Column gaps */
     padding: 10px 0;
     border-bottom: 1px solid #e9ecef;
@@ -225,14 +225,6 @@ object {
     color: #092842;
     margin-bottom: 10px; /* Add some space before the list starts */
 }
-
-/* This is the key change */
-.point > ul {
-    grid-column: 2; /* Place the ENTIRE list in the second column */
-    padding-left: 20px; /* Add a little indentation for clarity */
-}
-
-
 
 
 
