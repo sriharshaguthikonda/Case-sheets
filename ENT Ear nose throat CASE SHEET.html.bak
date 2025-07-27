@@ -6,37 +6,15 @@
     <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body><a href="https://www.scribd.com/doc/26094453/Ent-Case-Sheet-Proforma">this
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button><a
+      href="https://www.scribd.com/doc/26094453/Ent-Case-Sheet-Proforma">this
       case sheet is taken from the said link Ent Case Sheet Proforma | PDF |
       Human Nose | Ear</a>
     <div class="video-container"> <iframe src="https://www.youtube.com/embed/5hgOYp3Wvto"
         title="Comprehensive Ear Examination Guide | PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
         frameborder="0" width="1520"></iframe> </div>
-    <h3>PATIENT INFORMATION</h3>
-    <ul>
-      <li>Informant:</li>
-      <li>NAME:</li>
-      <li>AGE:</li>
-      <li>SEX:</li>
-      <ul>
-        <li>Females </li>
-        <ul>
-          <li>All autoimmune</li>
-        </ul>
-        <li>males </li>
-        <ul>
-          <li>Ankylosing spoldylitis</li>
-          <li>Gout<br>
-          </li>
-        </ul>
-      </ul>
-      <li>EDUCATION:</li>
-      <li>OCCUPATION:</li>
-      <li>RESIDENCE:</li>
-      <li>RELIGION:</li>
-      <li>T/D:</li>
-    </ul>
+    <iframe src="biodata.html" frameborder="0"></iframe>
     <div class="section">
       <h3>CHIEF COMPLAINTS (CHRONOLOGICAL ORDER)</h3>
       <ol>
@@ -51,28 +29,30 @@
       side and spread, or begin in both simultaneously? Is one side worse than
       the other?</p>
     <details>
-      <summary>1<sup>ST</sup> COMPLAINT: <strong>EAR PAIN (OTALGIA)</strong></summary>
+      <summary class="h4">1<sup>ST</sup> COMPLAINT: <strong>EAR PAIN (OTALGIA)</strong></summary>
       <iframe src="EAR_PAIN_OTALGIA_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary>2<sup>ND</sup> COMPLAINT: <strong>HEARING LOSS</strong></summary>
+      <summary class="h4">2<sup>ND</sup> COMPLAINT: <strong>HEARING LOSS</strong></summary>
       <iframe src="HEARING_LOSS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary>3<sup>RD</sup> COMPLAINT: <strong>TINNITUS (Ringing/Noises in
-          the Ear)</strong></summary>
+      <summary class="h4">3<sup>RD</sup> COMPLAINT: <strong>TINNITUS
+          (Ringing/Noises in the Ear)</strong></summary>
       <iframe src="TINNITUS_Ringing_Noises_in_the_Ear_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary>4<sup>TH</sup> COMPLAINT: <strong>VERTIGO / DIZZINESS</strong></summary>
+      <summary class="h4">4<sup>TH</sup> COMPLAINT: <strong>VERTIGO / DIZZINESS</strong></summary>
       <iframe src="VERTIGO_DIZZINESS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <details>
-      <summary>5<sup>TH</sup> COMPLAINT: <strong>EAR DISCHARGE (OTORRHEA)</strong></summary>
+    <details open="">
+      <summary class="h4">5<sup>TH</sup> COMPLAINT: <strong>EAR DISCHARGE
+          (OTORRHEA)</strong></summary>
       <iframe src="EAR_DISCHARGE_OTORRHEA_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary>6<sup>TH</sup> COMPLAINT: <strong>NOSE</strong></summary>
+      <summary class="h4">6<sup>TH</sup> COMPLAINT: <strong>NOSE</strong></summary>
+      <iframe src="NOSE%20Generalized%20DISCHARGE_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <div class="section">
       <h3> </h3>
@@ -112,9 +92,12 @@
     </div>
     <div class="section">
       <details>
-        <summary>TREATMENT HISTORY</summary>
+        <summary class="h3">TREATMENT HISTORY</summary>
         <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
       </details>
+      <details>
+        <summary class="h3">DRUG H/O : </summary>
+        <iframe src="DRUG_HISTORY.html" frameborder="0"></iframe> </details>
     </div>
     <div class="section">
       <h3>DRUG HISTORY</h3>
@@ -173,44 +156,32 @@
         </li>
       </ul>
     </div>
+    <details>
+      <summary>HERBAL REMEDIES INTERACTIONS</summary>
+      <iframe src="HERBAL_REMEDIES_INTERACTIONS.html"></iframe> </details>
     <div class="section">
       <h3>ALLERGY HISTORY</h3>
       <h3><br>
       </h3>
-      <h3>SEXUAL HISTORY</h3>
-      <p>Hepatitis</p>
-      <p><br>
-      </p>
-      <p> </p>
-      <p> </p>
+      <details>
+        <summary class="h3">SEXUAL HISTORY</summary>
+        <iframe src="Sexual_History_section_CASE_SHEET.html" frameborder="0"></iframe>
+      </details>
+      <li>HPV</li>
+      <ul>
+        <li>SCC of nasopharynx</li>
+        <li>mets to neck nodes</li>
+        <li> <br>
+        </li>
+      </ul>
     </div>
-    <div class="section">
-      <h3>MENSTRUAL HISTORY</h3>
-      <ol>
-        <li>pregrancy </li>
-        <ol>
-          <li>Carpel tunnel</li>
-        </ol>
-      </ol>
-      <p> </p>
-      <p> </p>
-      <p> </p>
-    </div>
-    <div class="section">
-      <h3>PERSONAL H/O:</h3>
-      <p><br>
-      </p>
-      <p><br>
-      </p>
-      <p><br>
-      </p>
-      <p><br>
-      </p>
-      <p><br>
-      </p>
-      <ol>
-      </ol>
-    </div>
+    <details>
+      <summary class="h3">MENSTRUAL HISTORY</summary>
+      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h3">PERSONAL H/O</summary>
+      <iframe src="Personal_history.html"></iframe> </details>
     <div class="section">
       <h3>TRAVEL HIISTORY</h3>
       <ol>
@@ -223,27 +194,21 @@
         <li>Duration</li>
         <li>Vaccinations</li>
       </ol>
-      <h3>FAMILY HISTORY</h3>
-      <ol>
-        <li>SIMILAR COMPLAINTS</li>
-        <li>HYPERTENSION</li>
-        <li>DIABETES</li>
-        <li>ASTHMA</li>
-        <li>BLEEDING DISORDERS</li>
-        <li>TB</li>
-        <li>SYPHILIS</li>
-        <li>MI</li>
-        <li>CANCER</li>
-        <li>AIDS</li>
-      </ol>
+      <details>
+        <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+        <iframe src="Family_history.html" frameborder="0"></iframe> </details>
     </div>
+    <br>
     <br>
     <h2>SUMMARIZATION OF HISTORY</h2>
     <ol>
       <li>summarize what is heard so far</li>
     </ol>
     <div class="section">
+      <h3><br>
+      </h3>
       <h3>GENERAL EXAMINATION</h3>
+      <h4>CHAPERONE</h4>
       <ol>
         <li>CONSIOUS</li>
         <li>COHERENT</li>
@@ -307,181 +272,186 @@
       </p>
     </div>
     <h2>Local Examination:</h2>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/ZfQoXk7eprI"
-        title="Ear Examination OSCE | Aspire PLAB/UKMLA Academy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <h4>EARS:</h4>
-    <table>
-      <thead>
-        <tr>
-          <th>Finding</th>
-          <th>Right Ear</th>
-          <th>Left Ear</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>INSPECTION:</strong></td>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>Pre-auricular Region:</td>
-          <td>[e.g., Sinus, Swelling, Scar]</td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>Auricle (Pinna):</td>
-          <td>[e.g., Size, Shape, Position, Deformity, Swelling, Redness, Bat
-            ear, Microtia, Anotia]</td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>External Auditory Canal (EAC):</td>
-          <td>[e.g., Discharge (serous, mucoid, purulent, bloody), Wax,
-            Swelling, Foreign body, Polyp, Sagging of posterosuperior wall]</td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>Tympanic Membrane (Otoscopy):</td>
-          <td>
-            <p>pinna pulling</p>
-            <ol>
-              <li>adult - up and back</li>
-              <li>infant - down and back</li>
-            </ol>
-            <ol>
-              <li>C/I : tenderness</li>
-              <li>Color ,</li>
+    <h4>CHAPERONE</h4>
+    <p></p>
+    <details>
+      <summary class="h3">EARS:</summary>
+      <h4>CHAPERONE</h4>
+      <div class="video-container"> <iframe src="https://www.youtube.com/embed/ZfQoXk7eprI"
+          title="Ear Examination OSCE | Aspire PLAB/UKMLA Academy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" frameborder="0"></iframe>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>Finding</th>
+            <th>Right Ear</th>
+            <th>Left Ear</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>INSPECTION:</strong></td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>Pre-auricular Region:</td>
+            <td>[e.g., Sinus, Swelling, Scar]</td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>Auricle (Pinna):</td>
+            <td>[e.g., Size, Shape, Position, Deformity, Swelling, Redness, Bat
+              ear, Microtia, Anotia]</td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>External Auditory Canal (EAC):</td>
+            <td>[e.g., Discharge (serous, mucoid, purulent, bloody), Wax,
+              Swelling, Foreign body, Polyp, Sagging of posterosuperior wall]</td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>Tympanic Membrane (Otoscopy):</td>
+            <td>
+              <p>pinna pulling</p>
               <ol>
-                <li>Adults - Prearly grey</li>
-                <li>Child - pink</li>
-                <li>.</li>
-                <li>congested</li>
-                <li>dull</li>
+                <li>adult - up and back</li>
+                <li>infant - down and back</li>
               </ol>
-              <li>-Position (</li>
               <ol>
-                <li>retracted</li>
-                <li>bulging/</li>
-                <li>normal), </li>
+                <li>C/I : tenderness</li>
+                <li>Color ,</li>
+                <ol>
+                  <li>Adults - Prearly grey</li>
+                  <li>Child - pink</li>
+                  <li>.</li>
+                  <li>congested</li>
+                  <li>dull</li>
+                </ol>
+                <li>-Position (</li>
+                <ol>
+                  <li>retracted</li>
+                  <li>bulging/</li>
+                  <li>normal), </li>
+                </ol>
+                <li>Cone of light (</li>
+                <ol>
+                  <li>present/</li>
+                  <li>absent/</li>
+                  <li>distorted), </li>
+                </ol>
+                <li>Perforation (</li>
+                <ol>
+                  <li>site - central/marginal/attic, </li>
+                  <li>size, </li>
+                  <li>shape, </li>
+                  <li>margins), </li>
+                </ol>
+                <li>Mobility (Siegle's speculum), </li>
+                <li>Granulations, </li>
+                <li>Cholesteatoma flakes</li>
               </ol>
-              <li>Cone of light (</li>
-              <ol>
-                <li>present/</li>
-                <li>absent/</li>
-                <li>distorted), </li>
-              </ol>
-              <li>Perforation (</li>
-              <ol>
-                <li>site - central/marginal/attic, </li>
-                <li>size, </li>
-                <li>shape, </li>
-                <li>margins), </li>
-              </ol>
-              <li>Mobility (Siegle's speculum), </li>
-              <li>Granulations, </li>
-              <li>Cholesteatoma flakes</li>
-            </ol>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>Post-auricular Region:</td>
-          <td>[e.g., Swelling, Scar, Sinus, Tenderness (Mastoid sign)]</td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><strong>PALPATION:</strong></td>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>Tragal Tenderness:</td>
-          <td>[Present/Absent]</td>
-          <td>[Present/Absent]</td>
-        </tr>
-        <tr>
-          <td>Auricular Manipulation:</td>
-          <td>[Painful/Non-painful]</td>
-          <td>[Painful/Non-painful]</td>
-        </tr>
-        <tr>
-          <td>Mastoid Tenderness:</td>
-          <td>[Present/Absent]</td>
-          <td>[Present/Absent]</td>
-        </tr>
-        <tr>
-          <td>Pre-auricular/Post-auricular Swelling:</td>
-          <td>[Consistency, Tenderness, Fluctuation]</td>
-          <td>[Consistency, Tenderness, Fluctuation]</td>
-        </tr>
-        <tr>
-          <td><strong>HEARING ASSESSMENT (Basic):</strong></td>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td>Whisper Test / Conversational Voice:</td>
-          <td>[Normal/Reduced]</td>
-          <td>[Normal/Reduced]</td>
-        </tr>
-        <tr>
-          <td>Tuning Fork Tests (Rinne's):</td>
-          <td colspan="2">[Describe Rinne's for each ear]</td>
-        </tr>
-        <tr>
-          <td>Tuning Fork Tests (Weber's):</td>
-          <td colspan="2">[Describe Weber's for each ear] lateralization, ABC
-            comparison]</td>
-        </tr>
-        <tr>
-          <td>Tuning Fork Tests (ABC):</td>
-          <td colspan="2">[Describe ABC for each ear]</td>
-        </tr>
-        <tr>
-          <td colspan="3"><strong><br>
-              Balance TEST:---- dont do for all hearing problems!<br>
-              <br>
-            </strong></td>
-        </tr>
-        <tr>
-          <td>Gait:</td>
-          <td>[Normal/Ataxic]</td>
-          <td>[Normal/Ataxic]</td>
-        </tr>
-        <tr>
-          <td>Romberg Test:</td>
-          <td>[Positive/Negative - describe if positive]</td>
-          <td>[Positive/Negative - describe if positive]</td>
-        </tr>
-        <tr>
-          <td>Marching Test:</td>
-          <td>[Positive/Negative - describe if positive]</td>
-          <td>[Positive/Negative - describe if positive]</td>
-        </tr>
-        <tr>
-          <td><strong>FISTULA TEST:</strong></td>
-          <td colspan="2">[Positive/Negative - describe if positive]</td>
-        </tr>
-      </tbody>
-    </table>
-    <br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>Post-auricular Region:</td>
+            <td>[e.g., Swelling, Scar, Sinus, Tenderness (Mastoid sign)]</td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>PALPATION:</strong></td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>Tragal Tenderness:</td>
+            <td>[Present/Absent]</td>
+            <td>[Present/Absent]</td>
+          </tr>
+          <tr>
+            <td>Auricular Manipulation:</td>
+            <td>[Painful/Non-painful]</td>
+            <td>[Painful/Non-painful]</td>
+          </tr>
+          <tr>
+            <td>Mastoid Tenderness:</td>
+            <td>[Present/Absent]</td>
+            <td>[Present/Absent]</td>
+          </tr>
+          <tr>
+            <td>Pre-auricular/Post-auricular Swelling:</td>
+            <td>[Consistency, Tenderness, Fluctuation]</td>
+            <td>[Consistency, Tenderness, Fluctuation]</td>
+          </tr>
+          <tr>
+            <td><strong>HEARING ASSESSMENT (Basic):</strong></td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>Whisper Test / Conversational Voice:</td>
+            <td>[Normal/Reduced]</td>
+            <td>[Normal/Reduced]</td>
+          </tr>
+          <tr>
+            <td>Tuning Fork Tests (Rinne's):</td>
+            <td colspan="2">[Describe Rinne's for each ear]</td>
+          </tr>
+          <tr>
+            <td>Tuning Fork Tests (Weber's):</td>
+            <td colspan="2">[Describe Weber's for each ear] lateralization, ABC
+              comparison]</td>
+          </tr>
+          <tr>
+            <td>Tuning Fork Tests (ABC):</td>
+            <td colspan="2">[Describe ABC for each ear]</td>
+          </tr>
+          <tr>
+            <td colspan="3"><strong><br>
+                Balance TEST:---- dont do for all hearing problems!<br>
+                <br>
+              </strong></td>
+          </tr>
+          <tr>
+            <td>Gait:</td>
+            <td>[Normal/Ataxic]</td>
+            <td>[Normal/Ataxic]</td>
+          </tr>
+          <tr>
+            <td>Romberg Test:</td>
+            <td>[Positive/Negative - describe if positive]</td>
+            <td>[Positive/Negative - describe if positive]</td>
+          </tr>
+          <tr>
+            <td>Marching Test:</td>
+            <td>[Positive/Negative - describe if positive]</td>
+            <td>[Positive/Negative - describe if positive]</td>
+          </tr>
+          <tr>
+            <td><strong>FISTULA TEST:</strong></td>
+            <td colspan="2">[Positive/Negative - describe if positive]</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+    </details>
     <br>
     <details>
-      <summary>NOSE &amp; PARANASAL SINUSES:</summary>
+      <summary class="h3">NOSE &amp; PARANASAL SINUSES:</summary>
       <h4>NOSE &amp; PARANASAL SINUSES:</h4>
       <p><strong>INSPECTION:</strong></p>
       <ul>
@@ -571,7 +541,7 @@
       </ul>
     </details>
     <details>
-      <summary>THROAT (ORAL CAVITY &amp; PHARYNX &amp; LARYNX):</summary>
+      <summary class="h3">THROAT (ORAL CAVITY &amp; PHARYNX &amp; LARYNX):</summary>
       <h4>THROAT (ORAL CAVITY &amp; PHARYNX &amp; LARYNX):</h4>
       <p><strong>Using Lack&acirc;&euro;&trade;s tongue depressor,</strong></p>
       <p><strong>On Inspection:</strong></p>
@@ -634,6 +604,10 @@
       <p><strong>On Palpation (Neck &amp; Oral Cavity as indicated):</strong></p>
     </details>
     <br>
+    <details>
+      <summary class="h3">CRANIAL NERVES EXAMINATION</summary>
+      <iframe src="CRANIAL_NERVES_EXAMINATION.html"></iframe> </details>
+    <br>
     <h2> Systemic Examination:</h2>
     <br>
     <div> CNS<br>
@@ -661,13 +635,9 @@
       <li>PATHOLOGICAL</li>
       <li>CLINICAL</li>
     </ol>
-    <h4>Urgency</h4>
-    <ul>
-      <li>Urgent Admission: </li>
-      <li>Urgent Referral (2 weeks): </li>
-      <li>Routine Referral: </li>
-      <li>Handling In-House: </li>
-    </ul>
+    <details>
+      <summary class="h3">MANAGEMENT PLAN</summary>
+      <iframe src="Management_plan.html" frameborder="0"></iframe> </details>
     <ul>
       <li>Initial Investigations
         <ul>
@@ -1175,7 +1145,6 @@
           </ul>
         </li>
       </ol>
-      <!-- Add similar detailed sections for Tinnitus, SSNHL, BPPV, Meniere's, etc. following NICE if possible -->
       <hr>
       <p><em>Further conditions like Tinnitus, Sudden Sensorineural Hearing Loss
           (SSNHL), Benign Paroxysmal Positional Vertigo (BPPV), and Meniere's
@@ -1199,7 +1168,7 @@
       </p>
       <p><br>
       </p>
-      1) CHRONIC SUPPURATIVE OTITIS MEDIA (CSOM)<br>
+      1) CHRONIC SUPPURATIVE OTITIS MEDIA (CSOM)<br>
       <br>
       Chief Complaints:<br>
       <br>
@@ -1261,7 +1230,7 @@
       or not, etc.<br>
       <br>
       Ask about any recent ASOM, URTI and other focal infections etc.<br>
-       Elicit any relevant positive and negative history to the complaints.<br>
+      Elicit any relevant positive and negative history to the complaints.<br>
       <br>
       Provisional Diagnosis:<br>
       <br>
@@ -1328,7 +1297,7 @@
       diurnal variations etc.<br>
       <br>
       Elicit any relevant positive and negative history to the complaints.<br>
-      Provisional Diagnosis:<br>
+      Provisional Diagnosis:<br>
       <br>
       *Case Summary*and provisional diagnosis is: Unilateral/ Bilateral
       Sinonasal Polyposis<br>
@@ -1393,7 +1362,7 @@
       diurnal variations etc.<br>
       <br>
       Elicit any relevant positive and negative history to the complaints.<br>
-      Provisional Diagnosis:<br>
+      Provisional Diagnosis:<br>
       <br>
       *Case Summary*and provisional diagnosis is: Deviated Nasal Septum with
       Caudal<br>

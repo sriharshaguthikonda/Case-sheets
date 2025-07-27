@@ -1,16 +1,13 @@
-
-
-
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>GIT MEDICINE CASE SHEET</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p><br>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <p><br>
     </p>
     <iframe src="Biodata.html"></iframe>
     <h3>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</h3>
@@ -262,7 +259,8 @@
       <iframe src="CONSTIPATION_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary class="h4">4<sup>th</sup> COMPLAINT DIFFICULTY IN SWALLOWING (DYSPHAGIA)</summary>
+      <summary class="h4">4<sup>th</sup> COMPLAINT DIFFICULTY IN SWALLOWING
+        (DYSPHAGIA)</summary>
       <iframe src="DIFFICULTY_IN_SWALLOWING_DYSPHAGIA_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
@@ -270,26 +268,26 @@
         HAEMETEMESIS</summary>
       <iframe src="HAEMETEMESIS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <details>
-      <summary class="h4">6<sup>th</sup> COMPLAINT JAUNDICE</summary>
-      <iframe src="JAUNDICE_case_sheet_part.html" frameborder="0"></iframe>
+    <details open="">
+      <summary style="color: rgb(20, 233, 222);">6<sup>th</sup> COMPLAINT
+        BLEEDING GYNAECOLOGICAL</summary>
+      <iframe src="BLEEDING_Gynaecological_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary style="color: rgb(55, 186, 226);">7<sup>th</sup> COMPLAINT
+      <summary class="h4">7<sup>th</sup> COMPLAINT JAUNDICE</summary>
+      <iframe src="JAUNDICE_case_sheet_part.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary style="color: rgb(55, 186, 226);">8<sup>th</sup> COMPLAINT
         DIARRHOEA</summary>
-      <iframe src="DIARRHOEA_case_sheet_part.html" frameborder="0"></iframe>
-    </details>
+      <iframe src="DIARRHOEA_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary class="h4">8<sup>th</sup> COMPLAINT CHEST PAIN - INDIGESTION </summary> 
-      <iframe src="Chest_pain_case_sheet_part.html"
-          frameborder="0"></iframe>
-    </details>
+      <summary class="h4">9<sup>th</sup> COMPLAINT CHEST PAIN - INDIGESTION </summary>
+      <iframe src="Chest_pain_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary class="h4">9<sup>th</sup> COMPLAINT Dysuria</summary>
-      <iframe src="Dysuria_case_sheet_part.html" frameborder="0"></iframe>
-    </details>
+      <summary class="h4">10<sup>th</sup> COMPLAINT Dysuria</summary>
+      <iframe src="Dysuria_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary class="h4">COMPLAINT: ERECTILE DYSFUNCTION (ED)</summary>
+      <summary class="h4">11<sup>th</sup> COMPLAINT: ERECTILE DYSFUNCTION (ED)</summary>
       <iframe src="ERECTILE_DYSFUNCTION_ED_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <p></p>
@@ -306,11 +304,13 @@
       <summary class="h3">TREATMENT HISTORY</summary>
       <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
     </details>
+    <details>
+      <summary class="h3">DRUG H/O : </summary>
+      <iframe src="DRUG_HISTORY.html" frameborder="0"></iframe> </details>
     <p></p>
     <details>
       <summary class="h3">H/O OF PAST ILLNESS : </summary>
       <iframe src="Past_illness.html"></iframe>
-
       <ol>
         <li>SIMILAR complaints</li>
         <li>PATIENT IS A KNOWN Hypertensive</li>
@@ -362,8 +362,6 @@
         <li>Paralysis - dysphagia</li>
       </ol>
     </details>
-
-    
     <details>
       <summary class="h3">PAST SURGICAL H/O :</summary>
       <ol>
@@ -378,7 +376,7 @@
         <li>Any other Procedure - immobilization</li>
       </ol>
     </details>
-    <details >
+    <details>
       <summary class="h3">DRUG H/O :</summary>
       <ol>
         <li><strong>Paracetamol (Acetaminophen)</strong> &ndash; High </li>
@@ -492,50 +490,86 @@
           <li>GERD</li>
         </ol>
       </ol>
-
       <h2>Drugs Commonly Causing Constipation</h2>
       <ol>
-        <li><strong>Opioid analgesics</strong> (Codeine, Morphine, Oxycodone, Tramadol)
-          <ol><li>↓ gut motility &amp; ↑ fluid absorption → hard stool / opioid‑induced constipation; risk of ileus.</li></ol>
+        <li><strong>Opioid analgesics</strong> (Codeine, Morphine, Oxycodone,
+          Tramadol)
+          <ol>
+            <li>&darr; gut motility &amp; &uarr; fluid absorption &rarr; hard
+              stool / opioid‑induced constipation; risk of ileus.</li>
+          </ol>
         </li>
         <li><strong>Anticholinergics</strong>
           <ol>
-            <li>Oxybutynin, Tolterodine, Solifenacin, Hyoscine – inhibit parasympathetic tone ↑ transit time.</li>
-            <li>Tricyclic antidepressants (Amitriptyline), Antipsychotics with anticholinergic properties (Clozapine, Olanzapine).</li>
+            <li>Oxybutynin, Tolterodine, Solifenacin, Hyoscine &ndash; inhibit
+              parasympathetic tone &uarr; transit time.</li>
+            <li>Tricyclic antidepressants (Amitriptyline), Antipsychotics with
+              anticholinergic properties (Clozapine, Olanzapine).</li>
           </ol>
         </li>
         <li><strong>Calcium Channel Blockers</strong>
-          <ol><li>Verapamil ► greatest risk; Diltiazem &amp; Amlodipine less so.</li></ol>
+          <ol>
+            <li>Verapamil ► greatest risk; Diltiazem &amp; Amlodipine less so.</li>
+          </ol>
         </li>
         <li><strong>Iron Supplements</strong>
-          <ol><li>Ferrous sulphate, ferrous fumarate – hard, black stools; advise hydration + fibre.</li></ol>
+          <ol>
+            <li>Ferrous sulphate, ferrous fumarate &ndash; hard, black stools;
+              advise hydration + fibre.</li>
+          </ol>
         </li>
         <li><strong>Aluminium‑based Antacids</strong>
-          <ol><li>Aluminium hydroxide, Sucralfate – alter intestinal fluid balance.</li></ol>
+          <ol>
+            <li>Aluminium hydroxide, Sucralfate &ndash; alter intestinal fluid
+              balance.</li>
+          </ol>
         </li>
-        <li><strong>Calcium Supplements / Vitamin D combinations</strong>
-          <ol><li>Calcium carbonate, calcium citrate – bind stool water, slow transit.</li></ol>
+        <li><strong>Calcium Supplements / Vitamin&nbsp;D combinations</strong>
+          <ol>
+            <li>Calcium carbonate, calcium citrate &ndash; bind stool water,
+              slow transit.</li>
+          </ol>
         </li>
         <li><strong>5‑HT<sub>3</sub> Antagonists (anti‑emetics)</strong>
-          <ol><li>Ondansetron, Granisetron – marked slowing of colonic transit.</li></ol>
+          <ol>
+            <li>Ondansetron, Granisetron &ndash; marked slowing of colonic
+              transit.</li>
+          </ol>
         </li>
         <li><strong>Antiepileptics</strong>
-          <ol><li>Gabapentin, Pregabalin – reduce GI motility in some patients.</li></ol>
+          <ol>
+            <li>Gabapentin, Pregabalin &ndash; reduce GI motility in some
+              patients.</li>
+          </ol>
         </li>
         <li><strong>First‑generation Antihistamines (H<sub>1</sub> blockers)</strong>
-          <ol><li>Promethazine, Chlorphenamine – anticholinergic activity.</li></ol>
+          <ol>
+            <li>Promethazine, Chlorphenamine &ndash; anticholinergic activity.</li>
+          </ol>
         </li>
         <li><strong>Antispasmodics</strong>
-          <ol><li>Mebeverine, Dicycloverine – parasympatholytic effect can harden stools.</li></ol>
+          <ol>
+            <li>Mebeverine, Dicycloverine &ndash; parasympatholytic effect can
+              harden stools.</li>
+          </ol>
         </li>
-        <li><strong>Parkinson’s Disease Drugs</strong>
-          <ol><li>Levodopa/carbidopa, Dopamine agonists – autonomic dysfunction + reduced motility.</li></ol>
+        <li><strong>Parkinson&rsquo;s Disease Drugs</strong>
+          <ol>
+            <li>Levodopa/carbidopa, Dopamine agonists &ndash; autonomic
+              dysfunction + reduced motility.</li>
+          </ol>
         </li>
         <li><strong>Diuretics (indirect)</strong>
-          <ol><li>Loop &amp; thiazide diuretics; fluid loss → constipation if hydration inadequate.</li></ol>
+          <ol>
+            <li>Loop &amp; thiazide diuretics; fluid loss &rarr; constipation if
+              hydration inadequate.</li>
+          </ol>
         </li>
       </ol>
     </details>
+    <details>
+      <summary>HERBAL REMEDIES INTERACTIONS</summary>
+      <iframe src="HERBAL_REMEDIES_INTERACTIONS.html"></iframe> </details>
     <details>
       <summary class="h3">Allergy History (GIT)</summary>
       <ol>
@@ -625,36 +659,28 @@
       <summary class="h3">MENSTRUAL HISTORY</summary>
       <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <details >
+    <details>
       <summary class="h3"><a href="Personal_history.html">PERSONAL H/O:</a></summary>
       <iframe src="Personal_history.html" frameborder="0"></iframe> </details>
-    <h3>MARITAL STATUS :</h3>
-    <h3>CHILDREN :</h3>
-    <p>FAMILY H/O :</p>
-    <ol>
-      <li>SIMILAR COMPLAINTS
-        <ol>
-          <li>WILSONS </li>
-          <li>Gilberts</li>
-          <li>Hemochromatosis</li>
-        </ol>
-      </li>
-      <li>DM</li>
-      <li>HTN</li>
-      <li>TB</li>
-      <li>ASTHMA</li>
-      <li>BLLEEDING DISORDERS</li>
-    </ol>
-    <p>OCCUPATIONAL H/O:</p>
+    <br>
+    <details>
+      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+      <iframe src="Family_history.html" frameborder="0"></iframe> </details>
+    <br>
     <p>TRAVEL H/O:</p>
     <ul>
       <li>Location</li>
       <li>Duration</li>
       <li>Vaccinations</li>
     </ul>
+    <br>
     <h2>SUMMARIZATION OF HISTORY</h2>
     <ol>
       <li>summarize what is heard so far</li>
+    </ol>
+    <p><br>
+    </p>
+    <ol>
     </ol>
     <details>
       <summary class="h3">GENERAL EXAMINATION :</summary>
@@ -723,9 +749,9 @@
     <br>
     <details>
       <summary class="h3">SYSTEMIC EXAMINATION</summary>
-      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/q3A0QIX7zt4?enablejsapi=1"
-          title="Abdominal Examination | Aspire PLAB/UKMLA Academy" height="949"
+      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/q3A0QIX7zt4?enablejsapi=1"
+          title="Abdominal Examination | Aspire PLAB/UKMLA Academy" height="949"
           frameborder="0" width="1976"></iframe> </div>
       <h4>Chaperone</h4>
       <br>
@@ -762,7 +788,7 @@
             <li>Dupuytren's contracture. (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=58s">Video
                 0:58-1:01</a>)</li>
             <li>Turn over hands (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=61s">Video
-                1:01</a>): Nail changes (koilonychia, leukonychia). (<a class="timestamp"
+                1:01</a>): Nail changes (koilonychia, leukonychia). (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=63s">Video
                 1:03-1:07</a>)</li>
             <li>Finger clubbing (Shamroth's sign). (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=67s">Video
@@ -779,14 +805,14 @@
         <li><strong>Eyes:</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=90s">Video
             1:30</a>)
           <ul>
-            <li>Conjunctival pallor (pull eyelids down, patient looks up). (<a class="timestamp"
+            <li>Conjunctival pallor (pull eyelids down, patient looks up). (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=90s">Video
                 1:30-1:37</a>)</li>
             <li>Scleral icterus (patient looks down). (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=97s">Video
                 1:37-1:43</a>)</li>
           </ul>
         </li>
-        <li><strong>Mouth:</strong> Patient opens mouth, lifts tongue. (<a class="timestamp"
+        <li><strong>Mouth:</strong> Patient opens mouth, lifts tongue. (<a class="timestamp"
             href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=103s">Video
             1:43-1:51</a>)
           <ul>
@@ -841,7 +867,7 @@
               </ol>
             </li>
             <li>ANY ENGORGED VEINS: (e.g., caput medusae).</li>
-            <li>UMBLICUS: "amus [umbilicus] is centrally placed and inverted". (<a
+            <li>UMBLICUS: "amus [umbilicus] is centrally placed and inverted". (<a
                 class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=185s">Video
                 3:05-3:09</a>)
               <ol>
@@ -862,7 +888,7 @@
                 <li>Pigmentation</li>
               </ol>
             </li>
-            <li>VISIBLE PULSATIONS: "no visible pulsation in the tummy". (<a class="timestamp"
+            <li>VISIBLE PULSATIONS: "no visible pulsation in the tummy". (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=193s">Video
                 3:13-3:16</a>)
               <ol>
@@ -884,9 +910,9 @@
           </ol>
         </li>
         <li>PALPATION: (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=196s">Video
-            3:16</a>) Ask patient if they have pain anywhere before starting (<a
+            3:16</a>) Ask patient if they have pain anywhere before starting (<a
             class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=199s">Video
-            3:19</a>). Look at patient's face for tenderness. (<a class="timestamp"
+            3:19</a>). Look at patient's face for tenderness. (<a class="timestamp"
             href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=207s">Video
             3:27</a>)
           <ol>
@@ -894,7 +920,7 @@
               (S-shaped formation mentioned). (<a class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=204s">Video
                 3:24-3:40</a>)
               <ol>
-                <li>"no tenderness on superficial palpation". (<a class="timestamp"
+                <li>"no tenderness on superficial palpation". (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=225s">Video
                     3:45-3:50</a>)</li>
                 <li>Surface temperature (dorsum of fingers) - not explicitly
@@ -910,7 +936,7 @@
                 <li>Any localized mass.</li>
                 <li>Direction of flow in prominent veins (if present).</li>
                 <li>Divarication of recti.</li>
-                <li>Any pulsations (e.g., expansile for AAA). (<a class="timestamp"
+                <li>Any pulsations (e.g., expansile for AAA). (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=397s">Video
                     6:37-6:50 for Aorta palpation</a>)</li>
               </ol>
@@ -931,7 +957,7 @@
                 </li>
                 <li><strong>Spleen:</strong> Start from right iliac fossa (as
                   spleen enlarges towards RIF). Patient breathes in and out, go
-                  in when patient breathes in. "I cannot feel spleen as well". (<a
+                  in when patient breathes in. "I cannot feel spleen as well". (<a
                     class="timestamp" href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=331s">Video
                     5:31-6m10s</a>)</li>
                 <li><strong>Kidneys (Ballotment):</strong> One hand posteriorly,
@@ -971,7 +997,7 @@
           <ol>
             <li><strong>Bowel Sounds:</strong> "I can hear the bowel sound".
               Listen in one or more quadrants. Note character. "before we say
-              absence bowel sound we have to hear at least for 2 minutes". (<a class="timestamp"
+              absence bowel sound we have to hear at least for 2 minutes". (<a class="timestamp"
                 href="https://www.youtube.com/watch?v=q3A0QIX7zt4&amp;t=550s">Video
                 9:10-9m20s</a>)</li>
             <li><strong>Bruits:</strong> (Renal, aortic, iliac - for vascular
@@ -988,9 +1014,9 @@
           </ul>
         </li>
       </ol>
-      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wlwXTnYKqmA"
-          title="Per Rectal Examination (PR) - OSCE Guide" height="949" frameborder="0"
+      <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wlwXTnYKqmA"
+          title="Per Rectal Examination (PR) - OSCE Guide" height="949" frameborder="0"
           width="1792"></iframe> </div>
       <br>
       <ol>
@@ -1006,10 +1032,10 @@
                   finger in your back passage." (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=26s">Video
                     0:26-0:31</a>)</li>
                 <li>Patient position: "Patient should be lying down on the left
-                  lateral position... bring their knees towards the chest." (<a
+                  lateral position... bring their knees towards the chest." (<a
                     class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=31s">Video
                     0:31-0:43</a>)</li>
-                <li>Exposure: "Patient has to undress below the waist." (<a class="timestamp"
+                <li>Exposure: "Patient has to undress below the waist." (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=46s">Video
                     0:46-0:49</a>)</li>
                 <li>Chaperone: "We have a chaperone to ensure the patient
@@ -1020,7 +1046,7 @@
             </li>
             <li><em><b>Procedure Steps:</b></em>
               <ol>
-                <li>Ensure you are gloved and have lubricant gel. (<a class="timestamp"
+                <li>Ensure you are gloved and have lubricant gel. (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=57s">Video
                     0:57-1:02</a>)</li>
                 <li>Apply anesthetic jelly to the anus. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=73s">Video
@@ -1028,13 +1054,13 @@
                 <li>Advise waiting a minute for the jelly to work and the anal
                   sphincter to relax. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=77s">Video
                     1:17-1:30</a>)</li>
-                <li>Inform the patient before inserting the finger. (<a class="timestamp"
+                <li>Inform the patient before inserting the finger. (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=90s">Video
                     1:30-1:34</a>)</li>
-                <li>Assess Anal Tone: Ask the patient to squeeze your finger. (<a
+                <li>Assess Anal Tone: Ask the patient to squeeze your finger. (<a
                     class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=94s">Video
                     1:34-1:38</a>)</li>
-                <li>Assess for Prolapse: Ask the patient to cough. (<a class="timestamp"
+                <li>Assess for Prolapse: Ask the patient to cough. (<a class="timestamp"
                     href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=101s">Video
                     1:41-1:43</a>)</li>
                 <li>Systematic Palpation:
@@ -1044,7 +1070,7 @@
                     <li>Palpate Prostate (anteriorly): (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=111s">Video
                         1:51-1:56</a>)
                       <ul>
-                        <li>Feel for both lobes of the prostate. (<a class="timestamp"
+                        <li>Feel for both lobes of the prostate. (<a class="timestamp"
                             href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=119s">Video
                             1:59-2:02</a>)</li>
                         <li>Feel for the median sulcus. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=122s">Video
@@ -1055,7 +1081,7 @@
                         <li>Abnormal findings (BPH): Enlarged lobes, median
                           sulcus very deep. (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=132s">Video
                             2:12-2:20</a>)</li>
-                        <li>Abnormal findings (Cancer): Surface is quite hard. (<a
+                        <li>Abnormal findings (Cancer): Surface is quite hard. (<a
                             class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=140s">Video
                             2:20-2:26</a>)</li>
                       </ul>
@@ -1091,7 +1117,7 @@
       <li>PATHOLOGICAL</li>
       <li>CLINICAL</li>
     </ol>
-    <details >
+    <details>
       <summary class="h3">MANAGEMENT PLAN</summary>
       <h4>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -1270,6 +1296,6 @@
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script>
   </body>
 </html>

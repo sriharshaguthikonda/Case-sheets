@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Universal Teaching Station</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h2>TEACHING STATION FRAMEWORK</h2>
+    <p><i>A universal guide for conducting any examination or procedure in a
+        teaching setting.</i></p>
+    <!-- Phase 0: Learning Contract -->
+    <!-- (Added to ensure clear objectives & tailored teaching) -->
+    <h3 class="h3">Phase&nbsp;0: Agree the Learning Agenda</h3>
+    <details open="">
+      <summary><strong>0. Clarify Objectives &amp; Baseline</strong></summary>
+      <ul>
+        <li><b>Establish Learner Needs:</b> Ask the student what parts of the
+          skill they feel least confident about.</li>
+        <li><b>Set Specific Outcomes:</b> "By the end of this session you should
+          be able to list the steps, demonstrate safe technique, and explain
+          positive/negative findings."</li>
+        <li><b>Check Prior Experience:</b> "Have you practised this on
+          mannequins or patients before?"</li>
+        <li><b>Identify Preferred Learning Style / Accessibility Needs:</b>
+          Visual, hands‑on, verbal, etc.</li>
+      </ul>
+    </details>
+    <!-- Phase 1: Pre-Procedure Protocol -->
+    <h3 class="h3">Phase&nbsp;1: Pre‑Procedure Protocol (The Setup)</h3>
+    <details open="">
+      <summary><strong>1. Introduction &amp; Identification</strong></summary>
+      <ul>
+        <li>Greet the patient warmly.</li>
+        <li>State your name and role clearly (e.g., "I'm Dr. Smith, a senior
+          doctor.").</li>
+        <li>Introduce the student by name and their role (e.g., "This is Alex, a
+          third‑year medical student working with me today.").</li>
+        <li>Confirm patient's identity (e.g., "Could you please confirm your
+          full name and date of birth for me?").</li>
+      </ul>
+    </details>
+    <details open="">
+      <summary><strong>2. Explanation &amp; Consent</strong></summary>
+      <ul>
+        <li><b>Explain the Indication:</b> </li>
+        <ul>
+          <li>(e.g., "To better understand your abdominal pain, we need to
+            perform an examination of your tummy.").</li>
+        </ul>
+        <li><b>Explain the Procedure:</b> </li>
+        <ul>
+          <li>Clearly .....terms. Mention what the patient will feel (e.g., "I
+            will be gently pressing on different parts of your abdomen. It
+            shouldn't be painful, but please let me know if you feel any
+            discomfort.").</li>
+        </ul>
+        <li><b>Check Contraindications:</b> </li>
+        <ul>
+          <li>(Clinician to self/student) "</li>
+          <li>recent surgery </li>
+          <li>specific conditions to be aware of?"</li>
+        </ul>
+        <li><b>Gain Verbal Consent:</b> </li>
+        <ul>
+          <li>explicitly (e.g., "Are you happy for us to proceed with the
+            examination?").</li>
+        </ul>
+        <!-- Added pointer: Signpost objectives to patient & student -->
+        <li><b>Signpost Session Objective:</b> "We'll first demonstrate the
+          technique, then answer any questions before practice."</li>
+      </ul>
+    </details>
+    <details open="">
+      <summary><strong>3. Preparation &amp; Positioning</strong></summary>
+      <ul>
+        <li><b>Offer a Chaperone:</b> "Would you feel more comfortable if we had
+          another member of staff, a chaperone, present for the examination?"</li>
+        <li><b>Ensure Adequate Exposure:</b> Explain what clothing needs to be
+          adjusted or removed and why. Provide a blanket or sheet to maintain
+          dignity.</li>
+        <li><b>Position the Patient:</b> "I'll need you to lie flat on your back
+          for this. Are you comfortable in that position?" (Adjust as needed,
+          e.g., pillows, angle of bed).</li>
+        <li><b>Check for Pain:</b> "Before we begin, are you in any pain at the
+          moment?"</li>
+        <!-- Added pointers -->
+        <li><b>Perform Hand Hygiene &amp; PPE:</b> Clean your hands and don
+          appropriate protective equipment before contact.</li>
+        <li><b>Gather &amp; Check Equipment:</b> Ensure all required tools are
+          at hand (e.g., stethoscope, watch, glass of water, exam torch).</li>
+      </ul>
+    </details>
+    <!-- Phase 2: The Core Task -->
+    <h3 class="h3">Phase&nbsp;2: The Core Procedure / Examination</h3>
+    <details open="">
+      <summary><strong>4. Perform the Core Task</strong></summary>
+      <p><i>(This is where the specific steps of the examination or procedure
+          are performed. The instructor may demonstrate first, then allow the
+          student to perform under supervision.)</i></p>
+      <ul>
+        <li>Example: Cardiovascular Examination</li>
+        <li>Example: Inserting an IV Cannula</li>
+        <li>Example: Respiratory Examination</li>
+        <!-- Added pointers -->
+        <li><b>Demonstrate First:</b> Instructor performs entire sequence while
+          verbalising key landmarks and rationale.</li>
+        <li><b>Highlight Systemic Components:</b> "Remember to inspect hands,
+          eyes, and vitals as part of a complete assessment when relevant."</li>
+        <li><b>Emphasise Patient Comfort:</b> Use minimal pressure, explain each
+          step, and monitor for discomfort.</li>
+      </ul>
+    </details>
+    <!-- Phase 3: Instructional Dialogue -->
+    <h3 class="h3">Phase&nbsp;3: Instructional Dialogue (For the Student)</h3>
+    <details open="">
+      <summary><strong>5. Explain &amp; Teach</strong></summary>
+      <p><i>(This dialogue occurs between the instructor and the student, while
+          always maintaining respect for the patient.)</i></p>
+      <ul>
+        <li><b>Demonstrate Technique:</b> "Notice how I hold the stethoscope..."</li>
+        <li><b>Explain Findings:</b> "We can hear a normal 'lub‑dub' sound,
+          which corresponds to the first and second heart sounds. I don't hear
+          any extra murmurs."</li>
+        <li><b>Ask Probing Questions:</b> "Why do you think we check for a pulse
+          in this location?" or "What would it mean if we found..."</li>
+        <li><b>Correct Technique:</b> "Try adjusting your grip slightly like
+          this for better control."</li>
+        <!-- Added pointers -->
+        <li><b>Teach‑Back Checks:</b> "Can you summarise the inspection points
+          back to me?"</li>
+        <li><b>Encourage Reflection:</b> "What part of that felt most
+          challenging to you?"</li>
+        <li><b>Link to Documentation:</b> "After the exam you'd record findings
+          under <code>Inspection</code>, <code>Palpation</code>, <code>Percussion</code>,
+          <code>Auscultation</code>."</li>
+      </ul>
+    </details>
+    <!-- Phase 4: Post-Procedure Protocol -->
+    <h3 class="h3">Phase&nbsp;4: Post‑Procedure Protocol (The Wrap‑Up)</h3>
+    <details open="">
+      <summary><strong>6. Conclusion &amp; Closure</strong></summary>
+      <ul>
+        <li><b>Thank the Patient:</b> "Thank you very much for your time and for
+          helping us with our teaching today."</li>
+        <li><b>Ensure Comfort:</b> Help the patient to get dressed or cover up.
+          Ask if they are comfortable.</li>
+        <li><b>Summarize Findings (to patient):</b> "Everything from that
+          examination seems normal." or "Based on that, we will..."</li>
+        <li><b>Address Doubts:</b> "Do you have any questions for me? (To
+          patient)" ... "Do you have any questions? (To student)"</li>
+        <!-- Added pointers -->
+        <li><b>Agree Next Steps &amp; Practice Plan (with Student):</b> Arrange
+          mannequin practice, bedside shadowing, or follow‑up assessment.</li>
+        <li><b>Provide Feedback &amp; Resources:</b> Offer quick constructive
+          feedback and direct the student to relevant guidelines or videos.</li>
+      </ul>
+    </details>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="theme-toggle.js"></script>
+  </body>
+</html>

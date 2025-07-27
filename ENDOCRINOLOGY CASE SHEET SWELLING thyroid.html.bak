@@ -2,12 +2,11 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>ENDOCRINOLOGY CASE SHEET SWELLING thyroid</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body><br>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button><br>
     <iframe src="Biodata.html"></iframe>
     <p><strong>CHIEF COMPLAINTS: CHRONLOGICAL ORDER</strong></p>
     <ol>
@@ -40,178 +39,39 @@
         <li>DM</li>
       </ol>
     </ol>
-    <p><strong>H/O OF PRESENT ILLNESS : - OF COMPLAINT IN ORDER</strong></p>
+    <h3>INFORM BROAD PLAN</h3>
+    <h4>
+      <li>I am going to </li>
+      <ul>
+        <li>ask questions</li>
+        <li>examine</li>
+        <li>then give you...</li>
+      </ul>
+    </h4>
+    <h3>H/O OF PRESENT ILLNESS : - OF COMPLAINT IN ORDER</h3>
     <p><strong>1<sup>ST</sup> COMPLAINT : SWELLING</strong></p>
     <p> </p>
     <details>
-      <summary><strong>3rd COMPLAINT: Tremor and Sweating</strong>(Neuro +
-        others)</summary>
-      <ul>
-        <li><strong>S: Site &amp; Laterality</strong>
-          <ul>
-            <li><b>Where</b> exactly is the tremor? (e.g., Hands, fingers, head,
-              jaw, legs)</li>
-            <li>Is it on <b>one side</b> (unilateral) or <b>both</b>
-              (bilateral)?</li>
-            <li>If bilateral, did it <b>start on one side</b> and then spread?</li>
-          </ul>
-        </li>
-        <li><strong>O: Onset</strong>
-          <ul>
-            <li>Was the onset <b>sudden</b> (suggests vascular like
-              hemorrhage/ischemia, trauma) or <b>gradual</b> (suggests
-              neoplastic, degenerative)?</li>
-            <li>If sudden, was there any <b>loss of consciousness</b>,
-              headache, or recent <b>trauma</b>?</li>
-          </ul>
-        </li>
-        <li><strong>D: Duration</strong>
-          <ul>
-            <li>How <b>long</b> have you had this condition (days, months,
-              years)?</li>
-            <li>How long do individual <b>episodes</b> last?</li>
-          </ul>
-        </li>
-        <li><strong>A/R: Aggravating / Relieving Factors</strong>
-          <ul>
-            <li><b>Aggravated by:</b> What makes it <b>worse</b>? </li>
-            <ul>
-              <li>Specific <strong>situations </strong>- (e.g., Stress,
-                anxiety, </li>
-              <li>fatigue, </li>
-              <li>holding a posture, </li>
-              <li>caffeine).</li>
-            </ul>
-            <li><b>Relieved by:</b> What makes it <b>better</b>? (e.g., Rest,
-              sleep, voluntary movement of the limb, alcohol).</li>
-            <li>Is the tremor present when the limb is completely at <b>rest</b>
-              (<b>Resting </b>Tremor)?</li>
-            <li>Does it appear or worsen when you <b>move</b> or reach for
-              something (Action/<b><u>Intention </u></b>Tremor)?</li>
-            <li>Does it appear when holding a <b>posture</b>, like holding arms
-              out (<strong>Postural </strong>Tremor)?</li>
-            <li>Can you describe the movement? (e.g., "<em>pill</em><b>-</b><em>rolling</em>"
-              of the fingers).</li>
-          </ul>
-        </li>
-        <li><strong>C: Character / Type</strong>
-          <ul>
-            <li>fine</li>
-            <li>coarse</li>
-            <li>athetoid</li>
-          </ul>
-        </li>
-        <li><strong>R: Radiation / Spread</strong>
-          <ul>
-            <li>Has the tremor <b>spread</b> from its original location to
-              other body parts over time?</li>
-          </ul>
-        </li>
-        <li><strong>A: Associated Symptoms</strong>
-          <ul>
-            <li>Thyroid</li>
-            <ul>
-              <li>Swelling</li>
-              <li>Pain</li>
-            </ul>
-            <li><b><em>Parkinsonian</em>:</b>&nbsp;</li>
-            <ul>
-              <li><b>Slowness</b> of movement (bradykinesia),</li>
-              <li>&nbsp;<b>stiffness</b> (rigidity),&nbsp;</li>
-              <li><b>balance problems</b> or falls, </li>
-              <li>micrographia), </li>
-              <li>soft/<b><u>monotone </u></b>speech,</li>
-              <li>&nbsp;reduced <strong>facial expression</strong>.</li>
-            </ul>
-            <li><b>Cerebellar:</b>&nbsp;</li>
-            <ul>
-              <li><b>Clumsiness</b>, difficulty with rapid movements,&nbsp;</li>
-              <li><b>unsteady "drunk-like" gait</b>, </li>
-              <li>slurred speech (<strong>dysarthria</strong>), </li>
-              <li>abnormal eye movements (<strong>nystagmus</strong>).</li>
-            </ul>
-            <li><b>Endocrine/Systemic:</b> </li>
-            <ul>
-              <li><b>Sweating</b>, </li>
-              <li>palpitations,&nbsp;</li>
-              <li><b>weight loss</b>,</li>
-              <li>&nbsp;heat intolerance, </li>
-              <li>anxiety, </li>
-              <li>changes in appetite.</li>
-            </ul>
-            <li><b>Cortical (Stroke/Lesion):</b> </li>
-            <ul>
-              <li>Weakness,</li>
-              <li>&nbsp;numbness,&nbsp;</li>
-              <li><b>speech problems</b> (aphasia), </li>
-              <li>confusion, </li>
-              <li>seizures, </li>
-              <li>incontinence.</li>
-            </ul>
-          </ul>
-        </li>
-        <li><strong>P: Progression</strong>
-          <ul>
-            <li>How has it changed over time?
-              <ul>
-                <li><b>Very Rapid:</b> Suggests hemorrhagic or inflammatory
-                  cause.</li>
-                <li><b>Rapidly</b> progressing: Suggests malignancy.</li>
-                <li><b>Slowly</b> progressing: Suggests benign cause.</li>
-                <li><b>Regressive</b> (improving): Suggests vascular event (TIA)
-                  or inflammatory process.</li>
-                <li><b>Static</b> (unchanging): Can be post-traumatic or
-                  congenital.</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><strong>P: Pattern</strong>
-          <ul>
-            <li><b>continuous</b> or </li>
-            <li><b>intermittent</b> (comes and goes)?</li>
-            <ul>
-              <li>Pheochromocytoma</li>
-            </ul>
-            <li>Is there a pattern related to time of day or specific triggers?</li>
-          </ul>
-        </li>
-        <li><strong>E: Effect on Life</strong>
-          <ul>
-            <li>How does it <b>impact</b> daily tasks like writing, eating,
-              dressing, or work?</li>
-            <li>Does it cause social <b>embarrassment</b>?</li>
-          </ul>
-        </li>
-        <li><strong>R: Red Flags</strong>
-          <ul>
-            <li>Sudden, severe "<b>thunderclap</b>" headache.</li>
-            <li>Associated <b>fever</b> and <b>stiff neck</b>.</li>
-            <li>Sudden onset with <b>confusion</b>, weakness, or speech loss.</li>
-            <li><b>Early, frequent falls</b>.</li>
-            <li>New onset of tremor <b>after age 50</b>.</li>
-            <li>Rapid progression of symptoms.</li>
-          </ul>
-        </li>
-        <li><strong>S: Scale of Zero to 10</strong>
-          <ul>
-            <li>On a scale of 0-10, how <b>severe</b> is the tremor at its
-              worst?</li>
-          </ul>
-        </li>
-      </ul>
+      <summary class="h4"><strong>2<sup>nd</sup> COMPLAINT: Tremor and Sweating</strong>(Neuro
+        + others)</summary>
+      <iframe src="Tremor_and_Sweating_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <p><strong>3<sup>ND</sup> COMPLAINT : Weight loss</strong></p>
     <details>
-      <summary><strong>4<sup>th</sup> COMPLAINT : Tiredness</strong></summary>
+      <summary class="h4"><strong>3<sup>rd</sup> COMPLAINT : Weight loss</strong></summary>
+      <iframe src="Weight_loss_case_sheet_part.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h4"><strong>4<sup>th</sup> COMPLAINT : Tiredness</strong></summary>
       <object data="Tiredness.html">
         <p>Your browser does not support this object.</p>
       </object> </details>
-    <hr> <a href="Past_illness.html">
-      <p><strong>H/O OF PAST ILLNESS : </strong></p>
-    </a>
     <details>
-      <summary>H/O OF PAST ILLNESS</summary>
+      <summary class="h4"><strong>5<sup>th</sup> COMPLAINT : Loss of
+          consciousness</strong></summary>
+      <iframe src="SYNCOPE_MOMENTARY_LOSS_OF_CONSCIOUSNESS_case_sheet_part.html"
+        frameborder="0"></iframe> </details>
+    <hr>
+    <details>
+      <summary class="h3"> <a href="Past_illness.html">H/O OF PAST ILLNESS</a></summary>
       <object data="Past_illness.html">
         <p>Your browser does not support this object.</p>
       </object> </details>
@@ -225,11 +85,14 @@
       <li>SPLENECTOMY&Atilde;&cent;&acirc;&euro;&nbsp;&acirc;&euro;&trade;Hb
         [not Hbs] </li>
     </ol>
-    <p><strong>TREATMRNT H/O:</strong></p>
-    <p>FOR PRESENT COMPLAINT</p>
+    <details>
+      <summary class="h3"><a href="TREATMENT_HISTORY_case_sheet_part.html">TREATMENT
+          HISTORY</a></summary>
+      <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
     <p><strong>DRUG H/O:</strong></p>
     <details>
-      <summary>Tremor: Drugs &amp; Withdrawal</summary>
+      <summary class="h3">Tremor: Drugs &amp; Withdrawal</summary>
       <ul>
         <li> <strong>🔹 Drugs</strong>
           <ul>
@@ -256,11 +119,12 @@
         </li>
       </ul>
     </details>
-    <p><strong>MENSTRUAL H/O</strong></p>
-    <p><strong>MARITAL STATUS :</strong></p>
-    <p><strong>CHILDREN :</strong></p>
     <details>
-      <summary> <strong> PERSONAL H/O: Take from GIT case sheet </strong></summary>
+      <summary class="h3">MENSTRUAL HISTORY</summary>
+      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h3"> <strong> PERSONAL H/O: Take from GIT case sheet </strong></summary>
       <ol>
         <li>APPITITE:</li>
         <li>DIET </li>
@@ -384,22 +248,18 @@
         <li>PIERCINGS</li>
       </ol>
     </details>
-    <p><strong>FAMILY H/O :</strong></p>
-    <ol>
-      <li>SIMILAR COMPLAINTS</li>
-      <li>DM</li>
-      <li>HTN</li>
-      <li>TB</li>
-      <li>ASTHMA</li>
-      <li>BLLEEDING DISORDERS</li>
-    </ol>
-    <hr>
     <details>
-      <summary>GENERAL EXAMINATION</summary>
-      <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
-
-          title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
+      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+      <iframe src="Family_history.html" frameborder="0"></iframe> </details>
+    <hr> <br>
+    <h2>SUMMARIZATION OF HISTORY</h2>
+    <ol>
+      <li>summarize what is heard so far</li>
+    </ol>
+    <details>
+      <summary class="h3">GENERAL EXAMINATION</summary>
+      <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
+          title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen="" frameborder="0"></iframe> </div>
       <ol>
         <li>CONSCIOUS</li>
@@ -475,6 +335,7 @@
     </ol>
     <hr>
     <h3>LOCAL EXAMINATION</h3>
+    <h4>CHAPERONE</h4>
     <ol>
       <li><strong>INSPECTION</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=150s">Video
           2:30</a>)</li>
@@ -487,8 +348,8 @@
       <li><strong>AUSCULTATION</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=302s">Video
           5:02</a>)</li>
     </ol>
-    <details>
-      <summary>1. INSPECTION</summary>
+    <details open="">
+      <summary class="h3">1. INSPECTION</summary>
       <p><em>(we have only 2D)</em></p>
       <ol>
         <li><strong>NUMBER:</strong>
@@ -629,8 +490,8 @@
         </li>
       </ol>
     </details>
-    <details>
-      <summary>2. PALPATION</summary>
+    <details open="">
+      <summary class="h3">2. PALPATION</summary>
       <p><em>(GENTLE 3D)</em></p>
       <p><em>(Note: May spread malignancy)</em></p>
       <ol>
@@ -648,6 +509,7 @@
         <li><strong>SHAPE</strong></li>
         <li><strong>EXTENT:</strong>
           <ul>
+            <li>retrosternal extension, pemberton's test</li>
             <li>Can you get above the swelling?</li>
             <li>Can you get below the swelling?</li>
             <li>Note extent in all directions [e.g., lateral border isn&rsquo;t
@@ -698,18 +560,15 @@
         <li><strong>PLANE OF SWELLING</strong></li>
       </ol>
     </details>
-    <p><strong>REGIONAL LYMPH NODES :</strong></p>
-    <p><strong>PURCUSSION :</strong></p>
-    <p><strong>AUSCULTATION :</strConcerns
+    <h4>REGIONAL LYMPH NODES :</h4>
+    <h4>PURCUSSION :</h4>
+    <h4>AUSCULTATION :</h4>
     <hr>
-    <p><strong>ICE :<b>Ideas</b>, Converns, <em>Expectations</em></strong></p>
-    <p><strong>DIAGNOSIS : </strong></p>
-    <ol>
-      <li>ANATOMICAL</li>
-      <li>ETIOLOGICAL</li>
-      <li>PATHOLOGICAL</li>
-      <li>CLINICAL</li>
-    </ol>
+    <h4>ICE :<b>Ideas</b>, Concerns, <em>Expectations</em></h4>
+    <details>
+      <summary><a style="color: #ff01d5;" href="Management_plan.html">Management
+          Plan</a></summary>
+      <iframe src="Management_plan.html" frameborder="0"></iframe> </details>
     <p><strong>SOLITARY THYROID NODULE</strong></p>
     <p><strong>DEF :</strong> Circumscribed swelling in therwise impalpable
       gland </p>
@@ -723,9 +582,9 @@
       <li> <br>
       </li>
     </ol>
-    <p><strong>TREATMENT : FOR THIS PATIENT</strong></p>
+    <h3>TREATMENT : FOR THIS PATIENT</h3>
     <details>
-      <summary><strong>INDICATIONS FOR SURGERY IN MNG</strong></summary>
+      <summary class="h3"><strong>INDICATIONS FOR SURGERY IN MNG</strong></summary>
       <p>Multinodular Goitre (MNG) alone is not an indication for surgery.
         Surgery is considered based on specific clinical factors:</p>
       <ol>
@@ -758,7 +617,7 @@
       </ol>
     </details>
     <details>
-      <summary><strong>Types of Surgeries</strong></summary>
+      <summary class="h3"><strong>Types of Surgeries</strong></summary>
       <ol>
         <li>Excision</li>
         <li>Isthmusectomy</li>
@@ -789,9 +648,7 @@
       <p>Not done because of recurrence (most nodules occur at junction of lobe,
         isthmus)</p>
       <h3>4. Hemi Thyroidectomy</h3>
-      <!-- No additional details provided in original content -->
       <h3>5. Partial Thyroidectomy</h3>
-      <!-- No additional details provided in original content -->
       <h3>6. Subtotal Thyroidectomy</h3>
       <p><strong>Indications:</strong></p>
       <ul>
@@ -834,7 +691,6 @@
       </ul>
       <p>On less involved side, same amount as above is left.</p>
       <h3>8. Total Thyroidectomy</h3>
-      <!-- No additional details provided in original content -->
       <h3>9. Radical Thyroidectomy</h3>
       <p><strong>Indications:</strong></p>
       <ul>
@@ -847,7 +703,6 @@
         <li>XI nerve are excised</li>
       </ul>
       <h3>10. Modified Radical Thyroidectomy</h3>
-      <!-- No additional details provided in original content -->
       <h2>Additional Information</h2>
       <p><strong>Thyrotoxicosis = Graves Disease = Parry&rsquo;s Disease =
           Basedow&rsquo;s Disease = Diffuse Toxic Goitre = Exophthalmic Goitre</strong></p>
@@ -890,6 +745,6 @@
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script>
   </body>
 </html>

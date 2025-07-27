@@ -1,460 +1,457 @@
+/* Dark Theme CSS Version - Color Inverted (except white/black) */
 
-
-
-/* i think box shadow is the only thing you need to use that to highlight different classes even if there are multiple of them even if they don't overlap. */
-
-
-/* Base Styles */
+/* Base Styles - Dark Theme */
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #f8f8f8;
-    font-size: 12.0pt;
-    line-height: 1.4;
-    padding: 0 4%;
+    font-family: 'Times New Roman', Times, serif!important;
+    background-color: #070707!important; /* Inverted from #f8f8f8 */
+    color: #ffffff!important; /* Keep white as white */
+    font-size: 12.0pt!important;
+    line-height: 1.4!important;
+    padding: 0 4%!important;
 }
 
-
-/* Typography */
+/* Typography - Dark Theme */
 h1 {
-    font-size: 18.0pt;
-    align-items: center;
+    font-size: 18.0pt!important;
+    align-items: center!important;
+    color: #ffffff!important; /* Keep white as white */
 }
 h2 {
-    color: #ff9901; 
-    font-size: 16.0pt;
-    font-weight: bold;
+    color: #2962ff!important; /* Inverted from #ff9901 */
+    font-size: 16.0pt!important;
+    font-weight: bold!important;
 }
 h3 {
-    color: #ff01d5; 
-    font-size: 14.0pt;
-    font-weight: bold;
+    color: #00fe2a!important; /* Inverted from #ff01d5 */
+    font-size: 14.0pt!important;
+    font-weight: bold!important;
 }
 h4 {
-    color: #1a01ff; 
-    font-size: 12.0pt;
-    font-weight: bold;
+    color: #e5fe00!important; /* Inverted from #1a01ff */
+    font-size: 12.0pt!important;
+    font-weight: bold!important;
 }
 h5 {
-    color: #01a2ff; 
-    font-size: 10.0pt;
-    font-weight: bold;
+    color: #fe5d00!important; /* Inverted from #01a2ff */
+    font-size: 10.0pt!important;
+    font-weight: bold!important;
 }
 
 hr {
-    margin: 1em;
-    opacity: 0.1;
+    margin: 1em!important;
+    opacity: 0.9!important; /* Inverted from 0.1 */
+    border-color: #bbbbbb!important; /* Inverted from #444 */
 }
 
-
-
-
-/* Typography classes */
+/* Typography classes - Dark Theme */
 .h1 {
-    font-size: 18.0pt;
-    align-items: center;
+    font-size: 18.0pt!important;
+    align-items: center!important;
+    color: #ffffff!important; /* Keep white as white */
 }
 .h2 {
-    color: #ff9901; 
-    font-size: 16.0pt;
-    font-weight: bold;
+    color: #0019fe!important; /* Inverted from #ff9901 */
+    font-size: 16.0pt!important;
+    font-weight: bold!important;
 }
 .h3 {
-    color: #ff01d5; 
-    font-size: 14.0pt;
-    font-weight: bold;
+    color: #09ff00!important; /* Inverted from #ff01d5 */
+    font-size: 14.0pt!important;
+    font-weight: bold!important;
 }
 .h4 {
-    color: #1a01ff; 
-    font-size: 12.0pt;
-    font-weight: bold;
+    color: #e5fe00!important; /* Inverted from #1a01ff */
+    font-size: 12.0pt!important;
+    font-weight: bold!important;
 }
 .h5 {
-    color: #01a2ff; 
-    font-size: 10.0pt;
-    font-weight: bold;
+    color: #fe5d00!important; /* Inverted from #01a2ff */
+    font-size: 10.0pt!important;
+    font-weight: bold!important;
 }
 
 
 
 
-
-
+/* Links - Dark Theme */
 a {
-    color: #0066cc;
-    text-decoration: none;
-    border-bottom: 1px solid #0066cc;
-    transition: color .2s, border-color .2s;
-  }
-  
-  a:visited {
-    color: #663399;
-    border-bottom-color: #663399;
-  }
-  
-  a:hover,
-  a:focus {
-    color: #004499;
-    border-bottom-width: 2px;
-    outline: none;
-  }
-  
-  a:active {
-    color: #cc0000;
-    background-color: rgba(0,0,0,.05);
-  }
-  
+    color: #ff6600!important; /* Inverted from #0066cc */
+    text-decoration: none!important;
+    border-bottom: 1px solid #ff9933!important; /* Inverted from #0066cc */
+    transition: color .2s, border-color .2s!important;
+}
 
+a:visited {
+    color: #99cc66!important; /* Inverted from #663399 */
+    border-bottom-color: #99cc66!important; /* Inverted from #663399 */
+}
 
+a:hover,
+a:focus {
+    color: #ffbb66!important; /* Inverted from #004499 */
+    border-bottom-width: 2px!important;
+    outline: none!important;
+}
 
+a:active {
+    color: #33ffff!important; /* Inverted from #cc0000 */
+    background-color: rgba(0,0,0,.95)!important; /* Inverted from rgba(0,0,0,.05) */
+}
 
-
-
-
-
-
-
-
-/* Lists */
+/* Lists - Dark Theme */
 ol, ul {
-    margin-left: 15%;
-    padding-left: 0;
+    margin-left: 15%!important;
+    padding-left: 0!important;
 }
 
 ul {
-    list-style-type: lower-alpha;
+    list-style-type: lower-alpha!important;
 }
 
 ol {
-    list-style-type: decimal;
+    list-style-type: decimal!important;
 }
-
 
 li {
-    margin-bottom: 5px;
-    padding-left: 15px;
+    margin-bottom: 5px!important;
+    padding-left: 15px!important;
 }
-
 
 /* Layout */
 .section {
-    margin-bottom: 15px;
+    margin-bottom: 15px!important;
 }
 
-
-
-
-/* Tables */
+/* Tables - Dark Theme */
 table {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid black;
-    margin: 10px;
+    border-collapse: collapse!important;
+    width: 100%!important;
+    border: 1px solid #ffffff!important; /* Keep white as white for borders */
+    margin: 10px!important;
+    background-color: #ececec94!important; /* Inverted from #2a2a2a */
 }
 
 th, td {
-    border: 1px solid #000;
-    padding: 2px;
-    text-align: left;
-    font-size: 12.0pt;
-}
-
-
-iframe {
-    width: 108%;
-    max-height: 70vh;
-    margin-left: -4%;
-    margin-right: -4%; 
-}
-
-object {
-    width: 100%;
-    height: 70vh;
-    margin-left: -5%  ;
-}
-
-.video-container {
-    float: right;
-    position: sticky;
-
-    top: 2px;
-    left: 80%;
-    width: 60%;
-
-    z-index: 1000;
-    /* TODO: this was changed ..it did not exist before this will prevent the video from overlapping the content on left*/
-    padding-left: 30px;
-    cursor: move; /* Indicates draggable */
-}
-
-.video-container iframe {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
-}
-
-.video-container.shrunk {
-    left: 30%;
-    width: 75%;
-}
-
-
-
-
-/* point and actual question - REVISED LAYOUT */
-
-.point {
-    display: grid;
-    /* Column 1 for the Description, Column 2 for all the content */
-    grid-template-columns: auto 1fr;
-    gap: 10px 20px; /* Row and Column gaps */
-    padding: 10px 0;
-    border-bottom: 1px solid #e9ecef;
-}
-
-.description { 
-    grid-column: 1; /* Place in the first column */
-    /* Neon-like glow effect */
-    color: #7ec200; 
-    font-weight: bold; 
-}
-
-.verbal {
-    grid-column: 2; /* Place in the second column */
-    font-style: italic;
-    color: #092842;
-    margin-bottom: 10px; /* Add some space before the list starts */
-}
-
-/* This is the key change */
-.point > ul {
-    grid-column: 2; /* Place the ENTIRE list in the second column */
-    padding-left: 20px; /* Add a little indentation for clarity */
-}
-
-
-
-
-
-
-
-/* SEXES */
-.female {
-    background-color: rgba(0, 153, 38, 0.2);
-}
-
-.male {
-    background-color: rgba(255, 182, 193, 0.2);
-}
-
-.pediatric {
-    background-color: rgba(129, 0, 108, 0.2);
-}
-
-
-
-
-
-
-
-
-
-/*SYSTEMS*/
-
-
-
-/* 2. UNIFORM INDICATOR STYLING USING ::before */
-li {
-    position: relative;
-    padding-left: 35px; /* Space for the indicator */
-    border: none;
-    box-shadow: none;
-    border-radius: 0;
-    margin-bottom: 5px;
-}
-
-/* The base style for all indicator bars */
-li::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 5px; /* Uniform width for all indicators */
-    border-left: 5px  ;
-    border-right: 5px  ;
-    background-color: transparent; /* Default to no color */
-}
-/* The base style for all indicator bars */
-li::after {
-    content: '';
-    position: absolute;
-    left: 15px;
-    top: 0;
-    bottom: 0;
-    width: 5px; /* Uniform width for all indicators */
-    border-left: 5px  ;
-    border-right: 5px  ;
-    background-color: transparent; /* Default to no color */
-}
-
-
-/* Border-based classes converted to ::before 
-General will be empty !*/
-.General { 
-}
-
-
-
-.cvs { background-color: rgba(0, 221, 203, 0.27); }
-
-
-.oncology { box-shadow: -12px 0 0 0 rgb(0, 255, 255); }
-
-
-.rheumatic {  box-shadow: -6px 0 0 0 rgb(157, 255, 0); }
-
-
-
-
-.psychiatric{ border-left: 7px solid rgba(255, 115, 0, 0.2); }
-.git::before { background-color: #d987ff; }
-.Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
-
-.derma::after { border-left: 5px solid #378eff; }
-.hematology::after ,.hematologic::after{ background-color: rgba(0, 255, 255); }
-.Endocrine::after, .endocrine::after { border-right: 5px solid rgb(204, 20, 164); }
-
-.infectious::after { border-left: 5px solid #4400ff; }
-
-.gynob { background-color: rgba(0, 196, 121, 0.2); } /* Kept as border-left for variety */
-.surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
-
-
-
-
-
-/* Box-shadow-based classes converted to ::before */
-.cns { 
-    border-right: 5px solid rgb(0, 17, 255);
- }
-
-.ent, .Ent { 
-    box-shadow: 7px 0 0 0 rgb(0, 199, 99);
-}
-.emergency { box-shadow: 20px 0 0 0 rgb(0, 255, 255); }    
-
-
-
-
-.Nephro, .nephro { background-color: hsla(194, 100%, 50%, 0.3); }
-
-/* Background-based classes remain as they are, as they don't conflict */
-.obstetric { border-left: 7px solid rgb(0, 190, 165); }
-.gynaecology { background-color: rgba(24, 128, 59, 0.2); }
-.ortho-specific { background-color: rgba(0, 0, 0, 0.199); }
-.ophthalmology { background-color: rgba(0, 0, 0, 0.2); }
-
-.Sexual_history_section {
-    background-color: rgba(218, 247, 235, 0.4);
-    margin: 35px 0;
-    padding: 15px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*COMPLAINTS*/
-.confusion {
-  background-color: rgba(25, 0, 255, 0.2);
-}
-
-.section-title {
-    border-bottom: 1px solid #ccc; font-size: 13.0pt; font-weight: bold; margin-bottom: 10; margin-top: 20; padding-bottom: 3px
-}
-
-
-
-details {
-    height: auto;
-    width: 100%;
-    /* No borders, just a subtle shadow */
-    box-shadow: 0 0 3px rgba(0,0,0,0.1);
-    margin-bottom: 15px; 
-    padding: 3px 5px;
-    margin-left: -0.1cm;
-}
-
-/* details iframe {
-  width: 110%;
-  height: 50%;
-} */
-
-
-
-summary {
-    color: #1900ff; 
-  font-family: "times new roman", times, serif; 
-  font-size: 13.0pt; 
-  font-weight: bold
-}
-
-summary:hover {
-    background-color: #f5f5f5
-}
-
-
-.section-title {
-    border-bottom: 1px solid #ccc; color: #333; font-size: 13.0pt; font-weight: bold; margin-bottom: 10; margin-top: 15px; padding-bottom: 3px
-}
-
-
-
-
-
-
-/*COLOURS*/
-
-.grey {
-    color: #9b9b9b
-}
-
-
-.Red {
-    color: rgb(0, 214, 203)
-}
-
-.green {
-    color: #8400ff; font-weight: bold
-}
-
-
-
-td {
-    font-size: 12.0pt
+    border: 1px solid #ffffff!important; /* Keep white as white for borders */
+    padding: 2px!important;
+    text-align: left!important;
+    font-size: 12.0pt!important;
+    background-color: #d5d5d5!important; /* Inverted from #2a2a2a */
+    color: #000000!important; /* Keep black as black */
 }
 
 th {
-    font-size: 13.0pt
+    background-color: #ebebeb!important; /* Inverted from #333 */
+    color: #000000!important; /* Keep black as black */
+    font-size: 13.0pt!important;
+}
+
+/* Media Elements */
+iframe {
+    width: 108%!important;
+    max-height: 70vh!important;
+    height: 70vh!important;
+    margin-left: -4%!important;
+    margin-right: -4%!important; 
+    border: 1px solid #bbbbbb!important; /* Inverted from #444 */
+}
+
+object {
+    width: 100%!important;
+    height: 70vh!important;
+    margin-left: -5%!important;
+    border: 1px solid #bbbbbb!important; /* Inverted from #444 */
+}
+
+.video-container {
+    float: right!important;
+    position: sticky!important;
+    top: 2px!important;
+    left: 80%!important;
+    width: 60%!important;
+    z-index: 1000!important;
+    padding-left: 30px!important;
+    cursor: move!important;
+}
+
+.video-container iframe {
+    width: 100%!important;
+    height: auto!important;
+    aspect-ratio: 16 / 9!important;
+}
+
+.video-container.shrunk {
+    left: 30%!important;
+    width: 75%!important;
+}
+
+/* Point and actual question - REVISED LAYOUT - Dark Theme */
+.point {
+    display: grid!important;
+    grid-template-columns: 70% 30%!important;
+    gap: 10px 20px!important;
+    padding: 10px 0!important;
+    border-bottom: 1px solid #bbbbbb!important; /* Inverted from #444 */
+}
+
+.description { 
+    grid-column: 1!important;
+    color: #6f11ff!important; /* Inverted from #90ee90 */
+    font-weight: bold!important; 
+}
+
+.verbal {
+    grid-column: 2!important;
+    font-style: italic!important;
+    color: #4b1805!important; /* Inverted from #87ceeb */
+    margin-bottom: 10px!important;
+}
+
+/* SEXES - Dark Theme */
+.female {
+    background-color: rgba(255, 102, 217, 0.4)!important; /* Inverted from rgba(0, 153, 38, 0.4) */
+}
+
+.male {
+    background-color: rgba(0, 73, 62, 0.4)!important; /* Inverted from rgba(255, 182, 193, 0.4) */
+}
+
+.pediatric {
+    background-color: rgba(126, 255, 147, 0.4)!important; /* Inverted from rgba(129, 0, 108, 0.4) */
 }
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SYSTEMS - Dark Theme */
+li {
+    position: relative!important;
+    padding-left: 35px!important;
+    border: none!important;
+    box-shadow: none!important;
+    border-radius: 0!important;
+    margin-bottom: 5px!important;
+}
+
+li::before {
+    content: ''!important;
+    position: absolute!important;
+    left: 0!important;
+    top: 0!important;
+    bottom: 0!important;
+    width: 5px!important;
+    border-left: 5px!important;
+    border-right: 5px!important;
+    background-color: transparent!important;
+}
+
+li::after {
+    content: ''!important;
+    position: absolute!important;
+    left: 15px!important;
+    top: 0!important;
+    bottom: 0!important;
+    width: 5px!important;
+    border-left: 5px!important;
+    border-right: 5px!important;
+    background-color: transparent!important;
+}
+
+
+.General { }
+
+.cvs { 
+    background-color: rgba(255, 34, 52, 0.5)!important; /* Inverted from rgba(0, 221, 203, 0.5) */
+}
+
+.oncology { 
+    box-shadow: -12px 0 0 0 rgb(155, 0, 0)!important; /* Inverted from rgb(100, 255, 255) */
+}
+
+.rheumatic {  
+    box-shadow: -6px 0 0 0 rgb(55, 0, 155)!important; /* Inverted from rgb(200, 255, 100) */
+}
+
+.psychiatric { 
+    border-left: 7px solid rgba(0, 105, 205, 0.6)!important; /* Inverted from rgba(255, 150, 50, 0.6) */
+}
+
+.git::before { 
+    background-color: #194c00!important; /* Inverted from #e6b3ff */
+}
+
+.Respiratory::before, .respiratory::before { 
+    border-right: 5px solid #993366!important; /* Inverted from #66cc99 */
+}
+
+.derma::after { 
+    border-left: 5px solid #994c00!important; /* Inverted from #66b3ff */
+}
+
+.hematology::after, .hematologic::after { 
+    background-color: rgba(155, 0, 0, 0.8)!important; /* Inverted from rgba(100, 255, 255, 0.8) */
+}
+
+.Endocrine::after, .endocrine::after { 
+    border-right: 5px solid rgb(0, 155, 35)!important; /* Inverted from rgb(255, 100, 220) */
+}
+
+.infectious::after { 
+    border-left: 5px solid #7777000!important; /* Inverted from #8888ff */
+}
+
+.gynob { 
+    background-color: rgba(255, 59, 134, 0.3)!important; /* Inverted from rgba(0, 196, 121, 0.5) */
+}
+
+.surgery { 
+    background-color: rgba(37, 132, 19, 0.5)!important; /* Inverted from rgba(218, 123, 236, 0.5) */
+}
+
+.cns { 
+    border-right: 5px solid rgb(155, 105, 0)!important; /* Inverted from rgb(100, 150, 255) */
+}
+
+.ent, .Ent { 
+    box-shadow: 7px 0 0 0 rgb(155, 0, 105)!important; /* Inverted from rgb(100, 255, 150) */
+}
+
+.emergency { 
+    box-shadow: 20px 0 0 0 rgb(155, 0, 0)!important; /* Inverted from rgb(100, 255, 255) */
+}
+
+.Nephro, .nephro { 
+    background-color: hsla(194, 100%, 30%, 0.5)!important; /* Inverted saturation from hsla(194, 100%, 70%, 0.5) */
+}
+
+.obstetric { 
+    border-left: 7px solid rgb(155, 35, 65)!important; /* Inverted from rgb(100, 220, 190) */
+}
+
+.gynaecology { 
+    background-color: rgba(214, 0, 129, 0.527)!important; /* Inverted from rgba(80, 180, 120, 0.4) */
+}
+
+.ortho-specific { 
+    background-color: rgba(105, 105, 105, 0.4)!important; /* Inverted from rgba(150, 150, 150, 0.4) */
+}
+
+.ophthalmology { 
+    background-color: rgba(105, 105, 105, 0.4)!important; /* Inverted from rgba(150, 150, 150, 0.4) */
+}
+
+.Sexual_history_section {
+    background-color: rgba(155, 55, 105, 0.3)!important; /* Inverted from rgba(100, 200, 150, 0.3) */
+    border: 1px solid #aaaaaa!important; /* Inverted from #555 */
+    margin: 35px 0!important;
+    padding: 15px!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* COMPLAINTS - Dark Theme */
+.confusion {
+    background-color: rgba(155, 155, 0, 0.4)!important; /* Inverted from rgba(100, 100, 255, 0.4) */
+}
+
+.section-title {
+    border-bottom: 1px solid #999999!important; /* Inverted from #666 */
+    color: #1f1f1f!important; /* Inverted from #e0e0e0 */
+    font-size: 13.0pt!important;
+    font-weight: bold!important;
+    margin-bottom: 10px!important;
+    margin-top: 20px!important;
+    padding-bottom: 3px!important;
+}
+
+/* Details and Summary - Dark Theme */
+details {
+    height: auto!important;
+    width: 100%!important;
+    box-shadow: 0 0 3px rgba(0,0,0,0.8)!important; /* Inverted from rgba(255,255,255,0.2) */
+    margin-bottom: 15px!important; 
+    padding: 3px 5px!important;
+    margin-left: -0.1cm!important;
+    background-color: #e7e7e7!important; /* Inverted from #2a2a2a */
+    border: none!important; /* Inverted from #444 */
+}
+
+summary {
+    color: #5a3b03!important; /* Inverted from #6495ed */
+    font-family: "times new roman", times, serif!important; 
+    font-size: 13.0pt!important; 
+    font-weight: bold!important;
+}
+
+summary:hover {
+    background-color: #cccccc!important; /* Inverted from #333 */
+}
+
+/* COLOURS - Dark Theme */
+.grey {
+    color: #646464!important; /* Inverted from #b0b0b0 */
+}
+
+.Red {
+    color: rgb(155, 0, 15)!important; /* Inverted from rgb(100, 255, 240) */
+}
+
+.green {
+    color: #4c9900!important; /* Inverted from #b366ff */
+    font-weight: bold!important;
+}
+
 .highlight-prompt {
-    color: #fd0054; font-weight: bold
+    color: #009462!important; /* Inverted from #ff6b9d */
+    font-weight: bold!important;
 }
 
 .detail-prompt {
-    color: #08cca2; font-style: italic
+    color: #991933!important; /* Inverted from #66e6cc */
+    font-style: italic!important;
 }
 
 
@@ -469,38 +466,27 @@ th {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-/* UNIVERSAL STYLES */
+/* UNIVERSAL STYLES - Dark Theme */
 u {
-    color: #0065fd;
-    font-weight: bold;
-    text-decoration: none;
+    color: #994c00!important; /* Inverted from #66b3ff */
+    font-weight: bold!important;
+    text-decoration: none!important;
 }
 
 b {
-    color: #fd0054;
-    font-weight: bold;
+    color: #009462!important; /* Inverted from #ff6b9d */
+    font-weight: bold!important;
 }
 
 em {
-    color: #08cca2;
-    font-style: normal;
-    font-weight: bold;
+    color: #da002c!important; /* Inverted from #66e6cc */
+    font-style: normal!important;
+    font-weight: bold!important;
 }
 
 strong {
-    color: #09a8cc;
-    font-weight: bold;
+    color: #993311!important; /* Inverted from #66ccee */
+    font-weight: bold!important;
 }
 
 
@@ -508,56 +494,94 @@ strong {
 
 
 
+/* Theme Toggle Button Styles - Dark Theme */
+#theme-toggle {
+    position: fixed!important;
+    top: 20px!important;
+    right: 20px!important;
+    z-index: 9999!important;
+    padding: 8px 15px!important;
+    border: 1px solid #aaaaaa!important; /* Inverted from #555 */
+    border-radius: 20px!important;
+    background-color: #d5d5d5!important; /* Inverted from #2a2a2a */
+    color: #1f1f1f!important; /* Inverted from #e0e0e0 */
+    cursor: pointer!important;
+    font-size: 14px!important;
+    box-shadow: 0 2px 10px rgba(255, 255, 255, 0.5)!important; /* Inverted shadow */
+    transition: all 0.3s ease!important;  
+}
 
+#theme-toggle:hover {
+    background-color: #c5c5c5!important; /* Inverted from #3a3a3a */
+    border-color: #999999!important; /* Inverted from #666 */
+}
 
+/* Enzyme Section - Dark Theme */
+.enzyme-section { 
+    margin-left: 20px!important; 
+    border-left: 2px solid #994c00!important; /* Inverted from #66b3ff */
+    padding-left: 10px!important;
+}
 
-      /* Theme Toggle Button Styles */
-      #theme-toggle {
-        position: fixed;
-        top: 20px;
-        right: 20px;
-        z-index: 9999;
-        padding: 8px 15px;
-        border: none;
-        border-radius: 20px;
-        background-color: #4a90e2;
-        color: white;
-        cursor: pointer;
-        font-size: 14px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-        transition: all 0.3s ease;  
-      }
-      
-      #theme-toggle:hover {
-        background-color: #e9ecef;
-      }
-      
-      [data-theme="dark"] #theme-toggle {
-        background-color: #2a2a2a;
-        border-color: #555;
-        color: #fff;
-      }
-      
-      [data-theme="dark"] #theme-toggle:hover {
-        background-color: #3a3a3a;
-      }
+.enzyme-header { 
+    color: #783114!important; /* Inverted from #87ceeb */
+    font-weight: bold!important; 
+}
 
+.substrate-list { 
+    margin-left: 15px!important; 
+}
 
+.interaction-high { 
+    color: #990011!important; /* Inverted from #66ffee */
+}
 
+.interaction-mod { 
+    color: #994c00!important; /* Inverted from #66b3ff */
+}
 
+.interaction-low { 
+    color: #777700!important; /* Inverted from #8888ff */
+}
 
+.herb-name { 
+    font-weight: bold!important; 
+    color: #6f11ff!important; /* Inverted from #90ee90 */
+}
 
+.affected-drug { 
+    font-style: italic!important; 
+    color: #1f1f1f!important; /* Inverted from #e0e0e0 */
+}
+}
 
+.enzyme-header { 
+    color: #87ceeb!important; 
+    font-weight: bold!important; 
+}
 
-              .enzyme-section { 
-                  margin-left: 20px; 
-                  border-left: 2px solid #4fc3f7; 
-                  padding-left: 10px;
-              }
-              .enzyme-header { color: #2c3e50; font-weight: bold; }
-              .substrate-list { margin-left: 15px; }
-              .interaction-high { color: #00ffd5; }
-              .interaction-mod { color: #0099ff; }
-              .interaction-low { color: #1612f3; }
-              .herb-name { font-weight: bold; color: #27ae60; }
-              .affected-drug { font-style: italic; }
+.substrate-list { 
+    margin-left: 15px!important; 
+}
+
+.interaction-high { 
+    color: #66ffee!important; 
+}
+
+.interaction-mod { 
+    color: #66b3ff!important; 
+}
+
+.interaction-low { 
+    color: #8888ff!important; 
+}
+
+.herb-name { 
+    font-weight: bold!important; 
+    color: #90ee90!important; 
+}
+
+.affected-drug { 
+    font-style: italic!important; 
+    color: #e0e0e0!important;
+}

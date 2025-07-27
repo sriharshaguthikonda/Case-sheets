@@ -142,20 +142,28 @@ li {
 
 
 
-
 /* Tables */
 table {
     border-collapse: collapse;
     width: 100%;
-    border: 1px solid black;
+    border: 1px solid #dbdbdb;
     margin: 10px;
+    background-color: #d6d6d6;
 }
 
 th, td {
-    border: 1px solid #000;
+    border: 1px solid #dbdbdb;
     padding: 2px;
     text-align: left;
     font-size: 12.0pt;
+    background-color: #d6d6d6;
+    color: #000000;
+}
+
+th {
+    background-color: #dbdbdb;
+    color: #000000;
+    font-size: 13.0pt;
 }
 
 
@@ -339,7 +347,7 @@ General will be empty !*/
 
 
 
-.Nephro, .nephro { background-color: hsla(194, 100%, 50%, 0.3); }
+.Nephro, .nephro ,.urology{ background-color: hsla(194, 100%, 50%, 0.3); }
 
 /* Background-based classes remain as they are, as they don't conflict */
 .obstetric { border-left: 7px solid rgb(0, 190, 165); }
