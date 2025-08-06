@@ -317,7 +317,7 @@ General will be empty !*/
 
 
 
-.psychiatric{ border-left: 7px solid rgba(255, 115, 0, 0.2); }
+.psychiatric{ border-left: 7px solid rgb(255, 115, 0); }
 .git::before { background-color: #d987ff; }
 .Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
 

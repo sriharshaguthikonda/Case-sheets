@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>DIARRHOEA</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+<ol>
+  <li>Duration</li>
+  <li>Type</li>
+  <li>Frequency</li>
+  <li><br>
+  </li>
+</ol>
+<h3><br>
+</h3>
+<h3><br>
+</h3>
+<h3><br>
+</h3>
+
+
+
+    <div class="git General">
+        <h3>1ST COMPLAINT: DIARRHEA</h3>
+        
+            <!-- S: Site -->
+            <li class="point">
+                <span class="description"><strong>S</strong>: Site of Discomfort</span>
+                <span class="verbal">"Do you have any abdominal pain or cramping with the diarrhea? If so, where is it located?"</span>
+                <ul>
+                    <li class="git">Generalized cramping -> <span class="infectious">Gastroenteritis</span></li>
+                    <li class="git">Lower Left Quadrant pain -> <span class="git">Diverticulitis</span></li>
+                    <li class="git">Lower Right Quadrant pain -> <span class="infectious">Infectious enterocolitis (Yersinia, Campylobacter), <b class="rheumatic">Crohn's Disease</b></i></span></li>
+                    <li class="git">Periumbilical pain -> <span class="infectious">Small bowel cause, gastroenteritis</span></li>
+                </ul>
+            </li>
+
+            <!-- O: Onset -->
+            <li class="point">
+                <span class="description"><strong>O</strong>: Onset</span>
+                <span class="verbal">"When did the diarrhea start? Did it come on suddenly, and was there any specific trigger you can think of?"</span>
+                <ul>
+                    <li>ACUTE (< 2 weeks): <span class="infectious">Infectious (viral, bacterial), <b class="pharmacology">Medication-induced (antibiotics, metformin)</b>, <b class="General">Dietary indiscretion</b></span></li>
+                    <li>CHRONIC (> 4 weeks): <span class="rheumatic">IBD (Crohn's, Ulcerative Colitis)</span>, <span class="git">IBS-D</span>, <span class="git">Microscopic Colitis</span>, <span class="git">Malabsorption (Celiac)</span></li>
+                    <li>Triggered by recent travel, new food, sick contacts, or starting a new medication?</li>
+                </ul>
+            </li>
+
+            <!-- D: Duration -->
+            <li class="point">
+                <span class="description"><strong>D</strong>: Duration & Frequency</span>
+                <span class="verbal">"How long has this episode been going on for? And how many times a day are you having to go to the toilet?"</span>
+            </li>
+
+            <!-- A/R: Aggravating / Relieving Factors -->
+            <li class="point">
+                <span class="description"><strong>A/R</strong>: Aggravating & Relieving Factors</span>
+                <span class="verbal">"Does any particular food make it worse? Does eating in general, or does it improve after opening your bowels?"</span>
+                <ul>
+                    <li>Worse with certain foods: <span class="git">Lactose/Fructose intolerance, Fatty foods (malabsorption), Gluten (Celiac)</span></li>
+                    <li>Worse with stress: <span class="git">Irritable Bowel Syndrome (IBS)</span></li>
+                    <li>Improved after defecation: <span class="git">Classic for IBS</span></li>
+                </ul>
+            </li>
+
+            <!-- C: Character -->
+            <li class="point">
+                <span class="description"><strong>C</strong>: Character of Stool</span>
+                <span class="verbal">"Can you describe the stool? Is it watery, bloody, greasy, or does it contain mucus?"</span>
+                <ul>
+                    <li>WATERY: <span class="infectious">Viral gastroenteritis (e.g., Norovirus), <b class="infectious">Toxin-producing bacteria (e.g., Cholera, E. coli)</b>, <b class="git">Microscopic colitis</b></span></li>
+                    <li>BLOODY (Hematochezia): <span class="rheumatic">IBD</span>, <span class="infectious">Infectious colitis (Shigella, Campylobacter, EHEC)</span>, <span class="git">Ischemic colitis</span>, <span class="oncology">Malignancy</span></li>
+                    <li>STEATORRHEA (Greasy, foul-smelling, floats): <span class="git endocrine">Malabsorption (e.g., Celiac disease, pancreatic insufficiency)</span></li>
+                    <li>MUCUS PRESENT: <span class="git">IBS</span>, <span class="rheumatic">IBD</span></li>
+                    <li>Volume: Large volume (small bowel) vs. Small volume (large bowel)</li>
+                </ul>
+            </li>
+
+            <!-- R: Radiation -->
+            <li class="point">
+                <span class="description"><strong>R</strong>: Radiation (of Pain)</span>
+                <span class="verbal">"If you have pain, does it travel or spread anywhere?"</span>
+            </li>
+            
+            <!-- A: Associated Symptoms -->
+            <li class="point">
+                <span class="description"><strong>A</strong>: Associated Symptoms</span>
+                <span class="verbal">"Along with the diarrhea, have you experienced anything else like fever, vomiting, or weight loss?"</span>
+                <ul>
+                    <li>SYSTEMIC: <span class="infectious">Fever, chills, malaise (Infection)</span>, <span class="oncology">Unexplained weight loss (Malignancy, IBD, Malabsorption)</span></li>
+                    <li>GASTROINTESTINAL: <span class="infectious">Nausea, vomiting (Gastroenteritis)</span>, <span class="git">Tenesmus (feeling of incomplete evacuation) (Proctitis/IBD)</span>, <span class="git">Urgency, Incontinence</span></li>
+                    <li class="rheumatic">EXTRA-INTESTINAL (IBD clues): <span class="rheumatic">Joint pain, eye redness (uveitis), skin rashes (erythema nodosum)</span></li>
+                    <li class="nephro">SIGNS OF DEHYDRATION: <span class="nephro">Dizziness, reduced urine output, dry mouth, increased thirst</span></li>
+                </ul>
+            </li>
+            
+            <!-- P: Progression -->
+            <li class="point">
+                <span class="description"><strong>P</strong>: Progression</span>
+                <span class="verbal">"Since it started, has the diarrhea been getting better, worse, or staying about the same?"</span>
+            </li>
+
+            <!-- P: Pattern -->
+            <li class="point">
+                <span class="description"><strong>P</strong>: Pattern</span>
+                <span class="verbal">"Is the diarrhea constant, or does it come and go? Do you have it at night?"</span>
+                 <ul>
+                    <li>NOCTURNAL DIARRHEA (wakes from sleep): <b class="rheumatic oncology git">Red flag for organic disease (e.g., IBD, Microscopic Colitis), NOT typical for IBS</b></li>
+                    <li>ALTERNATING with constipation: <span class="git">Suggests IBS</span></li>
+                    <li>POST-PRANDIAL (after eating): <span class="git">Gastrocolic reflex, malabsorption, dumping syndrome</span></li>
+                </ul>
+            </li>
+
+            <!-- E: Effect on life -->
+            <li class="point">
+                <span class="description"><strong>E</strong>: Effect on Life</span>
+                <span class="verbal">"How has this been impacting your daily life, work, or ability to go out?"</span>
+            </li>
+
+            <!-- R: Red Flags -->
+            <li class="point">
+                <span class="description"><strong>R</strong>: Red Flags</span>
+                <span class="verbal">"I just need to ask some specific questions to make sure we're not missing anything serious."</span>
+                <ul>
+                    <li class="oncology git">Unexplained weight loss</li>
+                    <li class="hematology git">Rectal bleeding or iron-deficiency anemia</li>
+                    <li class="oncology git">New onset of symptoms in a person > 50 years old</li>
+                    <li class="oncology git">Strong family history of bowel cancer or IBD</li>
+                    <li class="rheumatic git">Nocturnal symptoms waking the patient from sleep</li>
+                    <li class="emergency infectious">Severe dehydration (dizziness, confusion, low urine output)</li>
+                    <li class="emergency infectious">High fever with severe abdominal pain</li>
+                </ul>
+            </li>
+
+            <!-- S: Scale -->
+            <li class="point">
+                <span class="description"><strong>S</strong>: Severity / Bother Scale</span>
+                <span class="verbal">"On a scale of 1 to 10, how much is this diarrhea bothering you or affecting your life?"</span>
+            </li>
+            
+    </div>
+    
+
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+  <script src="double_click_collapse_details.js"></script>
+  
+
+
+  </body>
+</html>

@@ -14,7 +14,7 @@
     <!-- Phase 0: Learning Contract -->
     <!-- (Added to ensure clear objectives & tailored teaching) -->
     <h3 class="h3">Phase&nbsp;0: Agree the Learning Agenda</h3>
-    <details open="">
+    <details>
       <summary><strong>0. Clarify Objectives &amp; Baseline</strong></summary>
       <ul>
         <li><b>Establish Learner Needs:</b> Ask the student what parts of the
@@ -30,7 +30,7 @@
     </details>
     <!-- Phase 1: Pre-Procedure Protocol -->
     <h3 class="h3">Phase&nbsp;1: Pre‑Procedure Protocol (The Setup)</h3>
-    <details open="">
+    <details>
       <summary><strong>1. Introduction &amp; Identification</strong></summary>
       <ul>
         <li>Greet the patient warmly.</li>
@@ -42,7 +42,7 @@
           full name and date of birth for me?").</li>
       </ul>
     </details>
-    <details open="">
+    <details>
       <summary><strong>2. Explanation &amp; Consent</strong></summary>
       <ul>
         <li><b>Explain the Indication:</b> </li>
@@ -73,7 +73,7 @@
           technique, then answer any questions before practice."</li>
       </ul>
     </details>
-    <details open="">
+    <details>
       <summary><strong>3. Preparation &amp; Positioning</strong></summary>
       <ul>
         <li><b>Offer a Chaperone:</b> "Would you feel more comfortable if we had
@@ -95,7 +95,7 @@
     </details>
     <!-- Phase 2: The Core Task -->
     <h3 class="h3">Phase&nbsp;2: The Core Procedure / Examination</h3>
-    <details open="">
+    <details>
       <summary><strong>4. Perform the Core Task</strong></summary>
       <p><i>(This is where the specific steps of the examination or procedure
           are performed. The instructor may demonstrate first, then allow the
@@ -115,7 +115,7 @@
     </details>
     <!-- Phase 3: Instructional Dialogue -->
     <h3 class="h3">Phase&nbsp;3: Instructional Dialogue (For the Student)</h3>
-    <details open="">
+    <details>
       <summary><strong>5. Explain &amp; Teach</strong></summary>
       <p><i>(This dialogue occurs between the instructor and the student, while
           always maintaining respect for the patient.)</i></p>
@@ -140,7 +140,7 @@
     </details>
     <!-- Phase 4: Post-Procedure Protocol -->
     <h3 class="h3">Phase&nbsp;4: Post‑Procedure Protocol (The Wrap‑Up)</h3>
-    <details open="">
+    <details>
       <summary><strong>6. Conclusion &amp; Closure</strong></summary>
       <ul>
         <li><b>Thank the Patient:</b> "Thank you very much for your time and for

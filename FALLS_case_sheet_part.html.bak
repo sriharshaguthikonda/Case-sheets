@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>FALLS</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <ol>
+      <li><b>RULE OUT<br>
+        </b></li>
+      <li><strong>Nature</strong></li>
+      <li>CVS</li>
+      <ol>
+        <li>Hypotension</li>
+        <li>AF</li>
+        <li>AS</li>
+        <li><br>
+        </li>
+      </ol>
+      <li>CNS</li>
+      <ol>
+        <li>Seizures</li>
+        <li>Stroke</li>
+        <li>head injury</li>
+        <li>Emotional</li>
+        <li><b>have all the ct scan creiteria</b></li>
+        <li>nausea</li>
+        <li>vomiting</li>
+        <li><br>
+        </li>
+      </ol>
+      <li>Vision</li>
+      <li>Ear </li>
+      <li>GIT</li>
+      <ol>
+        <li>Dehydration</li>
+      </ol>
+      <li>Endocrine</li>
+      <ol>
+        <li>DM</li>
+        <li># hip</li>
+      </ol>
+      <li>.</li>
+      <li><br>
+      </li>
+      <li><em>Nurture</em></li>
+      <li>poor light</li>
+      <li>slippery floors</li>
+      <li>poor footwear</li>
+    </ol>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

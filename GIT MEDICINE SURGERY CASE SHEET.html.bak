@@ -71,8 +71,13 @@
       <h3 id="abdominal-pain"> <a href="GYNAECOLOGY%20OBSTETRICS%20%20CASE%20SHEET.html">2<sup>ND</sup>
           COMPLAINT : Abdominal PAIN</a></h3>
       <ol>
-        <li><em>SODA CRAPPERS</em><br>
-          <strong></strong></li>
+        <li><em>SODA CRAPPERS</em></li>
+        <li><span style="color: #08cca2;">are you confortable to talk?</span></li>
+        <li><span style=" color: #08cca2;">if no , would you like any
+            medicaiton?</span></li>
+        <li><span style="  color: #08cca2;">examiner i would like to give pain
+            killers ....<br>
+          </span></li>
         <li><strong>S</strong>: <strong>Site</strong> (Location of pain)</li>
         <ul>
           <li>Right Upper Quadrant (RUQ)
@@ -264,21 +269,18 @@
       <iframe src="DIFFICULTY_IN_SWALLOWING_DYSPHAGIA_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
-      <summary style="color: rgb(20, 233, 222);">5<sup>th</sup> COMPLAINT
-        HAEMETEMESIS</summary>
+      <summary class="h4">5<sup>th</sup> COMPLAINT HAEMETEMESIS</summary>
       <iframe src="HAEMETEMESIS_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-    <details open="">
-      <summary style="color: rgb(20, 233, 222);">6<sup>th</sup> COMPLAINT
-        BLEEDING GYNAECOLOGICAL</summary>
+    <details>
+      <summary class="h4">6<sup>th</sup> COMPLAINT BLEEDING GYNAECOLOGICAL</summary>
       <iframe src="BLEEDING_Gynaecological_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <details>
       <summary class="h4">7<sup>th</sup> COMPLAINT JAUNDICE</summary>
       <iframe src="JAUNDICE_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary style="color: rgb(55, 186, 226);">8<sup>th</sup> COMPLAINT
-        DIARRHOEA</summary>
+      <summary class="h4">8<sup>th</sup> COMPLAINT DIARRHOEA</summary>
       <iframe src="DIARRHOEA_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
       <summary class="h4">9<sup>th</sup> COMPLAINT CHEST PAIN - INDIGESTION </summary>
@@ -298,6 +300,14 @@
     <h3>H/O FEVER</h3>
     <h3>H/O BLOOD TRANSFUSION[HEPATITIS]</h3>
     <h3>H/O TB[PERITONITIS]</h3>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <h4><b>ICE </b></h4>
+    <p>if thought block - (Ideas, Concerns, Expectations):</p>
+    <p><br>
+    </p>
     <p><br>
     </p>
     <details>
@@ -667,17 +677,29 @@
       <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
       <iframe src="Family_history.html" frameborder="0"></iframe> </details>
     <br>
-    <p>TRAVEL H/O:</p>
+    <h3>TRAVEL H/O:</h3>
     <ul>
       <li>Location</li>
+      <ul>
+        <li>Tanzania - TB</li>
+        <li>uganda - malaria</li>
+        <li>france or thai - sti</li>
+        <li><br>
+        </li>
+      </ul>
       <li>Duration</li>
       <li>Vaccinations</li>
     </ul>
+    <p> </p>
     <br>
+    <p><br>
+    </p>
     <h2>SUMMARIZATION OF HISTORY</h2>
     <ol>
       <li>summarize what is heard so far</li>
     </ol>
+    <p><br>
+    </p>
     <p><br>
     </p>
     <ol>
@@ -1117,7 +1139,7 @@
       <li>PATHOLOGICAL</li>
       <li>CLINICAL</li>
     </ol>
-    <details>
+    <details open="">
       <summary class="h3">MANAGEMENT PLAN</summary>
       <h4>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -1297,5 +1319,6 @@
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
   </body>
 </html>

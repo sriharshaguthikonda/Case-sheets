@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>HEADACHE (SODARAPPERS Framework)</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <ul>
+      <li><strong>S: Site</strong>
+        <ul>
+          <li>Where exactly is the pain located? (e.g., </li>
+          <ul>
+            <li>one side , </li>
+            <li>both sides, </li>
+            <li>forehead, </li>
+            <li>back of the head, </li>
+            <li>behind the eye)</li>
+          </ul>
+          <li>Is the location always the same with each headache?</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li>When did this specific headache start? When did you start getting
+            these types of headaches?</li>
+          <li>Was the onset sudden and severe (like a "thunderclap") or did it
+            build up gradually?</li>
+          <li>What were you doing when it started?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li>How long do the headaches typically last if untreated? (minutes,
+            hours, days)</li>
+          <li>How long has this current episode been going on?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li><b>Aggravating Factors:</b> What makes the headache worse? (e.g.,
+          </li>
+          <ul>
+            <li>lights (photophobia), </li>
+            <li>noise (phonophobia), </li>
+            <li>Positions</li>
+            <li>movement, </li>
+            <li>&nbsp;coughing, </li>
+            <li>specific foods, </li>
+            <li>stress, lack of sleep)</li>
+          </ul>
+          <li><b>Relieving Factors:</b> What, if anything, makes it better?
+            (e.g., </li>
+          <ul>
+            <li>lying down </li>
+            <li>dark, </li>
+            <li>quiet room, </li>
+            <li>sleep, </li>
+            <li>medications, </li>
+            <li>applying pressure)</li>
+          </ul>
+        </ul>
+      </li>
+      <li><strong>C: Character / Type</strong>
+        <ul>
+          <li>What does the pain feel like? (e.g., throbbing, pulsing, stabbing,
+            sharp, dull, squeezing, pressure-like, burning)</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong>
+        <ul>
+          <li>Does the pain travel or radiate to any other areas? (e.g., to the
+            neck, shoulders, jaw, face, or teeth)</li>
+        </ul>
+      </li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li>Nausea or vomiting?</li>
+          <li>Visual changes (aura)? (e.g., flashing lights, zig-zag lines,
+            blind spots)</li>
+          <li>Numbness, tingling, or weakness in any part of the body?</li>
+          <li>Dizziness or vertigo?</li>
+          <li>Stiff neck, fever, chills?</li>
+          <li>neck stiffness</li>
+          <ul>
+            <li>tension headache</li>
+          </ul>
+          <li>Watery or red eye, runny or stuffy nose on one side?</li>
+          <li>Difficulty speaking or confusion?</li>
+          <li>sinusitis</li>
+          <ul>
+            <li>viral</li>
+            <li>bacterial</li>
+          </ul>
+          <li>Photophobia</li>
+          <ul>
+            <li>hangover</li>
+          </ul>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li>How has the pattern of your headaches changed over time? Are they
+            becoming more frequent or more severe?</li>
+          <li>Is this headache different from your usual headaches?</li>
+          <li>(Especially for post-treatment: How has the headache changed since
+            starting therapy?)</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li><b>Continuous or Intermittent:</b> Is the pain constant or does it
+            come and go?</li>
+          <li><b>Frequency:</b> How often do you get these headaches? (e.g.,
+            daily, weekly, monthly)</li>
+          <li>Is there a pattern? (e.g., related to your menstrual cycle,
+            weekends, time of day)</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on Life</strong>
+        <ul>
+          <li>How does the headache affect your daily life? (e.g., ability to
+            work, attend school, sleep, or socialize)</li>
+          <li>Do you have to stop your activities and rest when you have one?</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags</strong>
+        <ul>
+          <li><em>SAH</em></li>
+          <li>Is this the "worst headache of your life"?</li>
+          <li>Did it start very suddenly ("thunderclap" headache)?</li>
+          <li>Is it associated with fever and a stiff neck?</li>
+          <li>.</li>
+          <li><b>Rash</b></li>
+          <li>chest </li>
+          <li>back</li>
+          <li>axilla</li>
+          <li>black patinet palmar surfaces...</li>
+          <li><br>
+          </li>
+          <li><em>Giant cell</em><span style="color: #08cca2;"> </span>PMR
+            relation</li>
+          <li>MI chest pain</li>
+          <li>hip and shoulde pain?</li>
+          <li>confusion, weakness, seizure, or personality change?</li>
+          <li>&gt; age of 50?</li>
+          <li>Does it get worse with coughing or straining?</li>
+          <li>Is it getting progressively worse over days or weeks?</li>
+        </ul>
+      </li>
+      <li><strong>S: Scale of Zero to 10</strong>
+        <ul>
+          <li>On a scale from 0 (no pain) to 10 (the worst pain imaginable), how
+            would you rate this headache at its peak?</li>
+          <li>What is the pain level right now?</li>
+        </ul>
+      </li>
+    </ul>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

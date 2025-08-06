@@ -36,10 +36,10 @@ possible classes :
 
 
 
-1. these are all the possible classes that you can add to different, each of the elements in the html to identify it from different systems.
+1. these are all the possible classes that you can add to different, each of the <li> elements in the html to identify it from different systems.
 
-2. if anything applies to most of the systems then add general class
+2. if any <li> applies to most of the systems then add general class
 
 3. go element by element and add classes.
 
-4. each element can have one to many many classes
+4. each element can have many many classes

@@ -3,13 +3,12 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Ophthalmology Proformas</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>    <p> </p>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <p> </p>
     <br>
     <p><br>
     </p>
@@ -17,12 +16,9 @@
         to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology
         Made Easy"</a> </div>
     <iframe src="Biodata.html" frameborder="0"></iframe>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/1SkcFjdJ40M"
-
-        title="&quot;How to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology Made Easy&quot;"
-
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/1SkcFjdJ40M"
+        title="&quot;How to Take History for Eye Pain, Discomfort, Vision Loss | Ophthalmology Made Easy&quot;"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
     </div>
     <div class="section">
@@ -56,9 +52,10 @@
         <ol>
           <ol>
             <li>Toxoplasmosis</li>
-            <li>macular degeneraton</li>
-            <li><br>
-            </li>
+            <div class="section">
+              <li><br>
+              </li>
+            </div>
           </ol>
         </ol>
         <li>loss of vision</li>
@@ -84,649 +81,41 @@
         </ol>
       </ol>
     </div>
+    <h3>INFORM BROAD PLAN</h3>
+    <h4>
+      <li>I am going to </li>
+      <ul>
+        <li>ask questions</li>
+        <li>examine</li>
+        <li>then give you...</li>
+      </ul>
+    </h4>
     <div class="section">
       <h4><br>
       </h4>
       <details>
-        <summary>1st COMPLAINT: <em>Redness</em> </summary>
-        <ul>
-          <li> <strong>S: Site &amp; Laterality</strong>
-            <ul>
-              <li>Which eye?
-                <ul>
-                  <li>One eye (Unilateral)</li>
-                  <li>Both eyes (Bilateral)</li>
-                </ul>
-              </li>
-              <li>Location on eye
-                <ul>
-                  <li>Localized (sectoral)</li>
-                  <li>Diffuse (generalized)</li>
-                  <li>Ciliary flush (ring around iris)</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>O: Onset</strong>
-            <ul>
-              <li>Gradual</li>
-              <li>Sudden
-                <ul>
-                  <li>e.g., after trauma, cough, sneeze &rarr; Subconjunctival
-                    Hemorrhage</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>D: Duration (linked with pain)</strong>
-            <ul>
-              <li>Short + Pain &rarr; Inflammatory</li>
-              <li>Long + Less/No Pain &rarr; Chronic Inflammation / Benign</li>
-              <li>Long + No Pain &rarr; Malignant</li>
-            </ul>
-          </li>
-          <li> <strong>A/R: Aggravating / Relieving Factors</strong>
-            <ul>
-              <li><strong>Aggravating Factors</strong>
-                <ul>
-                  <li>Light (Photophobia)</li>
-                  <li>Screen use</li>
-                  <li>Wind / Dry air</li>
-                  <li>Contact lens wear</li>
-                </ul>
-              </li>
-              <li><strong>Relieving Factors</strong>
-                <ul>
-                  <li>Darkness</li>
-                  <li>Eye drops</li>
-                  <li>Rest / Closing eyes</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>C: Character/Type</strong>
-            <ul>
-              <li>Of redness
-                <ul>
-                  <li>Bright red patch</li>
-                  <li>Pink / Injected vessels</li>
-                </ul>
-              </li>
-              <li>Of associated sensation
-                <ul>
-                  <li>Pain (dull, sharp, aching, throbbing)</li>
-                  <li>Gritty / Foreign body sensation</li>
-                  <li>Itching</li>
-                  <li>Burning</li>
-                </ul>
-              </li>
-              <li>Of discharge
-                <ul>
-                  <li>Watery (viral, allergic)</li>
-                  <li>Purulent / pus-like (bacterial)</li>
-                  <li>Mucoid / stringy (allergic)</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>R: Radiation</strong>
-            <ul>
-              <li>If pain present, does it radiate?
-                <ul>
-                  <li>Forehead / Brow</li>
-                  <li>Temple</li>
-                  <li>Jaw / Teeth</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>A: Associated Symptoms</strong>
-            <ul>
-              <li>Pain / headache
-                <ul>
-                  <li>No &rarr; Subconjunctival Hemorrhage</li>
-                  <li>Yes &rarr; Glaucoma, Keratitis, Uveitis</li>
-                </ul>
-              </li>
-              <li>Vision changes
-                <ul>
-                  <li>Blurred vision</li>
-                  <li>Halos around lights</li>
-                </ul>
-              </li>
-              <li>Nausea &amp; Vomiting</li>
-              <li>Fever</li>
-              <li>Interference with eye movement</li>
-            </ul>
-          </li>
-          <li> <strong>P: Progression</strong>
-            <ul>
-              <li>Progressive
-                <ul>
-                  <li>Very rapid &rarr; Inflammatory / Infectious</li>
-                  <li>Rapidly &rarr; Malignant</li>
-                  <li>Slowly &rarr; Benign</li>
-                </ul>
-              </li>
-              <li>Regressive (Resolving)</li>
-              <li>Static (Unchanging)</li>
-              <li>Static &rarr; Rapid (Benign &rarr; Malignant change)</li>
-            </ul>
-          </li>
-          <li> <strong>P: Pattern</strong>
-            <ul>
-              <li>Continuous</li>
-              <li>Intermittent
-                <ul>
-                  <li>Worse in morning (Blepharitis)</li>
-                  <li>Worse in evening (Dry Eye)</li>
-                  <li>Associated with allergens (Allergic Conjunctivitis)</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>E: Effect on life</strong>
-            <ul>
-              <li>Impacting daily activities
-                <ul>
-                  <li>Driving</li>
-                  <li>Reading</li>
-                  <li>Work / School</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li> <strong>R: Red Flags</strong>
-            <ul>
-              <li>Significant vision loss</li>
-              <li>Severe, deep eye pain</li>
-              <li>Hazy / cloudy cornea</li>
-              <li>Fixed or irregular pupil</li>
-              <li>Vomiting (with headache/pain)</li>
-              <li>Recent chemical or penetrating injury</li>
-            </ul>
-          </li>
-          <li> <strong>S: Scale (0-10)</strong>
-            <ul>
-              <li>Severity of pain</li>
-              <li>Severity of itching</li>
-              <li>Severity of light sensitivity</li>
-            </ul>
-          </li>
-        </ul>
-      </details>
-    </div>
-    <div class="section">
-      <details >
-        <summary>2<sup>ND</sup> COMPLAINT: <strong>EYE PAIN / HEAD PAIN </strong>(Related
-          to Ophthalmic Conditions)</summary>
-        <ol>
-          <li>SITE (S):
-            <ul>
-              <li>Where exactly is the pain located?
-                <ul>
-                  <li>Is it in <b>one </b>eye (unilateral) or</li>
-                  <li><b><u>both </u></b>eyes (bilateral)?</li>
-                  <li>Is the pain felt </li>
-                  <ul>
-                    <li>within the eye itself, </li>
-                    <li>around the eye (periorbital), or </li>
-                    <li>more like a headache?</li>
-                  </ul>
-                  <li>If headache, is it localized?
-                    <ul>
-                      <li>Frontal?</li>
-                      <li>Temporal? (<u>Giant Cell </u>if temporal, especially
-                        in older adults)</li>
-                      <li>Occipital?</li>
-                      <li>Generalized?</li>
-                    </ul>
-                  </li>
-                  <li>Is it a surface pain (like something in the eye) or a
-                    deep, aching pain?</li>
-                  <li>Can you point to the exact spot of maximum pain? (e.g.,
-                    specific area of sclera for <u>Scleritis</u>)</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>ONSET (O):
-            <ul>
-              <li>Sudden? (e.g., after trauma, acute angle closure <u>Glaucoma</u>)</li>
-              <li>Gradual over hours/days/weeks?</li>
-              <li>Was there anything specific that seemed to trigger the pain?
-                (e.g., injury, bright light exposure, prolonged reading,
-                specific activity)</li>
-            </ul>
-          </li>
-          <li>DURATION (D):
-            <ul>
-              <li>How long have you been experiencing this pain? (Hours, days,
-                weeks, months)</li>
-              <li>&Acirc;&plusmn; Painlessness (This section from your original
-                HTML seems more relevant to characterizing a *lesion/swelling*
-                rather than pain itself. For pain, we'd focus on its
-                presence/absence/fluctuation.)
-                <ol>
-                  <li>Short = Inflammatory [Pain]</li>
-                  <li>A bit long = Malignant [No pain]</li>
-                  <li>Long = Chronic inflammation [Less pain]</li>
-                  <li>Long = Benign [No pain]</li>
-                </ol>
-              </li>
-            </ul>
-          </li>
-          <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-            <ul>
-              <li>Aggravating Factors: What makes the pain worse?
-                <ul>
-                  <li>Eye movement? (Consider: <u>Optic Neuritis</u>,
-                    Scleritis)</li>
-                  <li>Bright lights (photophobia)?</li>
-                  <li>Darkness or dim light? (Consider: Acute Angle Closure <u>Glaucoma</u>
-                    - AACG)</li>
-                  <li>Reading or close work?</li>
-                  <li>Touching or pressure on the eye/head?</li>
-                  <li>Heat or cold?</li>
-                  <li>Bending over or straining?</li>
-                  <li>Specific times of day?</li>
-                  <ul>
-                    <li>Morning -Intracranial hypertension</li>
-                  </ul>
-                </ul>
-              </li>
-              <li>Relieving Factors: What makes the pain better or go away?
-                <ul>
-                  <li>Resting the eyes?</li>
-                  <li>Dark room / avoiding light?</li>
-                  <li>Pain medications (OTC or prescribed)? Which ones and do
-                    they help?</li>
-                  <li>Cold or warm compresses?</li>
-                  <li>Specific positions?</li>
-                  <li>Does pressure on the eye relieve or worsen it?</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <br>
-          <li>CHARACTER/TYPE (C):
-            <ul>
-              <li>How would you describe the pain? (Ask patient to use their own
-                words, then offer prompts if needed)
-                <ul>
-                  <li>Sharp, stabbing, shooting?</li>
-                  <li>Dull, aching, throbbing?</li>
-                  <li>Burning, gritty, foreign body sensation?</li>
-                  <li>Pressure-like, tight band? (Consider: <u>Glaucoma</u> if
-                    pressure-like headache)</li>
-                  <li>Boring?</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>RADIATION (R):
-            <ul>
-              <li>Does the pain spread or radiate anywhere else?
-                <ul>
-                  <li>To the other eye?</li>
-                  <li>To the temple, jaw, neck?</li>
-                  <li>Around the head?</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>ASSOCIATED SYMPTOMS (A): <br>
-            <ul>
-              <li><b>Visual Changes:</b>
-                <ul>
-                  <li><u>Blurred vision</u>? (Sudden or gradual?)</li>
-                  <li>Seeing halos around lights? (Consider: AACG)</li>
-                  <li>Photophobia (sensitivity to light)?</li>
-                  <li>Loss of vision (partial or complete)?</li>
-                  <li>Floaters or flashes of light?</li>
-                  <li>Double vision (diplopia)?</li>
-                </ul>
-              </li>
-              <li><b>Eye Appearance:</b>
-                <ul>
-                  <li><u>Redness</u> of the eye? (Localized or diffuse?)</li>
-                  <li>Watering or discharge from the eye? (Nature of discharge:
-                    watery, mucoid, purulent)</li>
-                  <li>Swelling of the eyelids or around the eye?</li>
-                  <li>Pupil changes noticed by patient?</li>
-                </ul>
-              </li>
-              <li><b>Systemic Symptoms:</b>
-                <ul>
-                  <li><u>Nausea and/or Vomiting</u>? (Common with AACG,
-                    migraine)</li>
-                  <li><u>Fever</u>, chills? (Suggests infection)</li>
-                  <li>Headache (if primary complaint is eye pain, and vice
-                    versa)?</li>
-                  <li>Phonophobia (sensitivity to sound)?</li>
-                </ul>
-              </li>
-              <li><b>Symptoms related to specific conditions:</b>
-                <ul>
-                  <li>Pain or difficulty <u>interfering with eye movement</u>?
-                    (Consider: <u>Optic Neuritis</u>, orbital inflammation)</li>
-                  <li>Symptoms of <u>Polymyalgia Rheumatica</u>
-                    (aching/stiffness in shoulders, hips)? (Associated with
-                    Giant Cell Arteritis)</li>
-                  <li>Symptoms of <u>Rheumatoid Arthritis</u> or other
-                    autoimmune conditions? (Associated with Scleritis, Uveitis)</li>
-                  <li>Scalp tenderness, jaw claudication? (Associated with Giant
-                    Cell Arteritis)</li>
-                  <li>Recent cold/sinus infection? (Sinusitis can cause referred
-                    eye/head pain)</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>PROGRESSION (P):
-            <ul>
-              <li>How has the pain changed since it first started?
-                <ul>
-                  <li>Is it getting progressively worse, better, or staying the
-                    same?</li>
-                  <li>If it's recurrent, are the episodes becoming more
-                    frequent, more severe, or lasting longer? (Consider: <u>Optic
-                      Neuritis</u> if recurrent with visual disturbance)</li>
-                </ul>
-              </li>
-              <li>Response to any previous treatments?
-                <ol>
-                  <li>Very rapid = Inflammatory</li>
-                  <li>Rapidly = Malignant</li>
-                  <li>Slowly = Benign</li>
-                </ol>
-              </li>
-              <li>Regressive (inflammatory)</li>
-              - This could be relevant if pain is improving
-              <li>Static</li>
-              <li>Static&nbsp; --&gt; Rapid [Benign --&gt; Malignant]</li>
-              - More for lesions/swellings&nbsp;
-            </ul>
-          </li>
-          <li>PATTERN (P):
-            <ul>
-              <li>Is the pain continuous or intermittent?</li>
-              <li>If intermittent, is there any pattern to when it occurs?
-                (e.g., time of day, after specific activities)</li>
-              <li>Any periods completely free of pain?</li>
-            </ul>
-          </li>
-          <li>RED FLAGS (R): (Symptoms suggesting a serious underlying cause
-            needing urgent attention)
-            <ul>
-              <li>Sudden, severe, unrelenting eye pain.</li>
-              <li>Sudden loss of vision.</li>
-              <li>Marked eye redness with a fixed, mid-dilated pupil (suggests
-                AACG).</li>
-              <li>Photophobia with deep eye ache (suggests iritis/uveitis).</li>
-              <li>Proptosis (bulging of the eye).</li>
-              <li>Pain with eye movements, especially with vision loss (suggests
-                Optic Neuritis).</li>
-              <li>New onset headache in an older adult, especially with temporal
-                tenderness or jaw claudication (Giant Cell Arteritis).</li>
-              <li>Associated neurological deficits (e.g., weakness, numbness,
-                diplopia not resolving).</li>
-              <li>History of recent eye surgery or trauma with increasing pain.</li>
-              <li>Vomiting associated with eye pain/headache.</li>
-              <li>Intracranial hypertension </li>
-              <ul>
-                <li>-Seizures</li>
-                <li><br>
-                </li>
-              </ul>
-            </ul>
-          </li>
-          <li>EFFECT ON LIFE (E):
-            <ul>
-              <li>How is this pain affecting your daily activities (e.g.,
-                ability to read, work, drive, sleep)?</li>
-              <li>Has it caused you to miss work or school?</li>
-              <li>How is it affecting your mood or general well-being?</li>
-            </ul>
-          </li>
-          <li>SCALE (S) (Severity):
-            <ul>
-              <li>On a scale of 0 to 10, where 0 is no pain and 10 is the worst
-                pain imaginable:
-                <ul>
-                  <li>What number would you give your pain right now?</li>
-                  <li>What is its average severity?</li>
-                  <li>What is its severity at its worst?</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ol>
+        <summary class="h4">1st COMPLAINT: <em>Redness</em> </summary>
+        <iframe src="Redness_Ophthalmic_case_sheet_part.html" frameborder="0"></iframe>
       </details>
     </div>
     <div class="section">
       <details>
-        <summary>5<sup>th</sup> COMPLAINT <b><u>Irritation</u></b>/<b><u>Itching</u></b></summary>
-        <ul>
-          <li>Site:---------------------------------------------------- which
-            eye</li>
-          <ul>
-            <li>one eye</li>
-            <ul>
-              <ul>
-                <li>Episcleritis</li>
-              </ul>
-            </ul>
-            <li>both eye</li>
-          </ul>
-          <li>Onset: When did patient notice-
-            <ul>
-              <li>Gradual</li>
-              <li>Sudden (after trauma)</li>
-              <ul>
-                <ul>
-                  <li>Sub conjunctival hemorrhage</li>
-                </ul>
-              </ul>
-            </ul>
-          </li>
-          <li>Duration
-            <ul>
-              <li>&Acirc;&plusmn; Painlessness
-                <ol>
-                  <li>Short = Inflammatory [Pain]</li>
-                  <li>A bit long = Malignant [No pain]</li>
-                  <li>Long = Chronic inflammation [Less pain]</li>
-                  <li>Long = Benign [No pain]</li>
-                </ol>
-              </li>
-            </ul>
-          </li>
-          <li>Progression
-            <ul>
-              <li>Progressive
-                <ol>
-                  <li>Very rapid = Inflammatory</li>
-                  <li>Rapidly = Malignant</li>
-                  <li>Slowly = Benign</li>
-                </ol>
-              </li>
-              <li>Regressive (inflammatory)</li>
-              <li>Static</li>
-              <li>Static &acirc;&dagger;&rsquo; Rapid [Benign
-                &acirc;&dagger;&rsquo; Malignant]</li>
-            </ul>
-          </li>
-          <li>Aggravating Factors
-            <ul>
-              <li>Darkness</li>
-              <li>Heat</li>
-              <li>Pressure</li>
-            </ul>
-          </li>
-          <li>Relieving Factors</li>
-          <ul>
-            <li>light</li>
-            <li>Pressure</li>
-            <li>Rest</li>
-          </ul>
-          <li>Associated Symptoms: <br>
-            <ul>
-              <li>Pain / headache</li>
-              <li>Discharge</li>
-              <li>Nausea- Vomiting</li>
-              <li>Blurred vision</li>
-              <li>Fever</li>
-              <ul>
-                <li>Severe bacterial Conjunctivits</li>
-              </ul>
-              <li>Interfering with movement</li>
-            </ul>
-          </li>
-        </ul>
-        <p></p>
-        <p><br>
-        </p>
-        <p><br>
-        </p>
-        <p><br>
-        </p>
+        <summary class="h4">2<sup>ND</sup> COMPLAINT: <strong>EYE PAIN / HEAD
+            PAIN </strong>(Related to Ophthalmic Conditions)</summary>
+        <iframe src="EYE_PAIN_HEAD_PAIN_Ophthalmic_case_sheet_part.html" frameborder="0"></iframe>
+      </details>
+    </div>
+    <div class="section">
+      <details>
+        <summary class="h4">5<sup>th</sup> COMPLAINT <b><u>Irritation</u></b>/<b><u>Itching</u></b></summary>
+        <iframe src="Irritation_Itching_Ophthalmic_case_sheet_part.html" frameborder="0"></iframe>
       </details>
       <details>
-        <summary>6<sup>th</sup> COMPLAINT:&nbsp; LOSS/-
-          <b> BLURRY </b>VISION</summary>
-        <ol>
-          <li>site</li>
-          <ol>
-            <li>One eye</li>
-            <li>both eyes</li>
-            <li>field</li>
-          </ol>
-          <li>Onset</li>
-          <ol>
-            <li>sudden</li>
-            <ol>
-              <li>Retinal detachment</li>
-              <li>Optic Neuritis</li>
-              <li>C/BRAO</li>
-            </ol>
-            <li>Gradual</li>
-            <ol>
-              <li>Cataract</li>
-              <li>Myopia</li>
-              <li>Hypermetropia</li>
-            </ol>
-          </ol>
-          <li>Duration</li>
-          <ol>
-            <li>hours</li>
-            <li>days</li>
-            <li>weeks</li>
-            <li>moths</li>
-            <ol>
-              <li>cataract</li>
-            </ol>
-            <li>years</li>
-          </ol>
-          <li>Aggrevating factors</li>
-          <ol>
-            <li>light</li>
-            <li>Dark</li>
-            <ol>
-              <li>Retinitis pigmentosa</li>
-              <li>many other optics associated disorders</li>
-            </ol>
-          </ol>
-          <li>Relieving factor</li>
-          <ol>
-            <li>better with age?</li>
-            <li><br>
-            </li>
-          </ol>
-          <li>Character / type</li>
-          <ol>
-            <li>near</li>
-            <li>far</li>
-            <li>colour</li>
-            <li><br>
-            </li>
-          </ol>
-          <li>Radiation - there wont be any </li>
-          <li>Associated </li>
-          <ol>
-            <li>scratches to car</li>
-            <ol>
-              <li>bump into the wall</li>
-            </ol>
-            <li>pain</li>
-            <ol>
-              <li>No - cataract</li>
-              <li>Yes</li>
-            </ol>
-            <li>haloes</li>
-            <li>floaters</li>
-            <li>Stroke Sx?</li>
-            <ol>
-              <li>Amurosis fugax</li>
-            </ol>
-          </ol>
-          <li>Progression</li>
-          <ol>
-            <li>Reccurent</li>
-            <ol>
-              <li>Optic Neuritis</li>
-            </ol>
-          </ol>
-          <li>pattern</li>
-          <ol>
-            <li>peripheral loss of vision</li>
-            <ol>
-              <li>~ Open Glaucoma</li>
-              <li><br>
-              </li>
-            </ol>
-            <li>Central loss</li>
-            <ol>
-              <li>Macular Degeneraton</li>
-              <li>optic neuritis</li>
-            </ol>
-            <li>Hemianopias</li>
-            <ol>
-              <li>Pitutary</li>
-              <li>Meningioma</li>
-              <li>Craniopharyngioma</li>
-            </ol>
-            <ol>
-            </ol>
-          </ol>
-          <li>Effect on life</li>
-          <li>Red Flags</li>
-          <ol>
-            <li>Gaint cell arteritis</li>
-            <ol>
-              <li>Temporal pain</li>
-            </ol>
-            <li>Stroke</li>
-            <ol>
-              <li>FAST</li>
-            </ol>
-            <li>Glaucoma</li>
-            <ol>
-              <li>Eye pain</li>
-            </ol>
-          </ol>
-          <li>Severity scale</li>
-          <ol>
-            <li>partial</li>
-            <li>Complete</li>
-            <li>.</li>
-            <li>Blurry</li>
-            <li>Cant see any thing</li>
-          </ol>
-        </ol>
+        <summary class="h4">6<sup>th</sup> COMPLAINT:&nbsp; LOSS/- <b> BLURRY </b>VISION</summary>
+        <iframe src="LOSS_BLURRY_VISION_case_sheet_part.html" frameborder="0"></iframe>
       </details>
-      <details >
-        <summary>HISTORY OF PAST ILLNESS</summary>
+      <details>
+        <summary class="h3">HISTORY OF PAST ILLNESS</summary>
         <ol>
           <li>Simlilar complaints</li>
           <li>Eye Injuries</li>
@@ -797,30 +186,24 @@
       </details>
     </div>
     <div class="section">
-      <h3>PAST SURGICAL HISTORY</h3>
+      <details>
+        <summary class="h3">PAST SURGICAL H/O :</summary>
+        <iframe src="Past_Surgical_history.html" frameborder="0"></iframe> </details>
       <ol>
         <li>Eye surgery</li>
         <ol>
           <li>Retinal detachment</li>
         </ol>
-        <li>APPENDICECTOMY &acirc;&dagger;&rsquo; ILLIOINGUINAL N.</li>
-        <li>HERNIA &acirc;&dagger;&rsquo; INCISIONAL HERNIA</li>
-        <li>SPLENECTOMY&acirc;&dagger;&rsquo;Hb [not Hbs]</li>
-        <li><br>
-        </li>
       </ol>
     </div>
     <div class="section">
-      <h3>TREATMENT HISTORY</h3>
-      <p>--- --- --- --- --- --- --- --- --- FOR PRESENT COMPLAINT</p>
-      <ol>
-        <li>Pain killer</li>
-        <li>Anti sickness medications</li>
-        <li>Timolol</li>
-        <li>Pilocarpine</li>
-        <li>Acetazolamide IV</li>
-        <li>artificial tears</li>
-      </ol>
+      <details>
+        <summary class="h3">TREATMENT HISTORY</summary>
+        <iframe src="TREATMENT_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+      </details>
+      <details>
+        <summary class="h3">DRUG H/O : </summary>
+        <iframe src="DRUG_HISTORY.html" frameborder="0"></iframe> </details>
       <p><br>
       </p>
       <p> </p>
@@ -865,18 +248,24 @@
             </li>
           </ol>
         </li>
-        <li>HERBAL REMIDIES
-          <ol>
-            <li> <br>
-            </li>
-          </ol>
-        </li>
         <li> <br>
         </li>
       </ul>
     </div>
+    <h3>Allergy h/o</h3>
+    <ul>
+      <li>Drug allergies: </li>
+      <li>Contact allergies: </li>
+      <li>Food allergies: </li>
+    </ul>
+    <details>
+      <summary>HERBAL REMEDIES INTERACTIONS</summary>
+      <iframe src="HERBAL_REMEDIES_INTERACTIONS.html"></iframe> </details>
     <div class="section">
-      <h3>SEXUAL HISTORY</h3>
+      <details>
+        <summary class="h3">SEXUAL HISTORY</summary>
+        <iframe src="Sexual_History_section_CASE_SHEET.html" frameborder="0"></iframe>
+      </details>
       <ol>
         <li>Herpes</li>
         <li>Hepatitis</li>
@@ -884,72 +273,25 @@
       <p> </p>
       <p> </p>
     </div>
-    <div class="section">
-      <h3>MENSTRUAL HISTORY</h3>
-      <p> </p>
-      <p> </p>
-      <p> </p>
-    </div>
+    <details>
+      <summary class="h3">MENSTRUAL HISTORY</summary>
+      <iframe src="MENSTRUAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
     <div class="section">
       <details>
-        <summary>PERSONAL HISTORY</summary>
+        <summary class="h3">PERSONAL HISTORY</summary>
         <iframe src="Personal_history.html" frameborder="0"></iframe> </details>
     </div>
     <div class="section">
-      <h3>FAMILY HISTORY</h3>
-      <ol>
-        <li>SIMILAR COMPLAINTS</li>
-        <li>HYPERTENSION</li>
-        <ol>
-          <ol>
-            <li>Open angle Glaucoms</li>
-          </ol>
-        </ol>
-        <li>DIABETES</li>
-        <ol>
-          <ol>
-            <li>Open angle Glaucoms</li>
-          </ol>
-        </ol>
-        <li>ASTHMA - allergic conjunctivits </li>
-        <li>BLEEDING DISORDERS</li>
-        <ol>
-          <ol>
-            <li>Sub conjunctival Hemorrhage</li>
-          </ol>
-        </ol>
-        <li>TB</li>
-        <li>SYPHILIS</li>
-        <li>MI</li>
-        <ol>
-          <ol>
-            <li>anti platelets</li>
-            <ol>
-              <li>Sub conjunctival Hemorrhage</li>
-            </ol>
-          </ol>
-        </ol>
-        <li>STROKE</li>
-        <ol>
-          <ol>
-            <li>anti platelets</li>
-            <ol>
-              <li>Sub conjunctival Hemorrhage</li>
-            </ol>
-          </ol>
-        </ol>
-      </ol>
-      <ol>
-        <li>Multiple Sclerosis</li>
-        <ol>
-          <ol>
-            <li>Optic Neuritis</li>
-          </ol>
-        </ol>
-        <li>CANCER</li>
-        <li>AIDS</li>
-      </ol>
+      <details>
+        <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+        <iframe src="Family_history.html" frameborder="0"></iframe> </details>
     </div>
+    <br>
+    <h2>SUMMARIZATION OF HISTORY</h2>
+    <ol>
+      <li>summarize what is heard so far</li>
+    </ol>
     <br>
     <div class="section">
       <h3>GENERAL EXAMINATION</h3>
@@ -1017,12 +359,9 @@
     <p><br>
     </p>
     <h2>Local Examination:</h2>
-    <div class="video-container"> <iframe src="https://www.youtube.com/embed/IJ6wspfz55M"
-
-        title="Mastering Eye Examination for PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
-
+    <div class="video-container"> <iframe src="https://www.youtube.com/embed/IJ6wspfz55M"
+        title="Mastering Eye Examination for PLAB2/UKMLA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" height="864"
         frameborder="0" width="1520"></iframe> </div>
     <h2></h2>
     <p> remove the glasses/ contacts</p>
@@ -1035,7 +374,7 @@
         swelling, etc. </li>
     </ol>
     <details>
-      <summary>Eye Examination:</summary>
+      <summary class="h3">Eye Examination:</summary>
       <table>
         <tbody>
           <tr>
@@ -1233,7 +572,7 @@
       </table>
     </details>
     <details>
-      <summary>Visual Acuity</summary>
+      <summary class="h3">Visual Acuity</summary>
       <table>
         <tbody>
           <tr>
@@ -1259,12 +598,9 @@
                   <li>ishihara charts</li>
                 </ol>
               </ol>
-              <div class="video-container"> <iframe src="https://www.youtube.com/embed/_HwWfnB0nBg"
-
-                  title="Visual Field Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
-
+              <div class="video-container"> <iframe src="https://www.youtube.com/embed/_HwWfnB0nBg"
+                  title="Visual Field Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
                   height="864" frameborder="0" width="1520"></iframe> </div>
             </td>
             <td><br>
@@ -1293,20 +629,14 @@
               Checked for posterior segment pathologies.<br>
               Do <em>not </em>use <em>drops</em>!!! in Closure <em>Glaucoma</em>!
               <h5>FUNDOSCOPY PROTOCOL</h5>
-              <div class="video-container"> <iframe src="https://www.youtube.com/embed/SiuyE7w0lUc"
-
-                  title="How to use an Ophthalmoscope; #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
-
+              <div class="video-container"> <iframe src="https://www.youtube.com/embed/SiuyE7w0lUc"
+                  title="How to use an Ophthalmoscope; #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
                   height="500" frameborder="0" width="908"></iframe> </div>
               <br>
-              <div class="video-container"> <iframe src="https://www.youtube.com/embed/vWENp_B8vn4"
-
-                  title="Fundoscopy Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
-
+              <div class="video-container"> <iframe src="https://www.youtube.com/embed/vWENp_B8vn4"
+                  title="Fundoscopy Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
                   height="864" frameborder="0" width="1520"></iframe> </div>
               <p><em>Ensure appropriate setting (dimmed room if possible),
                   patient comfort, and proper ophthalmoscope use (correct lens,
@@ -1593,6 +923,7 @@
         </tbody>
       </table>
       <h4>On Palpation:</h4>
+      <h4>CHAPERONE</h4>
       <table>
         <tbody>
           <tr>
@@ -1709,7 +1040,7 @@
     </div>
     <div class="section">
       <details>
-        <summary>MANAGEMENT PLAN</summary>
+        <summary class="h3">MANAGEMENT PLAN</summary>
         <h4>Urgency</h4>
         <ul>
           <li>Urgent Admission/Immediate refferal:</li>
@@ -1899,6 +1230,7 @@
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
   </body>
 </html>
