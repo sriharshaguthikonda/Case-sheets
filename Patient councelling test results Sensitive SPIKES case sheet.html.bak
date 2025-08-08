@@ -22,8 +22,10 @@
           I'm Dr. Harsha, one of the doctors working in this emergency
           department."</span> </li>
       <li class="point"> <span class="description"><strong>AGE:</strong>
-          [Patient's age]</span> <span class="verbal">"Can you confirm
-          you&rsquo;re [age] years old?"</span> </li>
+          [Patient's age]</span></li>
+      <li class="point"><span class="description">Are you here alone? do you
+          have anyone else alon with you?</span></li>
+      <li class="point"><span class="description"></span>&nbsp; </li>
       <li class="point"> <span class="description"><strong>SEX:</strong>
           [Male/Female/Other]</span> <span class="verbal">"Just to confirm, you
           identify as [sex]?"</span> </li>

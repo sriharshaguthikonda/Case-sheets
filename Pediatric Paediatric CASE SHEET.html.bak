@@ -1009,13 +1009,16 @@
         <iframe src="POSTNATAL_HISTORY_case_sheet_part.html" frameborder="0"></iframe>
       </details>
     </div>
-    <h3 class="section-title"><br>
-    </h3>
-    <h3 class="section-title">B I R D</h3>
+    <h2 class="section-title">BIRD History<br>
+    </h2>
+    <h3 class="section-title">B irth</h3>
+    <h3 class="section-title">I imunization</h3>
+    <h3 class="section-title">R ed book</h3>
+    <h3 class="section-title">D iet wee poo!</h3>
     <h3 class="section-title">VI. IMMUNIZATION HISTORY</h3>
     <p class="detail-prompt">(As per National/Local Schedule; include BCG scar,
       any adverse reactions)</p>
-    <p class="green">GREEN BOOK</p>
+    <p class="green">GREEN BOOK - they have the chart in the exam cubicle!</p>
     <p>List vaccines received with dates, or state "Completely immunized as per
       schedule" / "Partially immunized" / "Unimmunized". Note any missed
       vaccines or deviations.]</p>

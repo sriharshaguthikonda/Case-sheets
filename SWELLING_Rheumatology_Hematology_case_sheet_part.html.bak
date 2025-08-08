@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>SWELLING (Rheumatology Hematology)</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+<ul>
+  <li>Site: Where did patient first notice</li>
+  <ul>
+    <li>Base of thumb</li>
+    <ul>
+      <li>De Quervain's tenosynovitis</li>
+      <ol>
+      </ol>
+    </ul>
+    <li>NAEAVS</li>
+  </ul>
+  <li>Onset: When did patient notice appearance
+    <ul>
+      <li>Gradual</li>
+      <li>Sudden (after trauma)</li>
+    </ul>
+  </li>
+  <li>Duration
+    <ul>
+      <li>&Acirc;&plusmn; Painlessness
+        <ol>
+          <li>Short = Inflammatory [Pain]</li>
+          <li>A bit long = Malignant [No pain]</li>
+          <li>Long = Chronic inflammation [Less pain]</li>
+          <li>Long = Benign [No pain]</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>A/R</li>
+</ul>
+<p><br>
+</p>
+<ul>
+  <li>C: Character/Type</li>
+  <li>R: Radiation</li>
+  <li>Associated Symptoms: Patient focuses on pain, ask about other
+    symptoms </li>
+  <ul>
+    <li>Pain</li>
+    <ul>
+      <li>Fever</li>
+      <ul>
+        <ul>
+          <li>septic arthritis</li>
+        </ul>
+      </ul>
+    </ul>
+    <li>Difficulty in respiration</li>
+    <li>Difficulty in swallowing</li>
+    <li>Interfering with movement</li>
+    <li>Disfigurement</li>
+    <li>Other swellings
+      <ul>
+        <li>Neurofibromatosis</li>
+        <li>Diaphyseal aclasis</li>
+        <li>Hodgkin's disease</li>
+      </ul>
+    </li>
+    <li>Secondary changes</li>
+    <li>Softening</li>
+    <li>Ulceration</li>
+    <li>Fungation</li>
+    <li>Inflammation</li>
+    <li>Impairment of function
+      <ul>
+        <li>Osteosarcoma &acirc;&dagger;&rsquo; Incomplete loss of knee
+          movement; </li>
+        <li>Cold abscess &acirc;&dagger;&rsquo; Spine movement</li>
+      </ul>
+    </li>
+    <li>MOBILITY</li>
+    <li>Nature of movement</li>
+    <li>Degree</li>
+  </ul>
+  <li>Progression
+    <ul>
+      <li>Progressive
+        <ol>
+          <li>Very rapid = Inflammatory</li>
+          <li>Rapidly = Malignant</li>
+          <li>Slowly = Benign</li>
+        </ol>
+      </li>
+      <li>Regressive (inflammatory)</li>
+      <li>Static</li>
+      <li>Static &acirc;&dagger;&rsquo; Rapid [Benign
+        &acirc;&dagger;&rsquo; Malignant]</li>
+    </ul>
+  </li>
+  <li>Pattern</li>
+  <li>Effect on life</li>
+  <li>R: Red flags</li>
+  <ul>
+    <li><em>Weight loss</em> </li>
+    <li>TB + Swelling</li>
+    <li>Cold abscess + TB</li>
+    <li>Malignancy</li>
+    <li>AIDS</li>
+  </ul>
+  <li><br>
+  </li>
+</ul>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+  <script src="double_click_collapse_details.js"></script>
+  
+
+
+  </body>
+</html>

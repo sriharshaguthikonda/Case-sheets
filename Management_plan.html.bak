@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -28,6 +29,7 @@
             patient)</li>
           <li class="General">systemic, or</li>
           <li class="ent">mastoiditis</li>
+          <li class="ent">TIA ...all with out ot with abcd score....24 hrs</li>
           <li class="headache cns emergency">Sudden-onset severe "thunderclap"
             headache, or headache with fever/neck stiffness, new neurological
             deficit, or reduced consciousness</li>
@@ -58,6 +60,7 @@
             CXR/Cancer pathway</li>
           <li class=" ent">Recurrent AOM, treatment failure, or</li>
           <li class="General ">complications</li>
+          <li class="cns ">First seizure - first seizure clinic!</li>
           <li class="headache rheumatic ophthalmology">Suspected Giant Cell
             Arteritis (GCA) - same day referral to rheumatology/ophthalmology</li>
           <li class="ms cns">Suspected first presentation of demyelination (to
@@ -92,6 +95,8 @@
       <li class="General">Want someone to listen in? (Patient partnership)</li>
       <li class="emergency">family coming?</li>
       <ol class="General">
+        <li>do you want any family ...especially for learning disability or</li>
+        <li>for other diability </li>
         <li class="General">we can call ..... for you</li>
       </ol>
       <li class="General">Assess Mental Capacity (if any doubt about
@@ -322,6 +327,7 @@
         </ul>
       </ol>
       <li class=" h4 General">Treatment Plan </li>
+      <li>almost always we will involve the seniors</li>
       <li class="General">Shared Decision-Making
         <ul>
           <li>Discuss options, risks, benefits, and reasonable alternatives
@@ -404,7 +410,8 @@
           </li>
           <li class="General pharmacology">Medication Review / Deprescribing
             (consider stopping unnecessary medications)</li>
-          <li class="ent pharmacology"><strong>First-line antibiotic:</strong> <span
+          <li class="ent pharmacology"><strong>First-line antibiotic:</strong> <span
+
               class="pharmacology">Amoxicillin 40-45mg/kg/day PO divided BID
               (max 1g/dose) for 5-10 days</span></li>
           <li class="ent pharmacology"><strong>Penicillin allergy or recent
@@ -559,6 +566,13 @@
           unexplained cough (&gt; 8 weeks)</li>
         <li class="General">Social Prescribing (referral to link workers,
           community groups)</li>
+        <ol>
+          <li class="General">&gt;65</li>
+          <li class="General">psych patients</li>
+          <li class="General">gynaec patients</li>
+          <li class="General">abuse</li>
+          <li class="General">etc</li>
+        </ol>
         <li class="OSA General">Weight management advice (if overweight/obese)</li>
         <li class="OSA General">Positional therapy (e.g., avoiding supine sleep)</li>
         <li class="OSA General">Alcohol and sedative avoidance, especially
@@ -577,6 +591,7 @@
               pressure (heavy lifting, straining)</li>
             <li class="iih cns">Regular, moderate exercise (as tolerated and
               with medical clearance)</li>
+            <li> bicycle insted of driving</li>
           </ol>
         </ul>
         <ul class="PAD cvs">
@@ -1062,14 +1077,21 @@
       </ul>
     </li>
     <li class="General">Consider mandatory reporting duties (e.g., notifiable
-      diseases)</li>
-    <li class="General" style="margin-left: 40px;">Tb</li>
-    <li class="General" style="margin-left: 40px;">Meningitis</li>
-    <li class="General" style="margin-left: 40px;">with in 3 days or urgent same
-      day</li>
-    <li class="General" style="margin-left: 40px;">Malaria</li>
-    <li class="General" style="margin-left: 40px;">search google</li>
-    <li class="General" style="margin-left: 40px;"><br>
+      diseases)
+      <ol>
+        <li class="General" style="margin-left: 40px;">Tb</li>
+        <li class="General" style="margin-left: 40px;">Meningitis</li>
+        <li class="General" style="margin-left: 40px;">with in 3 days or urgent
+          same day</li>
+        <li class="General" style="margin-left: 40px;">Malaria</li>
+        <li class="General" style="margin-left: 40px;">search google</li>
+      </ol>
+    </li>
+    <li> informing others
+      <ol>
+        <li> contacts</li>
+        <li>sexual contacts</li>
+      </ol>
     </li>
     <li class="General">Teach back
       <ul>
@@ -1080,6 +1102,13 @@
         <li> follow-up?</li>
       </ul>
     </li>
+    <li>cards or booklets
+      <ol>
+        <li>warfarin</li>
+        <li>https://bsw.icb.nhs.uk/wp-content/uploads/sites/6/2022/10/OATINFOBOOK11.pdf?utm_source=chatgpt.com</li>
+        <li>steroid</li>
+      </ol>
+    </li>
     <li class="General">Summary of the plan</li>
     <ul>
       <li>doctor repeats the plan</li>
@@ -1089,6 +1118,12 @@
       <li class="ortho-specific">Offer Med 3 fit note if symptoms likely &gt; 7
         days</li>
       <li class="General">Clear, accurate, and contemporaneous documentation</li>
+    </ul>
+    <li>all sti cases</li>
+    <ul>
+      <li>ask to bring patner</li>
+      <li>always safe sex</li>
+      <li>offer hiv test</li>
     </ul>
     <p>Citiizen advisory beauru - funding....if any pay loss...google it..</p>
     <p><br>
