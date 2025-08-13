@@ -283,13 +283,16 @@
       <summary class="h4">8<sup>th</sup> COMPLAINT DIARRHOEA</summary>
       <iframe src="DIARRHOEA_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary class="h4">9<sup>th</sup> COMPLAINT CHEST PAIN - INDIGESTION </summary>
+      <summary class="h4">9<sup>th</sup> COMPLAINT Vomiting</summary>
+      <iframe src="Vomiting_case_sheet_part.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h4">10<sup>th</sup> COMPLAINT CHEST PAIN - INDIGESTION </summary>
       <iframe src="Chest_pain_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary class="h4">10<sup>th</sup> COMPLAINT Dysuria</summary>
+      <summary class="h4">11<sup>th</sup> COMPLAINT Dysuria</summary>
       <iframe src="Dysuria_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
-      <summary class="h4">11<sup>th</sup> COMPLAINT: ERECTILE DYSFUNCTION (ED)</summary>
+      <summary class="h4">12<sup>th</sup> COMPLAINT: ERECTILE DYSFUNCTION (ED)</summary>
       <iframe src="ERECTILE_DYSFUNCTION_ED_case_sheet_part.html" frameborder="0"></iframe>
     </details>
     <p></p>
@@ -769,7 +772,7 @@
       <li>SPO<sub>2</sub>:</li>
     </ol>
     <br>
-    <details>
+    <details open="">
       <summary class="h3">SYSTEMIC EXAMINATION</summary>
       <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/q3A0QIX7zt4?enablejsapi=1"
@@ -1044,7 +1047,9 @@
       <ol>
         <li>SPECIAL TESTS
           <ul>
-            <li><strong>PER RECTAL EXAMINATION (DRE)</strong> </li>
+            <li><strong>PER RECTAL EXAMINATION (DRE)</strong></li>
+            <li><span style="color: #09a8cc;">Give an option to do PSA if there
+                is a possibility because you cant to this and take the PSA blood</span></li>
             <li><em>Indications from transcript:</em> Suspected Prostate Cancer,
               BPH (Benign Prostatic Hyperplasia). (<a class="timestamp" href="https://www.youtube.com/watch?v=Tjz24MT56A0&amp;t=8s">Video
                 0:08-0:20</a>)</li>
@@ -1132,15 +1137,9 @@
         </li>
       </ol>
     </details>
-    <h4>PROVISIONAL Diagnosis :</h4>
-    <ol>
-      <li>ANATOMICAL</li>
-      <li>ETIOLOGICAL</li>
-      <li>PATHOLOGICAL</li>
-      <li>CLINICAL</li>
-    </ol>
-    <details open="">
+    <details>
       <summary class="h3">MANAGEMENT PLAN</summary>
+      <iframe src="Management_plan.html" frameborder="0"></iframe>
       <h4>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Urgency</h4>

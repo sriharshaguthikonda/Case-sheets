@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> ANKLE_PAIN_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <div class="General">
+      <h3>1ST COMPLAINT: ANKLE PAIN</h3>
+      <!-- S: Site -->
+      <li class="point"> <span class="description"><strong>S</strong>: Site</span>
+        <span class="verbal">"Can you point with one finger to the exact
+          location of the pain?"</span>
+        <ul>
+          <li class="ortho-specific">LATERAL (Outside): <span class="ortho-specific">Anterior
+              Talofibular Ligament (ATFL) sprain, Peroneal tendinopathy, Fibular
+              fracture</span></li>
+          <li class="ortho-specific">MEDIAL (Inside): <span class="ortho-specific">Deltoid
+              ligament sprain, Tibialis posterior tendinopathy, Medial malleolus
+              fracture</span></li>
+          <li class="ortho-specific">POSTERIOR (Back): <span class="ortho-specific">Achilles
+              tendinopathy / rupture, Posterior impingement</span></li>
+          <li class="ortho-specific">ANTERIOR (Front): <span class="ortho-specific">Syndesmosis
+              (high ankle) sprain, Tibialis anterior tendinopathy</span></li>
+        </ul>
+      </li>
+      <!-- O: Onset -->
+      <li class="point"> <span class="description"><strong>O</strong>: Onset</span>
+        <span class="verbal">"How did the pain start? Was there a specific
+          injury, or did it come on gradually?"</span>
+        <ul>
+          <li>ACUTE / TRAUMATIC:
+            <ul>
+              <li class="ortho-specific">Mechanism of injury? (e.g., twisting
+                inward/inversion, outward/eversion, direct blow)</li>
+              <li class="ortho-specific">Heard or felt a "pop" or "snap"?
+                (Ligament tear, tendon rupture)</li>
+            </ul>
+          </li>
+          <li>GRADUAL / INSIDIOUS (No trauma):
+            <ul>
+              <li class="ortho-specific">Overuse / change in activity?
+                (Tendinopathy, stress fracture)</li>
+              <li class="rheumatic">No preceding event? (Inflammatory arthritis,
+                Gout)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- D: Duration -->
+      <li class="point"> <span class="description"><strong>D</strong>: Duration</span>
+        <span class="verbal">"How long has your ankle been painful?"</span> </li>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <li class="point"> <span class="description"><strong>A/R</strong>:
+          Aggravating &amp; Relieving Factors</span> <span class="verbal">"What
+          makes the pain worse or better?"</span>
+        <ul>
+          <li>AGGRAVATING: </li>
+          <ul>
+            <li>USE (especially on uneven ground), standing for long periods.</li>
+          </ul>
+          <li>RELIEVING: </li>
+          <ul>
+            <li>Rest, ice, elevation, specific movements, medications.</li>
+          </ul>
+        </ul>
+      </li>
+      <!-- C: Character -->
+      <li class="point"> <span class="description"><strong>C</strong>:
+          Character</span> <span class="verbal">"What does the pain feel like?
+          Is it a sharp pain, a dull ache, or burning?"</span>
+        <ul>
+          <li class="ortho-specific">SHARP / STABBING: <span class="ortho-specific">Acute
+              injury, fracture, loose body</span></li>
+          <li class="ortho-specific rheumatic">DULL ACHE: <span class="ortho-specific">Tendinopathy,
+              Osteoarthritis</span></li>
+          <li class="cns">BURNING / TINGLING / NUMBNESS: <span class="cns">Nerve
+              involvement (Tarsal Tunnel Syndrome, radiculopathy)</span></li>
+          <li class="rheumatic">THROBBING: <span class="rheumatic infectious">Inflammatory
+              process (Gout, infection)</span></li>
+        </ul>
+      </li>
+      <!-- R: Radiation -->
+      <li class="point"> <span class="description"><strong>R</strong>:
+          Radiation</span> <span class="verbal">"Does the pain travel anywhere,
+          for example, up your leg or into your foot?"</span>
+        <ul>
+          <li class="cns">Pain radiating from the back suggests a lumbar spine
+            cause</li>
+        </ul>
+      </li>
+      <!-- A: Associated Symptoms -->
+      <li class="point"> <span class="description"><strong>A</strong>:
+          Associated Symptoms</span> <span class="verbal">"Besides the pain,
+          have you noticed any swelling, instability, stiffness, or other
+          issues?"</span>
+        <ul>
+          <li class="ortho-specific">LOCAL SYMPTOMS 
+            <ul>
+              <li class="ortho-specific">Swelling (immediate vs. delayed?)</li>
+              <li class="ortho-specific">Bruising (where?)</li>
+              <li class="ortho-specific">Instability (feeling of the ankle
+                "giving way")</li>
+              <li class="rheumatic ortho-specific">Stiffness (worse in the
+                morning or after activity?)</li>
+              <li class="ortho-specific">Locking, catching, or grinding
+                sensations</li>
+            </ul>
+          </li>
+          <li class="h3 General">SYSTEMIC / INFLAMMATORY SYMPTOMS
+            <ul>
+              <li class="infectious">Fever, chills, malaise (Septic arthritis)</li>
+              <li class="rheumatic">Pain or swelling in other joints?</li>
+              <li class="rheumatic derma">Associated skin rashes?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- P: Progression -->
+      <li class="point"> <span class="description"><strong>P</strong>:
+          Progression</span> <span class="verbal">"Since it started, has the
+          pain been getting better, worse, or staying the same?"</span> </li>
+      <!-- P: Pattern -->
+      <li class="point"> <span class="description"><strong>P</strong>: Pattern</span>
+        <span class="verbal">"Is the pain worse at any particular time of day?"</span>
+        <ul>
+          <li class="rheumatic">Worse in the morning, improves with movement
+            -&gt; Inflammatory (e.g., Rheumatoid Arthritis)</li>
+          <li class="ortho-specific">Worse at the end of the day or after
+            activity -&gt; Mechanical (e.g., Osteoarthritis)</li>
+          <li class="infectious ortho-specific">Constant, severe pain, worse at
+            night -&gt; Red flag (Infection, Fracture, Tumor)</li>
+        </ul>
+      </li>
+      <!-- E: Effect on life -->
+      <li class="point"> <span class="description"><strong>E</strong>: Effect
+          on Life</span> <span class="verbal">"How has this ankle pain affected
+          your ability to walk, work, or do your hobbies?"</span>
+        <ul>
+          <li class="ortho-specific">Inability to bear weight? (Key Ottawa Rule
+            question)</li>
+          <li>Need for walking aids?</li>
+          <li>Impact on sports or daily activities?</li>
+        </ul>
+      </li>
+      <!-- R: Red Flags -->
+      <li class="point"> <span class="description"><strong>R</strong>: Red
+          Flags</span> <span class="verbal">"I need to ask some specific
+          questions to make sure we're not missing anything serious."</span>
+        <ul>
+          <li class="ortho-specific emergency"><b>OTTAWA ANKLE RULES (for acute
+              injury):</b>
+            <ul>
+              <li>Inability to bear weight for 4 steps (immediately after injury
+                and in clinic)</li>
+              <li>Bone tenderness at posterior edge of lateral or medial
+                malleolus</li>
+              <li>Bone tenderness at navicular (midfoot) or base of 5th
+                metatarsal</li>
+            </ul>
+          </li>
+          <li class="infectious emergency">HOT, RED, SWOLLEN JOINT with FEVER
+            -&gt; <b class="emergency">Septic Arthritis</b></li>
+          <li class="cvs emergency">UNILATERAL CALF SWELLING, TENDERNESS -&gt; <b
+
+              class="emergency">Deep Vein Thrombosis (DVT)</b></li>
+          <li class="ortho-specific emergency">PALPABLE GAP in Achilles tendon
+            after a "pop" -&gt; <b class="emergency">Achilles Rupture</b></li>
+          <li class="cns ortho-specific emergency">NEW FOOT DROP or significant
+            numbness/weakness -&gt; <b class="emergency">Nerve Injury /
+              Compartment Syndrome</b></li>
+        </ul>
+      </li>
+      <!-- S: Scale -->
+      <li class="point"> <span class="description"><strong>S</strong>: Severity
+          / Scale</span> <span class="verbal">"On a scale of 1 to 10, how would
+          you rate your pain right now?"</span> </li>
+    </div>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

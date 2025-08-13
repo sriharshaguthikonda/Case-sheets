@@ -2,194 +2,383 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>CHEST PAIN CASE SHEET</title>
-    
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled>
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body> <a href="Chest_pain_case_sheet_part.html">1<sup>ST </sup>COMPLAINT:
+  <body>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h4>Are you comfortable talking ?</h4>
+    <p></p>
+    <a href="Chest_pain_case_sheet_part.html">1<sup>ST </sup>COMPLAINT:
       CHEST PAIN</a>
     <p> </p>
     <ol>
       <li>SITE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; - where did you first notice
         <ol>
-          <li>RETROSTERNAL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          <li class="cvs respiratory git">RETROSTERNAL &nbsp; &nbsp; &nbsp;
             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DIFFUSE [IF POINTS FINGER
-            IT IS NONCARDIAC]</li>
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; DIFFUSE [IF POINTS FINGER IT IS NONCARDIAC]</li>
         </ol>
       </li>
       <p> </p>
-      <li>O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <li class="cvs respiratory">O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         WHEN DID U NOTICE cf APPEAR
         <ol>
           <li>GRADUAL</li>
-          <li>SUDDEN </li>
+          <li>SUDDEN <span class="cvs respiratory">(acute coronary syndrome,
+              PE, aortic dissection)</span></li>
           <ol>
-            <li>PE [</li>
-            <li>AFTER TRAUMA]</li>
+            <li class="respiratory cvs">PE [pulmonary embolism]</li>
+            <li>AFTER TRAUMA <span class="surgery">(aortic dissection,
+                pneumothorax)</span></li>
           </ol>
         </ol>
       </li>
-      <li>D
+      <li class="cvs respiratory git">D - DURATION &amp; CHARACTER
         <ol>
-          <li>PAIN FUL
+          <li class="cvs">PAIN FUL
             <ol>
-              <li>ACUTE - SHORT=INFLAMMATORY, HAEMOPERITONEUM [PAIN],</li>
+              <li class="cvs">ACUTE - SHORT=INFLAMMATORY, HAEMOPERITONEUM
+                [PAIN],</li>
             </ol>
           </li>
-          <li>PAINLESS
+          <li class="git">PAINLESS
             <ol>
-              <li>SUB ACUTE - A BIT LONG=MALGNANT [NO PAIN]</li>
-              <li>CHRONIC - LONG=CHR.INFLAMMATION[LESS PAIN]</li>
-              <li>LONG=BENIGN [NO PAIN]</li>
+              <li class="cancer">SUB ACUTE - A BIT LONG=MALGNANT [NO PAIN]</li>
+              <li class="git">CHRONIC - LONG=CHR.INFLAMMATION[LESS PAIN]</li>
+              <li class="git">LONG=BENIGN [NO PAIN]</li>
             </ol>
           </li>
         </ol>
       </li>
-      <li>A/R</li>
+      <li class="cvs respiratory git">A - AGGRAVATING/ASSOCIATED FACTORS</li>
       <ol>
-        <li>A ON EXERTION</li>
-        <li>POSITIONAL VARIATION</li>
-        <ol>
-          <li>On lying down</li>
+        <li class="cvs">EXERTION <span class="cvs">(angina, heart failure)</span></li>
+        <li class="respiratory">POSITIONAL VARIATION
           <ol>
-            <li>pericarditis</li>
+            <li class="respiratory">On lying down <span class="respiratory">(pleuritic,
+                pericarditis)</span></li>
+            <ol>
+              <li class="cvs respiratory rheumatic">pericarditis</li>
+            </ol>
           </ol>
-        </ol>
-        <li>INSPIRATION, EXPIRATION</li>
-        <li>COUGHING, SNEEZING</li>
-        <ol>
-          <li>pericarditis</li>
-        </ol>
-        <li>REALATION TO FOOD INTAKE</li>
+        </li>
+        <li class="respiratory">INSPIRATION, EXPIRATION <span class="respiratory">(pleuritic,
+            pneumothorax)</span></li>
+        <li class="respiratory cvs">COUGHING, SNEEZING <span class="respiratory cvs">(pleuritis,
+            pericarditis, PE)</span>
+          <ol>
+            <li class="cvs respiratory rheumatic">pericarditis</li>
+          </ol>
+        </li>
+        <li class="git">FOOD INTAKE
+          <ol>
+            <li class="git">Spicey food <span class="git">(GERD, gastritis)</span></li>
+            <li class="git">Oily food <span class="git">(biliary colic)</span></li>
+            <ol>
+              <li class="git surgery">Gall bladder <span class="git surgery">(cholecystitis,
+                  biliary colic)</span></li>
+            </ol>
+            <li class="git">Conditions
+              <ol>
+                <li class="cvs git">Post prandial angina</li>
+                <li class="git">GERD <span class="git">(gastroesophageal reflux
+                    disease)</span></li>
+                <li class="git surgery">Gall bladder <span class="git surgery">(cholecystitis,
+                    biliary colic)</span></li>
+                <li class="git">Hiatal hernia <span class="git">(GERD symptoms)</span></li>
+                <li><br>
+                </li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+        <li class="ortho-specific">INJURY TRIGGER</li>
       </ol>
-      <li>R </li>
+      <li class="cvs git respiratory">R - RELIEVING FACTORS</li>
       <ol>
-        <li>NOT RELIEVED&nbsp; </li>
+        <li class="cvs">NOT RELIEVED&nbsp; <span class="cvs">(unstable angina,
+            MI, PE)</span></li>
         <ol>
-          <li>UNSTABLE ANGINA</li>
+          <li class="cvs">UNSTABLE ANGINA</li>
         </ol>
-        <li>ON REST</li>
-        <li>POSITIONAL VARIATION</li>
-        <ol>
-          <li>sitting </li>
+        <li class="cvs">ON REST <span class="cvs">(stable angina)</span></li>
+        <li class="respiratory">POSITIONAL VARIATION
           <ol>
-            <li>pericarditis</li>
+            <li class="respiratory">sitting up/forward <span class="respiratory">(pleural
+                effusion, pericarditis)</span></li>
+            <ol>
+              <li class="cvs respiratory rheumatic">pericarditis</li>
+            </ol>
+            <li class="respiratory">leaning forward <span class="respiratory">(pericarditis)</span></li>
+            <ol>
+              <li class="cvs respiratory rheumatic">pericarditis</li>
+            </ol>
           </ol>
-          <li>leaning forward</li>
-          <ol>
-            <li>pericarditis</li>
-          </ol>
-        </ol>
-        <li>nitrates</li>
-        <li>Food intake</li>
+        </li>
+        <li class="cvs">nitrates <span class="cvs">(angina)</span></li>
+        <li class="git">Food intake <span class="git">(GERD, gastritis)</span></li>
+        <li class="git">Antacids <span class="git">(GERD, peptic ulcer)</span></li>
       </ol>
       <br>
-      <li>CHARACTER</li>
+      <li class="cvs git respiratory">C - CHARACTER</li>
       <ol>
-        <li>DIFFUSE</li>
-        <li>SQUEEZING</li>
-        <li>HEAVY</li>
-        <li>SHARP</li>
-        <li>DULL</li>
-      </ol>
-      <li>RADIATION </li>
-      <ol>
-        <li>INTER SCAPULAR AREA</li>
-        <li>SHOULDER</li>
-        <li>Lt. Arm - ULNAR BORDER [C8, T1]</li>
-        <li>JAW </li>
-      </ol>
-      <li>ASSOCIATED c</li>
-      <ol>
-        <li>NAUSEA,</li>
-        <ol>
-          <li>VOMITING</li>
-          <li>SWEATING</li>
-        </ol>
-        <li>SUGGESTIVE OF DYSPEPSIS</li>
-        <li>FEVER </li>
-        <ol>
-          <li>Pericarditis</li>
-          <li>Pneumonia,</li>
-          <li>Pleuritis</li>
-        </ol>
-        <li>FLU LIKE - </li>
-        <ol>
-          <li>Pericarditis</li>
-        </ol>
-        <li>SOB </li>
-        <ol>
-          <li>ORTHPNEA</li>
-        </ol>
-        <ol>
-          <li>PND</li>
-        </ol>
-        <li>JOINT PAINS</li>
-        <li>VOMITING</li>
-        <ol>
-          <li>BILIOUS </li>
-          <li>HEMETEMESIS</li>
-        </ol>
-        <li>DIARRHOEA</li>
-        <li>CONSTIPATION</li>
-        <li>ALCOHOLISM</li>
-        <li>REPEATED BLOOD TRANSFUSIONS</li>
-        <li>DIFFICULTY IN RESPIRATION</li>
-        <ol>
-          <li>Gall bladder</li>
-        </ol>
-        <li>DIFICULTY IN SWALLOWING</li>
-        <li>INTERFERING WITH MOVEMENT</li>
-        <li>DISFIGUREMENT</li>
-      </ol>
-      <li>P - PROGRESSION
-        <ol>
-          <li>VERY RAPID INFLAMMATORY</li>
+        <li class="cvs">DIFFUSE <span class="cvs">(cardiac ischemia,
+            pericarditis)</span></li>
+        <li class="git cvs">SQUEEZING/PRESSURE <span class="cvs">(angina, MI)</span>
           <ol>
-            <li>MI</li>
+            <li class="git">Esophageal spasm</li>
           </ol>
-          <li>RAPIDLY MALIGNANT</li>
-          <li>SLOWLY BENIGN</li>
-          <li>REGRESSIVE inflammatory</li>
-          <li>STATIC</li>
-          <li>STATIC&acirc;&dagger;&rsquo;RAPID [benign &acirc;&dagger;&rsquo;
-            malignant]</li>
+        </li>
+        <li class="cvs">HEAVY <span class="cvs">(angina equivalent)</span></li>
+        <li class="respiratory">SHARP/STABBING <span class="respiratory">(pleuritic,
+            pneumothorax)</span></li>
+        <li class="git">DULL/ACHING <span class="git">(GI causes)</span></li>
+        <li class="cvs">TEARING/RIPPING <span class="cvs surgery">(aortic
+            dissection)</span></li>
+      </ol>
+      <li class="cvs git surgery">R - RADIATION</li>
+      <ol>
+        <li class="cvs surgery">INTER SCAPULAR AREA <span class="cvs surgery">(aortic
+            dissection, MI, biliary colic)</span></li>
+        <li class="cvs">SHOULDER <span class="cvs">(cardiac, gallbladder)</span></li>
+        <li class="cvs">Lt. Arm - ULNAR BORDER [C8, T1] <span class="cvs">(cardiac)</span></li>
+        <li class="cvs">JAW/TEETH <span class="cvs">(cardiac, TMJ)</span></li>
+        <li class="git">EPIGASTRIUM <span class="git">(GERD, gastritis, MI)</span></li>
+        <li class="surgery">BACK <span class="surgery">(aortic dissection,
+            pancreatitis)</span></li>
+      </ol>
+      <li class="cvs git respiratory rheumatic">A - ASSOCIATED SYMPTOMS</li>
+      <ol>
+        <li class="cvs git">NAUSEA/VOMITING <span class="cvs git">(MI, GERD,
+            gastritis)</span>
+          <ol>
+            <li class="git">VOMITING <span class="git">(GERD, gastritis, MI)</span></li>
+            <li class="cvs">SWEATING <span class="cvs">(diaphoresis in MI, PE)</span></li>
+          </ol>
+        </li>
+        <li class="git">SUGGESTIVE OF DYSPEPSIS <span class="git">(GERD, PUD,
+            gastritis)</span></li>
+        <li class="respiratory rheumatic">FEVER <span class="respiratory rheumatic">(infection,
+            inflammation, malignancy)</span>
+          <ol>
+            <li class="cvs respiratory rheumatic">Pericarditis</li>
+            <li class="respiratory">Pneumonia <span class="respiratory">(infectious,
+                aspiration)</span></li>
+            <li class="respiratory">Pleuritis <span class="respiratory">(infectious,
+                inflammatory)</span></li>
+          </ol>
+        </li>
+        <li class="respiratory rheumatic">FLU LIKE SYMPTOMS <span class="respiratory rheumatic">(viral
+            pericarditis, myopericarditis)</span>
+          <ol>
+            <li class="cvs respiratory rheumatic">Pericarditis</li>
+          </ol>
+        </li>
+        <li class="respiratory cvs">SHORTNESS OF BREATH (SOB) <span class="respiratory cvs">(CHF,
+            PE, pneumonia, pneumothorax)</span>
+          <ol>
+            <li class="cvs respiratory">ORTHOPNEA <span class="cvs respiratory">(CHF,
+                pulmonary edema)</span></li>
+            <li class="cvs respiratory">PND <span class="cvs respiratory">(paroxysmal
+                nocturnal dyspnea in CHF)</span></li>
+          </ol>
+        </li>
+        <li class="rheumatic">JOINT PAINS/ARTHRITIS <span class="rheumatic">(autoimmune,
+            reactive arthritis)</span>
+          <ol>
+            <li class="rheumatic cvs">Pericarditis (autoimmune)</li>
+          </ol>
+        </li>
+        <li class="git cvs">VOMITING <span class="git cvs">(GERD, gastritis,
+            MI)</span>
+          <ol>
+            <li class="git">BILIOUS <span class="git">(biliary disease, SBO)</span></li>
+            <li class="git">HEMETEMESIS <span class="git">(UGIB, PUD, varices)</span></li>
+          </ol>
+        </li>
+        <li class="git">DIARRHOEA <span class="git">(gastroenteritis, IBD)</span></li>
+        <li class="git">CONSTIPATION <span class="git">(IBS, obstruction)</span></li>
+        <li class="git">ALCOHOLISM <span class="git">(gastritis, pancreatitis,
+            liver disease)</span></li>
+        <li class="hematology">REPEATED BLOOD TRANSFUSIONS <span class="hematology">(hemochromatosis,
+            iron overload)</span></li>
+        <li class="respiratory cvs">DIFFICULTY IN RESPIRATION <span class="respiratory cvs">(CHF,
+            PE, pneumonia, pneumothorax)</span>
+          <ol>
+            <li class="git respiratory">Gall bladder <span class="git respiratory">(referred
+                pain, subphrenic abscess)</span></li>
+          </ol>
+        </li>
+        <li class="git">DYSPHAGIA <span class="git">(GERD, esophageal spasm,
+            stricture)</span></li>
+        <li class="ortho">PAIN WITH MOVEMENT <span class="ortho">(musculoskeletal,
+            costochondritis)</span></li>
+        <li class="derma">RASH/SKIN CHANGES <span class="derma">(shingles,
+            vasculitis)</span></li>
+      </ol>
+      <li class="cvs git respiratory">P - PROGRESSION &amp; TIMING
+        <ol>
+          <li class="cvs">ACUTE ONSET (MINUTES-HOURS)
+            <ol>
+              <li class="cvs">MI <span class="cvs">(acute coronary syndrome)</span></li>
+              <li class="surgery">AORTIC DISSECTION <span class="surgery">(tearing
+                  pain)</span></li>
+              <li class="respiratory">PULMONARY EMBOLISM <span class="respiratory">(pleuritic
+                  chest pain)</span></li>
+              <li class="respiratory">PNEUMOTHORAX <span class="respiratory">(sudden
+                  pleuritic pain)</span></li>
+            </ol>
+          </li>
+          <li class="cancer">SUBACUTE (DAYS-WEEKS)
+            <ol>
+              <li class="cancer">MALIGNANCY <span class="cancer">(lung cancer,
+                  mets)</span></li>
+              <li class="respiratory">PNEUMONIA <span class="respiratory">(infectious
+                  process)</span></li>
+              <li class="cvs rheumatic">PERICARDITIS <span class="cvs rheumatic">(viral,
+                  autoimmune)</span></li>
+            </ol>
+          </li>
+          <li class="git">CHRONIC (MONTHS-YEARS)
+            <ol>
+              <li class="git">GERD <span class="git">(chronic reflux)</span></li>
+              <li class="ortho">MUSCULOSKELETAL <span class="ortho">(chronic
+                  pain)</span></li>
+              <li class="cvs">STABLE ANGINA <span class="cvs">(chronic CAD)</span></li>
+            </ol>
+          </li>
+          <li class="respiratory">INTERMITTENT/RECURRENT
+            <ol>
+              <li class="git">GERD <span class="git">(post-prandial, nocturnal)</span></li>
+              <li class="cvs">PRINZMETAL'S ANGINA <span class="cvs">(vasospasm)</span></li>
+              <li class="respiratory">PLEURITIC PAIN <span class="respiratory">(recurrent
+                  PE, pleuritis)</span></li>
+            </ol>
+          </li>
         </ol>
       </li>
-      <li>PATTERN</li>
-      <li>EFFECT ON LIFE</li>
-      <li>RED FLAGS</li>
-      <ol>
-        <li><em>Cancer </em>red flags</li>
+      <li class="cvs git respiratory">S - SEVERITY &amp; IMPACT
         <ol>
-          <li>DVT/ PE pulmonary embolism</li>
+          <li class="cvs">SEVERE, CRUSHING PAIN <span class="cvs">(MI, aortic
+              dissection)</span></li>
+          <li class="respiratory">PLEURITIC PAIN <span class="respiratory">(PE,
+              pneumonia, pneumothorax)</span></li>
+          <li class="git">BURNING EPIGASTRIC PAIN <span class="git">(GERD, PUD)</span></li>
+          <li class="ortho">REPRODUCIBLE WITH PALPATION <span class="ortho">(musculoskeletal)</span></li>
         </ol>
-        <li>Chr. Cough</li>
-        <li>Hemoptysis</li>
-        <li>Weight loss</li>
-        <li>lumps and bumps</li>
-        <li><br>
-        </li>
-        <li><strong>TB</strong></li>
-      </ol>
-      <li>Severity</li>
-      <ol>
-        <li>10</li>
+      </li>
+      <li class="cancer respiratory cvs">RED FLAGS (REQUIRE URGENT EVALUATION)
         <ol>
-          <li>AAA</li>
+          <li class="cancer">CANCER RED FLAGS
+            <ol>
+              <li class="cancer">UNEXPLAINED WEIGHT LOSS &gt;10 LB</li>
+              <li class="cancer">NIGHT SWEATS</li>
+              <li class="cancer">PERSISTENT FEVER</li>
+              <li class="cancer">LYMPHADENOPATHY</li>
+            </ol>
+          </li>
+          <li class="respiratory cvs">PULMONARY/CARDIAC RED FLAGS
+            <ol>
+              <li class="respiratory cvs">HEMOPTYSIS <span class="respiratory cvs">(PE,
+                  malignancy, TB)</span></li>
+              <li class="cvs">SYNCOPE/NEAR-SYNCOPE <span class="cvs">(arrhythmia,
+                  MI, PE)</span></li>
+              <li class="cvs">HYPOTENSION <span class="cvs">(cardiogenic shock,
+                  tamponade)</span></li>
+              <li class="respiratory">HYPOXIA <span class="respiratory">(PE,
+                  pneumothorax, pneumonia)</span></li>
+            </ol>
+          </li>
+          <li class="git">GASTROINTESTINAL RED FLAGS
+            <ol>
+              <li class="git">Dysphagia</li>
+              <li class="git">HEMATEMESIS/MELENA <span class="git">(UGIB,
+                  varices)</span></li>
+              <li class="git">HEMATOCHEZIA <span class="git">(LGIB, ischemic
+                  colitis)</span></li>
+              <li class="git">PERITONEAL SIGNS <span class="git surgery">(perforation,
+                  peritonitis)</span></li>
+            </ol>
+          </li>
+          <li class="surgery">SURGICAL EMERGENCIES
+            <ol>
+              <li class="surgery">AORTIC DISSECTION <span class="surgery">(tearing
+                  pain, pulse deficits)</span></li>
+              <li class="surgery">ESOPHAGEAL RUPTURE <span class="surgery">(severe
+                  pain after vomiting)</span></li>
+              <li class="surgery">TENSION PNEUMOTHORAX <span class="surgery">(hypotension,
+                  tracheal deviation)</span></li>
+              <li class="surgery">CARDIAC TAMPONADE <span class="surgery">(Beck's
+                  triad: hypotension, JVD, muffled heart sounds)</span></li>
+            </ol>
+          </li>
         </ol>
-        <li>7</li>
+      </li>
+      <li class="cvs surgery respiratory">T - TIMING &amp; SEVERITY (1-10 SCALE)
         <ol>
-          <li>MI</li>
+          <li>10 - MOST SEVERE
+            <ol>
+              <li class="surgery">AORTIC DISSECTION <span class="surgery">(tearing,
+                  ripping pain)</span></li>
+              <li class="cvs">MASSIVE MI <span class="cvs">(crushing chest
+                  pain, diaphoresis)</span></li>
+              <li class="surgery">TENSION PNEUMOTHORAX <span class="surgery">(hypotension,
+                  tracheal deviation)</span></li>
+              <li class="surgery">CARDIAC TAMPONADE <span class="surgery">(Beck's
+                  triad)</span></li>
+            </ol>
+          </li>
+          <li>7-9 - MODERATELY SEVERE
+            <ol>
+              <li class="cvs">MYOCARDIAL INFARCTION <span class="cvs">(pressure,
+                  radiation to arm/jaw)</span></li>
+              <li class="respiratory">PULMONARY EMBOLISM <span class="respiratory">(pleuritic
+                  pain, SOB)</span></li>
+              <li class="surgery">PERFORATED VISCUS <span class="surgery">(sudden
+                  severe pain, peritonitis)</span></li>
+              <li class="respiratory">PNEUMONIA WITH SEPSIS <span class="respiratory">(fever,
+                  tachypnea)</span></li>
+            </ol>
+          </li>
+          <li>4-6 - MODERATE
+            <ol>
+              <li class="cvs">UNSTABLE ANGINA <span class="cvs">(increasing
+                  frequency/severity)</span></li>
+              <li class="respiratory">PLEURITIS <span class="respiratory">(worse
+                  with inspiration)</span></li>
+              <li class="git">PEPTIC ULCER DISEASE <span class="git">(burning
+                  epigastric pain)</span></li>
+              <li class="git">BILIARY COLIC <span class="git">(RUQ pain,
+                  post-prandial)</span></li>
+            </ol>
+          </li>
+          <li>1-3 - MILD
+            <ol>
+              <li class="git">GASTROESOPHAGEAL REFLUX <span class="git">(heartburn,
+                  acid taste)</span></li>
+              <li class="ortho">MUSCULOSKELETAL PAIN <span class="ortho">(reproducible
+                  with palpation)</span></li>
+              <li class="respiratory">VIRAL PLEURODYNIA <span class="respiratory">(self-limited,
+                  viral prodrome)</span></li>
+              <li class="psychiatric">ANXIETY/STRESS <span class="psychiatric">(hyperventilation,
+                  situational)</span></li>
+            </ol>
+          </li>
         </ol>
-        <li>3</li>
-      </ol>
+      </li>
     </ol>
     <script src="Iframe_height.js"></script>
     <script src="Iframe_height_mothership.js"></script>
       <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  
+
+
   </body>
 </html>

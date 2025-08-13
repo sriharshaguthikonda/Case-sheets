@@ -1,0 +1,215 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> MILESTONES_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+    <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+
+
+
+
+    <p><strong>Gross Motor Milestones:</strong> 
+        
+        <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Head holding:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Sitting without support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Crawling:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Standing with support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Standing without support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Walking with support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Walking without support:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Running:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Climbing stairs:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Fine Motor Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Reaching for objects:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Transferring objects hand to hand:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Pincer grasp (mature/immature):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Scribbling:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Building tower of cubes:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Copying shapes (circle, cross, square, triangle):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Language Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Cooing:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Monosyllables (ba, da, ma):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Bisyllables (mama, dada - specific/non-specific):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Speaking 2-3 meaningful words:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Speaking simple sentences (2-3 words):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Telling stories/asking questions:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Knows name, age, gender:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Social-Emotional Milestones:</strong> <span class="detail-prompt">(Age
+          of attainment) </span></p>
+      <ul>
+        <li>Social smile:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Recognizes mother:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Stranger anxiety:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Waves bye-bye:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Plays simple games (peek-a-boo):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Dry by day/night:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Bladder/Bowel control:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Dresses/Undresses self (with/without help):
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+        <li>Plays cooperatively with other children:
+          <ol>
+            <li>...</li>
+          </ol>
+        </li>
+      </ul>
+      <p></p>
+      <p><strong>Scholastic Performance:</strong> [If applicable -</p>
+      <ol>
+        <li>Grade, </li>
+        <li>performance, </li>
+        <li>any difficulties]</li>
+      </ol>
+
+
+
+
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  
+
+
+  </body>
+</html>

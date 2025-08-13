@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> CONFUSION_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <ul>
+      <li>Onset: When did the confusion start?
+        <ul>
+          <li>Sudden</li>
+          <ul>
+            can have a renal cause but have to rule out other causes
+            <li>After a head injury</li>
+            <li>After a stroke</li>
+            <li>After a seizure</li>
+            <li>etc...</li>
+          </ul>
+          <li>Gradual</li>
+          <ul>
+            can have a renal cause but have to rule out other causes
+            <li>After a head injury</li>
+            <li>Dementia</li>
+            <li>etc...</li>
+          </ul>
+        </ul>
+      </li>
+      <li>Duration: How long has the confusion been present?</li>
+      <li>A/R:</li>
+      <ol>
+        <li>Aggravated by:</li>
+        <ol>
+          <li>Triggers: ppt?</li>
+          <li>anti histamines</li>
+          <li>opiods</li>
+          <li>Sleed aids</li>
+        </ol>
+        <li>Relieved by:</li>
+      </ol>
+      <li>Character/Type:</li>
+      <ol>
+        <li>Agitated</li>
+        <li>Memory loss</li>
+        <li>Disoriented</li>
+        <li>Delirious</li>
+        <li>drowsy</li>
+      </ol>
+      <li>Radiation:</li>
+      <li>Associated Symptoms:</li>
+      <ul>
+        <li>CNS</li>
+        <ul>
+          <li>Seizures</li>
+          <li>memory loss</li>
+        </ul>
+        <li>UTI</li>
+        <ul>
+          <li>fever</li>
+          <li>Decreased urine output</li>
+        </ul>
+        <li>CVS</li>
+        <ul>
+          <li>Swelling of legs</li>
+          <li>SOB</li>
+        </ul>
+        <li>Resp</li>
+        <ul>
+          <li>fever</li>
+          <li>cough</li>
+          <li>SOB</li>
+        </ul>
+        <li><em>Constipation</em></li>
+        <li>Nausea/vomiting</li>
+      </ul>
+      <li>Progression: Has the confusion been getting worse?</li>
+      <li>Pattern: </li>
+      <ul>
+        <li>Constant or</li>
+        <li>intermittent?</li>
+        <ul>
+          <li>delirium</li>
+        </ul>
+      </ul>
+      <li>E: Effect on life</li>
+      <li>R: Red flag</li>
+      <ul>
+        <li>FAST </li>
+        <li>Meningitis </li>
+        <ul>
+          <li>Rash</li>
+          <li>fever</li>
+          <li>headache</li>
+          <li>neck stiffness</li>
+        </ul>
+        <li><br>
+        </li>
+      </ul>
+      <li>S: severity scale</li>
+      <ul>
+        <li><strong>AMTS,</strong></li>
+        <li><strong>4AT</strong></li>
+        <li><strong>CAM)</strong></li>
+      </ul>
+    </ul>
+    <p><br>
+    </p>
+    <p>Sure &mdash; these are <strong>cognitive screening tools</strong> used
+      in the UK to detect confusion, delirium, or possible dementia.
+      They&rsquo;re all quick bedside tests but differ in scope, speed, and what
+      they&rsquo;re best for.</p>
+    <hr>
+    <h2><strong>1. AMTS &mdash; Abbreviated Mental Test Score</strong></h2>
+    <ul>
+      <li>
+        <p><strong>Purpose:</strong> Quick screen for cognitive impairment
+          (often in elderly or acute settings).</p>
+      </li>
+      <li>
+        <p><strong>Questions:</strong> 10 items &mdash; e.g., age, date of
+          birth, current year, time, address recall, recognition of people,
+          historical dates, etc.</p>
+      </li>
+      <li>
+        <p><strong>Scoring:</strong> 1 point per correct answer &rarr; <strong>&lt;8/10
+            suggests cognitive impairment</strong> (needs further assessment).</p>
+      </li>
+      <li>
+        <p><strong>Strengths:</strong></p>
+        <ul>
+          <li>
+            <p>Very quick (2&ndash;3 min)</p>
+          </li>
+          <li>
+            <p>Widely used in A&amp;E, acute medicine</p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Limitations:</strong></p>
+        <ul>
+          <li>
+            <p>Doesn&rsquo;t differentiate acute delirium from chronic dementia.</p>
+          </li>
+          <li>
+            <p>Cultural bias possible in some questions.</p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <hr>
+    <h2><strong>2. 4AT &mdash; 4 A&rsquo;s Test</strong></h2>
+    <ul>
+      <li>
+        <p><strong>Purpose:</strong> Rapid delirium screen (designed for acute
+          hospitals, especially elderly patients).</p>
+      </li>
+      <li>
+        <p><strong>Domains:</strong></p>
+        <ol>
+          <li>
+            <p><strong>Alertness</strong> (normal, abnormal, drowsy)</p>
+          </li>
+          <li>
+            <p><strong>AMT4</strong> &mdash; 4-item orientation (age, date of
+              birth, place, year)</p>
+          </li>
+          <li>
+            <p><strong>Attention</strong> &mdash; e.g., months of the year
+              backwards</p>
+          </li>
+          <li>
+            <p><strong>Acute change or fluctuating course</strong></p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p><strong>Scoring:</strong></p>
+        <ul>
+          <li>
+            <p>0 = unlikely delirium/cognitive impairment</p>
+          </li>
+          <li>
+            <p>1&ndash;3 = possible cognitive impairment</p>
+          </li>
+          <li>
+            <p>&ge;4 = possible delirium (needs clinical confirmation)</p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Strengths:</strong></p>
+        <ul>
+          <li>
+            <p>Takes <strong>&lt;2 minutes</strong></p>
+          </li>
+          <li>
+            <p>Picks up both delirium and dementia risk</p>
+          </li>
+          <li>
+            <p>No need for patient cooperation if unresponsive (alertness scored
+              visually)</p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Limitations:</strong></p>
+        <ul>
+          <li>
+            <p>Still a screen &mdash; not diagnostic</p>
+          </li>
+          <li>
+            <p>Needs good collateral history for &ldquo;acute change&rdquo;</p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <hr>
+    <h2><strong>3. CAM &mdash; Confusion Assessment Method</strong></h2>
+    <ul>
+      <li>
+        <p><strong>Purpose:</strong> Gold-standard <em>bedside diagnostic</em>
+          algorithm for <strong>delirium</strong>.</p>
+      </li>
+      <li>
+        <p><strong>Criteria:</strong></p>
+        <ol>
+          <li>
+            <p>Acute onset &amp; fluctuating course <strong>AND</strong></p>
+          </li>
+          <li>
+            <p>Inattention <strong>AND</strong></p>
+          </li>
+          <li>
+            <p>Either disorganised thinking <strong>OR</strong> altered level
+              of consciousness</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p><strong>Scoring:</strong> Positive CAM = delirium likely; needs
+          urgent management.</p>
+      </li>
+      <li>
+        <p><strong>Strengths:</strong></p>
+        <ul>
+          <li>
+            <p>Well validated, diagnostic rather than screening</p>
+          </li>
+          <li>
+            <p>Can be used repeatedly to track changes</p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Limitations:</strong></p>
+        <ul>
+          <li>
+            <p>Takes longer (5&ndash;10 min) than 4AT</p>
+          </li>
+          <li>
+            <p>Requires some training to use correctly</p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <hr>
+    <h3><strong>Summary Table</strong></h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Tool</th>
+          <th>Time</th>
+          <th>Focus</th>
+          <th>Best For</th>
+          <th>Cut-off</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>AMTS</td>
+          <td>2&ndash;3m</td>
+          <td>Cognitive impairment (any cause)</td>
+          <td>Quick screen in ED/ward</td>
+          <td>&lt;8/10</td>
+        </tr>
+        <tr>
+          <td>4AT</td>
+          <td>&lt;2m</td>
+          <td>Delirium &amp; dementia risk</td>
+          <td>Acute hospital settings</td>
+          <td>&ge;4 delirium likely</td>
+        </tr>
+        <tr>
+          <td>CAM</td>
+          <td>5&ndash;10m</td>
+          <td>Diagnostic delirium</td>
+          <td>Confirming delirium after screen</td>
+          <td>N/A</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <p>If you like, I can make you a <strong>PLAB 2 exam-friendly memory aid</strong>
+      so you can recall AMTS, 4AT, and CAM differences instantly in a roleplay.
+      That way you&rsquo;ll know which to mention in which scenario.</p>
+    <p></p>
+    <ul>
+    </ul>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

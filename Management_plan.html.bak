@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,6 +10,7 @@
     <h3 class="General">MANAGEMENT PLAN</h3>
     <h4 class="General">OBO Urgency</h4>
     <ul>
+      <li class="General">Explain why are we going with each of these options?</li>
       <li class="General">Urgent Admission:
         <ol class="General">
           <li class="SOB respiratory emergency">Acute severe shortness of breath
@@ -101,9 +101,9 @@
       </ol>
       <li class="General">Assess Mental Capacity (if any doubt about
         decision-making ability)</li>
-      <li class="General">Consider Safeguarding issues (adult/child protection
+      <li class="General"><b>Safeguarding </b>issues (adult/child protection
         concerns)</li>
-      <li class="General">Initial Investigations
+      <li class="General">Initial <b>Investigations</b>
         <ul>
           <li class="General">Screening Questionnaires:
             <ul>
@@ -140,6 +140,12 @@
             <li class="headache rheumatic">ESR/CRP (if suspecting Giant Cell
               Arteritis)</li>
             <li class="surgery urology">Prostate specific antigen</li>
+            <li class="surgery urology">Tumor markers at specialist</li>
+            <ul>
+              <li class="surgery urology">AFP</li>
+              <li class="surgery urology">HCG</li>
+              <li class="surgery urology">LDH</li>
+            </ul>
           </ul>
           <li class="General">Imaging:
             <ul>
@@ -327,14 +333,14 @@
         </ul>
       </ol>
       <li class=" h4 General">Treatment Plan </li>
-      <li>almost always we will involve the seniors</li>
+      <li><b>Seniors </b>: Almost always we will involve the seniors</li>
       <li class="General">Shared Decision-Making
         <ul>
           <li>Discuss options, risks, benefits, and reasonable alternatives
             (including no treatment)</li>
         </ul>
       </li>
-      <li class="General">Symptomatic treatment:
+      <li class="General"><b>Symptomatic </b>treatment:
         <ul class="General">
           <li class="General">Analgesia:
             <ol>
@@ -410,8 +416,7 @@
           </li>
           <li class="General pharmacology">Medication Review / Deprescribing
             (consider stopping unnecessary medications)</li>
-          <li class="ent pharmacology"><strong>First-line antibiotic:</strong> <span
-
+          <li class="ent pharmacology"><strong>First-line antibiotic:</strong> <span
               class="pharmacology">Amoxicillin 40-45mg/kg/day PO divided BID
               (max 1g/dose) for 5-10 days</span></li>
           <li class="ent pharmacology"><strong>Penicillin allergy or recent
@@ -652,6 +657,14 @@
           </li>
           <li class="surgery">Surgical
             <ul class="surgery">
+              <li>Complications</li>
+              <ul>
+                <li>Pain</li>
+                <li>Damage</li>
+                <li>bleeding</li>
+                <li>infection</li>
+                <li>Special</li>
+              </ul>
               <li class="hematology">Stem cell transplant</li>
               <li class="hematology">Bone Marrow Transplant</li>
               <li class="surgery">Splenectomy

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> Underage_case_sheet</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <h3>Under age </h3>
+    <ol>
+      <li><b>Appreciate </b>the reason for attending</li>
+      <li>reason for discussing</li>
+      <li>Tell them its <b>Normalize</b></li>
+    </ol>
+    <h3>management</h3>
+    <ol>
+      <li>involve&nbsp; <b>family</b></li>
+      <li>Offer <b>support</b></li>
+      <li><b>Safe sex</b></li>
+      <li><b>Additional support </b>to come back</li>
+    </ol>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

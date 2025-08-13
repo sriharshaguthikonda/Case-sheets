@@ -108,6 +108,11 @@
           <li class="cvs hematology">leafy green</li>
           <li class="cvs hematology">Vitamin K - Warfarin</li>
         </ul>
+        <li class="General cvs psychiatry">caffeine</li>
+        <ul>
+          <li class="cvs">Palpitations</li>
+          <li class="gynob">miscarriage</li>
+        </ul>
         <hr>
         <li class="confusion">Fluid intake</li>
         <ul>
@@ -194,7 +199,7 @@
             gingivolabial sulcus</li>
         </ul>
         <li class="git">PAN</li>
-        <li class="git">ALCHOHOL / DRINKING</li>
+        <li class="git">ALCHOHOL</li>
         <ul>
           <li>DOSE</li>
           <ol>
@@ -263,13 +268,14 @@
       </ol>
       <li class="General">LIVING</li>
       <ol>
-        <li class="social">how ? are you able to manage your dals</li>
-        <li class="social">who ? Family members</li>
+        <li class="social">Family members</li>
         <ol>
-          <li class="social">friction in relations</li>
+          <li class="infectious">VZV</li>
+          <li>Relationships</li>
+          <li>Support</li>
         </ol>
-        <li class="social">&nbsp;who ? Carers</li>
-        <li class="social">where do you live ? Housing</li>
+        <li class="social">Carers</li>
+        <li class="social">Housing</li>
         <li class="social">Pets</li>
         <ol>
           <li>Cats</li>

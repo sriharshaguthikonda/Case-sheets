@@ -3,7 +3,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>ENDOCRINOLOGY CASE SHEET SWELLING thyroid</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button><br>
@@ -67,8 +67,7 @@
     <details>
       <summary class="h4"><strong>5<sup>th</sup> COMPLAINT : Loss of
           consciousness</strong></summary>
-      <iframe src="SYNCOPE_MOMENTARY_LOSS_OF_CONSCIOUSNESS_case_sheet_part.html"
-
+      <iframe src="SYNCOPE_MOMENTARY_LOSS_OF_CONSCIOUSNESS_case_sheet_part.html"
         frameborder="0"></iframe> </details>
     <hr>
     <details>
@@ -257,12 +256,10 @@
     <ol>
       <li>summarize what is heard so far</li>
     </ol>
-    <details>
+    <details open="">
       <summary class="h3">GENERAL EXAMINATION</summary>
-      <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
-
-          title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
+      <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
+          title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen="" frameborder="0"></iframe> </div>
       <ol>
         <li>CONSCIOUS</li>
@@ -304,7 +301,20 @@
         <li>EYE BROWS</li>
         <li>FROWNING</li>
         <li>EYES (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=55s">Video
-            0:55</a>)</li>
+            0:55</a>)
+          <ol>
+            <li>Hyperthyroid</li>
+            <ol>
+              <li>proptosis</li>
+              <li>bulgeing</li>
+              <li>lid lag</li>
+              <li>H test</li>
+              <li><br>
+              </li>
+            </ol>
+            <li>Hypothyroid</li>
+          </ol>
+        </li>
         <li>PALLOR</li>
         <li>ICTERUS</li>
         <li>PAROTID</li>
@@ -344,14 +354,8 @@
           2:30</a>)</li>
       <li><strong>PALPATION</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=189s">Video
           3:09</a>)</li>
-      <li><strong>REGIONAL LYMPH NODES</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=243s">Video
-          4:03</a>)</li>
-      <li><strong>PERCUSSION</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=292s">Video
-          4:52</a>)</li>
-      <li><sSCULTATION</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=302s">Video
-          5:02</a>)</li>
     </ol>
-    <details open="">
+    <details>
       <summary class="h3">1. INSPECTION</summary>
       <p><em>(we have only 2D)</em></p>
       <ol>
@@ -490,10 +494,10 @@
             <li>Face &amp; neck venous engorgement &rarr; retrosternal
               prolongation</li>
           </ul>
-        </li
+        </li>
       </ol>
     </details>
-    <details open="">
+    <details>
       <summary class="h3">2. PALPATION</summary>
       <p><em>(GENTLE 3D)</em></p>
       <p><em>(Note: May spread malignancy)</em></p>
@@ -563,9 +567,29 @@
         <li><strong>PLANE OF SWELLING</strong></li>
       </ol>
     </details>
-    <h4>REGIONAL LYMPH NODES :</h4>
+    <h4>REGIONAL LYMPH NODES (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=243s">Video
+        4:03</a>):</h4>
+    <ul>
+      <li>Submental (under the chin)</li>
+      <li>Submandibular (under the jawline)</li>
+      <li>Pre-auricular (in front of the ears)</li>
+      <li>Post-auricular (behind the ears)</li>
+      <li>Occipital (at the base of the skull)</li>
+      <li>Tonsillar/Jugulodigastric (angle of the mandible)</li>
+      <li>Superficial cervical (over the sternocleidomastoid)</li>
+      <li>Deep cervical (under the sternocleidomastoid &mdash; palpated by
+        tilting the head to relax the muscle)</li>
+      <li>Posterior cervical (along the trapezius)</li>
+      <li>Supraclavicular (just above the clavicle)</li>
+    </ul>
     <h4>PURCUSSION :</h4>
+    <ol>
+      <li>Retrosternal extension</li>
+    </ol>
     <h4>AUSCULTATION :</h4>
+    <ol>
+      <li>Thyroid bruit</li>
+    </ol>
     <hr>
     <h4>ICE :<b>Ideas</b>, Concerns, <em>Expectations</em></h4>
     <details>
@@ -749,5 +773,6 @@
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
   </body>
 </html>
