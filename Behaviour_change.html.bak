@@ -103,8 +103,6 @@
         <ul>
           <li class="General">Parent-rated distress</li>
           <li class="General">Teacher-rated impact</li>
-          <li class="General">frequency</li>
-          <li class="General">duration of each time</li>
         </ul>
       </li>
     </ul>

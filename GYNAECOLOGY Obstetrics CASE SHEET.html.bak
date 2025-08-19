@@ -221,6 +221,15 @@
       <li>.</li>
       <li>Planning for <b>more</b>?</li>
       <li>imp if we order <em>Mammogram</em></li>
+      <li><span style="color: #08cca2;">age of pregnancy?</span></li>
+      <li><span style=" color: #08cca2;">how is it?</span></li>
+      <li><span style="  color: #08cca2;">sx?</span></li>
+      <li><span style="   color: #08cca2;">supplements</span></li>
+      <li><span style="    color: #08cca2;">medicaionots</span></li>
+      <li><span style="     color: #08cca2;">all ANC checks?</span></li>
+      <li><span style="      color: #08cca2;">complications</span></li>
+      <li><span style="      color: #08cca2;"><br>
+        </span></li>
       <li>USG scans:
         <ol>
           <li>11 weeks</li>
@@ -228,6 +237,12 @@
         </ol>
       </li>
       <li>how are the movements of the baby?</li>
+      <li>how are other children doing?</li>
+      <li>similar elaboration of other pregrnacnies?</li>
+    </ol>
+    <p><br>
+    </p>
+    <ol class="obstetric">
     </ol>
     <p><br>
     </p>
@@ -620,7 +635,6 @@
             <li class="obstetric">pigmentation.</li>
           </ol>
         </li>
-        <li>Visible pulsations or peristalsis. "no visible pulsation".</li>
         <li class="obstetric">Visible pulsations or peristalsis. "no visible
           pulsation" (<a class="timestamp" href="https://www.youtube.com/watch?v=yJnyLR_I1Vw&amp;t=56s">Video
             0:56-0:57</a>).</li>
@@ -727,7 +741,9 @@
           height="864" frameborder="0" width="1520"></iframe> </div>
       <br>
     </h4>
-    <h4>CHAPERONE</h4>
+    <h4>CHAPERONE </h4>
+    <h4><em> "we have to have a chaperone with us" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=105s">Video
+          1:45-1:47</a>), </em></h4>
     <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Deu2c_VmRTY"
         title="Per Speculum Examination" height="864" frameborder="0" width="1520"></iframe>
@@ -736,19 +752,21 @@
         of the internal and external genitalia organs" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=60s">Video
           1:00-1:04</a>), <br>
       </em></h4>
-    <h4><em>obtain consent,</em></h4>
-    <h4><em>&nbsp;ensure chaperone is present and acknowledged: "we have to have
-        a chaperone with us" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=105s">Video
-          1:45-1:47</a>), ensure privacy, ask patient to undress below the
-        waist: "we want you to undress below the waist" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=120s">Video
-          2:00</a>), and <br>
+    <h4>obtain consent,</h4>
+    <h4>Exposure</h4>
+    <h4><em>&nbsp;ensure privacy, ask patient to undress below the waist: (<a class="timestamp"
+          href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=120s">Video 2:00</a>),
+        and <br>
       </em></h4>
-    <h4><em>request patient to empty their bladder: "make sure you tell the
-        patient to empty the bladder very important" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=152s">Video
+    <h4><em>request patient to <b><u>empty </u></b>their bladder: "make sure
+        you tell the patient to empty the bladder very important" (<a class="timestamp"
+          href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=152s">Video
           2:32-2:37</a>). </em></h4>
     <em> </em>
-    <h4><em> Good light source is necessary (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=264s">Video
-          4:24</a>). Position patient appropriately: "patient to lie down
+    <h4><em> Good <b>light source </b>is necessary (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=264s">Video
+          4:24</a>). <br>
+      </em></h4>
+    <h4><em><b><u>Position </u></b>patient appropriately: "patient to lie down
         comfortably on the back bring the heels as much as close to the
         bottom...bend the knees and bring the heels as much as close to the
         border and then knees fall apart on either side of the bed" (<a class="timestamp"
@@ -768,14 +786,21 @@
             <li>perineum): </li>
             <li><br>
             </li>
-            <li>"looking for if there is any </li>
-            <li>redness and </li>
-            <li>swelling and it's [scar] mark of any previous surgery or if
-              there is any bleeding discharge coming out from the vagina" (<a class="timestamp"
-                href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=233s">Video
+            <li>"looking for if there is any (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=233s">Video
                 3:53-4:00</a>). </li>
-            <li>Skin changes, lesions, ulcers, warts, erythema, excoriation,
-              signs of trauma, hair distribution.</li>
+            <li>redness and </li>
+            <li>swelling</li>
+            <li>[scar] mark of any previous surgery or if there is any </li>
+            <li>bleeding </li>
+            <li>discharge coming out from the vagina"</li>
+            <li>Skin changes, </li>
+            <li>lesions, </li>
+            <li>ulcers, </li>
+            <li>warts, </li>
+            <li>erythema, </li>
+            <li>excoriation, </li>
+            <li>signs of trauma, </li>
+            <li>hair distribution.</li>
             <li>&nbsp;<span class="obstetric">(Increased vascularity,
                 varicosities, edema in pregnancy).</span></li>
           </ol>
@@ -785,16 +810,16 @@
           <li>Urethral meatus: </li>
           <ol>
             <li>Discharge,</li>
-            <li>&nbsp;caruncle.</li>
+            <li>Caruncle.</li>
           </ol>
           <li>Bartholin's glands: </li>
           <ol>
             <li>Swelling, Redness</li>
             <li>Palpation - tenderness.</li>
           </ol>
-          <li class="obstetric">Ask patient to cough/strain: "tell the patient
-            to do cough what you're looking for you're looking for if there's
-            any vagina prolapse" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=250s">Video
+          <li class="obstetric">Ask patient to <b><u>cough</u></b>/strain:
+            "tell the patient to do cough what you're looking for you're looking
+            for if there's any vagina prolapse" (<a class="timestamp" href="https://www.youtube.com/watch?Deu2c_VmRTY&amp;t=250s">Video
               4:10-4:18</a>). Note any prolapse (</li>
           <ol>
             <li class="obstetric">cystocele, </li>
