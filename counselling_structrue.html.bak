@@ -14,10 +14,10 @@
     <p><br>
     </p>
     <ul>
-      <li>Pt's idea </li>
+      <li>Pt's idea of disease</li>
       <ul>
         <li>wht is angina?</li>
-        <li>any idea how thins has caused this?</li>
+        <li>pathogenesis - any idea how this has caused this?</li>
         <li><br>
         </li>
       </ul>
@@ -29,6 +29,7 @@
           <li>Medical?
             <ul>
               <li>Compliance</li>
+              <li>why poor compliance</li>
               <li>Side effects</li>
             </ul>
           </li>
@@ -46,16 +47,20 @@
       <ul>
         <li>other complications?</li>
         <li>how are you managing them?</li>
-        <li><br>
-        </li>
+      </ul>
+      <li>Side effects </li>
+      <ul>
       </ul>
       <li>Do you check your</li>
       <ul>
         <li>&nbsp;blood sugar/</li>
         <li>BP regularly?</li>
         <li>cholesterol</li>
+        <li>.</li>
+        <li>.</li>
       </ul>
       <li>Do you go for regular follow ups?</li>
+      <li><b>PMAFTOSA</b></li>
     </ul>
     <hr>
     <hr>
@@ -96,6 +101,9 @@
           <li>triggers</li>
           <li>follow up</li>
           <li>waring signs</li>
+          <ol>
+            <li>for common dangeous conditions</li>
+          </ol>
           <li>precautions</li>
         </ol>
       </li>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>VAGINAL DISCHARGE</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <ul>
+      <li><strong>S: Site</strong> - </li>
+      <ul>
+        <li>Vaginal.</li>
+        <li>back passage?</li>
+      </ul>
+      <li><strong>O: Onset</strong> - When did it start? Sudden or gradual?</li>
+      <li><strong>D: Duration</strong> - How long has it been present? </li>
+      <li><strong>A/R: Aggravating/Relieving Factors</strong>
+        <ol>
+          <li>Aggravated by: Menstruation? Intercourse? Certain soaps/douching?
+            Tight clothing?</li>
+          <li>Relieved by: Medications? Hygiene changes?</li>
+        </ol>
+      </li>
+      <li><strong>C: Character/Type</strong>
+        <ol>
+          <li><strong>Amount:</strong> Scant, moderate, copious?</li>
+          <li><strong>Color:</strong> White, yellow, green, grey, brownish,
+            blood-tinged?</li>
+          <li><strong>Consistency:</strong> Thin, watery, thick, curdy (cottage
+            cheese-like), frothy?</li>
+          <li><strong>Odor:</strong> None, fishy, foul, musty?</li>
+        </ol>
+      </li>
+      <li><strong>R: Radiation</strong> - Not applicable.</li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ol>
+          <li>Vulvovaginal itching (pruritus)?</li>
+          <li>Burning or soreness?</li>
+          <li>Dyspareunia (painful intercourse)?</li>
+          <li>Dysuria (painful urination)?</li>
+          <li>Lower abdominal pain?</li>
+          <li>Fever?</li>
+          <li>Skin changes or rash in the vulval area?</li>
+          <li>Relationship to sexual activity, new partners?</li>
+          <li class="obstetric">Change in discharge during pregnancy?
+            (Physiological increase vs. pathological)</li>
+        </ol>
+      </li>
+      <li><strong>P: Pattern (Timing/Frequency)</strong> - </li>
+      <ul>
+        <li>Continuous or</li>
+        <li>&nbsp;intermittent?</li>
+        <li>Relation to menstrual cycle?</li>
+      </ul>
+      <li><strong>P: Progression</strong> - </li>
+      <ul>
+        <li>Changing in </li>
+        <li>character, </li>
+        <li>amount, or </li>
+        <li>&nbsp;associated symptoms?</li>
+      </ul>
+      <li><strong>E: Effect on life</strong> - </li>
+      <ul>
+        <li>Discomfort, </li>
+        <li>embarrassment, </li>
+        <li>&nbsp;impact on sexual health, </li>
+        <li>hygiene concerns.</li>
+      </ul>
+      <li><strong>R: Red Flags</strong></li>
+      <li><strong>S: Severity</strong> - Degree of discomfort, amount of
+        discharge, impact on daily life.</li>
+    </ul>
+    <p><em>(Elaborate other chief complaints similarly, tailoring SODA CRAPPERS
+        to the specific complaint)</em></p>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

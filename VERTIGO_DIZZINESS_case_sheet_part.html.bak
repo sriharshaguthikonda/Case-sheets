@@ -1,214 +1,223 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>VERTIGO / DIZZINESS</title>
     <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
-</head>
-<body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
-<ol>
-  <li><em>SITE </em>(S):-
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <ol>
-      <li>Dissect System involved</li>
-      <li>Can you describe the sensation you experience?
+      <li><em>SITE </em>(S):-
         <ol>
-          <li>Is it a true spinning (vertigo) &acirc;&euro;&ldquo; </li>
-          <li>either you feel like you are spinning, </li>
-          <li>or </li>
-          <li>the room/surroundings are spinning around you?</li>
-          <li><em>CVS</em></li>
-          <li>Or is it more of a lightheadedness, </li>
-          <li>faintness, </li>
-          <li>feeling of being about to pass out (presyncope)?</li>
-          <li><b><u>CNS</u></b></li>
-          <li>Is it a feeling of unsteadiness, </li>
-          <li>being off-balance, or </li>
-          <li>like you are on a boat (disequilibrium)?</li>
-          <li><br>
+          <li>Dissect System involved</li>
+          <li>Can you describe the sensation you experience?
+            <ol>
+              <li>Is it a true spinning (vertigo) &acirc;&euro;&ldquo; </li>
+              <li>either you feel like you are spinning, </li>
+              <li>or </li>
+              <li>the room/surroundings are spinning around you?</li>
+              <li><em>CVS</em></li>
+              <li>Or is it more of a lightheadedness, </li>
+              <li>faintness, </li>
+              <li>feeling of being about to pass out (presyncope)?</li>
+              <li><b><u>CNS</u></b></li>
+              <li>Is it a feeling of unsteadiness, </li>
+              <li>being off-balance, or </li>
+              <li>like you are on a boat (disequilibrium)?</li>
+              <li><br>
+              </li>
+              <li>Is it a vague "foggy head" feeling or a sensation of being
+                detached from your surroundings?</li>
+            </ol>
           </li>
-          <li>Is it a vague "foggy head" feeling or a sensation of being
-            detached from your surroundings?</li>
         </ol>
       </li>
-    </ol>
-  </li>
-  <li>ONSET (O):
-    <ol>
-      <li>Was the onset sudden or did it develop gradually?</li>
-      <li>What were you doing when it started?</li>
-      <li>Were there any specific triggers (e.g., specific head movements
-        like looking up or rolling over in bed, change in body position,
-        stress, particular foods/drinks, bright lights, loud sounds, viral
-        illness)?</li>
-    </ol>
-  </li>
-  <li>DURATION (D):
-    <ol>
-      <li>How long do the episodes of vertigo/dizziness typically last?
-        (Seconds, minutes, hours, days)</li>
-      <li>Is it a constant feeling or does it occur in distinct, separate
-        episodes?</li>
-    </ol>
-  </li>
-  <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-    <ol>
-      <li>Aggravating Factors: What makes the vertigo/dizziness worse or
-        brings it on?
+      <li>ONSET (O):
         <ol>
-          <li>Specific head movements or changes in position (e.g.,
-            rolling over in bed, looking up quickly, bending down
-            &acirc;&euro;&ldquo; suggests BPPV)?</li>
-          <li>Standing- from- sitting </li>
-          <li>Stress, anxiety, fatigue, lack of sleep?</li>
-          <li>Bright lights, busy visual environments (e.g.,
-            supermarkets)?</li>
-          <li>Certain foods or drinks (e.g., caffeine, salt, alcohol)?</li>
-          <li>Loud sounds (Tullio phenomenon)?</li>
-          <li>Straining or changes in ear pressure (e.g., coughing,
-            sneezing)?</li>
+          <li>Was the onset sudden or did it develop gradually?</li>
+          <li>What were you doing when it started?</li>
+          <li>Were there any specific triggers (e.g., specific head movements
+            like looking up or rolling over in bed, change in body position,
+            stress, particular foods/drinks, bright lights, loud sounds, viral
+            illness)?</li>
         </ol>
       </li>
-      <li>Relieving Factors: What makes it better or helps it to pass?
+      <li>DURATION (D):
         <ol>
-          <li>Lying still or keeping the head still?</li>
-          <li>Keeping eyes open or closed?</li>
-          <li>Focusing on a fixed point?</li>
-          <li>Specific body positions?</li>
+          <li>How long do the episodes of vertigo/dizziness typically last?
+            (Seconds, minutes, hours, days)</li>
           <ol>
-            <li>lying down</li>
+            <li>minutes max</li>
           </ol>
-          <li>Any medications (e.g., anti-emetics, vestibular suppressants
-            like meclizine or prochlorperazine)? How effective are they?</li>
-          <li>Time (does it resolve on its own)?</li>
+          <li>Is it a constant feeling or does it occur in distinct, separate
+            episodes?</li>
+        </ol>
+      </li>
+      <li>AGGRAVATING/RELIEVING FACTORS (A/R):
+        <ol>
+          <li>Aggravating Factors: What makes the vertigo/dizziness worse or
+            brings it on?
+            <ol>
+              <li>Specific head movements or changes in position (e.g., rolling
+                over in bed, looking up quickly, bending down
+                &acirc;&euro;&ldquo; suggests BPPV)?</li>
+              <li>Standing- from- sitting </li>
+              <li>Stress, anxiety, fatigue, lack of sleep?</li>
+              <li>Bright lights, busy visual environments (e.g., supermarkets)?</li>
+              <li>Certain foods or drinks (e.g., caffeine, salt, alcohol)?</li>
+              <li>Loud sounds (Tullio phenomenon)?</li>
+              <li>Straining or changes in ear pressure (e.g., coughing,
+                sneezing)?</li>
+            </ol>
+          </li>
+          <li>Relieving Factors: What makes it better or helps it to pass?
+            <ol>
+              <li>Lying still or keeping the head still?</li>
+              <li>Keeping eyes open or closed?</li>
+              <li>Focusing on a fixed point?</li>
+              <li>Specific body positions?</li>
+              <ol>
+                <li>lying down</li>
+              </ol>
+              <li>Any medications (e.g., anti-emetics, vestibular suppressants
+                like meclizine or prochlorperazine)? How effective are they?</li>
+              <li>Time (does it resolve on its own)?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>CHARACTER/TYPE (C):
+        <ol>
+          <li>If vertigo (spinning), in which direction does the spinning seem
+            to occur (clockwise, counter-clockwise, horizontal, vertical - if
+            discernible)?</li>
+          <li>Is the sensation of motion internal (you are moving) or external
+            (surroundings are moving)?</li>
+          <li>Is there any sense of impending blackout or fainting (presyncope)?</li>
+          <li>Is it accompanied by a feeling of tilting or being pushed?</li>
+        </ol>
+      </li>
+      <li>RADIATION (R): (Not typically applicable for the sensation of vertigo
+        itself, but associated pain might radiate)</li>
+      <li>ASSOCIATED SYMPTOMS (A):
+        <ol>
+          <li><u>Nausea and/or vomiting</u>? (Common with acute vertigo)</li>
+          <ol>
+            <li>vestibular neuritis</li>
+            <li>Viral infection</li>
+            <li>Vomiting</li>
+            <li>V</li>
+          </ol>
+          <li><u>Hearing loss</u> (sudden, fluctuating, or progressive)? Is it
+            in one or both ears?</li>
+          <li><u>Tinnitus</u> (ringing or other noises in the ear)? Is it in one
+            or both ears?</li>
+          <li><u>Ear pain</u> (otalgia) or a feeling of fullness or pressure in
+            the ear(s)?</li>
+          <li>Labrynthitis</li>
+          <ol>
+            <li>unilateral hearing loss</li>
+            <li>Headache? (Is it a typical migraine for you, if you get them?)</li>
+          </ol>
+          <li>Visual disturbances (e.g.,</li>
+          <ol>
+            <li>blurred vision, </li>
+            <li>double vision (diplopia), </li>
+            <li>oscillopsia (objects appearing to oscillate), </li>
+            <li>nystagmus observed by others)?</li>
+          </ol>
+          <li>Autonomic symptoms: </li>
+          <ol>
+            <li>Sweating, </li>
+            <li>pallor, </li>
+            <li><em>palpitations</em>?</li>
+          </ol>
+          <li>History of migraines (vestibular migraine)?</li>
+          <li>Recent viral illness (e.g., upper respiratory infection,
+            labyrinthitis, vestibular neuronitis)?</li>
+          <li>Symptoms of <b><u>anxiety </u></b>or <b><u>panic </u><u>attacks</u></b>?</li>
+          <li>History of head trauma or neck injury?</li>
+          <li>Cardiovascular symptoms (e.g., chest pain, irregular heartbeat)?</li>
+          <li>Meniere's</li>
+          <ol>
+            <li>DVT</li>
+            <li>+ cranial nerves = acoustic neuroma</li>
+            <li>old lady snhl ...</li>
+            <li><br>
+            </li>
+          </ol>
+        </ol>
+      </li>
+      <li>PROGRESSION (P):
+        <ol>
+          <li>Are the episodes of vertigo/dizziness becoming more frequent, more
+            severe, or lasting longer over time?</li>
+          <li>Is the nature or character of the episodes changing?</li>
+          <li>Has there been any improvement or resolution with time or
+            treatment?</li>
+        </ol>
+      </li>
+      <li>PATTERN (P):
+        <ol>
+          <li>Is there any pattern to when the episodes occur? (e.g., specific
+            times of day, relation to meals, specific activities, menstrual
+            cycle)</li>
+          <li>Are there periods completely free of symptoms, or is there a
+            constant underlying unsteadiness?</li>
+        </ol>
+      </li>
+      <li>EFFECT ON LIFE (E):
+        <ol>
+          <li>How do these episodes of vertigo/dizziness affect your ability to
+            perform daily activities, work, drive, or care for yourself/others?</li>
+          <li>Do you avoid certain activities, movements, or situations due to
+            fear of triggering an episode or falling?</li>
+          <li>Has it led to any falls or injuries?</li>
+          <li>How does it impact your mood or cause anxiety?</li>
+        </ol>
+      </li>
+      <li>RED FLAGS (R):
+        <ol>
+          <li><strong>Stroke&nbsp; (especially posterior)</strong></li>
+          <li>Sudden severe, persistent vertigo, </li>
+          <li>+ neurological deficits (the "5 D's": </li>
+          <ol>
+            <li>Dizziness, </li>
+            <li>Diplopia, </li>
+            <li>Dysarthria, </li>
+            <li>Dysphagia, </li>
+            <li>Dysmetria/Ataxia; </li>
+            <li>also weakness, sensory changes) &acirc;&euro;&ldquo; could
+              indicate stroke/TIA affecting the brainstem or cerebellum (Central
+              Vertigo).</li>
+            <li><em>vascular risk factors</em> </li>
+          </ol>
+          <li>Vertigo with a new onset severe headache, especially if different
+            from previous headaches.</li>
+          <li>Loss of <b><u>consciousness </u></b>associated with the episode.</li>
+          <li>Inability to stand or walk at all even with support during an
+            episode (severe ataxia).</li>
+          <li>Nystagmus that is purely vertical, purely torsional, or changes
+            direction with gaze (suggests central cause).</li>
+          <li>Associated <em>cranial nerve </em>palsies (e.g., facial droop,
+            asymmetric eye movements).</li>
+          (for BPPV).
+        </ol>
+      </li>
+      <li>SCALE (S) (Severity/Impact):
+        <ol>
+          <li>On a scale of 0-10, where 0 is no dizziness/vertigo and 10 is the
+            worst imaginable, how severe is it when it occurs?</li>
+          <li>On a scale of 0-10, how much does it impact your daily functioning
+            when it happens?</li>
         </ol>
       </li>
     </ol>
-  </li>
-  <li>CHARACTER/TYPE (C):
-    <ol>
-      <li>If vertigo (spinning), in which direction does the spinning seem
-        to occur (clockwise, counter-clockwise, horizontal, vertical - if
-        discernible)?</li>
-      <li>Is the sensation of motion internal (you are moving) or external
-        (surroundings are moving)?</li>
-      <li>Is there any sense of impending blackout or fainting
-        (presyncope)?</li>
-      <li>Is it accompanied by a feeling of tilting or being pushed?</li>
-    </ol>
-  </li>
-  <li>RADIATION (R): (Not typically applicable for the sensation of
-    vertigo itself, but associated pain might radiate)</li>
-  <li>ASSOCIATED SYMPTOMS (A):
-    <ol>
-      <li><u>Nausea and/or vomiting</u>? (Common with acute vertigo)</li>
-      <li><u>Hearing loss</u> (sudden, fluctuating, or progressive)? Is it
-        in one or both ears?</li>
-      <li><u>Tinnitus</u> (ringing or other noises in the ear)? Is it in
-        one or both ears?</li>
-      <li><u>Ear pain</u> (otalgia) or a feeling of fullness or pressure
-        in the ear(s)?</li>
-      <li>Labrynthitis</li>
-      <ol>
-        <li>unilateral hearing loss</li>
-        <li>Headache? (Is it a typical migraine for you, if you get them?)</li>
-      </ol>
-      <li>Visual disturbances (e.g.,</li>
-      <ol>
-        <li>&nbsp;blurred vision, </li>
-        <li>double vision (diplopia), </li>
-        <li>oscillopsia (objects appearing to oscillate), </li>
-        <li>nystagmus observed by others)?</li>
-      </ol>
-      <li>Autonomic symptoms: </li>
-      <ol>
-        <li>Sweating, </li>
-        <li>pallor, </li>
-        <li><em>palpitations</em>?</li>
-      </ol>
-      <li>History of migraines (vestibular migraine)?</li>
-      <li>Recent viral illness (e.g., upper respiratory infection,
-        labyrinthitis, vestibular neuronitis)?</li>
-      <li>Symptoms of anxiety or panic attacks?</li>
-      <li>History of head trauma or neck injury?</li>
-      <li>Cardiovascular symptoms (e.g., chest pain, irregular heartbeat)?</li>
-    </ol>
-  </li>
-  <li>PROGRESSION (P):
-    <ol>
-      <li>Are the episodes of vertigo/dizziness becoming more frequent,
-        more severe, or lasting longer over time?</li>
-      <li>Is the nature or character of the episodes changing?</li>
-      <li>Has there been any improvement or resolution with time or
-        treatment?</li>
-    </ol>
-  </li>
-  <li>PATTERN (P):
-    <ol>
-      <li>Is there any pattern to when the episodes occur? (e.g., specific
-        times of day, relation to meals, specific activities, menstrual
-        cycle)</li>
-      <li>Are there periods completely free of symptoms, or is there a
-        constant underlying unsteadiness?</li>
-    </ol>
-  </li>
-  <li>EFFECT ON LIFE (E):
-    <ol>
-      <li>How do these episodes of vertigo/dizziness affect your ability
-        to perform daily activities, work, drive, or care for
-        yourself/others?</li>
-      <li>Do you avoid certain activities, movements, or situations due to
-        fear of triggering an episode or falling?</li>
-      <li>Has it led to any falls or injuries?</li>
-      <li>How does it impact your mood or cause anxiety?</li>
-    </ol>
-  </li>
-  <li>RED FLAGS (R):
-    <ol>
-      <li><strong>Stroke&nbsp; (especially posterior)</strong></li>
-      <li>Sudden severe, persistent vertigo, </li>
-      <li>+ neurological deficits (the "5 D's": </li>
-      <ol>
-        <li>Dizziness, </li>
-        <li>Diplopia, </li>
-        <li>Dysarthria, </li>
-        <li>Dysphagia, </li>
-        <li>Dysmetria/Ataxia; </li>
-        <li>also weakness, sensory changes) &acirc;&euro;&ldquo; could
-          indicate stroke/TIA affecting the brainstem or cerebellum
-          (Central Vertigo).</li>
-        <li><em>vascular risk factors</em> </li>
-      </ol>
-      <li>Vertigo with a new onset severe headache, especially if
-        different from previous headaches.</li>
-      <li>Loss of <b><u>consciousness </u></b>associated with the
-        episode.</li>
-      <li>Inability to stand or walk at all even with support during an
-        episode (severe ataxia).</li>
-      <li>Nystagmus that is purely vertical, purely torsional, or changes
-        direction with gaze (suggests central cause).</li>
-      <li>Associated <em>cranial nerve </em>palsies (e.g., facial droop,
-        asymmetric eye movements).</li>
-          </em>(for BPPV).</li>
-    </ol>
-  </li>
-  <li>SCALE (S) (Severity/Impact):
-    <ol>
-      <li>On a scale of 0-10, where 0 is no dizziness/vertigo and 10 is
-        the worst imaginable, how severe is it when it occurs?</li>
-      <li>On a scale of 0-10, how much does it impact your daily
-        functioning when it happens?</li>
-    </ol>
-  </li>
-</ol>
     <script src="theme-toggle.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-  <script src="double_click_collapse_details.js"></script>
-  
-
-
+    <script src="double_click_collapse_details.js"></script>
   </body>
 </html>

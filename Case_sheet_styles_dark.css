@@ -194,6 +194,8 @@ object {
     border-bottom: 1px solid #bbbbbb!important; /* Inverted from #444 */
 }
 
+
+
 .description { 
     grid-column: 1!important;
     color: #6f11ff!important; /* Inverted from #90ee90 */
@@ -203,7 +205,7 @@ object {
 .verbal {
     grid-column: 2!important;
     font-style: italic!important;
-    color: #4b1805!important; /* Inverted from #87ceeb */
+    color: #fd8c63!important; /* Inverted from #87ceeb */
     margin-bottom: 10px!important;
 }
 

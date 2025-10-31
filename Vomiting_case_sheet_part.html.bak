@@ -32,14 +32,22 @@
         <span class="verbal">"When did the vomiting start? Did it come on
           suddenly after eating something, or has it been more gradual?"</span>
         <ul>
-          <li>ACUTE: <span class="infectious">Gastroenteritis, Food Poisoning</span>,
-            <span class="git emergency">Bowel Obstruction</span>, <span class="pharmacology">Medication
-              side-effect</span></li>
-          <li>CHRONIC: <span class="git">Gastroparesis</span>, <span class="psychiatric">Eating
-              disorder</span>, <span class="oncology">Malignancy</span>, <span
-              class="cns">Chronic raised ICP</span></li>
-          <li>Triggered by: Recent travel, sick contacts, new medication,
-            alcohol binge?</li>
+          <li>ACUTE:&nbsp;<span class="infectious"></span></li>
+          <ul>
+            <li><span class="infectious">Gastroenteritis, Food Poisoning</span>,
+              <span class="git emergency">Bowel Obstruction</span>, <span class="pharmacology">Medication
+                side-effect</span></li>
+          </ul>
+          <li>CHRONIC:&nbsp;<span class="git"></span></li>
+          <ul>
+            <li><span class="git">Gastroparesis</span>, <span class="psychiatric">Eating
+                disorder</span>, <span class="oncology">Malignancy</span>, <span
+                class="cns">Chronic raised ICP</span></li>
+          </ul>
+          <li>Trigger</li>
+          <ul>
+            <li>Recent travel, sick contacts, new medication, alcohol binge?</li>
+          </ul>
         </ul>
       </li>
       <!-- D: Duration -->
@@ -59,6 +67,9 @@
               cause (e.g., Labyrinthitis), Vertigo</span></li>
           <li>Relieved after vomiting -&gt; <span class="git">Often seen in
               obstruction (temporarily)</span></li>
+          <li><span class="git">Iron tablets?</span></li>
+          <li><span class="git"><br>
+            </span></li>
         </ul>
       </li>
       <!-- C: Character (THE KEY DIFFERENTIATOR) -->
@@ -66,10 +77,16 @@
           Character of Vomitus</span> <span class="verbal">"What does the vomit
           look like? Is there food in it? What color is it? Is there any blood?"</span>
         <ul>
-          <li>NON-BILIOUS (clear, contains undigested food): <span class="git">Suggests
-              obstruction before the duodenum (e.g., Pyloric Stenosis)</span></li>
-          <li>BILIOUS (yellow/green): <span class="git">Indicates the problem
-              is distal to the duodenum; most common type</span></li>
+          <li>NON-BILIOUS (clear, contains undigested food): </li>
+          <ul>
+            <li><span class="git">Suggests obstruction before the duodenum
+                (e.g., Pyloric Stenosis)</span></li>
+          </ul>
+          <li>BILIOUS (yellow/green): </li>
+          <ul>
+            <li><span class="git">Indicates the problem is distal to the
+                duodenum; most common type</span></li>
+          </ul>
           <li><b>HEMATEMESIS (Blood):</b>
             <ul>
               <li class="git hematology emergency">Bright Red -&gt; Active bleed
@@ -78,8 +95,11 @@
                 blood (e.g., slower bleed in PUD)</li>
             </ul>
           </li>
-          <li class="git emergency"><b>FECULENT</b> (smells like feces): <b class="emergency">Pathognomonic
-              for distal bowel obstruction</b></li>
+          <li class="git emergency"><b>FECULENT</b> (smells like feces):&nbsp;</li>
+          <ul>
+            <li class="git emergency"><b class="emergency">&nbsp;distal bowel
+                obstruction</b></li>
+          </ul>
         </ul>
       </li>
       <!-- R: Radiation -->
@@ -97,12 +117,27 @@
           vomiting, have you had diarrhea, fever, headache, or any other
           symptoms?"</span>
         <ul>
-          <li>GI SYMPTOMS: <span class="infectious">Diarrhea (Gastroenteritis)</span>,
-            <span class="git emergency">Absolute constipation (Obstruction)</span>,
-            <span class="git">Abdominal bloating/distension (Obstruction)</span></li>
-          <li>CNS SYMPTOMS: <span class="cns emergency">Headache, photophobia,
-              neck stiffness (Meningitis/ICP)</span>, <span class="cns">Vertigo,
-              tinnitus, hearing loss (Labyrinthitis)</span></li>
+          <li>GI SYMPTOMS:&nbsp;<span class="infectious"></span></li>
+          <ul>
+            <li><span class="infectious">Diarrhea (Gastroenteritis)</span>,&nbsp;<span
+                class="git emergency"></span></li>
+            <li><span class="git emergency">constipation (Obstruction)</span>,&nbsp;<span
+                class="git"></span></li>
+            <li><span class="git">bloating/distension (Obstruction)</span></li>
+          </ul>
+          <li>CNS SYMPTOMS:&nbsp;<span class="cns emergency"></span></li>
+          <ul>
+            <li><span class="cns emergency"><span class="cns emergency">Meningitis</span></span></li>
+            <li><span class="cns emergency"><span class="cns emergency"></span>Headache,
+                <br></span></li>
+            <li><span class="cns emergency">photophobia, <br>
+              </span></li>
+            <li><span class="cns emergency">neck stiffness (Meningitis/ICP)</span>,&nbsp;<span
+                class="cns"></span></li>
+            <li><span class="cns"><span class="cns">Labyrinthitis</span></span></li>
+            <li><span class="cns"><span class="cns"></span>Vertigo, tinnitus,
+                hearing loss (Labyrinthitis)</span></li>
+          </ul>
           <li>SYSTEMIC/METABOLIC: <span class="infectious">Fever, chills
               (Infection)</span>, <span class="endocrine">Polyuria, polydipsia
               (DKA)</span>, <span class="nephro">Confusion (Hypercalcemia)</span></li>
@@ -121,8 +156,12 @@
         <span class="verbal">"Is there a pattern to it? For example, does it
           only happen in the mornings, or a long time after eating?"</span>
         <ul>
-          <li>EARLY MORNING VOMITING: <b class="obstetric">Pregnancy</b>, <b class="cns emergency">Raised
-              ICP</b>, <span class="General">Alcohol withdrawal</span></li>
+          <li>EARLY MORNING VOMITING:&nbsp;</li>
+          <ul>
+            <li><b class="obstetric">Pregnancy</b>,&nbsp;</li>
+            <li><b class="cns emergency">Raised ICP</b>,&nbsp;<span class="General"></span></li>
+            <li><span class="General">Alcohol withdrawal</span></li>
+          </ul>
           <li>POST-PRANDIAL (after eating):
             <ul>
               <li>Immediately after -&gt; Gastritis, PUD</li>
@@ -142,10 +181,9 @@
           Flags</span> <span class="verbal">"I just need to ask some specific
           questions to make sure we're not missing anything serious."</span>
         <ul>
-          <li class="git hematology emergency">Vomiting blood (hematemesis) or
+          <li class="git hematology emergency">blood (<b>hematemesis</b>) or
             coffee grounds</li>
-          <li class="git emergency">Vomiting that looks or smells like feces
-            (feculent)</li>
+          <li class="git emergency">Vomiting that looks or smells like feces (<b>feculent</b>)</li>
           <li class="git emergency">Severe, unrelenting abdominal pain with
             abdominal distension</li>
           <li class="cns emergency">Associated severe&nbsp;</li>

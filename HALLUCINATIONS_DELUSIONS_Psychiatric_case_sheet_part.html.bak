@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>HALLUCINATIONS / DELUSIONS (Psychiatric)</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <div>
+      <ul>
+        <li><strong>S: Site/Sensory Modality (for Hallucinations)</strong> - </li>
+        <ul>
+          <li>dissect the hallucination...</li>
+        </ul>
+        <li><strong>O: Onset</strong> - </li>
+        <ul>
+          <li>When first experienced? </li>
+          <li>Sudden or gradual?</li>
+          <li>Context?</li>
+        </ul>
+        <li><strong>D: Duration</strong> - </li>
+        <ul>
+          <li>How long do they last? </li>
+          <li>How long has the problem been present?</li>
+        </ul>
+        <li><strong>A/R: Aggravating/Relieving Factors</strong>
+          <ol>
+            <li><em>Aggravated by:</em> </li>
+            <ol>
+              <li>Stress? </li>
+              <li>Isolation? </li>
+              <li><b><u>Substance </u></b>use? </li>
+              <li>Specific times?</li>
+              <li><strong data-start="919" data-end="938">Corticosteroids</strong>,
+                dopaminergics (levodopa, dopamine agonists), <strong data-start="985"
+                  data-end="1005">anticholinergics</strong>, opioids (esp. high
+                dose/meperidine), <strong data-start="1044" data-end="1064">fluoroquinolones</strong>,
+                macrolides/isoniazid, <strong data-start="1088" data-end="1114">chloroquine/mefloquine</strong>,
+                H2 blockers (cimetidine), <strong data-start="1142" data-end="1157">varenicline</strong>,
+                baclofen, <strong data-start="1169" data-end="1197">levetiracetam/topiramate</strong>,
+                digoxin, interferon.</li>
+            </ol>
+            <li><b>Relieved by:</b> </li>
+            <ol>
+              <li>Distraction? </li>
+              <li>Medication? </li>
+              <li>Social interaction? </li>
+              <li>Reality testing?</li>
+            </ol>
+          </ol>
+        </li>
+        <li><br>
+          <strong></strong></li>
+        <li><strong>C: Character/Type</strong>
+          <ol>
+            <li><strong>Hallucinations:</strong>
+              <ul>
+                <li>Auditory: Voices (1st/2nd/3rd person), running commentary,
+                  command hallucinations, derogatory, content? Other sounds?</li>
+                <li>Visual: Formed (people, objects) or unformed (flashes,
+                  patterns)?</li>
+                <li>Olfactory/Gustatory: Pleasant/unpleasant smells/tastes?</li>
+                <li>Tactile: Sensation of being touched, things crawling
+                  on/under skin?</li>
+              </ul>
+            </li>
+            <li><strong>Delusions (Fixed, false beliefs, not culturally
+                sanctioned):</strong>
+              <ul>
+                <li>Persecutory (most common)?</li>
+                <li>Grandiose?</li>
+                <li>Referential (ideas of reference)?</li>
+                <li>Somatic?</li>
+                <li>Religious?</li>
+                <li>Nihilistic?</li>
+                <li>Erotomanic?</li>
+                <li>Thought insertion/withdrawal/broadcasting?</li>
+                <li>Delusions of control?</li>
+                <li>Bizarreness of delusion? Systematized?</li>
+              </ul>
+            </li>
+          </ol>
+        </li>
+        <li><strong>R: Radiation</strong> - Not applicable.</li>
+        <li><strong>A: Associated Symptoms</strong>
+          <ol>
+            <li>headache</li>
+            <ol>
+              <li>SOL</li>
+              <li>IIH</li>
+              <li>CO poison</li>
+              <li>migraines</li>
+            </ol>
+            <li>Disorganized speech (loose associations, tangentiality, word
+              salad)?</li>
+            <li>Disorganized or catatonic behavior?</li>
+            <li>Negative symptoms (affective flattening, alogia, avolition)?</li>
+            <li>Mood changes (depression, mania, anxiety)?</li>
+            <li>Sleep/appetite disturbances?</li>
+            <li>Social withdrawal?</li>
+            <li>Impairment in functioning?</li>
+            <li>Lack of insight?</li>
+            <li>Memory issues?</li>
+            <ol>
+              <li>Dementias</li>
+              <li>HIV</li>
+            </ol>
+            <li>Fits</li>
+            <ol>
+              <li>temporal lobe epilepsy</li>
+            </ol>
+            <li>visual impairment</li>
+          </ol>
+        </li>
+        <li><strong>P: Pattern (Timing/Frequency)</strong> - How often? Constant
+          or intermittent?</li>
+        <li><strong>P: Progression</strong> - Worsening, improving, stable?</li>
+        <li><strong>E: Effect on life</strong> - Impact on reality testing,
+          behavior, relationships, self-care, safety.</li>
+        <li>R&nbsp; :</li>
+        <ul>
+          <li>Fever</li>
+          <ul>
+            <li>encephalitis</li>
+            <li><br>
+            </li>
+          </ul>
+        </ul>
+        <li><strong>S: Severity/Scale</strong> - </li>
+        <ul>
+          <li>Degree of conviction in delusions, </li>
+          <li>intrusiveness/distress from hallucinations, </li>
+          <li>functional impairment, risk.</li>
+          <li>duration...</li>
+          <li>frequncy...of talking toa friend</li>
+        </ul>
+      </ul>
+    </div>
+    <p><em>(Elaborate other chief complaints similarly, tailoring SODA CRAPPERS
+        questions to the specific symptom)</em></p>
+    <p><br>
+    </p>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

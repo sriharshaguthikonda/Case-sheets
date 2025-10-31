@@ -74,7 +74,13 @@
         hip, shoulder), jaundice, cough, breathlessness, headaches.</em></p>
     <p><em>History of loss of weight (TB of breast, Ca. breast). TB of chest
         wall leading to retromammary abscess is rare.</em></p>
-    <h3>HISTORY OF PAST ILLNESS</h3>
+
+    <details>
+      <summary class="h3"><a href="Diagnostic_history.html">DIAGNOSTIC H/O:</a></summary>
+      <iframe src="Diagnostic_history_case_sheet_part.html" frameborder="0"></iframe> 
+    </details>
+
+<h3>HISTORY OF PAST ILLNESS</h3>
     <ul>
       <li><strong>Similar Complaints:</strong>
         <ul>
@@ -148,26 +154,10 @@
       conditions like fibroadenosis, cancer due to factors like nulliparity, not
       breastfeeding).</h3>
     <h3>CHILDREN: (Nulliparous is a risk factor for breast cancer).</h3>
-    <h3>PERSONAL HISTORY</h3>
-    <ul>
-      <li>APPETITE</li>
-      <li>DIET (High fat diet, alcohol intake are risk factors for breast
-        cancer).</li>
-      <li>DIGESTION</li>
-      <li>MICTURITION</li>
-      <li>BOWELS</li>
-      <li>SLEEP DISTURBANCES</li>
-      <li>HABITS:
-        <ul>
-          <li>SMOKING (Chutta/Khaini cancer not directly relevant to breast but
-            general habit).</li>
-          <li>TOBACCO CHEWING.</li>
-          <li>PAN.</li>
-          <li>ALCOHOL (risk factor for breast cancer).</li>
-          <li>SWIMMING.</li>
-        </ul>
-      </li>
-    </ul>
+    <details>
+        <summary class="h3">PERSONAL HISTORY</summary>
+        <iframe src="Personal_history.html" frameborder="0"></iframe> 
+      </details>
     <details>
       <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
       <iframe src="Family_history.html" frameborder="0"></iframe> </details>
@@ -206,20 +196,27 @@
       <li>RESPIRATORY RATE.</li>
       <li>SPO2.</li>
     </ul>
-    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/pBEPOLzqcr8"
-        title="Breast Examination: Key Techniques for PLAB2/UKMLA" height="864"
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/pBEPOLzqcr8"
+
+        title="Breast Examination: Key Techniques for PLAB2/UKMLA" height="864"
+
         frameborder="0" width="1520"></iframe> </div>
     <h3>LOCAL EXAMINATION: BREASTS, AXILLAE, AND SUPRACLAVICULAR FOSSAE</h3>
     <h4>Chaperone</h4>
-    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/77mfZXAi3YI"
-        title="Breast Examination - OSCE Guide | Aspire PLAB2/UKMLA Academy" height="864"
+    <div class="video-container"> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+        allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/77mfZXAi3YI"
+
+        title="Breast Examination - OSCE Guide | Aspire PLAB2/UKMLA Academy" height="864"
+
         frameborder="0" width="1520"> </iframe> </div>
     <p><em>(<b>Prerequisites:</b> Explain procedure: "Jennifer now I'm going to
         examine your breast" (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=40s">Video
           0:40</a>), ensure adequate exposure: "for the purpose of examination I
-        can see you adequately exposed thank you for that" (<a class="timestamp"
+        can see you adequately exposed thank you for that" (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=42s">Video
           0:42</a>), offer/confirm chaperone: "I have a chaperon to ensure your
         privacy" (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=46s">Video
@@ -260,7 +257,8 @@
     <ul>
       <li><strong>Breasts:</strong>
         <ul>
-          <li>Symmetry: "Both the breasts are symmetrical". (<a class="timestamp"
+          <li>Symmetry: "Both the breasts are symmetrical". (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=72s">Video
               1:12</a>)</li>
           <li>Nipples at the same level. (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=72s">Video
@@ -269,9 +267,11 @@
           <li>Size (any gross difference).</li>
           <li>Shape/Contour (any visible lump, distortion, flattening).</li>
           <li>Puckering/Dimpling of skin.</li>
-          <li>Visible Swelling or Mass: "no visible mass". (<a class="timestamp"
+          <li>Visible Swelling or Mass: "no visible mass". (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=76s">Video
-              1:16</a>); "no visible mass on bending forward". (<a class="timestamp"
+              1:16</a>); "no visible mass on bending forward". (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=93s">Video
               1:33</a>)</li>
           <li>Ulceration or Fungation.</li>
@@ -321,7 +321,8 @@
       <li><strong>Arm &amp; Thorax:</strong> Swelling of the arm (lymphedema),
         visible masses in axilla or chest wall.</li>
       <li><strong>Axilla &amp; Supraclavicular Fossae:</strong> Fullness,
-        visible lymph nodes. "no auxiliary and supraclavicular fullness". (<a class="timestamp"
+        visible lymph nodes. "no auxiliary and supraclavicular fullness". (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=104s">Video
           1:44-1:47</a>)</li>
       <li>Observe for shape changes on raising arms (tethering, asymmetry).</li>
@@ -334,29 +335,35 @@
         head (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=183s">Video
           3:03</a>). Standard practice also includes semi-recumbent/recumbent
         position (pillow under ipsilateral shoulder, arm abducted/above head to
-        flatten breast tissue), as mentioned in video narration (<a class="timestamp"
+        flatten breast tissue), as mentioned in video narration (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=32s">Video
           0:32</a>).</li>
     </ol>
     <p><em>(Use flat of fingers in a systematic way, e.g., concentric circles or
         radial spokes, covering all quadrants including axillary tail of Spence.
-        Video shows palpation starting at 7 o'clock, moving anticlockwise (<a class="timestamp"
+        Video shows palpation starting at 7 o'clock, moving anticlockwise (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=164s">Video
           2:44</a>). Avoid touching nipples and areola during general breast
         palpation (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=180s">Video
-          3:00</a>). Look at patient's face for tenderness (<a class="timestamp"
+          3:00</a>). Look at patient's face for tenderness (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=167s">Video
           2:47</a>).)</em></p>
     <ul>
       <li><strong>Temperature:</strong> Compare temperature over all four
-        quadrants. "there is no local rise of temperature". (<a class="timestamp"
+        quadrants. "there is no local rise of temperature". (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=149s">Video
           2:29-2:39</a>)</li>
       <li><strong>Superficial for Tenderness:</strong> Systematically palpate
-        all quadrants. "there is no tenderness on superficial palpation". (<a class="timestamp"
+        all quadrants. "there is no tenderness on superficial palpation". (<a class="timestamp"
+
           href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=161s">Video
           2:41-3:23</a>)</li>
-      <li><strong>Deep for Masses (Patient with hands at back of head <a class="timestamp"
+      <li><strong>Deep for Masses (Patient with hands at back of head <a class="timestamp"
+
             href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=183s">Video
             3:03-3:06</a>):</strong>
         <ul>
@@ -373,7 +380,8 @@
                   3:53</a>).</li>
               <li><strong>Shape:</strong> Round, oval, irregular.</li>
               <li><strong>Surface:</strong> Smooth, lobulated, irregular.</li>
-              <li><strong>Edge:</strong> Well-defined ("regular" <a class="timestamp"
+              <li><strong>Edge:</strong> Well-defined ("regular" <a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=238s">Video
                   3:58</a>), ill-defined, discrete.</li>
               <li><strong>Consistency:</strong> Soft, firm ("firm in
@@ -382,7 +390,8 @@
               <li><strong>Tenderness:</strong> "not painful as I'm looking at
                 the patient's face". (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=245s">Video
                   4:05</a>)</li>
-              <li><strong>Mobility:</strong> "not mobile". (<a class="timestamp"
+              <li><strong>Mobility:</strong> "not mobile". (<a class="timestamp"
+
                   href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=248s">Video
                   4:08</a>)</li>
               <li><strong>Fluctuation:</strong> (If cystic nature suspected).</li>
@@ -407,9 +416,9 @@
         </ul>
       </li>
       <li><strong>Periolar Palpation (Deep):</strong> Palpate around the areola.
-        "we're not touching the nipples we're not touching the areola so we
-        going to go periola this is also deep palpation and we're trying to find
-        a mass". (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=271s">Video
+        "we're <b>not </b>touching the <b>nipples </b>we're not touching the
+        areola so we going to go periola this is also deep palpation and we're
+        trying to find a mass". (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=271s">Video
           4:31-4:41</a>)
         <ul>
           <li>Example finding in video: "I can feel a mass here in the periola
@@ -448,16 +457,22 @@
           <li>Anterior (Pectoral) group: "anterior uh auxiliary lymph nodes
             that's here". (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=351s">Video
               5:51-5:53</a>) (Along lower border of pectoralis major).</li>
-          <li>Medial: "medial is going to be on the chest wall". (<a class="timestamp"
+          <li>Medial: "medial is going to be on the chest wall". (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=355s">Video
               5:55-5:57</a>) (Palpating along chest wall, may include
             parasternal if significantly enlarged).</li>
           <li>Apical group: "epical is in [axilla]". (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=360s">Video
               6:00</a>) (At the apex of the axilla).</li>
-          <li>(Repeat for other side: Anterior, Medial, Apical. <a class="timestamp"
+              <li></li>
+          <li>(Repeat for other side: Anterior, Medial, Apical. <a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=364s">Video
               6:04-6:11</a>)</li>
-          <li>Patient crosses arms, examiner palpates from the back. (<a class="timestamp"
+
+              <li></li>
+          <li>Patient crosses arms, examiner palpates from the back. (<a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=374s">Video
               6:14-6:19</a>)</li>
           <li>Posterior (Subscapular) group: "posterior auxiliary lymph nodes
@@ -466,7 +481,8 @@
           <li>Lateral (Brachial/Humeral) group: "lateral that's here on the
             arm". (<a class="timestamp" href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=388s">Video
               6:28-6:32</a>)</li>
-          <li>(Repeat for other side: Posterior, Lateral. <a class="timestamp"
+          <li>(Repeat for other side: Posterior, Lateral. <a class="timestamp"
+
               href="https://www.youtube.com/watch?v=77mfZXAi3YI&amp;t=392s">Video
               6:32-6:36</a>)</li>
           <li>Note: Size, number, consistency (soft, firm, hard, rubbery),

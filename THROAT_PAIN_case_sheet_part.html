@@ -1,165 +1,230 @@
-
-
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title> THROAT_PAIN_case_sheet_part</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
-</head>
-<body>
-    <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
     <h4>Are you comfortable talking ?</h4>
-<p></p>
-
+    <p></p>
     <div class="ent General">
-        <h3>1ST COMPLAINT: PAIN IN THE THROAT (Sore Throat)</h3>
-        
-            <!-- S: Site -->
-            <li class="point">
-                <span class="description"><strong>S</strong>: Site</span>
-                <span class="verbal">"Can you point to where the pain is worst? Is it on one side or all over?"</span>
-                <ul>
-                    <li>GENERALIZED / CENTRAL: <span class="infectious">Viral Pharyngitis, Bacterial Tonsillitis</span></li>
-                    <li>UNILATERAL (one-sided): <b class="ent infectious emergency">Peritonsillar Abscess (Quinsy)</b></li>
-                    <li>RETROSTERNAL / BURNING: <span class="git">Gastroesophageal Reflux Disease (GORD)</span></li>
-                </ul>
-            </li>
-
-            <!-- O: Onset -->
-            <li class="point">
-                <span class="description"><strong>O</strong>: Onset</span>
-                <span class="verbal">"When did the sore throat start? Did it come on suddenly?"</span>
-                <ul>
-                    <li>ACUTE (< 2 weeks): <span class="infectious">Viral or Bacterial Infection</span></li>
-                    <li>CHRONIC (> 3 weeks): <b class="oncology ent">Red flag - consider malignancy</b>, <span class="git">GORD</span>, <span class="ent">Chronic tonsillitis</span></li>
-                    <li>Triggered by sick contacts?</li>
-                </ul>
-            </li>
-
-            <!-- D: Duration -->
-            <li class="point">
-                <span class="description"><strong>D</strong>: Duration</span>
-                <span class="verbal">"How many days have you had this for?"</span>
-            </li>
-
-            <!-- A/R: Aggravating / Relieving Factors -->
-            <li class="point">
-                <span class="description"><strong>A/R</strong>: Aggravating & Relieving Factors</span>
-                <span class="verbal">"Does anything make the pain better or worse?"</span>
-                <ul>
-                    <li>AGGRAVATING: Swallowing (Odynophagia), talking, eating</li>
-                    <li>RELIEVING: Simple analgesia (paracetamol, ibuprofen), warm drinks</li>
-                </ul>
-            </li>
-
-            <!-- C: Character -->
-            <li class="point">
-                <span class="description"><strong>C</strong>: Character</span>
-                <span class="verbal">"What does the pain feel like? Is it scratchy, sharp like swallowing glass, or more like a lump?"</span>
-                <ul>
-                    <li>SCRATCHY / RAW: <span class="infectious">Typical for viral pharyngitis</span></li>
-                    <li>SEVERE / SHARP: <span class="infectious">Suggests bacterial tonsillitis or quinsy</span></li>
-                    <li>BURNING: <span class="git">Suggests GORD</span></li>
-                    <li>"LUMP" SENSATION: <span class="General">Globus pharyngeus</span>, <b class="oncology">or a mass</b></li>
-                </ul>
-            </li>
-
-            <!-- R: Radiation -->
-            <li class="point">
-                <span class="description"><strong>R</strong>: Radiation</span>
-                <span class="verbal">"Does the pain travel anywhere, for example, to your ears?"</span>
-                <ul>
-                    <li class="ent">Referred otalgia (ear pain) is common in severe tonsillitis/pharyngitis</li>
-                </ul>
-            </li>
-            
-            <!-- A: Associated Symptoms (THE KEY DIFFERENTIATOR) -->
-            <li class="point">
-                <span class="description"><strong>A</strong>: Associated Symptoms</span>
-                <span class="verbal">"Along with the sore throat, have you had a fever, cough, runny nose, or any difficulty opening your mouth?"</span>
-                <ul>
-                    <li><b>CLUES FOR BACTERIAL (Strep Throat - Centor/FeverPAIN criteria):</b>
-                        <ul>
-                            <li class="infectious">Fever</li>
-                            <li class="infectious ent">Tonsillar exudates (pus on tonsils)</li>
-                            <li class="infectious ent">Tender anterior cervical lymph nodes</li>
-                            <li class="infectious respiratory"><b>Absence</b> of cough</li>
-                        </ul>
-                    </li>
-                    <li><b>CLUES FOR VIRAL:</b>
-                        <ul>
-                            <li class="infectious respiratory">Cough, coryza (runny nose), sneezing -> Common Cold</li>
-                            <li class="infectious">Profound fatigue, widespread lymph nodes -> Infectious Mononucleosis (Glandular Fever)</li>
-                            <li class="infectious ent">Hoarseness -> Laryngitis</li>
-                        </ul>
-                    </li>
-                    <li><b>CLUES FOR DEEP INFECTION (Quinsy):</b>
-                        <ul>
-                            <li class="ent emergency">Muffled "hot potato" voice</li>
-                            <li class="ent emergency">Trismus (difficulty opening the jaw)</li>
-                            <li class="ent emergency">Drooling / inability to swallow saliva</li>
-                        </ul>
-                    </li>
-                     <li><b>CLUES FOR GORD:</b>
-                        <ul>
-                            <li class="git">Heartburn, regurgitation, symptoms worse when lying down or after meals</li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            
-            <!-- P: Progression -->
-            <li class="point">
-                <span class="description"><strong>P</strong>: Progression</span>
-                <span class="verbal">"Since it started, has it been getting progressively worse?"</span>
-            </li>
-
-            <!-- P: Pattern -->
-            <li class="point">
-                <span class="description"><strong>P</strong>: Pattern</span>
-                <span class="verbal">"Is the pain constant or intermittent?"</span>
-            </li>
-
-            <!-- E: Effect on life -->
-            <li class="point">
-                <span class="description"><strong>E</strong>: Effect on Life</span>
-                <span class="verbal">"How has this affected you? Are you able to eat and drink normally?"</span>
-                 <ul><li>Assess for risk of dehydration if odynophagia is severe</li></ul>
-            </li>
-
-            <!-- R: Red Flags -->
-            <li class="point">
-                <span class="description"><strong>R</strong>: Red Flags</span>
-                <span class="verbal">"I need to ask some specific questions to make sure we're not missing anything serious."</span>
-                <ul>
-                    <li class="ent respiratory emergency"><b>AIRWAY COMPROMISE:</b> Stridor (noisy breathing), difficulty breathing, drooling</li>
-                    <li class="ent infectious emergency"><b>DEEP NECK SPACE INFECTION:</b> Muffled voice, trismus, severe unilateral swelling, neck stiffness</li>
-                    <li class="oncology ent"><b>SUSPECTED MALIGNANCY:</b> Sore throat > 3 weeks, persistent hoarseness, unexplained weight loss, neck lump</li>
-                    <li class="infectious hematology">Systemic illness: Non-blanching rash, signs of sepsis</li>
-                    <li class="infectious">Inability to swallow fluids (risk of dehydration)</li>
-                </ul>
-            </li>
-
-            <!-- S: Scale -->
-            <li class="point">
-                <span class="description"><strong>S</strong>: Severity / Scale</span>
-                <span class="verbal">"On a scale of 1 to 10, how would you rate the pain?"</span>
-            </li>
-            
+      <h3>1ST COMPLAINT: PAIN IN THE THROAT (Sore Throat)</h3>
+      <!-- S: Site -->
+      <li class="point"> <span class="description"><strong>S</strong>: Site</span>
+        <span class="verbal">"Can you point to where the pain is worst? Is it on
+          one side or all over?"</span>
+        <ul>
+          <li>GENERALIZED / CENTRAL:&nbsp;<span class="infectious"></span></li>
+          <ul>
+            <li><span class="infectious">Viral Pharyngitis</span></li>
+            <li><span class="infectious">Bacterial Tonsillitis</span></li>
+          </ul>
+          <li>UNILATERAL (one-sided): </li>
+          <ul>
+            <li><b class="ent infectious emergency">Peritonsillar Abscess
+                (Quinsy)</b></li>
+          </ul>
+          <li>RETROSTERNAL / BURNING: </li>
+          <ul>
+            <li class="git"><span>GERD /GORD)</span></li>
+          </ul>
+        </ul>
+      </li>
+      <!-- O: Onset -->
+      <li class="point"> <span class="description"><strong>O</strong>: Onset</span>
+        <span class="verbal">"When did the sore throat start? Did it come on
+          suddenly?"</span>
+        <ul>
+          <li>ACUTE (&lt; 2 weeks):&nbsp;<span class="infectious"></span></li>
+          <ul>
+            <li><span class="infectious">Viral <br>
+              </span></li>
+            <li><span class="infectious">Bacterial Infection</span></li>
+          </ul>
+          <li>CHRONIC (&gt; 3 weeks): </li>
+          <ul>
+            <li><b class="oncology ent">Red flag - consider malignancy</b>,&nbsp;<span
+                class="git"></span></li>
+            <li><span class="git">GORD</span>,&nbsp;<span class="ent"></span></li>
+            <li><span class="ent">Chronic tonsillitis</span></li>
+          </ul>
+          <li>Triggered by sick contacts?</li>
+        </ul>
+      </li>
+      <!-- D: Duration -->
+      <li class="point"> <span class="description"><strong>D</strong>: Duration</span>
+        <span class="verbal">"How many days have you had this for?"</span> </li>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <li class="point"> <span class="description"><strong>A/R</strong>:
+          Aggravating &amp; Relieving Factors</span> <span class="verbal">"Does
+          anything make the pain better or worse?"</span>
+        <ul>
+          <li>AGGRAVATING: </li>
+          <ul>
+            <li>Swallowing (Odynophagia), </li>
+            <li>talking, </li>
+            <li>eating</li>
+          </ul>
+          <li>RELIEVING: </li>
+          <ul>
+            <li>Simple analgesia (paracetamol, ibuprofen), </li>
+            <li>warm drinks</li>
+          </ul>
+        </ul>
+      </li>
+      <!-- C: Character -->
+      <li class="point"> <span class="description"><strong>C</strong>:
+          Character</span> <span class="verbal">"What does the pain feel like?
+          Is it scratchy, sharp like swallowing glass, or more like a lump?"</span>
+        <ul>
+          <li>SCRATCHY / RAW: <span class="infectious">Typical for viral
+              pharyngitis</span></li>
+          <li>SEVERE / SHARP: <span class="infectious">Suggests bacterial
+              tonsillitis or quinsy</span></li>
+          <li>BURNING: <span class="git">Suggests GORD</span></li>
+          <li>"LUMP" SENSATION: <span class="General">Globus pharyngeus</span>,
+            <b class="oncology">or a mass</b></li>
+        </ul>
+      </li>
+      <!-- R: Radiation -->
+      <li class="point"> <span class="description"><strong>R</strong>:
+          Radiation</span> <span class="verbal">"Does the pain travel anywhere,
+          for example, to your ears?"</span>
+        <ul>
+          <li class="ent">Referred otalgia (ear pain) is common in severe
+            tonsillitis/pharyngitis</li>
+        </ul>
+      </li>
+      <!-- A: Associated Symptoms (THE KEY DIFFERENTIATOR) -->
+      <li class="point"> <span class="description"><strong>A</strong>:
+          Associated Symptoms</span> <span class="verbal">"Along with the sore
+          throat, have you had a fever, cough, runny nose, or any difficulty
+          opening your mouth?"</span>
+        <ul>
+          <li>hoarseness</li>
+          <li><b>CLUES FOR BACTERIAL (Strep Throat - Centor/ Fever PAIN
+              criteria):</b>
+            <ul>
+              <li class="infectious">Fever</li>
+              <li class="infectious ent">Tonsillar exudates (pus on tonsils)</li>
+              <li class="infectious ent">Tender anterior cervical lymph nodes</li>
+              <li class="infectious respiratory"><b>Absence</b> of cough</li>
+            </ul>
+          </li>
+          <li><b>CLUES FOR VIRAL:</b>
+            <ul>
+              <li class="infectious respiratory">Cough, coryza (runny nose),
+                sneezing -&gt; <b><u>Common </u><u>Cold</u></b></li>
+              <li class="infectious">Profound fatigue, widespread <b><u>lymph </u><u>nodes
+                    </u></b>-&gt; Infectious Mononucleosis (Glandular Fever)</li>
+              <li class="infectious ent"><b><u>Hoarseness </u></b>-&gt; <b><u>Laryngitis</u></b></li>
+              <li class="infectious ent"><b><u><br>
+                  </u></b></li>
+            </ul>
+          </li>
+          <li><b>CLUES FOR DEEP INFECTION (Quinsy):</b>
+            <ul>
+              <li class="ent emergency">Muffled "hot potato" voice</li>
+              <li class="ent emergency"><b><u>Trismus </u></b>(difficulty
+                opening the jaw)</li>
+              <li class="ent emergency"><b><u>Drooling </u></b>/ inability to
+                swallow saliva</li>
+            </ul>
+          </li>
+          <li><b>CLUES FOR GORD:</b>
+            <ul>
+              <li class="git">Heartburn, regurgitation, symptoms worse when
+                lying down or after meals</li>
+            </ul>
+          </li>
+          <li>
+            <p>SUBACUTE THYROIDITIS</p>
+          </li>
+          <ul>
+            <li>ass with viral infections.....</li>
+          </ul>
+          <li>Lumps and bumps anywhere</li>
+          <ul>
+            <li><b>Infectious mono </b></li>
+            <li>abdominal fullness - spleen</li>
+          </ul>
+          <li>
+            <ul>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- P: Progression -->
+      <li class="point"> <span class="description"><strong>P</strong>:
+          Progression</span> <span class="verbal">"Since it started, has it
+          been getting progressively worse?"</span> </li>
+      <!-- P: Pattern -->
+      <li class="point"> <span class="description"><strong>P</strong>: Pattern</span>
+        <span class="verbal">"Is the pain constant or intermittent?"</span> </li>
+      <!-- E: Effect on life -->
+      <li class="point"> <span class="description"><strong>E</strong>: Effect
+          on Life</span> <span class="verbal">"How has this affected you? Are
+          you able to eat and drink normally?"</span>
+        <ul>
+          <li>Assess for risk of dehydration if odynophagia is severe</li>
+        </ul>
+      </li>
+      <!-- R: Red Flags -->
+      <li class="point"> <span class="description"><strong>R</strong>: Red
+          Flags</span> <span class="verbal">"I need to ask some specific
+          questions to make sure we're not missing anything serious."</span>
+        <ul>
+          <li class="ent respiratory emergency"><b>patches </b>/ <b>clour
+              change</b></li>
+          <li class="ent respiratory emergency">Diptheria</li>
+          <li class="ent respiratory emergency">candidiasis</li>
+          <li class="ent respiratory emergency">voice changes/ nodes</li>
+          <ul>
+            <li class="ent respiratory emergency">quinsy</li>
+            <li class="ent respiratory emergency">laryngeal cancer</li>
+          </ul>
+          <li class="ent respiratory emergency"><b>AIRWAY COMPROMISE:</b> </li>
+          <ul>
+            <li class="ent respiratory emergency">Stridor (noisy breathing), </li>
+            <li class="ent respiratory emergency">difficulty breathing, </li>
+            <li class="ent respiratory emergency">drooling</li>
+          </ul>
+          <li class="ent infectious emergency"><b>DEEP NECK SPACE INFECTION:</b>
+          </li>
+          <ul>
+            <li class="ent infectious emergency">Muffled voice,</li>
+            <li class="ent infectious emergency">&nbsp;trismus, </li>
+            <li class="ent infectious emergency">severe unilateral swelling, </li>
+            <li class="ent infectious emergency">neck stiffness</li>
+          </ul>
+          <li class="oncology ent"><b>SUSPECTED MALIGNANCY:</b> </li>
+          <ul>
+            <li class="oncology ent">Sore throat &gt; 3 weeks, </li>
+            <li class="oncology ent">persistent <em>hoarseness</em>, </li>
+            <li class="oncology ent">weight loss, </li>
+            <li class="oncology ent">neck lump</li>
+          </ul>
+          <li class="infectious hematology">Systemic illness: </li>
+          <ul>
+            <li class="infectious hematology">Non-blanching rash, </li>
+            <li class="infectious hematology">signs of sepsis</li>
+          </ul>
+          <li class="infectious">Inability to <em>swallow </em>fluids (risk of
+            dehydration)</li>
+        </ul>
+      </li>
+      <!-- S: Scale -->
+      <li class="point"> <span class="description"><strong>S</strong>: Severity
+          / Scale</span> <span class="verbal">"On a scale of 1 to 10, how would
+          you rate the pain?"</span> </li>
     </div>
-    
-
-
-
-
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
     <script src="double_click_collapse_details.js"></script>
-  
   </body>
 </html>

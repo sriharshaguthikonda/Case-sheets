@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> Huntington_disease</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <!-- ========================================================= -->
+    <!--   PART A: HISTORY  (from Section 1)                       -->
+    <!-- ========================================================= -->
+    <h3 class="General">FOCUSED HISTORY &mdash; SODA CRAPPERS Framework</h3>
+    <ol class="General">
+      <li class="point cns General"><strong>S &mdash; Site / Symptom domain</strong>
+        <ul>
+          <li class="cns">What first changed &mdash; movements, mood/behaviour,
+            or thinking?</li>
+          <li class="cns">Which body parts have the jerks/fidgety movements
+            (chorea)? <a href="https://www.nhs.uk/conditions/huntingtons-disease/"
+              target="_blank">[NHS overview]</a></li>
+        </ul>
+      </li>
+      <li class="point cns General"><strong>O &mdash; Onset</strong>
+        <ul>
+          <li class="cns">When did symptoms begin? Sudden vs gradual;
+            precipitating stress/illness.</li>
+          <li class="cns">Any juvenile-onset features (rigidity/myoclonus)? <a
+              href="https://www.hda.org.uk/seecmsfile/?id=130" target="_blank">[HDA
+              GP guide]</a></li>
+        </ul>
+      </li>
+      <li class="point cns General"><strong>D &mdash; Duration</strong>
+        <ul>
+          <li class="cns">How long has each domain been affected (motor / mood /
+            cognition)?</li>
+        </ul>
+      </li>
+      <li class="point cns psychiatric General"><strong>A &mdash; Aggravating</strong>
+        &amp; <strong>R &mdash; Relieving</strong>
+        <ul>
+          <li class="cns">Triggers for movements (fatigue, stress, caffeine);
+            sedation/medication effects.</li>
+          <li class="psychiatric">Behavioural triggers; de-escalation that
+            helps. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6618900/"
+              target="_blank">[EHDN guideline]</a></li>
+        </ul>
+      </li>
+      <li class="point cns General"><strong>C &mdash; Character</strong>
+        <ul>
+          <li class="cns">Describe movements (brief, irregular, flowing,
+            suppressible?). Speech changes? Eye movement issues?</li>
+          <li class="cns">Cognitive: planning, multitasking, memory; insight and
+            fluctuations.</li>
+        </ul>
+      </li>
+      <li class="point cns General"><strong>R &mdash; Radiation / distribution</strong>
+        <ul>
+          <li class="cns">Generalised vs focal; face/tongue involvement
+            (speech/swallow risk).</li>
+        </ul>
+      </li>
+      <li class="point psychiatric cns General"><strong>A &mdash; Associated
+          symptoms</strong>
+        <ul>
+          <li class="psychiatric">Mood: low mood, anhedonia, anxiety,
+            irritability/aggression, apathy, OCD traits, psychosis. <a href="https://www.nhs.uk/conditions/huntingtons-disease/"
+              target="_blank">[NHS]</a></li>
+          <li class="cns ent">Dysphagia, choking, weight loss; diet texture;
+            SALT input. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6618900/"
+              target="_blank">[EHDN]</a></li>
+          <li class="cns">Falls; gait instability; fine-motor difficulty; sleep
+            disturbance.</li>
+        </ul>
+      </li>
+      <li class="point cns General"><strong>P &mdash; Progression</strong>
+        <ul>
+          <li class="cns">Rate of change; stepwise setbacks; recent
+            infections/med changes.</li>
+        </ul>
+      </li>
+      <li class="point General"><strong>P &mdash; Pattern</strong>
+        <ul>
+          <li class="General">Intermittent vs continuous; diurnal variation;
+            relation to stress or alcohol.</li>
+        </ul>
+      </li>
+      <li class="point General"><strong>E &mdash; Effect on life</strong>
+        <ul>
+          <li class="General">Work, finances/benefits, caring roles, social
+            impact, relationships.</li>
+          <li class="General">Driving status &amp; DVLA notification if
+            symptomatic. <a href="https://www.gov.uk/huntingtons-disease-and-driving"
+              target="_blank">[DVLA]</a></li>
+          <li class="General">Carer strain; community supports in place (neuro
+            nurse, SALT, physio/OT, dietitian). <a href="https://www.nhs.uk/conditions/huntingtons-disease/"
+              target="_blank">[NHS]</a></li>
+        </ul>
+      </li>
+      <li class="point emergency psychiatric General"><strong>R &mdash; Red
+          flags (must ask)</strong>
+        <ul>
+          <li class="psychiatric emergency">Self-harm/suicide risk: ideation,
+            plan, means, intent, protective factors; immediate safety-netting.</li>
+          <li class="ent cns emergency">Frequent choking, aspiration events,
+            recurrent pneumonias.</li>
+          <li class="General emergency">Safeguarding: aggression/violence at
+            home; vulnerability/exploitation.</li>
+        </ul>
+      </li>
+      <li class="point General cns psychiatric"><strong>S &mdash; Scale
+          (0&ndash;10)</strong>
+        <ul>
+          <li class="General">How troublesome overall? What would a
+            &ldquo;2-point improvement&rdquo; look like for you?</li>
+        </ul>
+      </li>
+    </ol>
+    <h4 class="General">Past Medical, Drug &amp; Family History</h4>
+    <ul>
+      <li class="General">PMH: metabolic, thyroid, previous head injury; prior
+        psychiatric diagnoses.</li>
+      <li class="General">Drugs: antichoreics (e.g., tetrabenazine),
+        antipsychotics (e.g., risperidone/olanzapine), antidepressants;
+        adherence and side-effects. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6618900/"
+          target="_blank">[EHDN]</a></li>
+      <li class="General">Alcohol/recreational drugs; caffeine; smoking.</li>
+      <li class="cns General">Family history (autosomal dominant): affected
+        relatives, age of onset, genetic test status; unaffected relatives at
+        50% risk. <a href="https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/huntington-disease/"
+          target="_blank">[Genomics Education]</a></li>
+      <li class="General obstetric gynaecology">Fertility/pregnancy plans:
+        options like PGT-M/prenatal testing; ethics and counselling.</li>
+    </ul>
+    <h4 class="General">Genetics, Consent &amp; Confidentiality</h4>
+    <ul>
+      <li class="General">Has formal clinical genetics counselling and testing
+        been done? Understanding of implications for family?</li>
+      <li class="General">Consent for sharing to care team; discuss how genetic
+        information relates to relatives. <a href="https://www.gmc-uk.org/professional-standards/the-professional-standards/confidentiality/disclosing-patients-personal-information-a-framework"
+          target="_blank">[GMC Confidentiality]</a> <a href="https://www.bsgm.org.uk/healthcare-professionals/confidentiality-and-genetic-information/"
+          target="_blank">[BSGM explainer]</a></li>
+    </ul>
+    <h4 class="General ent cns">Diet, Swallow &amp; Weight</h4>
+    <ul>
+      <li class="ent cns">Choking; diet texture; supplements; weight trend;
+        SALT/dietitian input. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6618900/"
+          target="_blank">[EHDN]</a></li>
+    </ul>
+    <h4 class="General">Social &amp; Risk</h4>
+    <ul>
+      <li class="General">Living situation; carers; falls; equipment;
+        employment/benefits.</li>
+      <li class="General">Driving &amp; notification duties if symptomatic. <a
+          href="https://www.gov.uk/huntingtons-disease-and-driving" target="_blank">[DVLA]</a></li>
+      <li class="General">Advance care planning: LPA/ADRT; preferences. <a href="https://www.nice.org.uk/guidance/NG142"
+          target="_blank">[NICE NG142]</a></li>
+    </ul>
+    <h4 class="General">ICE</h4>
+    <ul>
+      <li class="General">Ideas: what do you think is happening?</li>
+      <li class="General">Concerns: prognosis, heredity, stigma, driving,
+        employment, family.</li>
+      <li class="General">Expectations: tests, referrals, support,
+        safety-netting.</li>
+    </ul>
+    <!-- ========================================================= -->
+    <!--   PART B: MANAGEMENT PLAN                                -->
+    <!-- ========================================================= -->
+    <h3 class="General">Management Plan &mdash; Huntington&rsquo;s disease</h3>
+    <h4 class="General emergency psychiatric">0 | Immediate safety</h4>
+    <ul class="General emergency psychiatric">
+      <li class="psychiatric emergency">If active self-harm risk: same-day MH
+        assessment/crisis team; 999 if imminent; remove means; stay with trusted
+        person; document safety advice and capacity. <a href="https://www.nice.org.uk/guidance/ng222"
+          target="_blank">[NICE NG222 (depression)]</a> <a href="https://www.nice.org.uk/guidance/ng108"
+          target="_blank">[NICE NG108 (capacity)]</a></li>
+      <li class="General">Safeguarding concerns (violence, exploitation): follow
+        local policy and escalate. <a href="https://www.gmc-uk.org/professional-standards/good-medical-practice-2024"
+          target="_blank">[GMC Good medical practice 2024]</a></li>
+    </ul>
+    <h4 class="General cns">1 | Confirm diagnosis &amp; baseline</h4>
+    <ul class="General cns">
+      <li class="cns">Refer/liaise with **HD multidisciplinary clinic** for
+        comprehensive review. <a href="https://www.uclh.nhs.uk/our-services/find-service/neurology-and-neurosurgery/huntingtons-disease-multidisciplinary-clinic"
+          target="_blank">[UCLH HD MDT]</a></li>
+      <li class="cns">Offer/confirm **Clinical Genetics** input (testing,
+        counselling, family planning, PGT-M). <a href="https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/huntington-disease/"
+          target="_blank">[Genomics Education]</a></li>
+      <li class="General">Baseline assessments: weight/BMI; swallow screen;
+        nutrition risk (e.g., MUST); meds review; mood screen (e.g., PHQ-9),
+        anxiety, psychosis; cognition/insight; falls risk.</li>
+      <li class="ent cns">If dysphagia/weight loss: urgent **SALT** and
+        **dietitian** review per **NICE CG32** nutrition support. <a href="https://www.nice.org.uk/guidance/cg32/resources/nutrition-support-for-adults-oral-nutrition-support-enteral-tube-feeding-and-parenteral-nutrition-pdf-975383198917"
+          target="_blank">[NICE CG32]</a> <a href="https://www.rcslt.org/members/clinical-guidance/eating-drinking-and-swallowing/eating-drinking-and-swallowing-guidance/"
+          target="_blank">[RCSLT EDS 2025]</a></li>
+    </ul>
+    <h4 class="General cns psychiatric">2 | Symptom control</h4>
+    <ol class="General">
+      <li class="cns"><b>Motor (chorea/dystonia)</b>
+        <ul class="cns">
+          <li class="cns pharmacology">First-line VMAT2 inhibitor in UK: <b>tetrabenazine</b>
+            &mdash; start low, titrate; monitor mood/suicidality, parkinsonism
+            and QT. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6618900/"
+              target="_blank">[EHDN/International guideline]</a></li>
+          <li class="cns pharmacology">If behavioural disturbance or psychosis:
+            consider **risperidone/olanzapine** (may also reduce chorea);
+            balance metabolic/QT risks. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6618900/"
+              target="_blank">[EHDN]</a></li>
+          <li class="cns">Emerging/region-dependent options:
+            **deutetrabenazine/valbenazine** have supportive evidence; UK
+            licensing/availability may differ &mdash; use via specialists/trials
+            if appropriate. <a href="https://www.ema.europa.eu/en/medicines/human/EPAR/austedo"
+              target="_blank">[EMA Austedo update]</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/39729631"
+              target="_blank">[Valbenazine review]</a></li>
+        </ul>
+      </li>
+      <li class="psychiatric"><b>Psychiatric</b>
+        <ul class="psychiatric">
+          <li class="psychiatric pharmacology"><b><u>Depression</u></b>/anxiety:
+            follow **NICE NG222** (psychological therapies &plusmn; SSRI/SNRI);
+            monitor suicidality. <a href="https://www.nice.org.uk/guidance/ng222"
+              target="_blank">[NICE NG222]</a></li>
+          <li class="psychiatric pharmacology">Irritability/aggression: consider
+            SSRI first; if severe, antipsychotic (e.g., risperidone) with close
+            review.</li>
+          <li class="psychiatric">Sleep: sleep hygiene; short-term
+            melatonin/z-drugs only if necessary and with caution.</li>
+        </ul>
+      </li>
+      <li class="cns ent"><b>Swallowing &amp; nutrition</b>
+        <ul class="ent cns">
+          <li><b><u>Texture</u></b>-modified diet, posture/strategies via SALT;
+            consider supplements, PEG only after MDT discussion of
+            risks/benefits in line with goals of care (CG32). <a href="https://www.nice.org.uk/guidance/cg32/resources/nutrition-support-for-adults-oral-nutrition-support-enteral-tube-feeding-and-parenteral-nutrition-pdf-975383198917"
+              target="_blank">[NICE CG32]</a></li>
+        </ul>
+      </li>
+      <li class="cns rehab"><b>Rehabilitation &amp; function</b>
+        <ul class="rehab cns">
+          <li><b><u>Physio </u></b>(balance/falls), <b><u>OT </u></b>(home
+            adaptations, equipment), <b><u>speech </u></b>therapy
+            (communication), dietitian (high-calorie plans). <a href="https://www.nhs.uk/conditions/huntingtons-disease/"
+              target="_blank">[NHS overview]</a></li>
+        </ul>
+      </li>
+    </ol>
+    <h4 class="General legal social">3 | Legal / driving / work</h4>
+    <ul class="General legal">
+      <li class="legal">Discuss **DVLA**: if symptomatic, patient must notify;
+        document advice. <a href="https://www.gov.uk/huntingtons-disease-and-driving"
+          target="_blank">[DVLA HD]</a></li>
+      <li class="General"><b><u>Benefits</u></b>/<b><u>carer </u></b>support;
+        blue badge; social care referral if needed.</li>
+    </ul>
+    <h4 class="General ethics">4 | Consent, capacity &amp; confidentiality</h4>
+    <ul class="General ethics">
+      <li class="General">Use shared decision-making framework and proportionate
+        consent conversations. <a href="https://www.gmc-uk.org/professional-standards/the-professional-standards/decision-making-and-consent"
+          target="_blank">[GMC Consent]</a></li>
+      <li class="General">If fluctuating capacity: follow **NICE NG108** and
+        document best-interest decisions. <a href="https://www.nice.org.uk/guidance/ng108"
+          target="_blank">[NICE NG108]</a></li>
+      <li class="General">Genetic information &amp; family: consider potential
+        disclosure to at-risk relatives within **GMC confidentiality** framework
+        where justified to prevent serious harm. <a href="https://www.gmc-uk.org/professional-standards/the-professional-standards/confidentiality/disclosing-patients-personal-information-a-framework"
+          target="_blank">[GMC Confidentiality]</a></li>
+    </ul>
+    <h4 class="General palliative">5 | Advance care planning &amp; palliative
+      care</h4>
+    <ul class="General palliative">
+      <li>Early conversation re goals, **<b><u>LPA</u></b>/<b><u>ADRT</u></b>**,
+        preferred place of care; involve carers. <a href="https://www.nice.org.uk/guidance/ng142"
+          target="_blank">[NICE NG142]</a></li>
+      <li>Know local **<b><u>specialist </u><u>palliative </u></b>care**
+        referral routes (home teams/hospice). <a href="https://www.england.nhs.uk/wp-content/uploads/2023/01/B1674-specialist-palliative-and-end-of-life-care-services-adult-service-specification.pdf"
+          target="_blank">[NHS England SPLC spec]</a></li>
+    </ul>
+    <h4 class="General">6 | Follow-up &amp; monitoring</h4>
+    <ul class="General">
+      <li>Set review interval (e.g., 6&ndash;12 weeks for new meds/behavioural
+        change; sooner if risk).</li>
+      <li>Track weight/BMI, swallow status, mood scores, falls, caregiver
+        strain; adjust plan.</li>
+    </ul>
+    <h4 class="General emergency">7 | Safety-netting (give verbatim)</h4>
+    <ul class="General emergency">
+      <li class="ent cns emergency">Go to ED/call 999 if severe
+        choking/aspiration, repeated chest infections, or sudden inability to
+        swallow fluids.</li>
+      <li class="psychiatric emergency">Seek urgent help (crisis
+        line/111/ED/999) for suicidal thoughts with intent/plan or escalating
+        aggression/unsafe behaviours.</li>
+      <li class="General">If new visual hallucinations/delusions, severe
+        sedation or collapse after med changes &mdash; urgent review.</li>
+    </ul>
+    <h4 class="General">8 | Documentation</h4>
+    <ul class="General">
+      <li>Record consent/capacity, DVLA advice, safety-netting, MDT referrals,
+        and teach-back summary. <a href="https://www.gmc-uk.org/professional-standards/good-medical-practice-2024"
+          target="_blank">[GMC Good medical practice 2024]</a></li>
+    </ul>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

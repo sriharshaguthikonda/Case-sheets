@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pelvic Pain - Aligned Sample</title>
+    <style>
+      
+
+        .point {
+            display: grid;
+            grid-template-columns: 70% 30%;
+            gap: 10px 20px;
+            padding: 10px 0;
+            border-bottom: 1px solid #e9ecef;
+            align-items: start;
+        }
+
+
+        .description {
+            color: #7ec200;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .verbal {
+            font-style: italic;
+            color: #092842;
+            margin: 0;
+        }
+    </style>
+  </head>
+  <body>
+    <h3>2ND COMPLAINT: PELVIC PAIN</h3>
+    <!-- S: Site -->
+    <div class="point">
+      <div class="point-content"> <strong class="description">S: Site</strong>
+        <ul class="point-list">
+          <li>RLQ / LLQ</li>
+          <li>Suprapubic</li>
+          <li>Unilateral / Bilateral</li>
+          <li>Deep vs Superficial</li>
+        </ul>
+      </div>
+      <span class="verbal">"Where exactly is the pain? Right/Left lower abdomen,
+        suprapubic, deep inside pelvis, or superficial?"</span> </div>
+    <!-- O: Onset -->
+    <div class="point">
+      <div class="point-content"> <strong class="description">O: Onset</strong>
+        <ul class="point-list">
+          <li>Sudden: Ovarian torsion, Ruptured ectopic, PID flare</li>
+          <li>Gradual: Endometriosis, Chronic PID, Fibroids</li>
+        </ul>
+      </div>
+      <span class="verbal">"When did it start? Was it sudden or gradual? Any
+        trigger?"</span> </div>
+    <!-- D: Duration -->
+    <div class="point">
+      <div class="point-content"> <strong class="description">D: Duration</strong>
+        <ul class="point-list">
+          <li>Acute (&lt; 3 months)</li>
+          <li>Chronic (&gt; 6 months)</li>
+        </ul>
+      </div>
+      <span class="verbal">"How long has this been going on?"</span> </div>
+    <!-- A/R: Aggravating & Relieving -->
+    <div class="point">
+      <div class="point-content"> <strong class="description">A/R: Aggravating
+          &amp; Relieving Factors</strong>
+        <ul class="point-list">
+          <li>Aggravated by: Menstruation, Ovulation (mittelschmerz),
+            Intercourse, Urination, Defecation, Movement, Specific foods</li>
+          <li>Relieved by: Rest, Position change, Heat, Analgesics, Bowel
+            movement</li>
+        </ul>
+      </div>
+      <span class="verbal">"What makes it worse or better?"</span> </div>
+    <!-- C: Character -->
+    <div class="point">
+      <div class="point-content"> <strong class="description">C: Character</strong>
+        <ul class="point-list">
+          <li>Sharp / Stabbing</li>
+          <li>Dull / Aching</li>
+          <li>Cramping</li>
+          <li>Burning / Throbbing</li>
+        </ul>
+      </div>
+      <span class="verbal">"What does it feel like?"</span> </div>
+    <!-- R: Radiation -->
+    <div class="point">
+      <div class="point-content"> <strong class="description">R: Radiation</strong>
+        <ul class="point-list">
+          <li>Back</li>
+          <li>Thighs</li>
+          <li>Perineum</li>
+          <li>Shoulder tip (Kehr's sign)</li>
+        </ul>
+      </div>
+      <span class="verbal">"Does it travel anywhere?"</span> </div>
+  </body>
+</html>

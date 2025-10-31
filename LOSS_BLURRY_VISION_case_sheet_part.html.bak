@@ -63,11 +63,11 @@
         <li>Tunnel</li>
         <li><br>
         </li>
-        <li>near</li>
-        <li>far</li>
+        <li><b><u>near</u></b></li>
+        <li><b>far</b></li>
         <li><br>
         </li>
-        <li>colour</li>
+        <li><strong>colour</strong></li>
         <li><br>
         </li>
       </ol>
@@ -85,6 +85,7 @@
         </ol>
         <li>haloes</li>
         <li>floaters</li>
+        <li>wavy lines</li>
         <li>Stroke Sx?</li>
         <ol>
           <li>Amurosis fugax</li>
@@ -140,6 +141,10 @@
           <li>galactorrhoea,</li>
           <li>menstrual change,</li>
           <li>ED</li>
+        </ol>
+        <li>Detachment</li>
+        <ol>
+          <li>flashes</li>
         </ol>
       </ol>
       <li>Severity scale</li>

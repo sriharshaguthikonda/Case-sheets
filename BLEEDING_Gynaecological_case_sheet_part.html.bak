@@ -1,108 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>BLEEDING (Gynaecological)</title>
-    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <title> BLEEDING_Gynaecological_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
-    <ul>
-      <li class="gynob"><strong>S: Site</strong> - </li>
-      <ul>
-        <li class="gynob">Uterine/</li>
-        <li class="gynob">Vaginal bleeding.</li>
-        <li class="gynob">Throat</li>
-        <li class="gynob">Nose</li>
-        <li class="gynob">Oral cavity?</li>
-        <li class="gynob">Esophagus?</li>
-        <li class="gynob">Lungs?</li>
-      </ul>
-      <li class="gynob general"><strong>O: Onset</strong> - </li>
-      <ul>
-        <li class="gynob">When did it start? </li>
-        <li class="gynob">Relation to LMP? </li>
-        <li class="gynob">Sudden </li>
-        <li class="gynob">gradual?</li>
-      </ul>
-      <li class="gynob general"><strong>D: Duration</strong> - How long does
-        each episode last? How long has the pattern been abnormal?</li>
-      <li class="general"><strong>A/R: Aggravating/Relieving Factors</strong>
-        <ol>
-          <li class="gynob"><em>Aggravated </em>by: </li>
-          <li class="gynob">Stress? </li>
-          <li class="gynob">Exertion? </li>
-          <li class="gynob">Intercourse? </li>
-          <li class="gynob hematology">Medications (e.g., anticoagulants
-&ETH;&acute;&ETH;&micro;&ETH;&frac14;&ETH;&frac34;&ETH;&ordm;&Ntilde;&euro;&ETH;&deg;&Ntilde;&sbquo;&ETH;&cedil;&Ntilde;&Dagger;&ETH;&micro;&Ntilde;�&ETH;&ordm;&ETH;&cedil;&Ntilde;&hellip;?</li>
-          <li class="gynob"><br>
-          </li>
-          <li class="gynob"><b>Relieved </b>by: </li>
-          <li class="gynob">Rest? </li>
-          <li class="gynob">Medications (e.g., tranexamic acid, NSAIDs,
-            hormones)?</li>
-        </ol>
-      </li>
-      <li><br>
-        <strong></strong></li>
-      <li class="general"><strong>C: Character/Type</strong>
-        <ol>
-          <li class="gynob"><strong>Amount:</strong> (No. of pads/tampons per
-            day, soaking, passing clots?)
-            <ul>
-              <li class="gynob">Size of clots (small, large like a coin?)</li>
-            </ul>
-          </li>
-          <li class="gynob"><strong>Color:</strong> Bright red, dark red, brown?</li>
-          <li class="gynob"><strong>Consistency:</strong> Watery, thick, clotty?</li>
-          <li class="gynob"><strong>Odor:</strong> Foul-smelling, metallic, or
-            normal?</li>
-          <li class="gynob"><strong>Pattern:</strong> Continuous, intermittent,
-            cyclical?</li>
-          <li>Relationship to menstrual cycle:
-            <ul>
-              <li class="gynob">Menorrhagia (heavy +/- prolonged, regular
-                cycles)</li>
-              <li class="gynob">Metrorrhagia (irregular bleeding between
-                periods)</li>
-              <li class="gynob">Menometrorrhagia (heavy and irregular)</li>
-              <li class="gynob">Oligomenorrhea (infrequent, &gt;35 day cycles)</li>
-              <li class="gynob">Polymenorrhea (too frequent, &lt;21 day cycles)</li>
-            </ul>
-          </li>
-        </ol>
-      </li>
-      <li><strong>R: Radiation</strong> - Not applicable.</li>
-      <li class="general"><strong>A: Associated Symptoms</strong>
-        <ol>
-          <li class="gynob"><strong>Pain:</strong>
-            <ul>
-              <li class="gynob">Location (lower abdomen, pelvis, back)?</li>
-              <li class="gynob">Type (cramping, sharp, dull, pressure)?</li>
-              <li class="gynob">Severity (0-10 scale)?</li>
-              <li class="gynob">Timing (constant, intermittent, related to
-                menses)?</li>
-            </ul>
-          </li>
-          <li class="gynob">Weight changes (gain/loss)?</li>
-          <li class="gynob">Hirsutism, acne (suggestive of PCOS)?</li>
-          <li class="gynob">Symptoms of thyroid dysfunction (fatigue, weight
-            changes, hair loss)?</li>
-          <li class="obstetric">Symptoms of pregnancy (nausea, breast
-            tenderness, missed period)?</li>
-          <li class="gynob">Post-coital bleeding?</li>
-          <li class="gynob">Dyspareunia?</li>
-        </ol>
-      </li>
-      <li><strong>P: Pattern (Timing/Frequency of episodes)</strong> - How often
-        do these bleeding episodes occur? Regularity?</li>
-      <li class="gynob"><strong>R: Radiation/Referral</strong> - Does the
-        bleeding stay in one area or spread to other areas?</li>
-      <li><strong>E: Effect on life</strong> - Impact on daily activities, work,
-        social life, emotional well-being.</li>
-      <li><strong>S: Severity</strong> - Based on amount, duration, impact on
-        Hb, and quality of life.</li>
-    </ul>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
     <br>
     <br>
     <div class="hematology General">
@@ -111,12 +16,25 @@
       <li class="point"> <span class="description"><strong>S</strong>: Site</span>
         <span class="verbal">"Where exactly is the bleeding coming from?"</span>
         <ul>
+          <li class="git hematology respiratory nephro gynob ent derma emergency">ask
+            other sites of bleeding</li>
           <li class="git">GASTROINTESTINAL (GI) TRACT
             <ul>
               <li class="git">Hematemesis (Vomiting blood)
                 <ul>
                   <li class="git">Bright red vs coffee-ground</li>
                   <li class="git">Volume estimation (teaspoons to cupfuls)</li>
+                  <li class="git">History of forceful retching or vomiting
+                    *before* the blood appeared? (Mallory-Weiss tear)</li>
+                  <li class="git">DIFFERENTIATE FROM HEMOPTYSIS:
+                    <ul>
+                      <li class="git">Was the blood coughed up or vomited?</li>
+                      <li class="git">Was it preceded by nausea or an urge to
+                        cough?</li>
+                      <li class="respiratory git">Was it frothy? (Suggests
+                        respiratory origin)</li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li class="git">Melena (Black, tarry stool)
@@ -157,7 +75,7 @@
               <li class="nephro">Post-procedural (cystoscopy, catheterization)</li>
             </ul>
           </li>
-          <li class="gynob">GYNAECOLOGICAL
+          <li class="gynob obstetric">GYNAECOLOGICAL / OBSTETRIC
             <ul>
               <li class="gynob">Abnormal Vaginal Bleeding
                 <ul>
@@ -165,7 +83,8 @@
                   <li class="gynob">Postmenopausal</li>
                 </ul>
               </li>
-              <li class="gynob">Post-coital bleeding</li>
+              <li class="gynob obstetric">Post-coital bleeding</li>
+              <li class="obstetric">Bleeding in pregnancy</li>
             </ul>
           </li>
           <li class="ent">ENT / MOUTH
@@ -184,6 +103,12 @@
               <li class="ent">Hemotympanum (blood behind eardrum)</li>
             </ul>
           </li>
+          <li class="surgery">PAST SURGICAL HISTORY
+            <ul>
+              <li class="surgery cvs emergency git">History of an Abdominal
+                Aortic Aneurysm (AAA) repair? (Aorto-enteric fistula)</li>
+            </ul>
+          </li>
           <li class="derma hematology">SKIN/MUCOSAL
             <ul>
               <li class="derma hematology">Petechiae (&le;2mm)</li>
@@ -195,8 +120,8 @@
           </li>
           <li class="General">OTHER SITES
             <ul>
-              <li class="ophthalmology">Subconjunctival hemorrhage</li>
-              <li class="cns">Intracranial bleeding (headache, neuro deficits)</li>
+              <li class="ophthalmology">Subconjunctival</li>
+              <li class="cns">Intracranial (headache, neuro deficits)</li>
               <li class="ortho-specific">Hemarthrosis (joint swelling)</li>
               <li class="General">Post-surgical/traumatic sites</li>
             </ul>
@@ -206,11 +131,17 @@
       <!-- Onset -->
       <li class="point General"> <span class="description"><strong>O</strong>:
           Onset</span> <span class="verbal">"When did this bleeding first
-          start? Was it sudden and heavy, or gradual?"</span>
+          start? And what was the first day of your last menstrual period?"</span>
         <ul>
+          <li class="obstetric"><b>Last Menstrual Period (LMP) &amp; Gestational
+              Age are critical.</b></li>
           <li class="General">Acute vs chronic/recurrent pattern</li>
           <li class="General">First episode or recurrent?</li>
-          <li class="General">Relation to any specific event (trauma, procedure)</li>
+          <li class="General">Trigger</li>
+          <ul>
+            <li class="General">trauma, </li>
+            <li class="General">procedure</li>
+          </ul>
         </ul>
       </li>
       <!-- Duration -->
@@ -219,7 +150,10 @@
           last? How frequently does it occur?"</span>
         <ul>
           <li class="General">Minutes vs hours vs continuous</li>
-          <li class="General">Frequency: Daily, weekly, monthly</li>
+          <li class="General">Frequency: </li>
+          <ul>
+            <li class="General">Daily, weekly, monthly</li>
+          </ul>
           <li class="General">Duration of current episode</li>
         </ul>
       </li>
@@ -232,15 +166,19 @@
             <ul>
               <li class="General">Trauma (even minor)</li>
               <li class="General">Exertion/Valsalva</li>
+              <li class="obstetric">Intercourse</li>
               <li class="General">Medications:
                 <ul>
-                  <li class="hematology">Anticoagulants (warfarin, DOACs)</li>
-                  <li class="hematology">Antiplatelets (aspirin, clopidogrel)</li>
-                  <li class="hematology">NSAIDs, SSRIs</li>
-                  <li class="hematology">Herbal supplements (ginkgo, garlic)</li>
+                  <li class="hematology cvs respiratory cns">Anticoagulants
+                    (warfarin, DOACs)</li>
+                  <li class="hematology cvs">Antiplatelets (aspirin,
+                    clopidogrel)</li>
+                  <li class="hematology cvs">NSAIDs, SSRIs</li>
+                  <li class="hematology General">Herbal supplements (ginkgo,
+                    garlic)</li>
                 </ul>
               </li>
-              <li class="General">Alcohol consumption</li>
+              <li class="General git">Alcohol consumption</li>
               <li class="infectious">Infection (viral/bacterial)</li>
             </ul>
           </li>
@@ -270,10 +208,10 @@
                   <li class="git">cup (250ml)</li>
                 </ul>
               </li>
-              <li class="gynob">Gynae:
+              <li class="gynob obstetric">Gynae/Obs:
                 <ul>
-                  <li class="gynob">Pad/tampon count (soaked/hour),</li>
-                  <li class="gynob">clot size (coin, golf ball)</li>
+                  <li class="gynob obstetric">Pad/tampon count (soaked/hour),</li>
+                  <li class="gynob obstetric">clot size (coin, golf ball)</li>
                 </ul>
               </li>
               <li class="nephro">Urine:
@@ -283,7 +221,10 @@
               </li>
               <li class="respiratory">Hemoptysis:
                 <ul>
-                  <li class="respiratory">Streaks vs cupfuls</li>
+                  <li class="respiratory">Streaks</li>
+                  <li class="respiratory">Teaspoon (5ml),</li>
+                  <li class="respiratory">tablespoon (15ml),</li>
+                  <li class="respiratory">cup (250ml)</li>
                 </ul>
               </li>
             </ul>
@@ -297,6 +238,13 @@
               <li class="git">Black/Tarry (Melena): Upper GI bleed (&gt;50ml)</li>
               <li class="respiratory">Frothy/Pink: Pulmonary edema with bleeding</li>
               <li class="nephro">Cola-colored urine: Glomerular disease</li>
+              <li class="obstetric">Dark/prune-colored (in early pregnancy, can
+                suggest old blood)</li>
+            </ul>
+          </li>
+          <li class="obstetric">CONSISTENCY:
+            <ul>
+              <li class="obstetric">Passage of tissue or products of conception?</li>
             </ul>
           </li>
           <li class="gynob">GYNAECOLOGICAL PATTERNS:
@@ -324,6 +272,8 @@
           <li class="git">Epigastric pain &rarr; upper GI source</li>
           <li class="respiratory">Pleuritic pain &rarr; pulmonary source</li>
           <li class="rheumatic">Migratory joint pain &rarr; vasculitis</li>
+          <li class="obstetric">Shoulder tip pain (suggests peritoneal
+            irritation, e.g., ruptured ectopic pregnancy)</li>
         </ul>
       </li>
       <!-- Associated Symptoms -->
@@ -331,12 +281,31 @@
           Associated Symptoms</span> <span class="verbal">"What other symptoms
           have you noticed with the bleeding?"</span>
         <ul>
+          <li class="hematology">pain</li>
+          <li class="hematology">ENT sx if any of the E or N or T is involved!</li>
+          <li class="hematology">blood in cough.....aspiration.!</li>
+          <li class="hematology">malena</li>
+          <li class="hematology"><br>
+          </li>
           <li class="hematology">ANEMIA/HYPOVOLEMIA:
             <ul>
               <li class="hematology">Fatigue, pallor, dizziness</li>
               <li class="cvs">Palpitations, tachycardia</li>
               <li class="cvs">Orthostatic hypotension</li>
               <li class="respiratory">Shortness of breath</li>
+            </ul>
+          </li>
+          <li class="obstetric">OBSTETRIC-SPECIFIC SYMPTOMS
+            <ul>
+              <li class="obstetric"><b>Painful vs. Painless Bleeding?</b> (Key
+                differentiator)</li>
+              <li class="obstetric">Abdominal/pelvic pain or cramping</li>
+              <li class="obstetric">Loss of fetal movements</li>
+              <li class="obstetric">Passage of amniotic fluid (rupture of
+                membranes)</li>
+              <li class="obstetric">Symptoms of pre-eclampsia (headache, visual
+                disturbance, epigastric pain)</li>
+              <li class="obstetric">Nausea, vomiting, breast tenderness</li>
             </ul>
           </li>
           <li class="nephro">RENAL-RELATED:
@@ -365,7 +334,6 @@
               <li class="gynob">Dysmenorrhea, dyspareunia</li>
               <li class="gynob">Vaginal discharge</li>
               <li class="gynob">Pelvic pain/pressure</li>
-              <li class="obstetric">Pregnancy symptoms</li>
               <li class="endocrine">Hirsutism, acne &rarr; PCOS</li>
             </ul>
           </li>
@@ -423,7 +391,9 @@
         <ul>
           <li class="general">Work/school absenteeism</li>
           <li class="general">Social restrictions</li>
-          <li class="psychiatry">Anxiety/depression</li>
+          <li class="psychiatric">Anxiety/depression</li>
+          <li class="obstetric psychiatric">Anxiety about the health of the
+            pregnancy</li>
           <li class="general">Financial burden</li>
         </ul>
       </li>
@@ -459,6 +429,10 @@
             <ul>
               <li class="obstetric emergency">Bleeding with abdominal pain in
                 pregnancy</li>
+              <li class="obstetric emergency">Heavy bleeding (soaking &gt;1
+                pad/hour)</li>
+              <li class="obstetric emergency">Bleeding in late pregnancy (&gt;24
+                weeks)</li>
               <li class="obstetric emergency">Postpartum hemorrhage</li>
             </ul>
           </li>
@@ -481,9 +455,117 @@
           <li class="general">Impact on daily functioning</li>
         </ul>
       </li>
+      <br>
+      <br>
+      <br>
+      <br>
+      <ul>
+        <li class="gynob"><strong>S: Site</strong> - </li>
+        <ul>
+          <li class="gynob">Uterine/</li>
+          <li class="gynob">Vaginal bleeding.</li>
+          <li class="gynob"><br>
+          </li>
+          <li class="ent respiratory git">Nose</li>
+          <li class="ent respiratory git">Oral cavity?</li>
+          <li class="ent respiratory git">Throat</li>
+          <li class="ent respiratory git">Esophagus?</li>
+          <li class="ent respiratory git">Lungs?</li>
+        </ul>
+        <li class="gynob general obstetric"><strong>O: Onset</strong> - </li>
+        <ul>
+          <li class="gynob">When did it start? </li>
+          <li class="gynob obstetric">Relation to LMP? </li>
+          <li class="gynob">Sudden </li>
+          <li class="gynob">gradual?</li>
+        </ul>
+        <li class="gynob general"><strong>D: Duration</strong> - How long does
+          each episode last? How long has the pattern been abnormal?</li>
+        <li class="general"><strong>A/R: Aggravating/Relieving Factors</strong>
+          <ol>
+            <li class="gynob"><em>Aggravated </em>by: </li>
+            <li class="gynob">Stress? </li>
+            <li class="gynob">Exertion? </li>
+            <li class="gynob obstetric">Intercourse? </li>
+            <li class="gynob hematology">Medications (e.g., anticoagulants
+&ETH;&acute;&ETH;&micro;&ETH;&frac14;&ETH;&frac34;&ETH;&ordm;&Ntilde;&euro;&ETH;&deg;&Ntilde;&sbquo;&ETH;&cedil;&Ntilde;&Dagger;&ETH;&micro;&Ntilde;�&ETH;&ordm;&ETH;&cedil;&Ntilde;&hellip;?</li>
+            <li class="gynob"><br>
+            </li>
+            <li class="gynob"><b>Relieved </b>by: </li>
+            <li class="gynob">Rest? </li>
+            <li class="gynob">Medications (e.g., tranexamic acid, NSAIDs,
+              hormones)?</li>
+          </ol>
+        </li>
+        <li><br>
+          <strong></strong></li>
+        <li class="general"><strong>C: Character/Type</strong>
+          <ol>
+            <li class="gynob obstetric"><strong>Amount:</strong> (No. of
+              pads/tampons per day, soaking, passing clots?)
+              <ul>
+                <li class="gynob obstetric">Size of clots (small, large like a
+                  coin?)</li>
+              </ul>
+            </li>
+            <li class="gynob"><strong>Color:</strong> Bright red, dark red,
+              brown?</li>
+            <li class="gynob"><strong>Consistency:</strong> Watery, thick,
+              clotty?</li>
+            <li class="gynob"><strong>Odor:</strong> Foul-smelling, metallic, or
+              normal?</li>
+            <li class="gynob"><strong>Pattern:</strong> Continuous,
+              intermittent, cyclical?</li>
+            <li>Relationship to menstrual cycle:
+              <ul>
+                <li class="gynob">Menorrhagia (heavy +/- prolonged, regular
+                  cycles)</li>
+                <li class="gynob">Metrorrhagia (irregular bleeding between
+                  periods)</li>
+                <li class="gynob">Menometrorrhagia (heavy and irregular)</li>
+                <li class="gynob">Oligomenorrhea (infrequent, &gt;35 day cycles)</li>
+                <li class="gynob">Polymenorrhea (too frequent, &lt;21 day
+                  cycles)</li>
+              </ul>
+            </li>
+          </ol>
+        </li>
+        <li><strong>R: Radiation</strong> - Not applicable.</li>
+        <li class="general"><strong>A: Associated Symptoms</strong>
+          <ol>
+            <li class="gynob"><strong>Pain:</strong>
+              <ul>
+                <li class="gynob">Location (lower abdomen, pelvis, back)?</li>
+                <li class="gynob">Type (cramping, sharp, dull, pressure)?</li>
+                <li class="gynob">Severity (0-10 scale)?</li>
+                <li class="gynob">Timing (constant, intermittent, related to
+                  menses)?</li>
+              </ul>
+            </li>
+            <li class="gynob">Weight changes (gain/loss)?</li>
+            <li class="gynob">Hirsutism, acne (suggestive of PCOS)?</li>
+            <li class="gynob">Symptoms of thyroid dysfunction (fatigue, weight
+              changes, hair loss)?</li>
+            <li class="obstetric">Symptoms of pregnancy (nausea, breast
+              tenderness, missed period)?</li>
+            <li class="gynob obstetric">Post-coital bleeding?</li>
+            <li class="gynob">Dyspareunia?</li>
+          </ol>
+        </li>
+        <li><strong>P: Pattern (Timing/Frequency of episodes)</strong> - How
+          often do these bleeding episodes occur? Regularity?</li>
+        <li class="gynob"><strong>R: Radiation/Referral</strong> - Does the
+          bleeding stay in one area or spread to other areas?</li>
+        <li><strong>E: Effect on life</strong> - Impact on daily activities,
+          work, social life, emotional well-being.</li>
+        <li><strong>S: Severity</strong> - Based on amount, duration, impact on
+          Hb, and quality of life.</li>
+      </ul>
     </div>
-    <script src="theme-toggle.js"></script>
+    <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
   </body>
 </html>

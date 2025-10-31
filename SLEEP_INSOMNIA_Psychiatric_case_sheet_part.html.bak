@@ -1,0 +1,155 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> SLEEP_INSOMNIA_Psychiatric_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+    <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+
+
+
+    <div class="General">
+        <h3>1ST COMPLAINT: SLEEP ISSUES</h3>
+        
+            <!-- S: Symptom Domain & Severity -->
+            <li class="point">
+                <span class="description"><strong>S</strong>: Symptom Domain & Severity</span>
+                <span class="verbal">"Could you tell me what the main problem with your sleep is? Is it difficulty falling or staying asleep, feeling excessively tired during the day, or something else?"</span>
+                <ul>
+                    <li class="psychiatric cns"><b>Insomnia:</b> Difficulty initiating or maintaining sleep.</li>
+                    <li class="respiratory cns"><b>Excessive Daytime Sleepiness (EDS):</b> Feeling tired despite adequate sleep time.</li>
+                    <li class="cns"><b>Parasomnia:</b> Abnormal events during sleep (e.g., sleepwalking, talking, acting out dreams).</li>
+                   
+                </ul>
+            </li>
+
+            <!-- O: Onset -->
+            <li class="point">
+                <span class="description"><strong>O</strong>: Onset</span>
+                <span class="verbal">"When did these sleep problems start? Was it linked to a particular life event, stress, or a new medication?"</span>
+            </li>
+
+            <!-- D: Duration -->
+            <li class="point">
+                <span class="description"><strong>D</strong>: Duration</span>
+                <span class="verbal">"How long has this been going on? Is it a problem most nights?"</span>
+            </li>
+
+            <!-- C: Character (The 3 Phases of Sleep) -->
+            <li class="point">
+                <span class="description"><strong>C</strong>: Character (The Sleep Cycle)</span>
+                <span class="verbal">"Let's break down the night. What happens when you try to go to sleep, during the night, and when you wake up?"</span>
+                <ul>
+                    <li class=" cns psychiatric">BEFORE SLEEP (Initiation)
+                        <ul>
+                            <li>How long does it take you to fall asleep? (>30 mins is significant)</li>
+                            <li>Do you have racing thoughts or worries? (Anxiety/Depression)</li>
+                            <li>Any unpleasant crawling or jittery feelings in your legs? (Restless Legs Syndrome - RLS)</li>
+                        </ul>
+                    </li>
+                    <li class="cns respiratory">DURING SLEEP (Maintenance)
+                        <ul>
+                            <li>Do you wake up frequently during the night? What wakes you? (Pain, SOB, nocturia)</li>
+                            <li>Has a partner witnessed you snoring loudly, stopping breathing, or gasping/choking? (Obstructive Sleep Apnea - OSA)</li>
+                            <li>Do you have vivid nightmares or act out your dreams (punching, kicking)? (REM Sleep Behaviour Disorder)</li>
+                            <li>Any sleepwalking or talking?</li>
+                        </ul>
+                    </li>
+                     <li class=" General">AFTER WAKING
+                        <ul>
+                            <li>Do you feel refreshed or still tired and unrefreshed? (Non-restorative sleep)</li>
+                            <li>Do you wake up with morning headaches, a dry mouth, or sore throat? (Suggests OSA)</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+
+            <!-- A: Associated Symptoms (Daytime) -->
+            <li class="point">
+                <span class="description"><strong>A</strong>: Associated Symptoms (Daytime)</span>
+                <span class="verbal">"How do you feel during the day? Are you tired, moody, or having trouble concentrating?"</span>
+                <ul>
+                    <li class="cns respiratory"><b>Excessive Daytime Sleepiness:</b> Do you fall asleep unintentionally (e.g., watching TV, in meetings)? (Consider Epworth Sleepiness Scale)</li>
+                    <li class="psychiatric"><b>Mood Changes:</b> Low mood, irritability, anxiety.</li>
+                    <li class="cns"><b>Cognitive Issues:</b> Poor concentration, "brain fog", memory problems.</li>
+                    <li class="cns"><b>Cataplexy:</b> Sudden muscle weakness triggered by strong emotion like laughter? (Narcolepsy red flag)</li>
+                </ul>
+            </li>
+
+            <!-- P: Pattern & Sleep Hygiene -->
+            <li class="point">
+                <span class="description"><strong>P</strong>: Pattern & Sleep Hygiene</span>
+                <span class="verbal">"Can you walk me through your typical 24-hour day, from when you wake up to when you go to bed?"</span>
+                <ul>
+                    <li>Bedtime and wake-up time consistency (weekdays vs. weekends)</li>
+                    <li>Napping habits (how often, how long)</li>
+                    <li>Caffeine intake (how much and what time is the last one)</li>
+                    <li>Alcohol or nicotine use, especially near bedtime</li>
+                    <li>Evening routine (screen time, bright lights, stressful activities)</li>
+                    <li>Bedroom environment (dark, quiet, cool)</li>
+                </ul>
+            </li>
+
+            <!-- R: Risk Factors -->
+            <li class="point">
+                <span class="description"><strong>R</strong>: Risk Factors</span>
+                <span class="verbal">"Do you have any other medical conditions or take any regular medications?"</span>
+                 <ul>
+                    <li class="respiratory">Obesity (high BMI), large neck circumference (OSA risk)</li>
+                    <li class="cvs respiratory">Medical conditions: Heart failure, COPD, Chronic Pain, Nocturia</li>
+                    <li class="psychiatric">Psychiatric conditions: Depression, Anxiety, PTSD</li>
+                    <li class="pharmacology">Medications: Steroids, SSRIs, beta-blockers, diuretics, stimulants</li>
+                </ul>
+            </li>
+
+            <!-- E: Effect on life -->
+            <li class="point">
+                <span class="description"><strong>E</strong>: Effect on Life</span>
+                <span class="verbal">"How are these sleep issues impacting your life, for example your work, relationships, or your ability to drive?"</span>
+                <ul>
+                    <li>Impact on work/school performance</li>
+                    <li>Strain on relationships (e.g., due to snoring, irritability)</li>
+                    <li><b>Safety concerns:</b> Any accidents or near-misses while driving or operating machinery?</li>
+                </ul>
+            </li>
+
+            <!-- R: Red Flags -->
+            <li class="point">
+                <span class="description"><strong>R</strong>: Red Flags</span>
+                <span class="verbal">"I just need to ask some specific safety questions."</span>
+                <ul>
+                    <li class="respiratory cns emergency"><b>Severe OSA:</b> Witnessed choking/gasping apneas, falling asleep while driving (DVLA notifiable).</li>
+                    <li class="cns emergency"><b>Parasomnia with Injury:</b> Any history of harming yourself or a bed partner while asleep.</li>
+                    <li class="cns emergency"><b>Narcolepsy Features:</b> Cataplexy (sudden muscle weakness with emotion).</li>
+                    <li class="psychiatric emergency">Severe depression with suicidal ideation.</li>
+                </ul>
+            </li>
+
+            <!-- S: Scale / Screening -->
+            <li class="point">
+                <span class="description"><strong>S</strong>: Severity/Screening</span>
+                <span class="verbal">(Clinician to self) "I will ask the patient to complete a screening questionnaire."</span>
+                <ul>
+                    <li class="cns respiratory">Consider formal Epworth Sleepiness Scale for EDS</li>
+                    <li class="General">Advise patient to keep a 2-week sleep diary</li>
+                </ul>
+            </li>
+            
+    </div>
+    
+
+
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  
+  </body>
+</html>

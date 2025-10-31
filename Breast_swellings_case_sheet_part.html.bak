@@ -59,6 +59,7 @@
           <li>Pregnancy</li>
           <li>lactation</li>
           <li>Hormones</li>
+          <li>HRT</li>
           <li>Medicines</li>
           <ul>
           </ul>
@@ -78,6 +79,11 @@
       <li><strong>C: Character/Type (Patient's description of the lump if they
           can provide it)</strong>
         <ul>
+          <li>size</li>
+          <li>shape</li>
+          <li>skin</li>
+          <li><br>
+          </li>
           <li>Patient's perception of its feel (e.g., hard, soft, rubbery, like
             a pea or grape).</li>
           <li>Is it perceived as a discrete lump or a general area of
@@ -184,8 +190,9 @@
       </li>
       <li><strong>S: Scale</strong> </li>
       <ul>
-        <li>(If associated pain, scale 0-10. </li>
-        <li>Not usually for the lump itself unless for "bother score").</li>
+        <li>(If associated <strong>pain</strong>, scale 0-10. </li>
+        <li>Not usually for the <b><u>lump </u></b>itself unless for "<b><u>bother
+              </u><u>score</u></b>").</li>
       </ul>
     </ul>
     <script src="harsha_iframe_youtube_player.js"></script>

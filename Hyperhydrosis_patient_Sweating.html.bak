@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> Sweating_case_sheet_part</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <div class="General">
+      <h3>1ST COMPLAINT: EXCESSIVE SWEATING</h3>
+      <!-- S: Site -->
+      <li class="point"> <span class="description"><strong>S</strong>: Site</span>
+        <span class="verbal">"Where on your body do you notice the sweating the
+          most? Is it all over, or in specific places like your hands, feet, or
+          armpits?"</span>
+        <ul>
+          <li><b>GENERALIZED (all over):</b> <span class="endocrine">Endocrine
+              causes (Thyroid, Menopause)</span>, <span class="infectious">Infection</span>,
+            <span class="oncology">Malignancy</span>, <span class="pharmacology">Medications</span></li>
+          <li><b>LOCALIZED / FOCAL:</b>
+            <ul>
+              <li class="derma">Palms, Soles, Axillae -&gt; Primary Focal
+                Hyperhidrosis</li>
+              <li class="cns">Face (while eating) -&gt; Gustatory sweating
+                (Frey's Syndrome)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- O: Onset -->
+      <li class="point"> <span class="description"><strong>O</strong>: Onset</span>
+        <span class="verbal">"When did you first notice this excessive sweating?
+          Was it a sudden change or has it been gradual?"</span>
+        <ul>
+          <li>Since puberty -&gt; Suggests primary focal hyperhidrosis</li>
+          <li>Recent onset -&gt; Suggests a secondary cause (new illness,
+            medication)</li>
+        </ul>
+      </li>
+      <!-- D: Duration -->
+      <li class="point"> <span class="description"><strong>D</strong>: Duration</span>
+        <span class="verbal">"How long has this been a problem for you?"</span>
+      </li>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <li class="point"> <span class="description"><strong>A/R</strong>:
+          Aggravating &amp; Relieving Factors</span> <span class="verbal">"Does
+          anything seem to trigger the sweating, like stress or certain foods?"</span>
+      </li>
+      <!-- C: Character (THE KEY DIFFERENTIATOR) -->
+      <li class="point"> <span class="description"><strong>C</strong>:
+          Character (Timing &amp; Triggers)</span> <span class="verbal">"This
+          is a key question: when does the sweating happen? Is it mainly at
+          night, during the day, or in specific situations?"</span>
+        <ul>
+          <li class=" oncology infectious endocrine emergency"><b>NIGHT
+              SWEATS</b>
+            <ul>
+              <li><b>"Drenching" sweats?</b> (Requiring changing of clothes or
+                bedsheets) -&gt; This is a B-Symptom.</li>
+              <li>Associated with fever? -&gt; <b class="infectious">Infection
+                  (TB, HIV, Endocarditis)</b></li>
+              <li>Associated with weight loss? -&gt; <b class="oncology">Lymphoma,
+                  Leukemia</b>, <b class="infectious">TB</b></li>
+              <li>Associated with hot flushes? -&gt; <b class="endocrine gynob">Menopause</b></li>
+            </ul>
+          </li>
+          <li class=" General"><b>DAYTIME SWEATING</b>
+            <ul>
+              <li>Episodic / Paroxysmal? -&gt; <b class="endocrine emergency">Pheochromocytoma</b>,
+                <b class="psychiatric">Panic Attack</b></li>
+              <li>Associated with eating? -&gt; <b class="cns">Gustatory
+                  sweating</b></li>
+              <li>Constant feeling of being hot and sweaty? -&gt; <b class="endocrine">Hyperthyroidism</b></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- R: Radiation -->
+      <li class="point"> <span class="description"><strong>R</strong>:
+          Radiation</span> <span class="verbal">(Not applicable)</span> </li>
+      <!-- A: Associated Symptoms -->
+      <li class="point"> <span class="description"><strong>A</strong>:
+          Associated Symptoms</span> <span class="verbal">"Along with the
+          sweating, have you experienced any other symptoms like fever, weight
+          loss, or palpitations?"</span>
+        <ul>
+          <li class=" oncology infectious">CONSTITUTIONAL ("B SYMPTOMS")
+            <ul>
+              <li class="oncology infectious">Unexplained Fever</li>
+              <li class="oncology infectious">Drenching Night Sweats</li>
+              <li class="oncology">Unexplained Weight Loss</li>
+              <li class="oncology">Lymph node swelling (lymphadenopathy)?</li>
+            </ul>
+          </li>
+          <li class="endocrine">ENDOCRINE
+            <ul>
+              <li class="endocrine cvs">Palpitations, anxiety, tremor, diarrhea,
+                heat intolerance -&gt; <b class="endocrine">Hyperthyroidism</b></li>
+              <li class="endocrine cvs emergency">Episodic headache,
+                palpitations, and sweating -&gt; <b class="endocrine emergency">Pheochromocytoma
+                  Triad</b></li>
+              <li class="endocrine">Hot flushes, menstrual changes -&gt; <b class="endocrine gynob">Menopause</b></li>
+              <li class="endocrine">Sweating during hunger spells -&gt; <b class="endocrine">Hypoglycemia</b></li>
+            </ul>
+          </li>
+          <li class=" cvs">CARDIOVASCULAR
+            <ul>
+              <li class="cvs emergency">Associated with chest pain or shortness
+                of breath -&gt; <b class="cvs emergency">Acute Coronary
+                  Syndrome</b></li>
+              <li class="cvs">Orthopnea, paroxysmal nocturnal dyspnea -&gt; <b
+
+                  class="cvs">Heart Failure</b></li>
+            </ul>
+          </li>
+          <li class=" infectious">INFECTIOUS
+            <ul>
+              <li class="infectious respiratory">Chronic cough, hemoptysis,
+                travel/contact history -&gt; <b class="infectious">Tuberculosis
+                  (TB)</b></li>
+              <li class="infectious">High-risk behaviors, other infections -&gt;
+                <b class="infectious">HIV</b></li>
+              <li class="infectious">New heart murmur, IV drug use -&gt; <b class="infectious">Endocarditis</b></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- P: Progression -->
+      <li class="point"> <span class="description"><strong>P</strong>:
+          Progression</span> <span class="verbal">"Has the sweating been
+          getting worse over time?"</span> </li>
+      <!-- P: Pattern -->
+      <li class="point"> <span class="description"><strong>P</strong>: Pattern</span>
+        <span class="verbal">"Is there any pattern to the sweating throughout
+          the day or month?"</span> </li>
+      <!-- E: Effect on life -->
+      <li class="point"> <span class="description"><strong>E</strong>: Effect
+          on Life</span> <span class="verbal">"How has this sweating been
+          impacting your life? For example, your work, social activities, or
+          sleep?"</span>
+        <ul>
+          <li>Social embarrassment / avoidance</li>
+          <li>Need to change clothes frequently</li>
+          <li>Disrupted sleep</li>
+          <li>Difficulty with tasks (e.g., gripping objects if palmar)</li>
+        </ul>
+      </li>
+      <!-- R: Red Flags -->
+      <li class="point"> <span class="description"><strong>R</strong>: Red
+          Flags</span> <span class="verbal">"I'm just going to summarize the
+          key warning signs I'm looking for."</span>
+        <ul>
+          <li class="oncology infectious emergency">The "B-Symptoms": Drenching
+            night sweats, unexplained fever, significant weight loss.</li>
+          <li class="cvs emergency">Sweating associated with chest pain or
+            severe shortness of breath.</li>
+          <li class="endocrine emergency">Episodic sweating with severe
+            headaches and palpitations.</li>
+        </ul>
+      </li>
+      <!-- S: Scale -->
+      <li class="point"> <span class="description"><strong>S</strong>: Severity
+          / Bother Scale</span> <span class="verbal">"On a scale of 1 to 10,
+          how much does this sweating bother you and interfere with your life?"</span>
+      </li>
+    </div>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

@@ -1,865 +1,876 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
-<title>PSYCHIATRY CASE SHEET</title>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PSYCHIATRY CASE SHEET</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
-<script src="https://www.youtube.com/iframe_api"></script>
-</head>
-<body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
-<iframe src="Biodata.html" frameborder="0"></iframe>
-<h3>CHIEF COMPLAINTS: (In patient's/informant's own words, chronological
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <iframe src="Biodata.html" frameborder="0"></iframe>
+    <h3>CHIEF COMPLAINTS: (In patient's/informant's own words, chronological
       order with duration)</h3>
-<ol>
-<li>Low Mood / Sadness</li>
-<li>Anxiety / Worry / Panic Attacks</li>
-<li>Sleep Disturbances (Insomnia/Hypersomnia)</li>
-<li>Changes in Appetite / Weight</li>
-<li>Loss of Interest / Pleasure (Anhedonia)</li>
-<li>Fatigue / Loss of Energy</li>
-<li>Difficulty Concentrating / Indecisiveness</li>
-<li>Suicidal Thoughts / Self-Harm Ideation or Attempts</li>
-<li>Hallucinations (Auditory, Visual, Olfactory, Tactile, Gustatory)</li>
-<li>Delusions / Paranoid Thoughts</li>
-<li>Disorganized Speech / Behavior</li>
-<li>Irritability / Agitation / Aggression</li>
-<li>Memory Problems</li>
-<li>Obsessions / Compulsions</li>
-<li>Trauma-related Symptoms (Flashbacks, Nightmares)</li>
-<li>Substance Use Concerns</li>
-<li>Somatic Complaints without clear medical cause</li>
-</ol>
-<p><br/>
-</p>
-<h3>INFORM BROAD PLAN</h3>
-<h4>
-  <li>I am going to </li>
-  <ul>
-    <li>ask questions</li>
-    <li>examine</li>
-    <li>then give you...</li>
-  </ul>
-   </h4>
-<h3>HISTORY OF PRESENT ILLNESS: (Elaboration of each complaint using SODA
+    <ol>
+      <li>Low Mood / Sadness</li>
+      <li>Anxiety / Worry / Panic Attacks</li>
+      <li>Sleep Disturbances (Insomnia/Hypersomnia)</li>
+      <li>Changes in Appetite / Weight</li>
+      <li>Loss of Interest / Pleasure (Anhedonia)</li>
+      <li>Fatigue / Loss of Energy</li>
+      <li>Difficulty Concentrating / Indecisiveness</li>
+      <li>Suicidal Thoughts / Self-Harm Ideation or Attempts</li>
+      <li>Hallucinations (Auditory, Visual, Olfactory, Tactile, Gustatory)</li>
+      <li>Delusions / Paranoid Thoughts</li>
+      <li>Disorganized Speech / Behavior</li>
+      <li>Irritability / Agitation / Aggression</li>
+      <li>Memory Problems</li>
+      <li>Obsessions / Compulsions</li>
+      <li>Trauma-related Symptoms (Flashbacks, Nightmares)</li>
+      <li>Substance Use Concerns</li>
+      <li>Somatic Complaints without clear medical cause</li>
+    </ol>
+    <p><br>
+    </p>
+    <h3>INFORM BROAD PLAN</h3>
+    <h4>
+      <li>I am going to </li>
+      <ul>
+        <li>ask questions</li>
+        <li>examine</li>
+        <li>then give you...</li>
+      </ul>
+    </h4>
+    <h3>HISTORY OF PRESENT ILLNESS: (Elaboration of each complaint using SODA
       CRAPPERS framework)</h3>
-<details>
-    <summary class="h4">0<sup>TH</sup>COMPLAINT:Suicide Attempt/Poisoning)</summary>
-    <iframe src="Suicide_attempt_SODARAPPERS_case_sheet_part.html" frameborder="0"></iframe>
-  </details>
-      <details>
-        <summary class="h4">1<sup>ST</sup> COMPLAINT: <u>LOW MOOD / SADNESS</u></summary>
-        <iframe src="LOW_MOOD_SADNESS_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
-</details>
-<details>
-        <summary class="h4">2<sup>ND</sup> COMPLAINT: <b>ANXIETY / PANIC ATTACKS</b></summary>
-        <iframe src="ANXIETY_PANIC_ATTACKS_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
-</details>
-<details>
-        <summary class="h4">3<sup>RD</sup> COMPLAINT: <em>HALLUCINATIONS / DELUSIONS</em></summary>
-        <iframe src="HALLUCINATIONS_DELUSIONS_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
-</p>
-</details>
-<h3>PAST PSYCHIATRIC HISTORY:</h3>
-<ul>
-<li>Previous psychiatric diagnoses: (When, by whom, details)</li>
-<li>Previous psychiatric hospitalizations: (Dates, reasons,
+    <details>
+      <summary class="h4">0<sup>TH</sup>COMPLAINT:Suicide Attempt/Poisoning)</summary>
+      <iframe src="Suicide_attempt_SODARAPPERS_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h4">1<sup>ST</sup> COMPLAINT: <u>LOW MOOD / SADNESS</u></summary>
+      <iframe src="LOW_MOOD_SADNESS_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h4">2<sup>ND</sup> COMPLAINT: <b>ANXIETY / PANIC ATTACKS</b></summary>
+      <iframe src="ANXIETY_PANIC_ATTACKS_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <details>
+      <summary class="h4">3<sup>RD</sup> COMPLAINT: <em>HALLUCINATIONS /
+          DELUSIONS</em></summary>
+      <iframe src="HALLUCINATIONS_DELUSIONS_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
+      <p></p>
+    </details>
+    <details>
+      <summary class="h4">4<sup>TH</sup> COMPLAINT: <em>SLEEP / INSOMNIA</em></summary>
+      <iframe src="SLEEP_INSOMNIA_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
+      <p></p>
+    </details>
+    <details>
+      <summary class="h4">5<sup>TH</sup> COMPLAINT: <em>ERECTILE DYSFUNCTION</em></summary>
+      <iframe src="ERECTILE_DYSFUNCTION_Psychiatric_case_sheet_part.html" frameborder="0"></iframe>
+      <p></p>
+    </details>
+    <details>
+      <summary class="h3"><a href="Diagnostic_history.html">DIAGNOSTIC H/O:</a></summary>
+      <iframe src="Diagnostic_history_case_sheet_part.html" frameborder="0"></iframe>
+    </details>
+    <h3>PAST PSYCHIATRIC HISTORY:</h3>
+    <ul>
+      <li>Previous psychiatric diagnoses: (When, by whom, details)</li>
+      <li>Previous psychiatric hospitalizations: (Dates, reasons,
         voluntary/involuntary, length of stay, treatments received)</li>
-<li>Previous outpatient treatment: (Therapy - type, duration,
+      <li>Previous outpatient treatment: (Therapy - type, duration,
         effectiveness; Medications - names, doses, duration, response, side
         effects)</li>
-<li>History of suicidal ideation/attempts: (Details of attempts - method,
+      <li>History of suicidal ideation/attempts: (Details of attempts - method,
         lethality, intent, consequences; precipitating factors)</li>
-<li>History of self-harm: (Methods, frequency, triggers)</li>
-<li>History of substance abuse/dependence: (See Substance Use History)</li>
-<li>Response to past treatments:</li>
-</ul>
-<h3>PAST MEDICAL HISTORY:</h3>
-<ul>
-<li>Thyroid </li>
-<li>Diabetes, </li>
-<li>Neurological </li>
-<ul>
-<li>Degenerative</li>
-</ul>
-<li>Autoimmune disorders, </li>
-<li>HIV/AIDS, </li>
-<ul>
-<li>Drugs</li>
-</ul>
-<li>Hepatitis C)</li>
-<ul>
-<li>Drugs</li>
-</ul>
-<li>Significant acute illnesses or hospitalizations:</li>
-<li>Head injuries / Loss of consciousness: (Details, sequelae)</li>
-<li>Seizure disorder:</li>
-</ul>
-<h3>TREATMENT HISTORY</h3>
-<ul>
-<li>Allergies: (Medications, food, environmental)</li>
-<li>Current medications (non-psychiatric): (Name, dose, frequency,
+      <li>History of self-harm: (Methods, frequency, triggers)</li>
+      <li>History of substance abuse/dependence: (See Substance Use History)</li>
+      <li>Response to past treatments:</li>
+    </ul>
+    <h3>PAST MEDICAL HISTORY:</h3>
+    <ul>
+      <li>Thyroid </li>
+      <li>Diabetes, </li>
+      <li>Neurological </li>
+      <ul>
+        <li>Degenerative</li>
+      </ul>
+      <li>Autoimmune disorders, </li>
+      <li>HIV/AIDS, </li>
+      <ul>
+        <li>Drugs</li>
+      </ul>
+      <li>Hepatitis C)</li>
+      <ul>
+        <li>Drugs</li>
+      </ul>
+      <li>Significant acute illnesses or hospitalizations:</li>
+      <li>Head injuries / Loss of consciousness: (Details, sequelae)</li>
+      <li>Seizure disorder:</li>
+    </ul>
+    <h3>TREATMENT HISTORY</h3>
+    <ul>
+      <li>Allergies: (Medications, food, environmental)</li>
+      <li>Current medications (non-psychiatric): (Name, dose, frequency,
         indication)</li>
-</ul>
-</details>
-<details>
-        <summary class="h3">DRUG HISTORY:</summary>
-<ul>
+    </ul>
+    <details>
+      <summary class="h3">DRUG HISTORY:</summary>
+      <ul>
         <li><strong>Anticholinergic Medications (e.g., Diphenhydramine,
-                Benztropine, Oxybutynin, TCAs):</strong>
-        <ul>
-        <li>Memory impairment</li>
-        <li>Confusion / Delirium</li>
-        <li>Agitation</li>
-        <li>Exacerbation of dementia</li>
-        <li>Hallucinations (visual more common)</li>
-        </ul>
+            Benztropine, Oxybutynin, TCAs):</strong>
+          <ul>
+            <li>Memory impairment</li>
+            <li>Confusion / Delirium</li>
+            <li>Agitation</li>
+            <li>Exacerbation of dementia</li>
+            <li>Hallucinations (visual more common)</li>
+          </ul>
         </li>
         <li><strong>Dopamine Agonists (e.g., Levodopa, Pramipexole, Ropinirole -
-                for Parkinson's, RLS):</strong>
-        <ul>
-        <li>Hallucinations (often visual)</li>
-        <li>Confusion, Agitation</li>
-        <li>Impulse control disorders (e.g., gambling, hypersexuality)</li>
-        <li>Psychosis</li>
-        <li>Delusions</li>
-        <li>Mania / Hypomania</li>
-        </ul>
+            for Parkinson's, RLS):</strong>
+          <ul>
+            <li>Hallucinations (often visual)</li>
+            <li>Confusion, Agitation</li>
+            <li>Impulse control disorders (e.g., gambling, hypersexuality)</li>
+            <li>Psychosis</li>
+            <li>Delusions</li>
+            <li>Mania / Hypomania</li>
+          </ul>
         </li>
-<li><strong>Corticosteroids (e.g., Prednisone, Dexamethasone):</strong>
-<ul>
-<li>Insomnia</li>
-<li>Anxiety, Irritability, Agitation</li>
-<li>Mania / Hypomania ("steroid-induced mania")</li>
-<li>Depression</li>
-<li>Cognitive changes (e.g., memory impairment, confusion, "steroid
-            dementia")</li>
-<li>Psychosis ("steroid-induced psychosis")</li>
-</ul>
-</li>
-<li><strong>Beta-Blockers (e.g., Propranolol, Metoprolol):</strong>
-<ul>
-<li>Fatigue, Lethargy</li>
-<li>Sleep disturbances, Nightmares</li>
-<li>Depression</li>
-<li>Confusion</li>
-<li>Hallucinations</li>
-</ul>
-</li>
-<li><strong>Opioids (e.g., Morphine, Oxycodone, Codeine):</strong>
-<ul>
-<li>Sedation, Confusion</li>
-<li>Dysphoria or Euphoria (variable)</li>
-<li>Delirium</li>
-<li>Depression (with chronic use/dependence/withdrawal)</li>
-<li>Anxiety (prominent during withdrawal)</li>
-<li>Hallucinations</li>
-</ul>
-</li>
-<li><strong>Benzodiazepines &amp; Z-Drugs (e.g., Diazepam, Lorazepam,
-          Zolpidem):</strong>
-<ul>
-<li>Anterograde amnesia</li>
-<li>Depression (can unmask or worsen)</li>
-<li>Withdrawal symptoms: Anxiety, Insomnia</li>
-<li>Paradoxical excitement/agitation</li>
-<li>Delirium</li>
-<li>Withdrawal symptoms: Seizures, Psychosis</li>
-</ul>
-</li>
-<li><strong>Stimulants (e.g., Methylphenidate, Amphetamine - for ADHD,
-          Narcolepsy):</strong>
-<ul>
-<li>Insomnia</li>
-<li>Anxiety, Agitation, Irritability</li>
-<li>Obsessive-compulsive symptoms (can be exacerbated)</li>
-<li>Tics (can be exacerbated or induced)</li>
-<li>Psychosis / Mania</li>
-</ul>
-</li>
-<li><strong>Interferons (e.g., Interferon-alpha - for Hepatitis C, some
-          cancers):</strong>
-<ul>
-<li>Fatigue</li>
-<li>Depression</li>
-<li>Anxiety, Irritability</li>
-<li>Insomnia</li>
-<li>Cognitive impairment ("brain fog")</li>
-<li>Suicidal ideation</li>
-<li>Psychosis</li>
-<li>Mania / Hypomania</li>
-<li>Delirium</li>
-</ul>
-</li>
-<li><strong>Certain Antibiotics:</strong>
-<ul>
-<li>Fluoroquinolones (e.g., Ciprofloxacin, Levofloxacin):
-            <ul>
-<li>Insomnia, Nightmares</li>
-<li>Agitation, Anxiety, Confusion</li>
-<li>Delirium, Psychosis</li>
-</ul>
-</li>
-<li>Clarithromycin:
-            <ul>
-<li>Confusion</li>
-<li>Mania, Psychosis</li>
-</ul>
-</li>
-<li>Isoniazid (for TB):
-            <ul>
-<li>Peripheral neuropathy</li>
-<li>Memory impairment</li>
-<li>Psychosis</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Antihypertensives (other than Beta-Blockers):</strong>
-<ul>
-<li>Methyldopa:
-            <ul>
-<li>Sedation</li>
-<li>Depression</li>
-<li>Nightmares</li>
-</ul>
-</li>
-<li>Clonidine:
-            <ul>
-<li>Sedation</li>
-<li>Depression</li>
-<li>Rebound hypertension with anxiety/agitation upon abrupt
-                withdrawal</li>
-</ul>
-</li>
-<li>Reserpine (rarely used now):
-            <ul>
-<li>Depression</li>
-<li>Sedation, Lethargy</li>
-<li>Nightmares</li>
-<li>Anxiety</li>
-<li>Suicidal ideation</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>H2 Blockers (e.g., Cimetidine, Ranitidine - less with newer
-          ones like Famotidine):</strong>
-<ul>
-<li>Headache, Dizziness</li>
-<li>Confusion, Delirium</li>
-<li>Depression</li>
-<li>Hallucinations, Agitation</li>
-</ul>
-</li>
-<li><strong>NSAIDs (e.g., Indomethacin):</strong>
-<ul>
-<li>Headache, Dizziness</li>
-<li>Mood changes</li>
-<li>Confusion, Psychosis</li>
-</ul>
-</li>
-<li><strong>Anticonvulsants (some can have psychiatric effects, beyond
-          their use as mood stabilizers):</strong>
-<ul>
-<li>Levetiracetam (Keppra):
-            <ul>
-<li>Irritability, Agitation, Nervousness</li>
-<li>Anxiety, Mood swings, Emotional lability</li>
-<li>Depression</li>
-<li>Aggression, Hostility ("Keppra rage")</li>
-<li>Psychotic symptoms</li>
-</ul>
-</li>
-<li>Topiramate (Topamax):
-            <ul>
-<li>Cognitive slowing ("Dopamax"), Word-finding difficulties,
-                Somnolence, Fatigue</li>
-<li>Paraesthesia (tingling)</li>
-<li>Dizziness, Nausea, Diarrhea, Weight loss</li>
-<li>Depression, Anxiety</li>
-<li>Suicidal thoughts or actions</li>
-<li>Psychotic symptoms</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Statins (e.g., Atorvastatin, Simvastatin):</strong>
-<ul>
-<li>Insomnia, Sleep disturbances</li>
-<li>Nightmares</li>
-<li>Memory loss, Confusion</li>
-<li>Irritability</li>
-<li>Depression</li>
-<li>Agitation</li>
-</ul>
-</li>
-<li><strong>Herbal Remedies/Supplements:</strong>
-<ul>
-<li>St. John's Wort:
-            <ul>
-<li>Restlessness, Dizziness, Headache</li>
-<li>Anxiety, Insomnia</li>
-<li>Risk of Serotonin Syndrome if combined with other serotonergic
-                drugs</li>
-<li>Can induce Mania/Hypomania</li>
-</ul>
-</li>
-<li>Ginseng:
-            <ul>
-<li>Insomnia</li>
-<li>Headaches, Nervousness</li>
-<li>Diarrhea</li>
-<li>Overstimulation, Agitation</li>
-<li>Can potentially induce Mania</li>
-<li>Confusion, Depression</li>
-</ul>
-</li>
-<li>Kava Kava:
-            <ul>
-<li>Sedation</li>
-<li>Dizziness</li>
-<li>Reports of psychosis</li>
-<li>Risk of liver damage is a primary concern</li>
-</ul>
-</li>
-<li>Ephedra (Ma Huang - banned in many places):
-            <ul>
-<li>Insomnia</li>
-<li>Anxiety, Agitation, Nervousness</li>
-<li>Irritability</li>
-<li>Psychosis, Mania</li>
-<li>Hallucinations, Delusions</li>
-<li>Severe Depression</li>
-<li>Suicidal ideation</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Substances of Abuse (Withdrawal or Intoxication):</strong>
-<ul>
-<li>Alcohol:
-            <ul>
-<li>Intoxication: Disinhibition, Mood lability, Sedation;
-                Agitation</li>
-<li>Withdrawal: Anxiety, Insomnia, Tremors; Hallucinations
-                (auditory, visual, tactile), Seizures; Delirium Tremens (DTs)</li>
-</ul>
-</li>
-<li>Cannabis:
-            <ul>
-<li>Intoxication: Altered perception, Euphoria; Anxiety/Paranoia;
-                Psychosis</li>
-<li>Withdrawal (in heavy/chronic users): Irritability, Anxiety,
-                Insomnia; Depressed mood</li>
-</ul>
-</li>
-<li>Cocaine/Amphetamines:
-            <ul>
-<li>Intoxication: Euphoria, Agitation, Grandiosity, Insomnia;
-                Anxiety, Paranoia; Psychosis (paranoid delusions,
-                hallucinations), Mania</li>
-<li>Withdrawal ("Crash"): Fatigue, Hypersomnia, Increased
-                appetite, Depression, Anhedonia</li>
-</ul>
-</li>
-<li>Hallucinogens (LSD, Psilocybin, etc.):
-            <ul>
-<li>Intoxication: Altered perception, Hallucinations, Synesthesia;
-                Anxiety ("bad trip"); Psychosis</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</details>
-<details>
-      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
-      <iframe src="Family_history.html" frameborder="0"></iframe>
+        <li><strong>Corticosteroids (e.g., Prednisone, Dexamethasone):</strong>
+          <ul>
+            <li>Insomnia</li>
+            <li>Anxiety, Irritability, Agitation</li>
+            <li>Mania / Hypomania ("steroid-induced mania")</li>
+            <li>Depression</li>
+            <li>Cognitive changes (e.g., memory impairment, confusion, "steroid
+              dementia")</li>
+            <li>Psychosis ("steroid-induced psychosis")</li>
+          </ul>
+        </li>
+        <li><strong>Beta-Blockers (e.g., Propranolol, Metoprolol):</strong>
+          <ul>
+            <li>Fatigue, Lethargy</li>
+            <li>Sleep disturbances, Nightmares</li>
+            <li>Depression</li>
+            <li>Confusion</li>
+            <li>Hallucinations</li>
+          </ul>
+        </li>
+        <li><strong>Opioids (e.g., Morphine, Oxycodone, Codeine):</strong>
+          <ul>
+            <li>Sedation, Confusion</li>
+            <li>Dysphoria or Euphoria (variable)</li>
+            <li>Delirium</li>
+            <li>Depression (with chronic use/dependence/withdrawal)</li>
+            <li>Anxiety (prominent during withdrawal)</li>
+            <li>Hallucinations</li>
+          </ul>
+        </li>
+        <li><strong>Benzodiazepines &amp; Z-Drugs (e.g., Diazepam, Lorazepam,
+            Zolpidem):</strong>
+          <ul>
+            <li>Anterograde amnesia</li>
+            <li>Depression (can unmask or worsen)</li>
+            <li>Withdrawal symptoms: Anxiety, Insomnia</li>
+            <li>Paradoxical excitement/agitation</li>
+            <li>Delirium</li>
+            <li>Withdrawal symptoms: Seizures, Psychosis</li>
+          </ul>
+        </li>
+        <li><strong>Stimulants (e.g., Methylphenidate, Amphetamine - for ADHD,
+            Narcolepsy):</strong>
+          <ul>
+            <li>Insomnia</li>
+            <li>Anxiety, Agitation, Irritability</li>
+            <li>Obsessive-compulsive symptoms (can be exacerbated)</li>
+            <li>Tics (can be exacerbated or induced)</li>
+            <li>Psychosis / Mania</li>
+          </ul>
+        </li>
+        <li><strong>Interferons (e.g., Interferon-alpha - for Hepatitis C, some
+            cancers):</strong>
+          <ul>
+            <li>Fatigue</li>
+            <li>Depression</li>
+            <li>Anxiety, Irritability</li>
+            <li>Insomnia</li>
+            <li>Cognitive impairment ("brain fog")</li>
+            <li>Suicidal ideation</li>
+            <li>Psychosis</li>
+            <li>Mania / Hypomania</li>
+            <li>Delirium</li>
+          </ul>
+        </li>
+        <li><strong>Certain Antibiotics:</strong>
+          <ul>
+            <li>Fluoroquinolones (e.g., Ciprofloxacin, Levofloxacin):
+              <ul>
+                <li>Insomnia, Nightmares</li>
+                <li>Agitation, Anxiety, Confusion</li>
+                <li>Delirium, Psychosis</li>
+              </ul>
+            </li>
+            <li>Clarithromycin:
+              <ul>
+                <li>Confusion</li>
+                <li>Mania, Psychosis</li>
+              </ul>
+            </li>
+            <li>Isoniazid (for TB):
+              <ul>
+                <li>Peripheral neuropathy</li>
+                <li>Memory impairment</li>
+                <li>Psychosis</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><strong>Antihypertensives (other than Beta-Blockers):</strong>
+          <ul>
+            <li>Methyldopa:
+              <ul>
+                <li>Sedation</li>
+                <li>Depression</li>
+                <li>Nightmares</li>
+              </ul>
+            </li>
+            <li>Clonidine:
+              <ul>
+                <li>Sedation</li>
+                <li>Depression</li>
+                <li>Rebound hypertension with anxiety/agitation upon abrupt
+                  withdrawal</li>
+              </ul>
+            </li>
+            <li>Reserpine (rarely used now):
+              <ul>
+                <li>Depression</li>
+                <li>Sedation, Lethargy</li>
+                <li>Nightmares</li>
+                <li>Anxiety</li>
+                <li>Suicidal ideation</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><strong>H2 Blockers (e.g., Cimetidine, Ranitidine - less with newer
+            ones like Famotidine):</strong>
+          <ul>
+            <li>Headache, Dizziness</li>
+            <li>Confusion, Delirium</li>
+            <li>Depression</li>
+            <li>Hallucinations, Agitation</li>
+          </ul>
+        </li>
+        <li><strong>NSAIDs (e.g., Indomethacin):</strong>
+          <ul>
+            <li>Headache, Dizziness</li>
+            <li>Mood changes</li>
+            <li>Confusion, Psychosis</li>
+          </ul>
+        </li>
+        <li><strong>Anticonvulsants (some can have psychiatric effects, beyond
+            their use as mood stabilizers):</strong>
+          <ul>
+            <li>Levetiracetam (Keppra):
+              <ul>
+                <li>Irritability, Agitation, Nervousness</li>
+                <li>Anxiety, Mood swings, Emotional lability</li>
+                <li>Depression</li>
+                <li>Aggression, Hostility ("Keppra rage")</li>
+                <li>Psychotic symptoms</li>
+              </ul>
+            </li>
+            <li>Topiramate (Topamax):
+              <ul>
+                <li>Cognitive slowing ("Dopamax"), Word-finding difficulties,
+                  Somnolence, Fatigue</li>
+                <li>Paraesthesia (tingling)</li>
+                <li>Dizziness, Nausea, Diarrhea, Weight loss</li>
+                <li>Depression, Anxiety</li>
+                <li>Suicidal thoughts or actions</li>
+                <li>Psychotic symptoms</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><strong>Statins (e.g., Atorvastatin, Simvastatin):</strong>
+          <ul>
+            <li>Insomnia, Sleep disturbances</li>
+            <li>Nightmares</li>
+            <li>Memory loss, Confusion</li>
+            <li>Irritability</li>
+            <li>Depression</li>
+            <li>Agitation</li>
+          </ul>
+        </li>
+        <li><strong>Herbal Remedies/Supplements:</strong>
+          <ul>
+            <li>St. John's Wort:
+              <ul>
+                <li>Restlessness, Dizziness, Headache</li>
+                <li>Anxiety, Insomnia</li>
+                <li>Risk of Serotonin Syndrome if combined with other
+                  serotonergic drugs</li>
+                <li>Can induce Mania/Hypomania</li>
+              </ul>
+            </li>
+            <li>Ginseng:
+              <ul>
+                <li>Insomnia</li>
+                <li>Headaches, Nervousness</li>
+                <li>Diarrhea</li>
+                <li>Overstimulation, Agitation</li>
+                <li>Can potentially induce Mania</li>
+                <li>Confusion, Depression</li>
+              </ul>
+            </li>
+            <li>Kava Kava:
+              <ul>
+                <li>Sedation</li>
+                <li>Dizziness</li>
+                <li>Reports of psychosis</li>
+                <li>Risk of liver damage is a primary concern</li>
+              </ul>
+            </li>
+            <li>Ephedra (Ma Huang - banned in many places):
+              <ul>
+                <li>Insomnia</li>
+                <li>Anxiety, Agitation, Nervousness</li>
+                <li>Irritability</li>
+                <li>Psychosis, Mania</li>
+                <li>Hallucinations, Delusions</li>
+                <li>Severe Depression</li>
+                <li>Suicidal ideation</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><strong>Substances of Abuse (Withdrawal or Intoxication):</strong>
+          <ul>
+            <li>Alcohol:
+              <ul>
+                <li>Intoxication: Disinhibition, Mood lability, Sedation;
+                  Agitation</li>
+                <li>Withdrawal: Anxiety, Insomnia, Tremors; Hallucinations
+                  (auditory, visual, tactile), Seizures; Delirium Tremens (DTs)</li>
+              </ul>
+            </li>
+            <li>Cannabis:
+              <ul>
+                <li>Intoxication: Altered perception, Euphoria;
+                  Anxiety/Paranoia; Psychosis</li>
+                <li>Withdrawal (in heavy/chronic users): Irritability, Anxiety,
+                  Insomnia; Depressed mood</li>
+              </ul>
+            </li>
+            <li>Cocaine/Amphetamines:
+              <ul>
+                <li>Intoxication: Euphoria, Agitation, Grandiosity, Insomnia;
+                  Anxiety, Paranoia; Psychosis (paranoid delusions,
+                  hallucinations), Mania</li>
+                <li>Withdrawal ("Crash"): Fatigue, Hypersomnia, Increased
+                  appetite, Depression, Anhedonia</li>
+              </ul>
+            </li>
+            <li>Hallucinogens (LSD, Psilocybin, etc.):
+              <ul>
+                <li>Intoxication: Altered perception, Hallucinations,
+                  Synesthesia; Anxiety ("bad trip"); Psychosis</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </details>
-<h4>Perinatal History (Developmental History):</h4>
-<ul>
-<li>Birth: (Term/preterm, mode of delivery, complications)</li>
-<li>Early development: (Milestones - motor, language, social)</li>
-<li>Childhood temperament and behavior:</li>
-<li>History of childhood abuse (physical, sexual, emotional) or neglect:</li>
-<li>Schooling: (Highest level achieved, academic performance, peer
-      relationships, behavioral issues)</li>
-</ul>
-<h3>PERSONAL AND SOCIAL HISTORY:</h3>
-<h4>Occupational History:</h4>
-<ul>
-<li>Current employment status and type of work:</li>
-<ul>
-<li>Bar</li>
-<li>Brewery</li>
-<li>Pub</li>
-<li>.</li>
-<li>Boring jobs</li>
-</ul>
-<li>Job history, duration of jobs, reasons for leaving:</li>
-<li>Job satisfaction, work relationships:</li>
-<li>Military service:</li>
-</ul>
-<h4>Relationship and Marital History:</h4>
-<ul>
-<li>Current relationship status: (</li>
-<ul>
-<li>Married, </li>
-<li>single, </li>
-<ul>
-<li>Depression</li>
-<li>Sucide</li>
-</ul>
-<li>divorced, </li>
-<ul>
-<li>Depression</li>
-<li>Sucide</li>
-</ul>
-<li>widowed, </li>
-<ul>
-<li>Depression</li>
-<li>Sucide</li>
-</ul>
-<li>partnered)</li>
-</ul>
-<li>Nature and quality of current and past significant relationships:</li>
-<li>Children: (Ages, relationship with them)</li>
-<details>
+    <details>
+      <summary class="h3"><a href="Family_history.html">FAMILY H/O:</a></summary>
+      <iframe src="Family_history.html" frameborder="0"></iframe> </details>
+    <h4>Perinatal History (Developmental History):</h4>
+    <ul>
+      <li>Birth: (Term/preterm, mode of delivery, complications)</li>
+      <li>Early development: (Milestones - motor, language, social)</li>
+      <li>Childhood temperament and behavior:</li>
+      <li>History of childhood abuse (physical, sexual, emotional) or neglect:</li>
+      <li>Schooling: (Highest level achieved, academic performance, peer
+        relationships, behavioral issues)</li>
+    </ul>
+    <h3>PERSONAL AND SOCIAL HISTORY:</h3>
+    <h4>Occupational History:</h4>
+    <ul>
+      <li>Current employment status and type of work:</li>
+      <ul>
+        <li>Bar</li>
+        <li>Brewery</li>
+        <li>Pub</li>
+        <li>.</li>
+        <li>Boring jobs</li>
+      </ul>
+      <li>Job history, duration of jobs, reasons for leaving:</li>
+      <li>Job satisfaction, work relationships:</li>
+      <li>Military service:</li>
+    </ul>
+    <h4>Relationship and Marital History:</h4>
+    <ul>
+      <li>Current relationship status: (</li>
+      <ul>
+        <li>Married, </li>
+        <li>single, </li>
+        <ul>
+          <li>Depression</li>
+          <li>Sucide</li>
+        </ul>
+        <li>divorced, </li>
+        <ul>
+          <li>Depression</li>
+          <li>Sucide</li>
+        </ul>
+        <li>widowed, </li>
+        <ul>
+          <li>Depression</li>
+          <li>Sucide</li>
+        </ul>
+        <li>partnered)</li>
+      </ul>
+      <li>Nature and quality of current and past significant relationships:</li>
+      <li>Children: (Ages, relationship with them)</li>
+      <details>
         <summary class="h3">SEXUAL HISTORY</summary>
         <iframe src="Sexual_History_section_CASE_SHEET.html" frameborder="0"></iframe>
       </details>
-</ul>
-<h4>Social Support System:</h4>
-<ul>
-<li>Friends, family, community involvement:</li>
-<li>Quality of support:</li>
-</ul>
-<h4>Living Situation:</h4>
-<ul>
-<li>Current residence (house, apartment, shelter, homeless):</li>
-<li>Who lives with the patient?</li>
-<li>Stability and safety of living environment:</li>
-<li>Financial situation/stressors:</li>
-</ul>
-<h4>Habits:</h4>
-<div>
-<ul>
-<li><strong>Substance Use History:</strong> (For each substance - type,
+    </ul>
+    <h4>Social Support System:</h4>
+    <ul>
+      <li>Friends, family, community involvement:</li>
+      <li>Quality of support:</li>
+    </ul>
+    <h4>Living Situation:</h4>
+    <ul>
+      <li>Current residence (house, apartment, shelter, homeless):</li>
+      <li>Who lives with the patient?</li>
+      <li>Stability and safety of living environment:</li>
+      <li>Financial situation/stressors:</li>
+    </ul>
+    <h4>Habits:</h4>
+    <div>
+      <ul>
+        <li><strong>Substance Use History:</strong> (For each substance - type,
           age of first use, pattern of use (frequency, amount), last use, route
           of administration, history of tolerance/withdrawal, attempts to quit,
           consequences of use, treatment history)
           <ol>
-<li>Alcohol:</li>
-<li>Tobacco/Nicotine:</li>
-<li>Cannabis:</li>
-<li>Opioids (prescription/illicit):</li>
-<li>Stimulants (cocaine, amphetamines):</li>
-<li>Hallucinogens:</li>
-<li>Sedatives/Hypnotics/Anxiolytics:</li>
-<li>Other substances (inhalants, club drugs):</li>
-<li>Caffeine intake:</li>
-</ol>
-</li>
-<li>Diet: (Regularity, type, recent changes)</li>
-<li>Exercise: (Type, frequency, duration)</li>
-<li>Sleep: (Pattern, quality, difficulties - see HPI if a chief
+            <li>Alcohol:</li>
+            <li>Tobacco/Nicotine:</li>
+            <li>Cannabis:</li>
+            <li>Opioids (prescription/illicit):</li>
+            <li>Stimulants (cocaine, amphetamines):</li>
+            <li>Hallucinogens:</li>
+            <li>Sedatives/Hypnotics/Anxiolytics:</li>
+            <li>Other substances (inhalants, club drugs):</li>
+            <li>Caffeine intake:</li>
+          </ol>
+        </li>
+        <li>Diet: (Regularity, type, recent changes)</li>
+        <li>Exercise: (Type, frequency, duration)</li>
+        <li>Sleep: (Pattern, quality, difficulties - see HPI if a chief
           complaint)</li>
-<li>Hobbies and interests:</li>
-</ul>
-</div>
-<h4>Legal History:</h4>
-<ul>
-<li>Arrests, convictions, incarcerations:</li>
-<li>Current legal issues:</li>
-</ul>
-<h4>Cultural/Religious Background:</h4>
-<ul>
-<li>Beliefs and practices that may influence understanding or treatment of
+        <li>Hobbies and interests:</li>
+      </ul>
+    </div>
+    <h4>Legal History:</h4>
+    <ul>
+      <li>Arrests, convictions, incarcerations:</li>
+      <li>Current legal issues:</li>
+    </ul>
+    <h4>Cultural/Religious Background:</h4>
+    <ul>
+      <li>Beliefs and practices that may influence understanding or treatment of
         illness:</li>
-</ul>
-<h3>PREMORBID PERSONALITY:</h3>
-<ul>
-<li>Social relationships, mood, character traits, interests, habits,
+    </ul>
+    <h3>PREMORBID PERSONALITY:</h3>
+    <ul>
+      <li>Social relationships, mood, character traits, interests, habits,
         coping mechanisms before onset of current illness.</li>
-</ul>
-
-<br>
-
-<h2>SUMMARIZATION OF HISTORY</h2>
-<ol>
-  <li>summarize what is heard so far</li>
-</ol>
-
-<br>
-<p><br/>
-</p>
-<h3>GENERAL PHYSICAL EXAMINATION: (Brief, focused on relevance to
+    </ul>
+    <br>
+    <h2>SUMMARIZATION OF HISTORY</h2>
+    <ol>
+      <li>summarize what is heard so far</li>
+    </ol>
+    <br>
+    <p><br>
+    </p>
+    <h3>GENERAL PHYSICAL EXAMINATION: (Brief, focused on relevance to
       psychiatric presentation)</h3>
-<ol>
-<li>Appearance: (Well-kempt, disheveled, build, nourishment)</li>
-<li>Vital Signs: (Temp, Pulse, BP, RR, SpO2)</li>
-<li>Evidence of trauma, self-harm, substance use (e.g., track marks,
+    <ol>
+      <li>Appearance: (Well-kempt, disheveled, build, nourishment)</li>
+      <li>Vital Signs: (Temp, Pulse, BP, RR, SpO2)</li>
+      <li>Evidence of trauma, self-harm, substance use (e.g., track marks,
         needle pricks).</li>
-<li>Neurological screen (if indicated): (Gait, coordination, gross
+      <li>Neurological screen (if indicated): (Gait, coordination, gross
         motor/sensory, cranial nerves if particularly relevant).</li>
-<li>Thyroid palpation (if relevant).</li>
-<li>Other specific findings relevant to chief complaints or medical
+      <li>Thyroid palpation (if relevant).</li>
+      <li>Other specific findings relevant to chief complaints or medical
         history.</li>
-</ol>
-<p><br/>
-</p>
-<h3>MENTAL STATUS EXAMINATION (MSE)</h3>
-<div>
-<h4><b>ABC </b>of <b><u>SMITHS </u></b><em>FAM</em></h2>
-<div>
-<h3>ABC</h3>
-<ul>
-<li><strong>A - Appearance:</strong>
-<ul>
-<li>Build, </li>
-<li>posture, </li>
-<li>grooming, </li>
-<li>hygiene, </li>
-<li>attire, </li>
-<li>any distinguishing features, apparent age vs. stated age</li>
-</ul>
-</li>
-<li><strong>B - Behaviour/Psychomotor Activity:</strong>
-<ul>
-<li>eye contact, </li>
-<li>Body language</li>
-<li><br/>
-</li>
-<li>Cooperative/</li>
-<li>guarded/</li>
-<li>hostile, </li>
-<li><br/>
-</li>
-<li>calm/</li>
-<li>agitated, </li>
-<li>psychomotor retardation/</li>
-<li><br/>
-</li>
-<li>agitation, </li>
-<li>tics, </li>
-<li>tremors, </li>
-<li>mannerisms, </li>
-<li>stereotypies, </li>
-<li>echopraxia, </li>
-<li>waxy flexibility, </li>
-<li>dystonia, </li>
-<li>akathisia</li>
-</ul>
-</li>
-<li><strong>C - Cognitive Function:</strong> (Can do a brief screen
-            like MMSE or MoCA, or assess components individually) <br/>
+    </ol>
+    <p><br>
+    </p>
+    <h3>MENTAL STATUS EXAMINATION (MSE)</h3>
+    <div>
+      <h4><b>ABC </b>of <b><u>SMITHS </u></b><em>FAM</em></h4>
+      <div>
+        <h3>ABC</h3>
+        <ul>
+          <li><strong>A - Appearance:</strong>
+            <ul>
+              <li>Build, </li>
+              <li>posture, </li>
+              <li>grooming, </li>
+              <li>hygiene, </li>
+              <li>attire, </li>
+              <li>any distinguishing features, apparent age vs. stated age</li>
+            </ul>
+          </li>
+          <li><strong>B - Behaviour/Psychomotor Activity:</strong>
+            <ul>
+              <li>eye contact, </li>
+              <li>Body language</li>
+              <li><br>
+              </li>
+              <li>Cooperative/</li>
+              <li>guarded/</li>
+              <li>hostile, </li>
+              <li><br>
+              </li>
+              <li>calm/</li>
+              <li>agitated, </li>
+              <li>psychomotor retardation/</li>
+              <li><br>
+              </li>
+              <li>agitation, </li>
+              <li>tics, </li>
+              <li>tremors, </li>
+              <li>mannerisms, </li>
+              <li>stereotypies, </li>
+              <li>echopraxia, </li>
+              <li>waxy flexibility, </li>
+              <li>dystonia, </li>
+              <li>akathisia</li>
+            </ul>
+          </li>
+          <li><strong>C - Cognitive Function:</strong> (Can do a brief screen
+            like MMSE or MoCA, or assess components individually) <br>
             We cannot do complete MMSE
             <ul>
-<li>so We ask one of each</li>
-<li>time</li>
-<li>place</li>
-<li>registration</li>
-<ul>
-<li>give 3 words repeat!</li>
-<li><br/>
-</li>
-<li><br/>
-</li>
-<li><br/>
-</li>
-</ul>
-</ul>
-<p><a href="file:///C:/Users/deletable/Google%20Drive/OneNote_exported/neuroscience%20human%20behavioral%20biology/Neurology/2%20Mmse/Mmse.html">MMSE</a></p>
-<iframe frameborder="1" src="file:///C:/Users/deletable/Google%20Drive/OneNote_exported/neuroscience%20human%20behavioral%20biology/Neurology/2%20Mmse/Mmse.html"></iframe>
-<p></p>
-<ol>
-<li>Level of Consciousness: (Alert, drowsy, stuporous, comatose)</li>
-<li>Orientation: (Time, place, person, situation)</li>
-<li>Attention and Concentration: (e.g., serial 7s, spell "WORLD"
+              <li>so We ask one of each</li>
+              <li>time</li>
+              <li>place</li>
+              <li>registration</li>
+              <ul>
+                <li>give 3 words repeat!</li>
+                <li><br>
+                </li>
+                <li><br>
+                </li>
+                <li><br>
+                </li>
+              </ul>
+            </ul>
+            <p><a href="file:///C:/Users/deletable/Google%20Drive/OneNote_exported/neuroscience%20human%20behavioral%20biology/Neurology/2%20Mmse/Mmse.html">MMSE</a></p>
+            <iframe src="file:///C:/Users/deletable/Google%20Drive/OneNote_exported/neuroscience%20human%20behavioral%20biology/Neurology/2%20Mmse/Mmse.html"
+              frameborder="1"></iframe>
+            <p></p>
+            <ol>
+              <li>Level of Consciousness: (Alert, drowsy, stuporous, comatose)</li>
+              <li>Orientation: (Time, place, person, situation)</li>
+              <li>Attention and Concentration: (e.g., serial 7s, spell "WORLD"
                 backwards, digit span)</li>
-<li>Memory:
+              <li>Memory:
                 <ul>
-<li>Immediate (registration and recall of 3 words after a few
+                  <li>Immediate (registration and recall of 3 words after a few
                     seconds)</li>
-<li>Recent (recall of 3 words after 3-5 minutes, recent
+                  <li>Recent (recall of 3 words after 3-5 minutes, recent
                     events)</li>
-<li>Remote (past personal history, historical events)</li>
-</ul>
-</li>
-<li>Language: (Comprehension, naming, repetition, reading,
+                  <li>Remote (past personal history, historical events)</li>
+                </ul>
+              </li>
+              <li>Language: (Comprehension, naming, repetition, reading,
                 writing)</li>
-<li>Visuospatial Ability: (e.g., clock drawing, intersecting
+              <li>Visuospatial Ability: (e.g., clock drawing, intersecting
                 pentagons)</li>
-<li>Executive Function: (e.g., similarities, proverbs, judgment in
+              <li>Executive Function: (e.g., similarities, proverbs, judgment in
                 hypothetical situations, planning)</li>
-<li>Fund of Knowledge: (General information, current events)</li>
-<li>Abstract Thinking: (Interpretation of proverbs,
+              <li>Fund of Knowledge: (General information, current events)</li>
+              <li>Abstract Thinking: (Interpretation of proverbs,
                 similarities/differences)</li>
-</ol>
-<ul>
-<li><strong>Judgment:</strong> (Ability to make sound decisions
+            </ol>
+            <ul>
+              <li><strong>Judgment:</strong> (Ability to make sound decisions
                 and act appropriately in social and personal situations - good,
                 fair, poor)</li>
-</ul>
-</li>
-</ul>
-</div>
-<div>
-<h3>SMITHS</h3>
-<ul>
-<li><strong>S - Speech:</strong>
-<ul>
-<li>Rate - rapid/slow/pressured, volume - loud/soft, tone, rhythm,
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h3>SMITHS</h3>
+        <ul>
+          <li><strong>S - Speech:</strong>
+            <ul>
+              <li>Rate - rapid/slow/pressured, volume - loud/soft, tone, rhythm,
                 quantity - talkative/paucity, articulation, fluency, prosody</li>
-</ul>
-</li>
-<li><strong>M - Mood &amp; Affect:</strong>
-<ul>
-<li><strong>Mood:</strong> </li>
-<li>(Patient's subjective report of emotional state, e.g., "sad,"
+            </ul>
+          </li>
+          <li><strong>M - Mood &amp; Affect:</strong>
+            <ul>
+              <li><strong>Mood:</strong> </li>
+              <li>(Patient's subjective report of emotional state, e.g., "sad,"
                 "anxious," "elated," "angry." Use patient's own words if
                 possible. </li>
-<li>Scale 0 to 10 - Can also rate on a scale.)</li>
-<li><strong>Affect:</strong> (Observer's assessment of patient's
+              <li>Scale 0 to 10 - Can also rate on a scale.)</li>
+              <li><strong>Affect:</strong> (Observer's assessment of patient's
                 emotional expression)
                 <ol>
-<li>Type: (e.g., euthymic, depressed, anxious, euphoric,
+                  <li>Type: (e.g., euthymic, depressed, anxious, euphoric,
                     irritable, labile, blunted, flat)</li>
-<li>Range/Intensity: (Full, restricted, blunted, flat,
+                  <li>Range/Intensity: (Full, restricted, blunted, flat,
                     intense)</li>
-<li>Congruence: (Congruent or incongruent with mood and
+                  <li>Congruence: (Congruent or incongruent with mood and
                     thought content)</li>
-<li>Stability: (Stable, labile)</li>
-</ol>
-</li>
-</ul>
-</li>
-<li><strong>I - Insight:</strong>
-<ul>
-<li>Awareness and understanding of one's illness and need for
+                  <li>Stability: (Stable, labile)</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+          <li><strong>I - Insight:</strong>
+            <ul>
+              <li>Awareness and understanding of one's illness and need for
                 treatment - good, partial, poor, absent</li>
-<li>eg :Alcholic might not think it is a problem!</li>
-</ul>
-</li>
-<li><strong>T - Thought Process &amp; Content (Disorder):</strong>
-<ul>
-<li><strong>Thought Process (Form of Thought):</strong> (Coherent,
+              <li>eg :Alcholic might not think it is a problem!</li>
+            </ul>
+          </li>
+          <li><strong>T - Thought Process &amp; Content (Disorder):</strong>
+            <ul>
+              <li><strong>Thought Process (Form of Thought):</strong> (Coherent,
                 logical, goal-directed? Or circumstantial, tangential, loose
                 associations, flight of ideas, word salad, perseveration,
                 thought blocking, neologisms, clanging?)</li>
-<li><strong>Thought Content:</strong>
-<ol>
-<li>Predominant themes: (e.g., worries, fears, hopelessness,
+              <li><strong>Thought Content:</strong>
+                <ol>
+                  <li>Predominant themes: (e.g., worries, fears, hopelessness,
                     guilt, grandiosity)</li>
-<li>Obsessions/Ruminations:</li>
-<li>Ideas of reference, magical thinking, overvalued ideas.</li>
-</ol>
-</li>
-</ul>
-</li>
-<li><strong>H - Hallucinations &amp; Other Perceptual Disturbances:</strong>
-<ul>
-<ol>
-<li>Hallucinations: (</li>
-<ol>
-<li>Auditory - type, content, clarity, 1st/2nd/3rd person; </li>
-<li>Visual - formed/unformed; </li>
-<li>Olfactory; Gustatory; </li>
-<li>Tactile - formication)</li>
-</ol>
-<li>Illusions:</li>
-<li>Delusions: (Presence, type - persecutory, grandiose,
+                  <li>Obsessions/Ruminations:</li>
+                  <li>Ideas of reference, magical thinking, overvalued ideas.</li>
+                </ol>
+              </li>
+            </ul>
+          </li>
+          <li><strong>H - Hallucinations &amp; Other Perceptual Disturbances:</strong>
+            <ul>
+              <ol>
+                <li>Hallucinations: (</li>
+                <ol>
+                  <li>Auditory - type, content, clarity, 1st/2nd/3rd person; </li>
+                  <li>Visual - formed/unformed; </li>
+                  <li>Olfactory; Gustatory; </li>
+                  <li>Tactile - formication)</li>
+                </ol>
+                <li>Illusions:</li>
+                <li>Delusions: (Presence, type - persecutory, grandiose,
                   somatic, referential, nihilistic, erotomanic, religious,
                   bizarre/non-bizarre, conviction, impact on behavior)</li>
-<li>Derealization/Depersonalization:</li>
-</ol>
-</ul>
-</li>
-<li><strong>S - Suicide &amp; Homicide Risk:</strong>
-<ul>
-<li>Suicidal Ideation: (Presence, frequency, intensity, plan,
+                <li>Derealization/Depersonalization:</li>
+              </ol>
+            </ul>
+          </li>
+          <li><strong>S - Suicide &amp; Homicide Risk:</strong>
+            <ul>
+              <li>Suicidal Ideation: (Presence, frequency, intensity, plan,
                 intent, access to means, protective factors, past attempts)</li>
-<li>Homicidal Ideation: (Presence, plan, intent, identified
+              <li>Homicidal Ideation: (Presence, plan, intent, identified
                 victim)</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="grey">
-<h3>FAM</h3>
-<ul>
-<li><strong>F - Family/Friends/Forensics/Finances:</strong>
-<ul>
-<li>(Details about family dynamics, social support, legal issues,
-                financial situation)</li>
-</ul>
-</li>
-<li><strong>A - Addictions (Alcohol, drugs):</strong>
-<ul>
-<li>(Details about substance use, history, patterns, impact)</li>
-</ul>
-</li>
-<li><strong>M - Medical Condition/Medications:</strong>
-<ul>
-<li>(Current medical conditions, past medical history, current
-                medications, allergies)</li>
-</ul>
-</li>
-</ul>
-</div>
-<br/>
-<ul>
-<li><strong>Reliability:</strong> (Overall assessment of the reliability
-          of the information provided by the patient during the interview)</li>
-</ul>
-</div>
-<p><br/>
-</p>
-<h3>SUMMARY OF CASE:</h3>
-<p>[Brief summary of pertinent positive and negative findings from history,
-      MSE, and physical examination. Include a risk assessment if appropriate.]</p>
-<p><br/>
-</p>
-<h3>PROVISIONAL DIAGNOSIS (DSM-5 or ICD-10/11):</h3>
-<ol>
-<li>Primary Psychiatric Diagnosis:</li>
-<li>Differential Diagnoses (Psychiatric and Medical):</li>
-<li>Co-occurring Substance Use Disorders:</li>
-<li>Relevant Medical Conditions:</li>
-<li>Psychosocial and Environmental Problems (V-codes or Z-codes):</li>
-</ol>
-<p>(May use a multi-axial formulation if preferred, though less common with
-      DSM-5)</p>
-<p><br/>
-</p>
-
-
-    <!-- ICE -->
-    <div class="General">
-        <h4> ICE (IDEAS, CONCERNS, EXPECTATIONS)</h4>
-        <ul>
-          <li class="General">Ideas – "What do you think happened to your wife?"</li>
-          <li class="General">Concerns – fear of future stroke, disability, mortality</li>
-          <li class="General">Expectations – admission, scans, medications, follow‑up plan</li>
+            </ul>
+          </li>
         </ul>
       </div>
-  
-<h3>MANAGEMENT PLAN:</h3>
-<h4><u>Urgency of Management &amp; Setting:</u></h4>
-<ul>
-<li>Immediate Risk Assessment (Suicide/Homicide/Self-harm/Harm to others):
+      <div class="grey">
+        <h3>FAM</h3>
         <ul>
-<li>Level of risk (low, moderate, high)</li>
-<li>Safety plan if needed.</li>
-</ul>
-</li>
-<li>Level of Care Recommended:
+          <li><strong>F - Family/Friends/Forensics/Finances:</strong>
+            <ul>
+              <li>(Details about family dynamics, social support, legal issues,
+                financial situation)</li>
+            </ul>
+          </li>
+          <li><strong>A - Addictions (Alcohol, drugs):</strong>
+            <ul>
+              <li>(Details about substance use, history, patterns, impact)</li>
+            </ul>
+          </li>
+          <li><strong>M - Medical Condition/Medications:</strong>
+            <ul>
+              <li>(Current medical conditions, past medical history, current
+                medications, allergies)</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <br>
+      <ul>
+        <li><strong>Reliability:</strong> (Overall assessment of the reliability
+          of the information provided by the patient during the interview)</li>
+      </ul>
+    </div>
+    <p><br>
+    </p>
+    <h3>SUMMARY OF CASE:</h3>
+    <p>[Brief summary of pertinent positive and negative findings from history,
+      MSE, and physical examination. Include a risk assessment if appropriate.]</p>
+    <p><br>
+    </p>
+    <h3>PROVISIONAL DIAGNOSIS (DSM-5 or ICD-10/11):</h3>
+    <ol>
+      <li>Primary Psychiatric Diagnosis:</li>
+      <li>Differential Diagnoses (Psychiatric and Medical):</li>
+      <li>Co-occurring Substance Use Disorders:</li>
+      <li>Relevant Medical Conditions:</li>
+      <li>Psychosocial and Environmental Problems (V-codes or Z-codes):</li>
+    </ol>
+    <p>(May use a multi-axial formulation if preferred, though less common with
+      DSM-5)</p>
+    <p><br>
+    </p>
+    <!-- ICE -->
+    <div class="General">
+      <h4>&nbsp;ICE&nbsp;(IDEAS,&nbsp;CONCERNS,&nbsp;EXPECTATIONS)</h4>
+      <ul>
+        <li class="General">Ideas &ndash; "What do you think happened to your
+          wife?"</li>
+        <li class="General">Concerns &ndash; fear of future stroke, disability,
+          mortality</li>
+        <li class="General">Expectations &ndash; admission, scans, medications,
+          follow‑up plan</li>
+      </ul>
+      <p><br>
+      </p>
+      <ul>
+      </ul>
+    </div>
+    <h3>MANAGEMENT PLAN:</h3>
+    <h4><u>Urgency of Management &amp; Setting:</u></h4>
+    <ul>
+      <li>Immediate Risk Assessment (Suicide/Homicide/Self-harm/Harm to others):
         <ul>
-<li>Outpatient (routine, intensive outpatient program - IOP, partial
+          <li>Level of risk (low, moderate, high)</li>
+          <li>Safety plan if needed.</li>
+        </ul>
+      </li>
+      <li>Level of Care Recommended:
+        <ul>
+          <li>Outpatient (routine, intensive outpatient program - IOP, partial
             hospitalization program - PHP)</li>
-<li>Inpatient hospitalization (voluntary/involuntary - indication:
+          <li>Inpatient hospitalization (voluntary/involuntary - indication:
             danger to self/others, gravely disabled)</li>
-<li>Emergency Department evaluation</li>
-<li>Residential treatment</li>
-</ul>
-</li>
-<li>Urgent Referral (e.g., for acute medical issue, specialized
+          <li>Emergency Department evaluation</li>
+          <li>Residential treatment</li>
+        </ul>
+      </li>
+      <li>Urgent Referral (e.g., for acute medical issue, specialized
         psychiatric service):</li>
-</ul>
-<h4><u>Patient-Specific Plan:</u></h4>
-<ol>
-<li><strong>Further Investigations:</strong>
-<ul>
-<li><strong>Blood work:</strong> (e.g., FBC, U&amp;Es, LFTs, TFTs,
+    </ul>
+    <h4><u>Patient-Specific Plan:</u></h4>
+    <ol>
+      <li><strong>Further Investigations:</strong>
+        <ul>
+          <li><strong>Blood work:</strong> (e.g., FBC, U&amp;Es, LFTs, TFTs,
             Glucose, B12/Folate, Syphilis serology, HIV screen, toxicology
             screen - based on presentation)</li>
-<li><strong>Urine tests:</strong> (e.g., Urinalysis, urine drug
+          <li><strong>Urine tests:</strong> (e.g., Urinalysis, urine drug
             screen)</li>
-<li><strong>Imaging:</strong> (e.g., CT/MRI brain - if new onset
+          <li><strong>Imaging:</strong> (e.g., CT/MRI brain - if new onset
             psychosis, cognitive decline, neurological signs)</li>
-<li><strong>Other:</strong> (e.g., EEG if seizures suspected, ECG if
+          <li><strong>Other:</strong> (e.g., EEG if seizures suspected, ECG if
             starting certain psychotropics, psychological
             testing/neuropsychological assessment)</li>
-</ul>
-</li>
-<li><strong>Patient Communication &amp; Psychoeducation:</strong>
-<ul>
-<li><b>ICE</b> (Ideas, Concerns, Expectations):</li>
-<li>Explanation of initial assessment findings and suspected diagnosis
+        </ul>
+      </li>
+      <li><strong>Patient Communication &amp; Psychoeducation:</strong>
+        <ul>
+          <li><b>ICE</b> (Ideas, Concerns, Expectations):</li>
+          <li>Explanation of initial assessment findings and suspected diagnosis
             (in understandable terms).</li>
-<li>Discussion of the nature of the illness, course, and prognosis.</li>
-<li>Rationale for further investigations and proposed treatment.</li>
-<li>Address patient's and family's questions and concerns.</li>
-</ul>
-</li>
-<li><strong>Treatment Plan:</strong>
-<ul>
-<li><strong>Pharmacotherapy:</strong>
-<ul>
-<li>Specific medication(s) considered (class, name, starting dose,
+          <li>Discussion of the nature of the illness, course, and prognosis.</li>
+          <li>Rationale for further investigations and proposed treatment.</li>
+          <li>Address patient's and family's questions and concerns.</li>
+        </ul>
+      </li>
+      <li><strong>Treatment Plan:</strong>
+        <ul>
+          <li><strong>Pharmacotherapy:</strong>
+            <ul>
+              <li>Specific medication(s) considered (class, name, starting dose,
                 titration schedule).</li>
-<li>Rationale for choice, potential benefits, common side effects,
+              <li>Rationale for choice, potential benefits, common side effects,
                 serious adverse effects to monitor.</li>
-<li>Discussion of alternatives, informed consent.</li>
-<li>(Examples: Antidepressants - SSRIs, SNRIs, TCAs, MAOIs;
+              <li>Discussion of alternatives, informed consent.</li>
+              <li>(Examples: Antidepressants - SSRIs, SNRIs, TCAs, MAOIs;
                 Antipsychotics - typical/atypical; Mood stabilizers - Lithium,
                 Valproate, Lamotrigine, Carbamazepine; Anxiolytics -
                 Benzodiazepines, Buspirone; Hypnotics; Stimulants for ADHD)</li>
-</ul>
-</li>
-<li><strong>Psychotherapy:</strong>
-<ul>
-<li>Type recommended (e.g., CBT, DBT, IPT, Psychodynamic,
+            </ul>
+          </li>
+          <li><strong>Psychotherapy:</strong>
+            <ul>
+              <li>Type recommended (e.g., CBT, DBT, IPT, Psychodynamic,
                 Supportive, Family therapy, Group therapy).</li>
-<li>Rationale, goals, expected duration/frequency.</li>
-<li>Referral if needed.</li>
-</ul>
-</li>
-<li><strong>Social/Environmental Interventions:</strong>
-<ul>
-<li>Case management, vocational rehabilitation, housing support.</li>
-<li>Family psychoeducation and support.</li>
-<li>Linkage to community resources and support groups.</li>
-<li>Lifestyle modifications (sleep hygiene, diet, exercise, stress
+              <li>Rationale, goals, expected duration/frequency.</li>
+              <li>Referral if needed.</li>
+            </ul>
+          </li>
+          <li><strong>Social/Environmental Interventions:</strong>
+            <ul>
+              <li>Case management, vocational rehabilitation, housing support.</li>
+              <li>Family psychoeducation and support.</li>
+              <li>Linkage to community resources and support groups.</li>
+              <li>Lifestyle modifications (sleep hygiene, diet, exercise, stress
                 management).</li>
-</ul>
-</li>
-<li>Admission required: Yes/No (Indication as above).</li>
-</ul>
-</li>
-<li><strong>Follow Up:</strong>
-<ul>
-<li>Timing of next appointment (crucial for safety and monitoring if
+            </ul>
+          </li>
+          <li>Admission required: Yes/No (Indication as above).</li>
+        </ul>
+      </li>
+      <li><strong>Follow Up:</strong>
+        <ul>
+          <li>Timing of next appointment (crucial for safety and monitoring if
             starting new medication).</li>
-<li>Frequency of subsequent appointments.</li>
-<li>Monitoring plan (symptoms, side effects, adherence, functioning).</li>
-<li>Contact information for urgent concerns.</li>
-<li>Collaboration with other healthcare providers (e.g., GP,
+          <li>Frequency of subsequent appointments.</li>
+          <li>Monitoring plan (symptoms, side effects, adherence, functioning).</li>
+          <li>Contact information for urgent concerns.</li>
+          <li>Collaboration with other healthcare providers (e.g., GP,
             therapist).</li>
-</ul>
-</li>
-<li><strong>Patient Education (Reinforce):</strong>
-<ul>
-<li>Nature of the illness.</li>
-<li>Treatment plan and rationale.</li>
-<li>Medication information (purpose, dose, how to take, common side
+        </ul>
+      </li>
+      <li><strong>Patient Education (Reinforce):</strong>
+        <ul>
+          <li>Nature of the illness.</li>
+          <li>Treatment plan and rationale.</li>
+          <li>Medication information (purpose, dose, how to take, common side
             effects, when to seek help).</li>
-<li>Warning Signs/Red Flags for relapse or worsening.</li>
-<li>Importance of adherence and follow-up.</li>
-<li>Emergency contact information.</li>
-<li>Educational materials (leaflets, websites).</li>
-</ul>
-</li>
-</ol>
-         <script src="harsha_iframe_youtube_player.js"></script>
-      <script src="Iframe_height_mothership.js"></script>
-<script src="Iframe_height.js"></script>
+          <li>Warning Signs/Red Flags for relapse or worsening.</li>
+          <li>Importance of adherence and follow-up.</li>
+          <li>Emergency contact information.</li>
+          <li>Educational materials (leaflets, websites).</li>
+        </ul>
+      </li>
+    </ol>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
     <script src="double_click_collapse_details.js"></script>
-  
-
-
   </body>
 </html>

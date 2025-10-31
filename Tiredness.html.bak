@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -7,27 +6,32 @@
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body> 
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <h3>COMPLAINT: TIREDNESS / FATIGUE</h3>
     <ul>
       <li class="grey">S: Site (Location of skin lesion/rash)</li>
       <li><strong>S: Severity &amp; Sleep</strong>
         <ul>
-          <li class="General">On a <b>scale of 0-10</b>, how severe is your tiredness?</li>
-          <li class="General">Describe your <b>sleep</b>: How many hours? Is it restorative? Do
-            you have trouble falling/staying asleep? Snoring?</li>
+          <li class="General">On a <b>scale of 0-10</b>, how severe is your
+            tiredness?</li>
+          <li class="General">Describe your <b>sleep</b>: How many hours? Is it
+            restorative? Do you have trouble falling/staying asleep? Snoring?</li>
         </ul>
       </li>
       <li><strong>O: Onset</strong>
         <ul>
-          <li class="General"><b>When</b> did it start? Was it <b>sudden</b> or <b>gradual</b>?</li>
-          <li class="General">Was it linked to an illness, event, or new medication?</li>
+          <li class="General"><b>When</b> did it start? </li>
+          <li class="General"><b>sudden</b> or&nbsp;</li>
+          <li class="General"><b>gradual</b>?</li>
+          <li class="General"><b>Event trigger?</b></li>
+          <li class="General">Was it linked to an illness, event, or new
+            medication?</li>
         </ul>
       </li>
       <li><strong>D: Duration</strong>
         <ul>
-          <li class="General">How long has this been going on (weeks, months, years)?</li>
+          <li class="General">How long has this been going on (weeks, months,
+            years)?</li>
         </ul>
       </li>
       <li><strong>A/R: Aggravating / Relieving Factors</strong>
@@ -60,7 +64,8 @@
       </li>
       <li><strong>A: Associated Symptoms</strong>
         <ul>
-          <li class="General"><b>Constitutional:</b> Fever, night sweats, appetite changes.</li>
+          <li class="General"><b>Constitutional:</b> Fever, night sweats,
+            appetite changes.</li>
           <li class="psychiatric"><b>Psychiatric:</b></li>
           <ol>
             <li class="psychiatric">Low mood</li>
@@ -79,6 +84,8 @@
           <ol>
             <li class="endocrine">hair loss</li>
             <li class="endocrine">feeling cold</li>
+            <li class="endocrine">DM</li>
+            <li class="endocrine">Thyroid</li>
           </ol>
           <li class="cns"><b>neuro:</b> </li>
           <li class="cvs"><b>cardio:</b> </li>
@@ -96,6 +103,7 @@
             <li class="gastrointestinal">diarrhoea</li>
             <li class="gastrointestinal">constipation</li>
             <li class="gastrointestinal">heartburn</li>
+            <li class="gastrointestinal">IBD</li>
           </ol>
           <li class="gynob"><b>genito:</b> </li>
           <li class="musculoskeletal"><b>musculoskeletal:</b> </li>
@@ -108,25 +116,27 @@
           <li class="infectious">infections</li>
           <ol>
             <li class="infectious">fever</li>
+            <li class="infectious">HIV</li>
           </ol>
           <li class="General"><b>other:</b> </li>
         </ul>
       </li>
       <li><strong>P: Progression</strong>
         <ul>
-          <li class="General">Is it getting <b>worse</b>, <b>better</b>, or staying the <b>same</b>?</li>
+          <li class="General">Is it getting <b>worse</b>, <b>better</b>, or
+            staying the <b>same</b>?</li>
         </ul>
       </li>
       <li><strong>P: Pattern</strong>
         <ul>
-          <li class="General">Is it <b>constant</b> or does it fluctuate? Worse in the morning
-            or evening?</li>
+          <li class="General">Is it <b>constant</b> or does it fluctuate? Worse
+            in the morning or evening?</li>
         </ul>
       </li>
       <li><strong>E: Effect on Life</strong>
         <ul>
-          <li class="General">How does this impact your daily routine, work, social life, and
-            hobbies?</li>
+          <li class="General">How does this impact your daily routine, work,
+            social life, and hobbies?</li>
         </ul>
       </li>
       <li><strong>R: Red Flags</strong>
@@ -195,16 +205,19 @@
     <p><b>Systems Review / DD Checklist:</b></p>
     <ul style="list-style-type: square;">
       <li class="psychiatric"><b>Psychiatric:</b> Depression, Anxiety</li>
-      <li class="endocrine"><b>Endocrine:</b> Hypothyroidism, Diabetes, Adrenal insufficiency</li>
+      <li class="endocrine"><b>Endocrine:</b> Hypothyroidism, Diabetes, Adrenal
+        insufficiency</li>
       <li class="hematology"><b>Haematology:</b> Anemia, Malignancy</li>
       <li class="cvs respiratory"><b>Cardio-Respiratory:</b> Heart failure, COPD</li>
-      <li class="infectious"><b>Infectious:</b> Chronic infection (e.g., EBV), Post-viral fatigue</li>
+      <li class="infectious"><b>Infectious:</b> Chronic infection (e.g., EBV),
+        Post-viral fatigue</li>
       <li class="oncology"><b>Oncology:</b> Any </li>
       <li class="gynob nephro">Genito-Urinary</li>
       <li class="cns musculoskeletal">Neuromuscular </li>
-      <li class="musculoskeletal"><b>Musculoskeletal:</b> Fibromyalgia, Chronic Fatigue Syndrome
-        (ME/CFS)</li>
-      <li class="gastrointestinal"><b>Gastrointestinal:</b> Malabsorption (e.g., Celiac disease)</li>
+      <li class="musculoskeletal"><b>Musculoskeletal:</b> Fibromyalgia, Chronic
+        Fatigue Syndrome (ME/CFS)</li>
+      <li class="gastrointestinal"><b>Gastrointestinal:</b> Malabsorption (e.g.,
+        Celiac disease)</li>
     </ul>
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height.js"></script>

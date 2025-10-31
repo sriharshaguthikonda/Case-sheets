@@ -6,12 +6,12 @@
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <h4>Are you comfortable talking ?</h4>
+    <p>we will rule out MI after admission and trops and then something else!</p>
     <p></p>
-    <a href="Chest_pain_case_sheet_part.html">1<sup>ST </sup>COMPLAINT:
-      CHEST PAIN</a>
+    <a href="Chest_pain_case_sheet_part.html">1<sup>ST </sup>COMPLAINT: CHEST
+      PAIN</a>
     <p> </p>
     <ol>
       <li>SITE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -375,10 +375,7 @@
     </ol>
     <script src="Iframe_height.js"></script>
     <script src="Iframe_height_mothership.js"></script>
-      <script src="theme-toggle.js"></script>
+    <script src="theme-toggle.js"></script>
     <script src="double_click_collapse_details.js"></script>
-  
-
-
   </body>
 </html>

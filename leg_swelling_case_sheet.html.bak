@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Leg Swelling</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+
+    <div class="cvs nephro git General">
+        <h3>1ST COMPLAINT: LEG SWELLING (Peripheral Edema)</h3>
+        
+            <!-- S: Site (THE KEY DIFFERENTIATOR) -->
+            <li class="point">
+                <span class="description"><strong>S</strong>: Site & Laterality</span>
+                <span class="verbal">"Is the swelling in one leg or both?"</span>
+                <ul>
+                    <li><b>UNILATERAL (One Leg) -> Suggests a Local Cause:</b>
+                        <ul>
+                            <li class="cvs emergency">Deep Vein Thrombosis (DVT)</li>
+                            <li class="infectious emergency">Cellulitis (Infection)</li>
+                            <li class="cvs">Chronic Venous Insufficiency (can be asymmetrical)</li>
+                            <li class="ortho-specific">Ruptured Baker's Cyst</li>
+                            <li class="General">Lymphedema</li>
+                        </ul>
+                    </li>
+                    <li><b>BILATERAL (Both Legs) -> Suggests a Systemic Cause:</b>
+                        <ul>
+                            <li class="cvs">Congestive Heart Failure</li>
+                            <li class="nephro">Kidney Disease (Nephrotic Syndrome, CKD)</li>
+                            <li class="git">Liver Failure (Cirrhosis)</li>
+                            <li class="pharmacology">Medication Side Effect (e.g., Amlodipine)</li>
+                            <li class="cvs">Chronic Venous Insufficiency</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+
+            <!-- O: Onset -->
+            <li class="point">
+                <span class="description"><strong>O</strong>: Onset</span>
+                <span class="verbal">"When did you first notice the swelling? Did it come on suddenly over a day or two, or has it been building up for weeks?"</span>
+                <ul>
+                    <li>ACUTE (Hours to Days): <b class="cvs emergency">DVT</b>, <b class="infectious emergency">Cellulitis</b>, <b class="ortho-specific">Ruptured Baker's Cyst</b>, <span class="cvs">Acute Decompensated Heart Failure</span></li>
+                    <li>CHRONIC (Weeks to Months): <span class="cvs">Chronic Venous Insufficiency</span>, <span class="cvs nephro git">Chronic Heart/Kidney/Liver Disease</span>, <span class="General">Lymphedema</span></li>
+                </ul>
+            </li>
+
+            <!-- C: Character (THE KEY DIFFERENTIATOR) -->
+            <li class="point">
+                <span class="description"><strong>C</strong>: Character</span>
+                <span class="verbal">"Can you describe the swelling? Is it painful? Does it leave a dent when you press on it? Is the skin red or hot?"</span>
+                <ul>
+                    <li><b>Pitting vs. Non-Pitting:</b>
+                        <ul>
+                            <li class="cvs nephro git">Pitting (leaves a dent) -> Fluid issue (Cardiac, Renal, Hepatic, Venous)</li>
+                            <li class="General">Non-Pitting -> Lymphedema, <b class="endocrine">Myxedema (Hypothyroidism - Pre-tibial)</b></li>
+                        </ul>
+                    </li>
+                    <li><b>Painful vs. Painless:</b>
+                        <ul>
+                           <li class="cvs emergency">Painful, tender calf -> <b class="emergency">DVT</b></li>
+                           <li class="infectious emergency">Painful, hot, red skin -> <b class="emergency">Cellulitis</b></li>
+                           <li class="cvs">Often painless or just heavy/aching -> Chronic Venous Insufficiency, Heart Failure</li>
+                        </ul>
+                    </li>
+                     <li><b>Skin Changes:</b>
+                        <ul>
+                           <li class="derma cvs">Brown discoloration (hemosiderin), varicose veins, ulcers -> Chronic Venous Insufficiency</li>
+                           <li class="infectious derma">Spreading redness, warmth -> Cellulitis</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            
+            <!-- A/R: Aggravating / Relieving Factors -->
+            <li class="point">
+                <span class="description"><strong>A/R</strong>: Aggravating & Relieving Factors</span>
+                <span class="verbal">"What seems to affect the swelling? For example, what happens when you elevate your legs?"</span>
+                <ul>
+                    <li>AGGRAVATING: Prolonged standing or sitting (dependency).</li>
+                    <li>RELIEVING: Leg elevation (improves in most cases except severe lymphedema).</li>
+                </ul>
+            </li>
+
+            <!-- A: Associated Symptoms (Systemic Review) -->
+            <li class="point">
+                <span class="description"><strong>A</strong>: Associated Symptoms & Risks</span>
+                <span class="verbal">"Have you had any other symptoms like shortness of breath or pain? I also need to ask about recent travel or surgery."</span>
+                <ul>
+                    <li><b>CARDIO-RESPIRATORY SYMPTOMS (To rule in/out Heart Failure & PE):</b>
+                        <ul>
+                           <li class="cvs respiratory">Shortness of breath on exertion?</li>
+                           <li class="cvs respiratory">Shortness of breath when lying flat (Orthopnea)? Waking up breathless (PND)? -> <b class="cvs">Heart Failure</b></li>
+                           <li class="respiratory cvs emergency">Sudden sharp chest pain and breathlessness? Coughing up blood? -> <b class="emergency">Pulmonary Embolism (PE)</b></li>
+                           <li class="cvs">Palpitations or dizziness?</li>
+                        </ul>
+                    </li>
+                    <li><b>RENAL/HEPATIC SYMPTOMS (To rule in/out Kidney/Liver Disease):</b>
+                        <ul>
+                           <li class="nephro">Foamy urine? Reduced urine output? -> <b class="nephro">Kidney Disease</b></li>
+                           <li class="git">Abdominal swelling (ascites), jaundice (yellow skin/eyes), easy bruising? -> <b class="git">Liver Disease</b></li>
+                        </ul>
+                    </li>
+                    <li><b>INFECTIOUS SYMPTOMS (To rule in/out Cellulitis):</b>
+                        <ul>
+                           <li class="infectious">Fever, chills, feeling generally unwell?</li>
+                           <li class="infectious derma">Any cuts, insect bites, or breaks in the skin on that leg?</li>
+                        </ul>
+                    </li>
+                    <li><b>ENDOCRINE SYMPTOMS (To rule out other systemic causes):</b>
+                        <ul>
+                           <li class="endocrine">Fatigue, weight gain, feeling cold, dry skin? -> <b class="endocrine">Hypothyroidism</b></li>
+                        </ul>
+                    </li>
+                     <li><b>RISK FACTORS for DVT/PE:</b>
+                        <ul>
+                           <li class="cvs">Recent long-distance travel?</li>
+                           <li class="cvs ortho-specific">Recent surgery, trauma, or immobility?</li>
+                           <li class="oncology">Active cancer?</li>
+                           <li class="obstetric">Pregnancy or recent childbirth?</li>
+                           <li class="pharmacology">On the oral contraceptive pill or HRT?</li>
+                           <li class="hematology">Personal or family history of blood clots?</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+
+            <!-- P: Pattern -->
+            <li class="point">
+                <span class="description"><strong>P</strong>: Pattern</span>
+                <span class="verbal">"Is there a pattern to the swelling? For example, is it better in the morning and worse by the end of the day?"</span>
+                <ul><li>Worse in the evening is classic for venous insufficiency and systemic fluid overload.</li></ul>
+            </li>
+
+            <!-- E: Effect on life -->
+            <li class="point">
+                <span class="description"><strong>E</strong>: Effect on Life</span>
+                <span class="verbal">"How has this been affecting your mobility? Is it difficult to walk or find shoes that fit?"</span>
+            </li>
+
+            <!-- R: Red Flags -->
+            <li class="point">
+                <span class="description"><strong>R</strong>: Red Flags</span>
+                <span class="verbal">"I just need to summarize the key warning signs I'm looking for."</span>
+                <ul>
+                    <li class="cvs emergency"><b>A sudden, painful, unilateral swollen leg</b> (DVT until proven otherwise).</li>
+                    <li class="infectious emergency">A red, hot, swollen leg, especially with fever (Cellulitis).</li>
+                    <li class="respiratory cvs emergency">Leg swelling associated with <b>sudden shortness of breath or chest pain</b> (Pulmonary Embolism).</li>
+                    <li class="ortho-specific emergency">An exquisitely painful, tense, and swollen limb after trauma (Compartment Syndrome).</li>
+                </ul>
+            </li>
+
+            <!-- S: Scale -->
+            <li class="point">
+                <span class="description"><strong>S</strong>: Severity / Bother Scale</span>
+                <span class="verbal">"On a scale of 1 to 10, how much does this swelling bother you?"</span>
+            </li>
+            
+    </div>
+    
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+</body>
+</html>

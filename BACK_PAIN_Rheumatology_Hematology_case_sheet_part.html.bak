@@ -36,6 +36,8 @@
         <li>any where else ?</li>
         <ul>
           <li>bone Metastasis pain in myeloma</li>
+          <li><br>
+          </li>
         </ul>
       </ul>
       <li>O: Onset (rapid or chronic)</li>
@@ -127,14 +129,15 @@
         <ul>
           <li>lumps and bumps</li>
         </ul>
-        <li>Prostate &gt; bladder </li>
-        <ul>
-          <li>nocturia....hematuria</li>
-        </ul>
         <li>Lung</li>
         <ul>
           <li>Cough</li>
           <li>Hemoptysis</li>
+        </ul>
+        <li>Prostate &gt; bladder </li>
+        <ul>
+          <li>nocturia....</li>
+          <li>hematuria</li>
         </ul>
         <li>Myeloma</li>
         <ul>
@@ -146,11 +149,14 @@
         </ul>
         <li>Thyroid</li>
         <li>Colon</li>
-        <li>Pancreatic</li>
-        <li>Kidney</li>
-        <ul>
-          <li>hematuria</li>
-        </ul>
+        <li>Pancreatic
+          <ol>
+            <li>Jaundice</li>
+            <li>Abdominal pain</li>
+            <li>Weight loss</li>
+            <li>Jaundice</li>
+          </ol>
+        </li>
       </ul>
       <li>E: Effect on life </li>
       <li>S: scale of zero to 10</li>
