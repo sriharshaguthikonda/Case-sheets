@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>TINNITUS (Ringing/Noises in the Ear)</title>
+    <link href="Case_sheet_styles.css" rel="stylesheet" type="text/css">
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+      title="dark">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h4>Tinnitus (Hearing Noises)</h4>
+    <div class="General">
+      <h3>1ST COMPLAINT: NOISES IN THE EAR/HEAD (Tinnitus)</h3>
+      <p>defination: </p>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Site</span>
+          <ul>
+            <li class="cns ent">UNILATERAL (Right or Left ear)</li>
+            <li class="cns ent">BILATERAL (Both ears)</li>
+            <li class="cns">IN THE HEAD (Central)</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is the noise in one ear, or both? Or does it seem
+          to be more in the middle of your head?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>O</strong>: Onset</span>
+          <ul>
+            <li class="ent cns ortho-specific">Sudden vs. Gradual</li>
+            <li class="ent">Trigger: Loud noise exposure, head/neck injury, ear
+              infection, stress, new medication</li>
+          </ul>
+        </div>
+        <span class="verbal">"When did this start? Did it come on suddenly or
+          gradually? Was it linked to anything specific?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>D</strong>: Duration</span>
+        </div>
+        <span class="verbal">"How long has this been a problem for you in
+          total?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A/R</strong>: Aggravating &amp;
+            Relieving Factors</span>
+          <ul>
+            <li>AGGRAVATING
+              <ul>
+                <li class="psychiatric cns">Quiet rooms, stress, anxiety,
+                  fatigue</li>
+                <li class="General">Caffeine, salt, alcohol</li>
+                <li class="cns ortho-specific">Certain head/neck movements, jaw
+                  clenching</li>
+              </ul>
+            </li>
+            <li>RELIEVING
+              <ul>
+                <li class="General">Background noise (fan, music)</li>
+                <li class="psychiatric">Relaxation, distraction</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"What makes the noise worse or more noticeable?
+          Does anything make it better?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>C</strong>: Character</span>
+          <ul>
+            <li class="ent cns">NATURE OF SOUND
+              <ul>
+                <li>Tonal (Ringing, hissing, whistling, buzzing)</li>
+                <li>Pulsatile (Whooshing in time with heartbeat)</li>
+              </ul>
+            </li>
+            <li class="ent cns">PITCH &amp; INTENSITY
+              <ul>
+                <li>High-pitched vs. Low-pitched</li>
+                <li>Constant vs. Fluctuating intensity</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Can you describe the sound? Is it a ringing,
+          buzzing, or hissing? Is it in time with your heartbeat?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Radiation</span>
+        </div>
+        <span class="verbal">"Not applicable for this complaint."</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A</strong>: Associated Symptoms</span>
+          <ul>
+            <li class="ent cns">AUDITORY / VESTIBULAR
+              <ul>
+                <li class="ent cns">Hearing loss</li>
+                <li class="ent cns">Dizziness or Vertigo (sensation of spinning)</li>
+                <li class="ent">Aural fullness (pressure in the ear)</li>
+                <li class="ent cns">Hyperacusis (sensitivity to loud sounds)</li>
+              </ul>
+            </li>
+            <li class="ent infectious">EAR SYMPTOMS
+              <ul>
+                <li class="ent">Ear pain (Otalgia)</li>
+                <li class="ent infectious">Ear discharge (Otorrhea)</li>
+              </ul>
+            </li>
+            <li class="cns ortho-specific">NEUROLOGICAL &amp; MSK
+              <ul>
+                <li class="cns">Headache</li>
+                <li class="ortho-specific">TMJ symptoms (jaw pain, clicking)</li>
+                <li class="ortho-specific">Neck pain or stiffness</li>
+              </ul>
+            </li>
+            <li class="psychiatric">PSYCHOLOGICAL
+              <ul>
+                <li class="psychiatric">Anxiety, depression, insomnia</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Along with the noise, have you had any hearing
+          loss, dizziness, or pain?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Progression</span>
+        </div>
+        <span class="verbal">"Has the noise changed in any way since it started?
+          Is it getting worse?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Pattern</span>
+          <ul>
+            <li class="General">Constant vs. Intermittent</li>
+            <li class="General psychiatric">Worse at night / in quiet
+              environments</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is it there all the time, or does it come and go?
+          Is it worse at any particular time of day?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>E</strong>: Effect on Life</span>
+          <ul>
+            <li class="psychiatric cns">Impact on sleep, concentration, work</li>
+            <li class="psychiatric">Causes annoyance, frustration, anxiety, or
+              depression</li>
+            <li class="psychiatric">Social withdrawal</li>
+          </ul>
+        </div>
+        <span class="verbal">"How is this tinnitus affecting you? Your sleep,
+          concentration, or mood?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Red Flags</span>
+          <ul>
+            <li class="cns ent emergency">UNILATERAL TINNITUS
+              <ul>
+                <li class="cns oncology surgery">Could indicate a vestibular
+                  schwannoma (acoustic neuroma)</li>
+              </ul>
+            </li>
+            <li class="cvs cns ent emergency">PULSATILE TINNITUS
+              <ul>
+                <li class="cvs cns ent">May indicate a vascular abnormality or
+                  tumor</li>
+              </ul>
+            </li>
+            <li class="cns ent emergency">TINNITUS WITH SUDDEN HEARING LOSS</li>
+            <li class="cns emergency">TINNITUS WITH OTHER NEUROLOGICAL SYMPTOMS
+              <ul>
+                <li class="cns">e.g., facial weakness, numbness, significant
+                  balance problems, visual changes</li>
+              </ul>
+            </li>
+            <li class="ortho-specific emergency">TINNITUS AFTER SIGNIFICANT HEAD
+              TRAUMA</li>
+          </ul>
+        </div>
+        <span class="verbal">"I just need to ask some specific questions to make
+          sure we're not missing anything serious."</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Severity / Scale</span>
+        </div>
+        <span class="verbal">"On a scale of 1 to 10, how loud is the noise, and
+          on a separate scale of 1 to 10, how much does it bother you?"</span></div>
+    </div>
+    <ol>
+      <li>SITE (S):
+        <ol>
+          <li>Which ear is affected (Right/Left/Both)?</li>
+          <li>If both, is it equal or worse in one ear?</li>
+          <li>Does the sound seem to be located in the ear(s) or more generally
+            in the head?</li>
+        </ol>
+      </li>
+      <li>ONSET (O):
+        <ol>
+          <li>When did the tinnitus first start?</li>
+          <li>Was the onset sudden or gradual?</li>
+          <li>Was it related to any specific event (e.g., loud noise exposure,
+            head injury, ear infection, medication change, period of stress)?</li>
+        </ol>
+      </li>
+      <li>DURATION (D):
+        <ol>
+          <li>How long have you had the tinnitus?</li>
+          <li>Is it constant or intermittent? If intermittent, how long do
+            episodes last and how often do they occur?</li>
+        </ol>
+      </li>
+      <li>AGGRAVATING/RELIEVING FACTORS (A/R):
+        <ol>
+          <li>Aggravating Factors: What makes the tinnitus worse or more
+            noticeable?
+            <ol>
+              <li>Quiet environments?</li>
+              <li>Stress, anxiety, fatigue, lack of sleep?</li>
+              <li>Certain foods or drinks (e.g., caffeine, salt, alcohol, MSG)?</li>
+              <li>Loud noise exposure?</li>
+              <li>Certain head or neck movements or positions?</li>
+              <li>Clenching jaw or dental problems?</li>
+            </ol>
+          </li>
+          <li>Relieving Factors: Does anything make the tinnitus better or less
+            noticeable?
+            <ol>
+              <li>Background noise (e.g., fan, music, white noise machine)?</li>
+              <li>Relaxation techniques or mindfulness?</li>
+              <li>Distraction through activities?</li>
+              <li>Any medications or supplements?</li>
+              <li>Masking devices (if used)?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>CHARACTER/TYPE (C):
+        <ol>
+          <li>How would you describe the sound(s) you hear?
+            <ol>
+              <li>Ringing, buzzing, hissing, whistling, clicking, roaring,
+                humming, cicada-like, rushing water?</li>
+              <li>Is it pulsatile (like a heartbeat or whooshing in time with
+                your pulse)?</li>
+              <li>Is it a single sound or multiple different sounds?</li>
+              <li>Is it high-pitched or low-pitched?</li>
+              <li>Does the sound vary in intensity or pitch?</li>
+              <li>Is it a tonal sound or more like noise?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>RADIATION (R): (Not typically applicable)</li>
+      <li>ASSOCIATED SYMPTOMS (A):
+        <ol>
+          <li><u>Hearing loss</u> (in one or both ears)?</li>
+          <li><u>Dizziness or vertigo</u> (sensation of spinning or
+            unsteadiness)?</li>
+          <li><u>Ear pain</u> (otalgia)?</li>
+          <li><u>Ear discharge</u> (otorrhea)?</li>
+          <li>Feeling of fullness or pressure in the ear?</li>
+          <li>Headache?</li>
+          <li>Sensitivity to loud sounds (hyperacusis)?</li>
+          <li>History of significant loud noise exposure (occupational,
+            recreational, acoustic trauma)?</li>
+          <li>Use of ototoxic medications?</li>
+          <li>Symptoms of Temporomandibular Joint (TMJ) disorder (jaw pain,
+            clicking, limited opening)?</li>
+          <li>Symptoms suggestive of Meniere's disease (episodic vertigo,
+            fluctuating hearing loss, aural fullness)?</li>
+          <li>Symptoms of anxiety, depression, or insomnia?</li>
+          <li>Neck pain or stiffness?</li>
+          <li>History of head or neck trauma?</li>
+        </ol>
+      </li>
+      <li>PROGRESSION (P):
+        <ol>
+          <li>Has the tinnitus changed in character, intensity, or frequency
+            since it started?</li>
+          <li>Is it getting worse, better, or staying the same?</li>
+          <li>Has its impact on your life changed?</li>
+          <li>Response to any previous treatments?</li>
+        </ol>
+      </li>
+      <li>PATTERN (P):
+        <ol>
+          <li>Is it more noticeable at certain times of the day (e.g., at night
+            when it's quiet)?</li>
+          <li>Is it always present (continuous) or does it come in episodes
+            (intermittent)?</li>
+        </ol>
+      </li>
+      <li>EFFECT ON LIFE (E):
+        <ol>
+          <li>How much does the tinnitus bother you or interfere with your life?</li>
+          <li>Does it affect your sleep?</li>
+          <li>Does it impact your concentration, ability to work, or enjoy quiet
+            activities?</li>
+          <li>Does it affect your mood (e.g., cause annoyance, frustration,
+            anxiety, depression)?</li>
+          <li>Has it led to social withdrawal?</li>
+        </ol>
+      </li>
+      <li>RED FLAGS (R):
+        <ol>
+          <li>Unilateral tinnitus (especially if new onset and persistent).</li>
+          <li>Pulsatile tinnitus (rhythmic with heartbeat - may indicate
+            vascular abnormality, glomus tumor).</li>
+          <li>Tinnitus associated with sudden or rapidly progressive hearing
+            loss.</li>
+          <li>Tinnitus accompanied by neurological symptoms (e.g., facial
+            weakness, numbness, visual disturbances, significant balance
+            problems/vertigo, severe headache).</li>
+          <li>Tinnitus after head trauma.</li>
+          <li>Objective tinnitus (audible to the examiner).</li>
+        </ol>
+      </li>
+      <li>SCALE (S) (Severity/Bothersomeness):
+        <ol>
+          <li>On a scale of 0-10, where 0 is no tinnitus and 10 is the loudest
+            imaginable tinnitus, how would you rate its loudness?</li>
+          <li>On a scale of 0-10, where 0 is not at all bothersome and 10 is
+            extremely bothersome/distressing, how much does it bother you?</li>
+        </ol>
+      </li>
+    </ol>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

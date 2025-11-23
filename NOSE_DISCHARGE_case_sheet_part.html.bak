@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title> NOSE_DISCHARGE_case_sheet_part</title>
+    <title> NASAL_NOSE_DISCHARGE_case_sheet_part</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
@@ -17,17 +17,20 @@
         <ul>
           <li><b>BILATERAL (Both sides):</b>&nbsp;<span class="infectious"></span></li>
           <ul>
-            <li><span class="infectious">Viral URTI (Common Cold)</span>,&nbsp;<span
+            <li><span class="infectious">Viral URTI (Common Cold)</span>,&nbsp;<span
+
                 class="rheumatic"></span></li>
             <li><span class="rheumatic">Allergic Rhinitis</span></li>
           </ul>
           <li><b>UNILATERAL (One side):</b> <b class="oncology ent emergency">Red
               Flag.</b> Suggests a local cause: </li>
           <ul>
-            <li><span class="General">Foreign Body (in children)</span>,&nbsp;<span
+            <li><span class="General">Foreign Body (in children)</span>,&nbsp;<span
+
                 class="oncology"></span></li>
             <li><span class="oncology">Nasal Polyp,&nbsp;</span></li>
-            <li><span class="oncology"><b class="oncology">Tumor</b></span>,&nbsp;<span
+            <li><span class="oncology"><b class="oncology">Tumor</b></span>,&nbsp;<span
+
                 class="cns"></span></li>
             <li><span class="cns">CSF Leak</span></li>
           </ul>
@@ -46,7 +49,8 @@
           </ul>
           <li>CHRONIC (&gt; 12 weeks):&nbsp;<span class="rheumatic"></span></li>
           <ul>
-            <li><span class="rheumatic">Perennial Allergic Rhinitis</span>,&nbsp;<span
+            <li><span class="rheumatic">Perennial Allergic Rhinitis</span>,&nbsp;<span
+
                 class="ent"></span></li>
             <li><span class="ent">Chronic Rhinosinusitis</span>,&nbsp;<span class="ent"></span></li>
             <li><span class="ent">Vasomotor Rhinitis</span></li>
@@ -90,7 +94,8 @@
           <li><b>Clear &amp; Watery (Profuse):</b>&nbsp;</li>
           <ul>
             <li><b class="rheumatic">Allergic Rhinitis</b>,&nbsp;</li>
-            <li><b class="infectious">Viral URTI (early stages)</b>,&nbsp;<span
+            <li><b class="infectious">Viral URTI (early stages)</b>,&nbsp;<span
+
                 class="ent"></span></li>
             <li><span class="ent">Vasomotor Rhinitis</span>, </li>
             <li><b class="cns emergency">CSF Leak (if unilateral &amp; watery)</b></li>

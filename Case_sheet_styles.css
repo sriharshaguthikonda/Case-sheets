@@ -13,31 +13,41 @@ body {
     padding: 0 4%;
 }
 
-
 /* Typography */
 h1 {
     font-size: 18.0pt;
     align-items: center;
+    text-transform: uppercase;
 }
 h2 {
     color: #ff9901; 
     font-size: 16.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 h3 {
     color: #ff01d5; 
     font-size: 14.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 h4 {
     color: #1a01ff; 
     font-size: 12.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 h5 {
     color: #01a2ff; 
     font-size: 10.0pt;
     font-weight: bold;
+    text-transform: uppercase;
+}
+h6 {
+    color: #01a2ff; 
+    font-size: 10.0pt;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 hr {
@@ -52,32 +62,39 @@ hr {
 .h1 {
     font-size: 18.0pt;
     align-items: center;
+    text-transform: uppercase;
 }
 .h2 {
     color: #ff9901; 
     font-size: 16.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 .h3 {
     color: #ff01d5; 
     font-size: 14.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 .h4 {
     color: #1a01ff; 
     font-size: 12.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 .h5 {
     color: #01a2ff; 
     font-size: 10.0pt;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
-
-
-
-
+.h6 {
+    color: #01a2ff; 
+    font-size: 10.0pt;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 
 a {
     color: #0066cc;
@@ -116,7 +133,7 @@ a {
 
 /* Lists */
 ol, ul {
-    margin-left: 15%;
+    margin-left: 5%;
     padding-left: 0;
 }
 

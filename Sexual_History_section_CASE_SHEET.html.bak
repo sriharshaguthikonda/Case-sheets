@@ -51,7 +51,7 @@
       <p><br>
         <br>
         &bull;--- Do you use condoms?&nbsp; or Do you practice safe sex all the
-        time?(indirect)<br>
+        time? (indirect)<br>
         &bull;--- When was the last time you had unprotected sex?<br>
         &bull;--- Is your sexual partner male or female? What is your sexual
         orientation</p>
@@ -116,6 +116,7 @@
           amenorrhoea, or menorrhagia.</li>
         <li><strong>Systemic symptoms:</strong> such as fever, fatigue, or
           weight loss.</li>
+        <li>Who initiated the relation</li>
       </ul>
       <h2>male specific</h2>
       <ul>
@@ -203,6 +204,13 @@
     <details>
       <summary class="h3">DRUG H/O : </summary>
       <iframe src="DRUG_HISTORY.html" frameborder="0"></iframe> </details>
+    <details>
+      <summary class="h3">MANAGEMENT PLAN</summary>
+      <iframe src="Management_plan.html" frameborder="0"></iframe>
+      <p>HIV testing will be offered to all sti patients </p>
+      <p>GUM Clinic</p>
+      <p></p>
+    </details>
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>

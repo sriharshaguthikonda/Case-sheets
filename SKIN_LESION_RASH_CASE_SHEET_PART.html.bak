@@ -4,15 +4,21 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title> SKIN_LESION_RASH</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="stylesheet" href="Case_sheet_styles_dark.css" disabled="">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
   </head>
   <body>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <summary class="h4">1. COMPLAINT: SKIN LESION/RASH</summary>
     <ol>
     </ol>
     <h4>Skin Lesion/Rash</h4>
     <ul>
       <li>S: Site (Location of skin lesion/rash)</li>
+      <li>S: Size</li>
+      <li>S: Shape</li>
+      <li>S: shade</li>
+      <li>S: Raised</li>
+      <li>S: Number</li>
       <details>
         <summary class="h3">S: Site</summary>
         <ul>
@@ -183,6 +189,14 @@
         <li>Headache</li>
         <li>Fatigue</li>
         <li>Body aches</li>
+        <ul>
+          <li>Autoimmune</li>
+        </ul>
+        <li>Joint pains</li>
+        <ul>
+          <li>Autoimmune</li>
+          <li>Psoriasis</li>
+        </ul>
         <li>Loss of appetite</li>
         <li>Anemia S/s</li>
       </ul>
@@ -223,5 +237,9 @@
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  
+
+
   </body>
 </html>

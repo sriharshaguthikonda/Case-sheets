@@ -6,7 +6,10 @@
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
   </head>
-  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+  <body>
+    <p> <button id="theme-toggle" title="Toggle dark mode"><br>
+      </button></p>
+    <p><button title="Toggle dark mode">🌙 Dark Mode</button> </p>
     <h3 class="General">MANAGEMENT PLAN</h3>
     <h4 class="General">OBO Urgency</h4>
     <ul>
@@ -46,6 +49,9 @@
       </li>
       <li class="General">Urgent Referral (2 weeks):
         <ol class="General">
+          <li class="OSA respiratory cns ent">Cancer pathwayis named now as <strong
+              data-start="1580" data-end="1616">urgent suspected cancer referral</strong>
+            not 2 ww...now it scrapped!</li>
           <li class="OSA respiratory cns ent">Suspected severe OSA with
             significant daytime somnolence, especially in high-risk occupations
             (e.g., commercial drivers)</li>
@@ -989,7 +995,7 @@
         <li class="Herpes-Zoster cns">The Shingles Support Society</li>
       </ul>
     </li>
-    <li class="General">Follow Up
+    <li class="General"><b><u>Follow </u><u>Up</u></b>
       <ul class="General">
         <li class="General">Type:
           <ul class="General">

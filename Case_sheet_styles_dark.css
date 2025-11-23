@@ -15,26 +15,37 @@ h1 {
     font-size: 18.0pt!important;
     align-items: center!important;
     color: #ffffff!important; /* Keep white as white */
+    text-transform: uppercase!important;
 }
 h2 {
     color: #2962ff!important; /* Inverted from #ff9901 */
     font-size: 16.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 h3 {
     color: #00fe2a!important; /* Inverted from #ff01d5 */
     font-size: 14.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 h4 {
     color: #e5fe00!important; /* Inverted from #1a01ff */
     font-size: 12.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 h5 {
     color: #fe5d00!important; /* Inverted from #01a2ff */
     font-size: 10.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
+}
+h6 {
+    color: #fe5d00!important; /* Inverted from #01a2ff */
+    font-size: 10.0pt!important;
+    font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 
 hr {
@@ -48,27 +59,39 @@ hr {
     font-size: 18.0pt!important;
     align-items: center!important;
     color: #ffffff!important; /* Keep white as white */
+    text-transform: uppercase!important;
 }
 .h2 {
     color: #0019fe!important; /* Inverted from #ff9901 */
     font-size: 16.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 .h3 {
     color: #09ff00!important; /* Inverted from #ff01d5 */
     font-size: 14.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 .h4 {
     color: #e5fe00!important; /* Inverted from #1a01ff */
     font-size: 12.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
 .h5 {
     color: #fe5d00!important; /* Inverted from #01a2ff */
     font-size: 10.0pt!important;
     font-weight: bold!important;
+    text-transform: uppercase!important;
 }
+.h6 {
+    color: #fe5d00!important; /* Inverted from #01a2ff */
+    font-size: 10.0pt!important;
+    font-weight: bold!important;
+    text-transform: uppercase!important;
+}
+
 
 
 
@@ -100,7 +123,7 @@ a:active {
 
 /* Lists - Dark Theme */
 ol, ul {
-    margin-left: 15%!important;
+    margin-left: 5%!important;
     padding-left: 0!important;
 }
 

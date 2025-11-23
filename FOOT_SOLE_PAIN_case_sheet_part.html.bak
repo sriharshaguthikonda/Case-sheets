@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> SOLE_PAIN_case_sheet_part</title>
+    <link href="Case_sheet_styles.css" id="light-styles" rel="stylesheet">
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+      title="dark">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <div class="General">
+      <h3>1ST COMPLAINT: SOLE PAIN (Plantar Foot Pain)</h3>
+      <!-- S: Site -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Site</span>
+          <ul>
+            <li class="ortho-specific">HEEL (underside):&nbsp;<span class="ortho-specific"></span></li>
+            <ul>
+              <li class="ortho-specific"><span class="ortho-specific">Plantar
+                  Fasciitis (most common), <br>
+                </span></li>
+              <li class="ortho-specific"><span class="ortho-specific">Fat Pad
+                  Atrophy, <br>
+                </span></li>
+              <li class="ortho-specific"><span class="ortho-specific">Calcaneal
+                  Stress Fracture</span></li>
+            </ul>
+            <li class="ortho-specific">ARCH:&nbsp;<span class="ortho-specific"></span></li>
+            <ul>
+              <li class="ortho-specific"><span class="ortho-specific">Plantar
+                  Fasciitis, <br>
+                </span></li>
+              <li class="ortho-specific"><span class="ortho-specific">Posterior
+                  Tibial Tendon Dysfunction (flat foot)</span></li>
+            </ul>
+            <li class="cns ortho-specific">BALL OF FOOT (Forefoot):&nbsp;<span class="cns"></span></li>
+            <ul>
+              <li class="cns ortho-specific"><span class="cns">Morton's Neuroma</span>,&nbsp;<span
+                  class="ortho-specific"></span></li>
+              <li class="cns ortho-specific"><span class="ortho-specific">Metatarsalgia</span>,&nbsp;<span
+                  class="ortho-specific"></span></li>
+              <li class="cns ortho-specific"><span class="ortho-specific">Stress
+                  Fracture</span>,&nbsp;<span class="rheumatic"></span></li>
+              <li class="cns ortho-specific"><span class="rheumatic">Rheumatoid
+                  Arthritis</span></li>
+            </ul>
+            <li class="cns">DIFFUSE / RADIATING:&nbsp;<span class="cns"></span></li>
+            <ul>
+              <li class="cns"><span class="cns">Tarsal Tunnel Syndrome, <br>
+                </span></li>
+              <li class="cns"><span class="cns">Lumbar Radiculopathy (S1)</span></li>
+            </ul>
+          </ul>
+        </div>
+        <span class="verbal">"Can you point with one finger to the area of your
+          sole that hurts the most?"</span></div>
+      <!-- O: Onset -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>O</strong>:
+            Onset</span>
+          <ul>
+            <li>ACUTE / TRAUMATIC:
+              <ul>
+                <li class="ortho-specific">Rare for most conditions, but
+                  possible Plantar Fascia rupture (audible pop)</li>
+                <li class="rheumatic">Acute gout attack</li>
+              </ul>
+            </li>
+            <li>GRADUAL / INSIDIOUS (No trauma):
+              <ul>
+                <li class="ortho-specific">Change in footwear, activity level,
+                  or walking surface? (Plantar Fasciitis, Stress Fracture)</li>
+                <li class="rheumatic">No preceding event? (Inflammatory
+                  arthritis)</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"How did the pain start? Was there a specific
+          injury, or did it come on gradually?"</span></div>
+      <!-- D: Duration -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>D</strong>:
+            Duration</span> </div>
+        <span class="verbal">"How long has the sole of your foot been painful?"</span></div>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A/R</strong>:
+            Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li>AGGRAVATING: </li>
+            <ul>
+              <li class="ortho-specific">First steps in the morning, walking
+                barefoot on hard surfaces (Plantar Fasciitis)</li>
+              <li class="cns">Wearing narrow or high-heeled shoes (Morton's
+                Neuroma)</li>
+              <li>Prolonged standing or walking</li>
+            </ul>
+            <li>RELIEVING: </li>
+            <ul>
+              <li>Rest, supportive footwear/orthotics, calf stretches, ice</li>
+            </ul>
+          </ul>
+        </div>
+        <span class="verbal">"What makes the pain worse or better?"</span></div>
+      <!-- C: Character -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>C</strong>:
+            Character</span>
+          <ul>
+            <li class="ortho-specific">SHARP / STABBING (especially with first
+              steps):&nbsp;<span class="ortho-specific"></span></li>
+            <ul>
+              <li class="ortho-specific"><span class="ortho-specific">Classic
+                  for Plantar Fasciitis</span></li>
+            </ul>
+            <li class="ortho-specific">DULL ACHE:&nbsp;<span class="ortho-specific"></span></li>
+            <ul>
+              <li class="ortho-specific"><span class="ortho-specific">Stress
+                  fracture, <br>
+                </span></li>
+              <li class="ortho-specific"><span class="ortho-specific">arthritis</span></li>
+            </ul>
+            <li class="cns">BURNING / TINGLING / NUMBNESS: </li>
+            <ul>
+              <li class="cns"><span class="cns">Nerve involvement (<b><u>Morton</u></b>'s
+                  Neuroma, Tarsal Tunnel, Radiculopathy)</span></li>
+            </ul>
+            <li class="cns">"LIKE A <b><u>PEBBLE </u></b>or folded <b><u>sock
+                </u></b>in my shoe": <span class="cns">Classic for <b><u>Morton</u></b>'s
+                Neuroma</span></li>
+          </ul>
+        </div>
+        <span class="verbal">"What does the pain feel like? Is it a sharp
+          stabbing, a dull ache, or burning?"</span></div>
+      <!-- R: Radiation -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Radiation</span>
+          <ul>
+            <li class="cns">Pain radiating from the back/buttock down the leg
+              -&gt; Lumbar Radiculopathy</li>
+            <li class="cns">Pain radiating from the forefoot into the toes -&gt;
+              Morton's Neuroma</li>
+            <li class="cns">Pain radiating from the inner ankle into the sole
+              -&gt; Tarsal Tunnel Syndrome</li>
+          </ul>
+        </div>
+        <span class="verbal">"Does the pain travel anywhere, for example, up
+          your leg or into your toes?"</span></div>
+      <!-- A: Associated Symptoms -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A</strong>:
+            Associated Symptoms</span>
+          <ul>
+            <li class="ortho-specific">LOCAL SYMPTOMS
+              <ul>
+                <li class="ortho-specific">Mild swelling in the heel</li>
+                <li class="cns">Clicking sensation in the forefoot when walking
+                  (Mulder's Click - Morton's Neuroma)</li>
+                <li class="rheumatic ortho-specific">Stiffness (especially
+                  morning stiffness)</li>
+              </ul>
+            </li>
+            <li class="General">SYSTEMIC / INFLAMMATORY SYMPTOMS
+              <ul>
+                <li class="infectious">Fever, chills (Infection - rare)</li>
+                <li class="rheumatic">Pain or swelling in other joints (e.g.,
+                  hands, wrists)?</li>
+                <li class="rheumatic">Pain in other tendon insertion points
+                  (enthesitis)?</li>
+                <li class="rheumatic derma">Associated skin rashes (Psoriatic
+                  Arthritis) or back pain (Ankylosing Spondylitis)?</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Besides the pain, have you noticed any swelling,
+          stiffness, or other issues?"</span></div>
+      <!-- P: Progression -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Progression</span> </div>
+        <span class="verbal">"Since it started, has the pain been getting
+          better, worse, or staying the same?"</span></div>
+      <!-- P: Pattern -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Pattern</span>
+          <ul>
+            <li class="ortho-specific"><b>Worse with first steps in the morning
+                or after a period of rest -&gt; Pathognomonic for Plantar
+                Fasciitis</b></li>
+            <li class="ortho-specific">Worse with increased activity / as the
+              day goes on -&gt; Stress Fracture, Metatarsalgia</li>
+            <li class="infectious ortho-specific oncology">Constant pain, worse
+              at night, not relieved by rest -&gt; Red flag (Infection, Tumor,
+              Nerve entrapment)</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is the pain worse at any particular time of day?"</span></div>
+      <!-- E: Effect on life -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>E</strong>:
+            Effect on Life</span>
+          <ul>
+            <li>Limitation of walking distance</li>
+            <li>Inability to participate in sports</li>
+            <li>Need to modify footwear or activities</li>
+          </ul>
+        </div>
+        <span class="verbal">"How has this pain affected your ability to walk,
+          work, or exercise?"</span></div>
+      <!-- R: Red Flags -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Red Flags</span>
+          <ul>
+            <li class="infectious emergency">HOT, RED, SWOLLEN JOINT (e.g., big
+              toe) -&gt; <b class="emergency">Septic Arthritis / Gout</b></li>
+            <li class="cns emergency">NEW WEAKNESS (e.g., foot drop) or
+              associated bladder/bowel changes with back pain -&gt; <b class="emergency">Cauda
+                Equina Syndrome</b></li>
+            <li class="oncology ortho-specific">SEVERE NIGHT PAIN, unexplained
+              weight loss, history of cancer -&gt; <b class="emergency">Malignancy
+                / Metastasis</b></li>
+            <li class="ortho-specific">INABILITY TO BEAR WEIGHT after minimal
+              trauma -&gt; <b class="emergency">Fracture</b></li>
+            <li class="cns">BURNING PAIN, numbness, and color changes in a
+              diabetic patient -&gt; <b class="emergency">Diabetic Neuropathy /
+                Foot at risk</b></li>
+          </ul>
+        </div>
+        <span class="verbal">"I need to ask some specific questions to make sure
+          we're not missing anything serious."</span></div>
+      <!-- S: Scale -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Severity / Scale</span> </div>
+        <span class="verbal">"On a scale of 1 to 10, how would you rate your
+          pain right now, and at its worst?"</span></div>
+    </div>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

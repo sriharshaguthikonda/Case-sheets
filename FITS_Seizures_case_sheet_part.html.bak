@@ -12,6 +12,7 @@
       <li>Before</li>
       <ol>
         <li>Cause</li>
+        <li>illnesses</li>
       </ol>
       <li>During</li>
       <ol>
@@ -37,7 +38,7 @@
         <li>.</li>
         <li>C/Type:������������������������������������� </li>
         <ol>
-          <li>LOC?</li>
+          <li><b>LOC?</b></li>
         </ol>
         <ol>
           <li>Simple</li>
@@ -53,6 +54,7 @@
           <li>.</li>
           <li>Fever</li>
           <li>headache</li>
+          <li>Rash</li>
           <li>party all thing you do at the party</li>
           <li>morning headache</li>
           <li>bending over - blurring of vision ...</li>
@@ -67,9 +69,19 @@
         </ol>
         <li>Effect on life</li>
         <li>Red flags</li>
-        <li>Scale :</li>
+        <ol>
+          <li>Tumor</li>
+          <li>SOLs</li>
+        </ol>
+        <li>Scale :
+          <ol>
+            <li>frequency</li>
+            <li>duration</li>
+            <li>severity</li>
+          </ol>
+        </li>
       </ol>
-      <li>After</li>
+      <li>After aka severity</li>
       <ol>
         <li>Confusion</li>
         <li>Drowsy</li>

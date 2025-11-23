@@ -3,161 +3,190 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title> DIP_FINGER_SWELLING_Orthopedic_case_sheet_part</title>
-    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <link href="Case_sheet_styles.css" id="light-styles" rel="stylesheet">
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+      title="dark">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
     <div class="General">
       <h3>1ST COMPLAINT: SWELLING OF FINGER-TIP JOINTS (DIP Joints)</h3>
       <!-- S: Site -->
-      <li class="point"> <span class="description"><strong>S</strong>: Site
-          &amp; Distribution</span> <span class="verbal">"Which fingers are
-          affected? Is it on one hand or both?"</span>
-        <ul>
-          <li>Which joints? Just the end joints (DIPs), or the middle (PIPs) and
-            knuckle (MCPs) joints too?</li>
-          <li class="rheumatic">Symmetrical (same joints on both hands) vs.
-            Asymmetrical?</li>
-          <li class="rheumatic">Are any other joints in your body affected
-            (e.g., toes, knees, back)?</li>
-        </ul>
-      </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Site &amp; Distribution</span>
+          <ul>
+            <li>Which joints? </li>
+            <ul>
+              <li>Just the end joints (DIPs), or the </li>
+              <li>middle (PIPs) and </li>
+              <li>knuckle (MCPs) joints too?</li>
+            </ul>
+            <li class="rheumatic">Symmetrical (same joints on both hands) vs. </li>
+            <li class="rheumatic">Asymmetrical?</li>
+            <li class="rheumatic">Are any <b>other joints </b>in your body
+              affected (e.g., toes, knees, back)?</li>
+          </ul>
+        </div>
+        <span class="verbal">"Which fingers are affected? Is it on one hand or
+          both?"</span></div>
       <!-- O: Onset -->
-      <li class="point"> <span class="description"><strong>O</strong>: Onset</span>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>O</strong>:
+            Onset</span>
+          <ul>
+            <li>ACUTE (overnight): <span class="rheumatic">Gout</span>, <span
+                class="infectious emergency">Septic Arthritis</span></li>
+            <li>GRADUAL (over months/years): <b class="ortho-specific">Classic
+                for Osteoarthritis</b></li>
+            <li>SUBACUTE (over weeks/months): <b class="rheumatic">Psoriatic
+                Arthritis, Rheumatoid Arthritis</b></li>
+          </ul>
+        </div>
         <span class="verbal">"When did you first notice the swelling? Did it
-          come on suddenly or gradually over many years?"</span>
-        <ul>
-          <li>ACUTE (overnight): <span class="rheumatic">Gout</span>, <span class="infectious emergency">Septic
-              Arthritis</span></li>
-          <li>GRADUAL (over months/years): <b class="ortho-specific">Classic
-              for Osteoarthritis</b></li>
-          <li>SUBACUTE (over weeks/months): <b class="rheumatic">Psoriatic
-              Arthritis, Rheumatoid Arthritis</b></li>
-        </ul>
-      </li>
+          come on suddenly or gradually over many years?"</span></div>
       <!-- D: Duration -->
-      <li class="point"> <span class="description"><strong>D</strong>: Duration</span>
-        <span class="verbal">"How long has this been a problem for you?"</span>
-      </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>D</strong>:
+            Duration</span>
+        </div>
+        <span class="verbal">"How long has this been a problem for you?"</span></div>
       <!-- A/R: Aggravating / Relieving Factors -->
-      <li class="point"> <span class="description"><strong>A/R</strong>:
-          Aggravating &amp; Relieving Factors</span> <span class="verbal">"Is
-          there anything that makes the pain or stiffness better or worse?"</span>
-        <ul>
-          <li>AGGRAVATING: </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A/R</strong>:
+            Aggravating &amp; Relieving Factors</span>
           <ul>
-            <li>Use,</li>
-            <li>&nbsp;gripping, </li>
-            <li>cold weather (Osteoarthritis).</li>
+            <li>AGGRAVATING: </li>
+            <ul>
+              <li>Use,</li>
+              <li>&nbsp;gripping, </li>
+              <li>cold weather (Osteoarthritis).</li>
+            </ul>
+            <li>RELIEVING: </li>
+            <ul>
+              <li>Rest (Osteoarthritis), </li>
+              <li>Movement (Inflammatory), </li>
+              <li>NSAIDs (Inflammatory).</li>
+            </ul>
           </ul>
-          <li>RELIEVING: </li>
-          <ul>
-            <li>Rest (Osteoarthritis), </li>
-            <li>Movement (Inflammatory), </li>
-            <li>NSAIDs (Inflammatory).</li>
-          </ul>
-        </ul>
-      </li>
+        </div>
+        <span class="verbal">"Is there anything that makes the pain or stiffness
+          better or worse?"</span></div>
       <!-- C: Character (THE KEY DIFFERENTIATOR) -->
-      <li class="point"> <span class="description"><strong>C</strong>:
-          Character</span> <span class="verbal">"Can you describe the swelling?
-          Does it feel hard and bony, or more soft and puffy? Is there much
-          stiffness?"</span>
-        <ul>
-          <li><b>SWELLING TYPE:</b>
-            <ul>
-              <li class="ortho-specific"><b>Hard, Bony Swelling (Heberden's
-                  Nodes) -&gt; <b class="ortho-specific">Osteoarthritis (OA)</b></b></li>
-              <li class="rheumatic">Soft, Boggy, "Sausage-like" Swelling
-                (Dactylitis) -&gt; <b class="rheumatic">Psoriatic Arthritis
-                  (PsA)</b></li>
-            </ul>
-          </li>
-          <li><b>STIFFNESS (Crucial Differentiator):</b>
-            <ul>
-              <li class="rheumatic"><b>Morning Stiffness &gt; 30 minutes? -&gt;
-                  <b class="rheumatic">Inflammatory Arthritis (PsA, RA)</b></b></li>
-              <li class="ortho-specific">Stiffness is brief (&lt; 30 mins) or
-                occurs after rest ("gelling") -&gt; <b class="ortho-specific">Osteoarthritis</b></li>
-            </ul>
-          </li>
-          <li><b>ASSOCIATED PAIN:</b> Is it a deep ache or is it red, hot, and
-            intensely painful?</li>
-        </ul>
-      </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>C</strong>:
+            Character</span>
+          <ul>
+            <li><b>SWELLING TYPE:</b>
+              <ul>
+                <li class="ortho-specific"><b>Hard, Bony Swelling (Heberden's
+                    Nodes) -&gt; <b class="ortho-specific">Osteoarthritis (OA)</b></b></li>
+                <li class="rheumatic">Soft, Boggy, "Sausage-like" Swelling
+                  (Dactylitis) -&gt; <b class="rheumatic">Psoriatic Arthritis
+                    (PsA)</b></li>
+              </ul>
+            </li>
+            <li><b>STIFFNESS (Crucial Differentiator):</b>
+              <ul>
+                <li class="rheumatic"><b>Morning Stiffness &gt; 30 minutes?
+                    -&gt; <b class="rheumatic">Inflammatory Arthritis (PsA, RA)</b></b></li>
+                <li class="ortho-specific">Stiffness is brief (&lt; 30 mins) or
+                  occurs after rest ("gelling") -&gt; <b class="ortho-specific">Osteoarthritis</b></li>
+              </ul>
+            </li>
+            <li><b>ASSOCIATED PAIN:</b> Is it a deep ache or is it red, hot, and
+              intensely painful?</li>
+          </ul>
+        </div>
+        <span class="verbal">"Can you describe the swelling? Does it feel hard
+          and bony, or more soft and puffy? Is there much stiffness?"</span></div>
       <!-- R: Radiation -->
-      <li class="point"> <span class="description"><strong>R</strong>:
-          Radiation</span> <span class="verbal">"Does the pain travel or
-          radiate anywhere from the joints?"</span> </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Radiation</span> </div>
+        <span class="verbal">"Does the pain travel or radiate anywhere from the
+          joints?"</span></div>
       <!-- A: Associated Symptoms -->
-      <li class="point"> <span class="description"><strong>A</strong>:
-          Associated Symptoms</span> <span class="verbal">"Have you noticed any
-          other symptoms at all, for example any changes to your skin or nails?"</span>
-        <ul>
-          <li class=" derma rheumatic"><b>SKIN &amp; NAIL CHANGES
-              (Key for Psoriatic Arthritis)</b>
-            <ul>
-              <li class="derma rheumatic"><b>Skin Rash:</b> Any scaly, red
-                patches on your scalp, elbows, knees, or belly button?</li>
-              <li class="derma rheumatic"><b>Nail Changes:</b> Any pitting (tiny
-                dents), lifting of the nail off the bed (onycholysis), or
-                thickening?</li>
-            </ul>
-          </li>
-          <li class=" rheumatic">OTHER RHEUMATOLOGICAL SYMPTOMS
-            <ul>
-              <li class="rheumatic">Tendon Pain (especially heel pain -
-                enthesitis)?</li>
-              <li class="rheumatic">Inflammatory-type back pain?</li>
-              <li class="ophthalmology rheumatic">Red or painful eyes (uveitis)?</li>
-            </ul>
-          </li>
-          <li class=" General">SYSTEMIC SYMPTOMS
-            <ul>
-              <li class="infectious">Fever, chills, feeling unwell -&gt; Septic
-                Arthritis</li>
-              <li class="General">Fatigue, weight loss</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A</strong>:
+            Associated Symptoms</span>
+          <ul>
+            <li class="derma rheumatic"><b>SKIN &amp; NAIL CHANGES (Key for
+                Psoriatic Arthritis)</b>
+              <ul>
+                <li class="derma rheumatic"><b>Skin Rash:</b> Any scaly, red
+                  patches on your scalp, elbows, knees, or belly button?</li>
+                <li class="derma rheumatic"><b>Nail Changes:</b> Any pitting
+                  (tiny dents), lifting of the nail off the bed (onycholysis),
+                  or thickening?</li>
+              </ul>
+            </li>
+            <li class="rheumatic">OTHER RHEUMATOLOGICAL SYMPTOMS
+              <ul>
+                <li class="rheumatic">Tendon Pain (especially heel pain -
+                  enthesitis)?</li>
+                <li class="rheumatic">Inflammatory-type back pain?</li>
+                <li class="ophthalmology rheumatic">Red or painful eyes
+                  (uveitis)?</li>
+              </ul>
+            </li>
+            <li class="General">SYSTEMIC SYMPTOMS
+              <ul>
+                <li class="infectious">Fever, chills, feeling unwell -&gt;
+                  Septic Arthritis</li>
+                <li class="General">Fatigue, weight loss</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Have you noticed any other symptoms at all, for
+          example any changes to your skin or nails?"</span></div>
       <!-- P: Progression -->
-      <li class="point"> <span class="description"><strong>P</strong>:
-          Progression</span> <span class="verbal">"Has the swelling been
-          getting worse or spreading to other joints?"</span> </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Progression</span> </div>
+        <span class="verbal">"Has the swelling been getting worse or spreading
+          to other joints?"</span></div>
       <!-- P: Pattern -->
-      <li class="point"> <span class="description"><strong>P</strong>: Pattern</span>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Pattern</span> </div>
         <span class="verbal">"Does it seem to come and go in flares, or is it
-          always present?"</span> </li>
+          always present?"</span></div>
       <!-- E: Effect on life -->
-      <li class="point"> <span class="description"><strong>E</strong>: Effect
-          on Life</span> <span class="verbal">"How has this affected your
-          hands? Do you have difficulty with tasks like doing up buttons,
-          writing, or gripping things?"</span>
-        <ul>
-          <li>Impact on fine motor skills</li>
-          <li>Difficulty with hobbies or work</li>
-        </ul>
-      </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>E</strong>:
+            Effect on Life</span>
+          <ul>
+            <li>Impact on fine motor skills</li>
+            <li>Difficulty with hobbies or work</li>
+          </ul>
+        </div>
+        <span class="verbal">"How has this affected your hands? Do you have
+          difficulty with tasks like doing up buttons, writing, or gripping
+          things?"</span></div>
       <!-- R: Red Flags -->
-      <li class="point"> <span class="description"><strong>R</strong>: Red
-          Flags</span> <span class="verbal">"I just need to ask some specific
-          questions to make sure we're not missing anything serious."</span>
-        <ul>
-          <li class="infectious emergency"><b>A single, hot, red, swollen, and
-              exquisitely painful joint</b> (Septic Arthritis until proven
-            otherwise).</li>
-          <li class="rheumatic">Rapidly progressive swelling affecting multiple
-            joints.</li>
-          <li class="General">Associated systemic symptoms like high fever or
-            unexplained weight loss.</li>
-        </ul>
-      </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Red Flags</span>
+          <ul>
+            <li class="infectious emergency"><b>A single, hot, red, swollen, and
+                exquisitely painful joint</b> (Septic Arthritis until proven
+              otherwise).</li>
+            <li class="rheumatic">Rapidly progressive swelling affecting
+              multiple joints.</li>
+            <li class="General">Associated systemic symptoms like high fever or
+              unexplained weight loss.</li>
+          </ul>
+        </div>
+        <span class="verbal">"I just need to ask some specific questions to make
+          sure we're not missing anything serious."</span></div>
       <!-- S: Scale -->
-      <li class="point"> <span class="description"><strong>S</strong>: Severity
-          / Scale</span> <span class="verbal">"On a scale of 1 to 10, how much
-          does the pain, stiffness, or swelling bother you?"</span> </li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Severity / Scale</span> </div>
+        <span class="verbal">"On a scale of 1 to 10, how much does the pain,
+          stiffness, or swelling bother you?"</span></div>
     </div>
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>

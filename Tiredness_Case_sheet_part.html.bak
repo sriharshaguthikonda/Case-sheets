@@ -1,0 +1,238 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Tiredness</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h3>COMPLAINT: TIREDNESS / FATIGUE</h3>
+    <ul>
+      <li class="grey">S: Site (Location of skin lesion/rash)</li>
+      <li><strong>S: Severity &amp; Sleep</strong>
+        <ul>
+          <li class="General">On a <b>scale of 0-10</b>, how severe is your
+            tiredness?</li>
+          <li class="General">Describe your <b>sleep</b>: How many hours? Is it
+            restorative? Do you have trouble falling/staying asleep? Snoring?</li>
+        </ul>
+      </li>
+      <li><strong>O: Onset</strong>
+        <ul>
+          <li class="General"><b>When</b> did it start? </li>
+          <li class="General"><b>sudden</b> or&nbsp;</li>
+          <li class="General"><b>gradual</b>?</li>
+          <li class="General"><b>Event trigger?</b></li>
+          <li class="General">Was it linked to an illness, event, or new
+            medication?</li>
+        </ul>
+      </li>
+      <li><strong>D: Duration</strong>
+        <ul>
+          <li class="General">How long has this been going on (weeks, months,
+            years)?</li>
+        </ul>
+      </li>
+      <li><strong>A/R: Aggravating / Relieving Factors</strong>
+        <ul>
+          <li class="General"><em>Worse with</em>: </li>
+          <li class="General">Physical exertion? </li>
+          <li class="General">Mental effort? </li>
+          <li class="General">Stress?</li>
+          <li class="General">Fasting</li>
+          <li><br>
+          </li>
+          <li class="General"><b>Better with</b>: </li>
+          <li class="General"><b>rest</b> </li>
+          <li class="General">sleep?</li>
+          <li><br>
+          </li>
+        </ul>
+      </li>
+      <li><strong>C: Character / Type</strong>
+        <ul>
+          <li class="General">Is it more&nbsp;</li>
+          <li class="General"><b>physical</b> ("heavy," weak) or&nbsp;</li>
+          <li class="General"><b>mental</b> ("brain fog," poor concentration)?</li>
+        </ul>
+      </li>
+      <li><strong>R: Radiation</strong>
+        <ul>
+          <li class="General">Not applicable.</li>
+        </ul>
+      </li>
+      <li><strong>A: Associated Symptoms</strong>
+        <ul>
+          <li class="General"><b>Constitutional:</b> Fever, night sweats,
+            appetite changes.</li>
+          <li class="psychiatric"><b>Psychiatric:</b></li>
+          <ol>
+            <li class="psychiatric">Low <b>mood</b></li>
+            <li class="psychiatric">loss of interest or pleasure (anhedonia)</li>
+          </ol>
+          <li class="hematology"><em>bleeding</em> </li>
+          <ul>
+            <li class="gynob"><em>Menstrual</em></li>
+            <li class="nephro"><em>urine</em></li>
+            <li class="gastrointestinal"><em>vomiting</em></li>
+            <li class="gastrointestinal"><em>malena</em></li>
+            <li class="hematology">easy <em>bruising</em></li>
+            <li class="General">any <em>other</em>?</li>
+          </ul>
+          <li class="endocrine"><b>endocrine:</b></li>
+          <ol>
+            <li class="endocrine">Thyroid</li>
+            <ol>
+              <li class="endocrine">hair loss</li>
+              <li class="endocrine">feeling cold</li>
+            </ol>
+            <li class="endocrine">DM</li>
+          </ol>
+          <li class="cns"><b>neuro:</b> </li>
+          <li class="cvs"><b>cardio:</b> </li>
+          <ol>
+            <li class="cvs">Palpitations</li>
+            <li class="respiratory cvs">Shortness of breath</li>
+          </ol>
+          <li class="respiratory"><b>respiratory:</b></li>
+          <ul>
+            <li><b class="oncology respiratory">cancer - SIADH <br>
+              </b></li>
+          </ul>
+          <li class="gastrointestinal"><b>gastrointestinal:</b> </li>
+          <ol>
+            <li class="gastrointestinal">diarrhoea</li>
+            <li class="gastrointestinal">constipation</li>
+            <li class="gastrointestinal">heartburn</li>
+            <li class="gastrointestinal">IBD</li>
+          </ol>
+          <li class="gynob"><b>genito:</b> </li>
+          <li class="musculoskeletal"><b>musculoskeletal:</b> </li>
+          <ol>
+            <li class="musculoskeletal">body aches</li>
+            <li class="musculoskeletal">joint pain</li>
+            <li class="derma">rashes</li>
+          </ol>
+          <li class="derma"><b>skin:</b> </li>
+          <li class="infectious">infections</li>
+          <ol>
+            <li class="infectious">fever</li>
+            <li class="infectious">HIV</li>
+          </ol>
+          <li class="General">Urinary issues</li>
+          <ul>
+            <li class="General">DM</li>
+            <li class="General">DI</li>
+            <li class="General">Electrolytes</li>
+            <li class="General">Tract Cancers</li>
+          </ul>
+          <li class="General"><b>other:</b> </li>
+        </ul>
+      </li>
+      <li><strong>P: Progression</strong>
+        <ul>
+          <li class="General">Is it getting <b>worse</b>, <b>better</b>, or
+            staying the <b>same</b>?</li>
+        </ul>
+      </li>
+      <li><strong>P: Pattern</strong>
+        <ul>
+          <li class="General">Is it <b>constant</b> or does it fluctuate? </li>
+          <li class="General">Worse in the <b><u>morning </u></b>or <b><u>evening</u></b>?</li>
+          <li class="General">myasthenia in evening!</li>
+        </ul>
+      </li>
+      <li><strong>E: Effect on Life</strong>
+        <ul>
+          <li class="General">How does this impact your daily routine, work,
+            social life, and hobbies?</li>
+        </ul>
+      </li>
+      <li><strong>R: Red Flags</strong>
+        <ul>
+          <li class="oncology"><em>Cancer</em></li>
+          <ul>
+            <li class="oncology General"><em>Weight </em>loss - unintentional</li>
+            <li class="oncology">lumps and bumps</li>
+            <li class="oncology respiratory"><em>SIADH </em>- <em>lung cancer</em></li>
+          </ul>
+          <li class="hematology">B12</li>
+          <ul>
+            <li class="cns"><b>tingling</b>/ numbness</li>
+            <li class="cns">Balance issues</li>
+            <li class="ophthalmology">Vision</li>
+            <li class="cns">Lhermitte's</li>
+          </ul>
+          <li class="oncology">Myeloma</li>
+          <ul>
+            <li class="musculoskeletal">Back / Bone pain</li>
+          </ul>
+          <li class="oncology hematology">Leukemias</li>
+          <ul>
+            <li class="General">Night sweats</li>
+            <li class="gastrointestinal">Abd fullness</li>
+            <ul>
+              <li class="gastrointestinal">spleen</li>
+            </ul>
+            <li class="hematology">BM suppression</li>
+            <li class="infectious">Recurrent infections</li>
+            <li class="hematology"><em>Bleeding</em></li>
+            <li class="gynob">Menstrual</li>
+            <li class="nephro">urine</li>
+            <li class="gastrointestinal">vomiting</li>
+            <li class="gastrointestinal">malena</li>
+            <li class="hematology">easy bruising</li>
+            <li class="General">any other?</li>
+            <li><br>
+            </li>
+            <li class="hematology emergency"><strong>Leucostasis</strong></li>
+            <li class="cns">headache</li>
+            <li class="ophthalmology">blur vision</li>
+            <li class="cvs">chest pain</li>
+            <li class="respiratory">SOB</li>
+          </ul>
+          <li class="hematology">Anemias</li>
+          <ul>
+            <li class="respiratory cvs">SOB</li>
+            <li class="cvs cns">dizziness, </li>
+            <li class="hematology"><em>bleeding</em>. - see above</li>
+          </ul>
+          <li class="respiratory">Sleep apnea</li>
+          <ul>
+            <li class="General">Driving</li>
+            <li class="General">heavy machinery</li>
+          </ul>
+          <li class="nephro emergency">Electrolyte</li>
+          <ul>
+            <li class="cns emergency">Seizures</li>
+            <li class="General">dont feel like yourself!</li>
+          </ul>
+        </ul>
+      </li>
+    </ul>
+    <br>
+    <p><b>Systems Review / DD Checklist:</b></p>
+    <ul style="list-style-type: square;">
+      <li class="psychiatric"><b>Psychiatric:</b> Depression, Anxiety</li>
+      <li class="endocrine"><b>Endocrine:</b> Hypothyroidism, Diabetes, Adrenal
+        insufficiency</li>
+      <li class="hematology"><b>Haematology:</b> Anemia, Malignancy</li>
+      <li class="cvs respiratory"><b>Cardio-Respiratory:</b> Heart failure, COPD</li>
+      <li class="infectious"><b>Infectious:</b> Chronic infection (e.g., EBV),
+        Post-viral fatigue</li>
+      <li class="oncology"><b>Oncology:</b> Any </li>
+      <li class="gynob nephro">Genito-Urinary</li>
+      <li class="cns musculoskeletal">Neuromuscular </li>
+      <li class="musculoskeletal"><b>Musculoskeletal:</b> Fibromyalgia, Chronic
+        Fatigue Syndrome (ME/CFS)</li>
+      <li class="gastrointestinal"><b>Gastrointestinal:</b> Malabsorption (e.g.,
+        Celiac disease)</li>
+    </ul>
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

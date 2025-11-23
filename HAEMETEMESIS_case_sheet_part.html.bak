@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>HAEMETEMESIS</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h4>Hematemesis (Vomiting Blood)</h4>
+    <p></p>
+    <div class="git emergency General">
+      <h3>1ST COMPLAINT: VOMITING BLOOD</h3>
+      <!-- S: Site / Severity / Quantification -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Site, Severity &amp; Quantification</span>
+          <ul>
+            <li><b>CONFIRM SOURCE:</b> Was it truly vomited (from the stomach)
+              or coughed up (hemoptysis) or from a nosebleed (epistaxis)?</li>
+            <li><b>QUANTITY:</b> How much blood was there?
+              <ul>
+                <li>Streaks of blood? Teaspoon? Tablespoon? A cupful?</li>
+              </ul>
+            </li>
+            <li><b>SEVERITY (Hemodynamic Status):</b>
+              <ul>
+                <li class="emergency">Dizziness, lightheadedness (especially on
+                  standing), palpitations, sweating, confusion -&gt; <b class="emergency">Signs
+                    of significant blood loss / shock.</b></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Can you confirm you vomited the blood, not coughed
+          it up? How much came up, and what did it look like? Did you feel dizzy
+          or faint afterwards?"</span> </div>
+      <!-- O: Onset -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>O</strong>:
+            Onset &amp; Context</span>
+          <ul>
+            <li>ACUTE ONSET AFTER RETCHING/VOMITING:
+              <ul>
+                <li class="git"><b>Mallory-Weiss Tear</b> (tear in the
+                  esophageal lining).</li>
+              </ul>
+            </li>
+            <li>ACUTE, SUDDEN, LARGE VOLUME:
+              <ul>
+                <li class="git emergency"><b>Esophageal Varices</b> (especially
+                  in a patient with known liver disease).</li>
+                <li class="git emergency">Bleeding Peptic Ulcer.</li>
+              </ul>
+            </li>
+            <li>MORE INSIDIOUS / RECURRENT:
+              <ul>
+                <li class="git">Gastritis, Esophagitis, Peptic Ulcer Disease
+                  (PUD).</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"When did this happen? What were you doing just
+          before you vomited blood? Had you been vomiting or coughing forcefully
+          beforehand?"</span> </div>
+      <!-- D: Duration -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>D</strong>:
+            Duration &amp; Frequency</span>
+          <ul>
+            <li>How many episodes of hematemesis in the last 24 hours?</li>
+            <li>Has this ever happened before?</li>
+          </ul>
+        </div>
+        <span class="verbal">"Was this a single vomit, or has it happened
+          multiple times?"</span> </div>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A/R</strong>:
+            Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li><b>AGGRAVATING MEDICATIONS:</b>
+              <ul>
+                <li>NSAIDs (Ibuprofen, Naproxen), Aspirin, Steroids -&gt; PUD,
+                  Gastritis.</li>
+                <li>Anticoagulants (Warfarin, DOACs) / Antiplatelets
+                  (Clopidogrel).</li>
+              </ul>
+            </li>
+            <li><b>AGGRAVATING SUBSTANCES:</b>
+              <ul>
+                <li>Alcohol binge -&gt; Mallory-Weiss Tear, Alcoholic Gastritis,
+                  Varices.</li>
+                <li>Spicy foods.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Are you taking any medications like
+          anti-inflammatories, aspirin, or blood thinners? How much alcohol do
+          you drink?"</span> </div>
+      <!-- C: Character of Blood -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>C</strong>:
+            Character of Vomitus</span>
+          <ul>
+            <li><b>BRIGHT RED BLOOD:</b>
+              <ul>
+                <li class="emergency">Indicates an active, brisk bleed. (e.g.,
+                  Varices, Arterial ulcer bleed).</li>
+              </ul>
+            </li>
+            <li><b>"COFFEE GROUND" EMESIS:</b>
+              <ul>
+                <li>Dark brown/black, granular material. Indicates a slower
+                  bleed where blood has been altered by stomach acid. (e.g.,
+                  PUD, Gastritis).</li>
+              </ul>
+            </li>
+            <li><b>CLOTS PRESENT:</b>
+              <ul>
+                <li>Suggests a more significant bleed.</li>
+              </ul>
+            </li>
+            <li><b>MIXED WITH FOOD?</b></li>
+          </ul>
+        </div>
+        <span class="verbal">"Can you describe exactly what it looked like? Was
+          it bright red blood, or was it dark and grainy like coffee grounds?
+          Were there any clots?"</span> </div>
+      <!-- R: Radiation of Pain -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Radiation of Pain</span>
+          <ul>
+            <li>Epigastric pain radiating to the back -&gt; <span class="git surgery">Can
+                indicate a penetrating posterior duodenal ulcer.</span></li>
+            <li>Painless massive bleed is a classic presentation of <span class="git emergency">Esophageal
+                Varices</span>.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Are you having any abdominal pain? If so, where is
+          it, and does it travel anywhere, like to your back?"</span> </div>
+      <!-- A: Associated Symptoms -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A</strong>:
+            Associated Symptoms</span>
+          <ul>
+            <li><b>OTHER GI SYMPTOMS:</b>
+              <ul>
+                <li><u>Melena:</u> Black, tarry, foul-smelling stools. <b class="git">Crucial
+                    sign of an Upper GI Bleed.</b></li>
+                <li><u>Hematochezia:</u> Passing fresh red blood from the rectum
+                  (indicates a very large, rapid UGIB).</li>
+                <li>Abdominal <b>pain</b>, heartburn, dyspepsia (indigestion).</li>
+                <li>Difficulty or pain on swallowing (dysphagia/odynophagia).</li>
+              </ul>
+            </li>
+            <li><b>SIGNS OF CHRONIC LIVER DISEASE:</b>
+              <ul>
+                <li class="git">Jaundice (yellow skin/eyes), ascites (swollen
+                  abdomen with fluid), spider nevi, easy bruising, confusion.</li>
+              </ul>
+            </li>
+            <li><b>CONSTITUTIONAL SYMPTOMS:</b>
+              <ul>
+                <li class="oncology">Unexplained weight loss, loss of appetite.
+                  -&gt; <b class="oncology">Red Flag for Malignancy.</b></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Have you noticed any changes in your bowel
+          movements, like black, tarry stools? Any heartburn, weight loss, or
+          yellowing of your skin?"</span> </div>
+      <!-- P: Progression -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Progression</span> </div>
+        <span class="verbal">"Is the bleeding getting worse with each episode?"</span>
+      </div>
+      <!-- P: Pattern -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Pattern</span> </div>
+        <span class="verbal">"Is this the first time this has ever happened?"</span>
+      </div>
+      <!-- E: Effect on life -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>E</strong>:
+            Effect on Life</span>
+          <ul>
+            <li>Severe anxiety.</li>
+            <li>Inability to tolerate oral intake.</li>
+          </ul>
+        </div>
+        <span class="verbal">"How has this episode affected you? Are you feeling
+          very anxious or weak?"</span> </div>
+      <!-- R: Red Flags -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Red Flags</span>
+          <ul>
+            <li class="emergency cardiac"><b>HEMODYNAMIC INSTABILITY:</b>
+              Tachycardia (&gt;100 bpm), Hypotension (SBP &lt;100 mmHg),
+              postural dizziness, confusion, cold peripheries.</li>
+            <li class="emergency git"><b>LARGE VOLUME of bright red blood or
+                ongoing hematemesis.</b></li>
+            <li class="git"><b>STIGMATA of CHRONIC LIVER DISEASE</b> (high risk
+              for variceal bleed).</li>
+            <li class="oncology"><b>Associated WEIGHT LOSS and DYSPHAGIA</b>
+              (suspicious for malignancy).</li>
+            <li class="surgery emergency"><b>Known AORTIC ANEURYSM or GRAFT</b>
+              (risk of catastrophic aorto-enteric fistula).</li>
+          </ul>
+        </div>
+        <span class="verbal">"I must check again for any warning signs. Are you
+          feeling dizzy, confused, or sweaty? Is your heart racing?"</span> </div>
+      <!-- S: Scale / Severity -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Severity / Scale</span>
+          <ul>
+            <li>Clinical assessment (e.g., Glasgow-Blatchford Score) is used to
+              determine risk and need for urgent intervention.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Based on your symptoms, this is a serious
+          condition that needs immediate attention."</span> </div>
+    </div>
+    <ol>
+      <li>Type &acirc;&euro;&ldquo;
+        <ol>
+          <li>Fresh</li>
+          <li>Brown</li>
+          <li>Food?</li>
+        </ol>
+      </li>
+      <li>Aggravating factions
+        <ol>
+          <li>ROH?..</li>
+        </ol>
+      </li>
+      <li>Associated
+        <ol>
+          <li>Pain - </li>
+        </ol>
+      </li>
+    </ol>
+    <h3><br>
+    </h3>
+    <h3><br>
+    </h3>
+    <h3><br>
+    </h3>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

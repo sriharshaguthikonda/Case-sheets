@@ -12,11 +12,8 @@
 <body>
     <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
 
-
-
-
+    
     <div class="case-sheet-container">
-
 
         <h3>BREAKING BAD NEWS: DEATH OF A CHILD (SPIKES PROTOCOL)</h3>
         <div class="video-container">

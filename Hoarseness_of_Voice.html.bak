@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>HOARSENESS OF VOICE</title>
+    <link href="Case_sheet_styles.css" id="light-styles" rel="stylesheet">
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+      title="dark">
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h4>Hoarseness of Voice (Dysphonia)</h4>
+    <p></p>
+    <div class="ent General">
+      <h3>1ST COMPLAINT: HOARSE / ROUGH / WEAK VOICE</h3>
+      <!-- S: Site -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Site / Sensation</span>
+          <ul>
+            <li>VOICE CHANGE ONLY:
+              <ul>
+                <li class="ent">Benign vocal cord lesions (nodules, polyps)</li>
+                <li class="ent cns">Vocal cord paralysis</li>
+              </ul>
+            </li>
+            <li>THROAT <b>PAIN </b>/ SCRATCHINESS:
+              <ul>
+                <li class="infectious ent">Acute Laryngitis (viral/bacterial)</li>
+              </ul>
+            </li>
+            <li><b>HEARTBURN </b>/ LUMP SENSATION:
+              <ul>
+                <li class="git">Laryngopharyngeal Reflux (LPR / Silent Reflux)</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Does it feel like the problem is in your throat or
+          voice box? Do you have any pain, scratchiness, or a feeling of a
+          lump?"</span> </div>
+      <!-- O: Onset -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>O</strong>:
+            Onset</span>
+          <ul>
+            <li>SUDDEN:
+              <ul>
+                <li class="infectious ent">Acute Laryngitis (often after a cold)</li>
+                <li class="ent">Vocal cord hemorrhage (after shouting/coughing)</li>
+                <li class="ent surgery">Post-intubation or neck/chest surgery</li>
+              </ul>
+            </li>
+            <li>GRADUAL / PROGRESSIVE:
+              <ul>
+                <li class="ent">Vocal cord nodules/polyps (from voice overuse)</li>
+                <li class="git">Chronic laryngitis from reflux or smoking</li>
+                <li class="oncology ent cns"><b>Red flag: Malignancy,
+                    Neurological cause</b></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"When did you first notice the change in your
+          voice? Did it happen overnight, or has it been developing over time?"</span>
+      </div>
+      <!-- D: Duration -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>D</strong>:
+            Duration</span>
+          <ul>
+            <li>ACUTE (&lt; 3 weeks):
+              <ul>
+                <li class="infectious">Most commonly acute laryngitis</li>
+              </ul>
+            </li>
+            <li>CHRONIC (&gt; 3 weeks):
+              <ul>
+                <li class="ent oncology"><b>Red flag: Requires ENT referral for
+                    laryngoscopy to rule out serious pathology</b></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"How long has your voice been hoarse?"</span> </div>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A/R</strong>:
+            Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li>AGGRAVATING:
+              <ul>
+                <li>Prolonged speaking, shouting, singing (vocal overuse)</li>
+                <li>Smoking, alcohol, caffeine</li>
+                <li>Dry or dusty environments</li>
+                <li>Lying down (suggests reflux)</li>
+              </ul>
+            </li>
+            <li>RELIEVING:
+              <ul>
+                <li>Voice rest</li>
+                <li>Staying hydrated</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Is there anything that makes your voice worse,
+          like talking for a long time? Does resting your voice help?"</span> </div>
+      <!-- C: Character -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>C</strong>:
+            Character of Voice</span>
+          <ul>
+            <li>BREATHY / WEAK: <span class="ent cns">Suggests poor vocal cord
+                closure (paralysis, presbylarynx - aging voice)</span></li>
+            <li>ROUGH / RASPY: <span class="ent">Common with laryngitis,
+                nodules, polyps, or cysts</span></li>
+            <li>STRAINED / TENSE: <span class="ent">Muscle Tension Dysphonia</span></li>
+            <li>PITCH BREAKS / UNSTABLE: <span class="ent">Common with vocal
+                fatigue or nodules</span></li>
+          </ul>
+        </div>
+        <span class="verbal">"How would you describe the sound of your voice
+          now? Is it weak, breathy, rough, or strained?"</span> </div>
+      <!-- R: Radiation -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Radiation</span>
+          <ul>
+            <li class="ent oncology">Referred ear pain (otalgia) can be a <b class="oncology">red
+                flag for laryngeal cancer</b>.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Are you having any pain that travels from your
+          throat to your ears?"</span> </div>
+      <!-- A: Associated Symptoms -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A</strong>:
+            Associated Symptoms</span>
+          <ul>
+            <li>UPPER RESPIRATORY SYMPTOMS (Cough, runny nose, sore throat):
+              <ul>
+                <li class="infectious">Acute Viral Laryngitis</li>
+              </ul>
+            </li>
+            <li>REFLUX SYMPTOMS (Heartburn, throat clearing, cough worse at
+              night):
+              <ul>
+                <li class="git">Laryngopharyngeal Reflux (LPR)</li>
+              </ul>
+            </li>
+            <li>DYSPHAGIA (Difficulty swallowing) / ODYNOPHAGIA (Painful
+              swallowing):
+              <ul>
+                <li class="oncology ent emergency"><b>Red flag for malignancy or
+                    deep neck infection</b></li>
+              </ul>
+            </li>
+            <li>NEUROLOGICAL SYMPTOMS (Tremor, weakness, swallowing issues, gait
+              problems):
+              <ul>
+                <li class="cns">Parkinson's Disease, Stroke, Myasthenia Gravis</li>
+              </ul>
+            </li>
+            <li>SYSTEMIC SYMPTOMS (Fever, night sweats, weight loss):
+              <ul>
+                <li class="oncology infectious"><b>Red flag for malignancy or
+                    chronic infection (e.g., TB)</b></li>
+              </ul>
+            </li>
+            <li>HYPO/HYPER/THYROID SYMPTOMS (Fatigue, weight gain, cold
+              intolerance):
+              <ul>
+                <li class="endocrine">Hypothyroidism can cause a deep, gravelly
+                  voice.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Have you noticed any other symptoms like coughing,
+          heartburn, difficulty swallowing, fever, or weight loss?"</span> </div>
+      <!-- P: Progression -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Progression</span>
+          <ul>
+            <li>IMPROVING: <span class="infectious">Likely self-limiting cause
+                like acute laryngitis.</span></li>
+            <li>WORSENING: <span class="oncology ent">Concerning for a growing
+                lesion (benign or malignant).</span></li>
+            <li>FLUCTUATING: <span class="ent">Common with vocal fatigue,
+                muscle tension, or reflux.</span></li>
+          </ul>
+        </div>
+        <span class="verbal">"Since it started, has your voice been getting
+          better, worse, or does it fluctuate?"</span> </div>
+      <!-- P: Pattern -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Pattern</span>
+          <ul>
+            <li>WORSE IN MORNING: <span class="git">Classic for LPR (reflux
+                overnight).</span></li>
+            <li>WORSE AS DAY PROGRESSES: <span class="ent cns">Vocal fatigue,
+                Myasthenia Gravis.</span></li>
+          </ul>
+        </div>
+        <span class="verbal">"Is there a time of day when your voice is
+          particularly bad?"</span> </div>
+      <!-- E: Effect on life -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>E</strong>:
+            Effect on Life</span>
+          <ul>
+            <li>Assess impact on occupation (teacher, singer, call center) and
+              social interaction.</li>
+          </ul>
+        </div>
+        <span class="verbal">"How has this voice change affected your work and
+          your daily life?"</span> </div>
+      <!-- R: Red Flags -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Red Flags</span>
+          <ul>
+            <li class="oncology ent"><b>PERSISTENCE &gt; 3 WEEKS: Any hoarseness
+                lasting more than 3 weeks requires ENT referral.</b></li>
+            <li class="respiratory emergency"><b>AIRWAY OBSTRUCTION:</b> Stridor
+              (noisy breathing) or difficulty breathing.</li>
+            <li class="oncology"><b>SUSPECTED MALIGNANCY:</b> Associated with
+              smoking history, weight loss, difficulty/painful swallowing,
+              coughing up blood (hemoptysis), or a neck lump.</li>
+            <li class="surgery ent"><b>RECENT NECK/CHEST SURGERY OR TRAUMA:</b>
+              Risk of recurrent laryngeal nerve injury.</li>
+            <li class="cns"><b>ASSOCIATED NEUROLOGICAL SYMPTOMS.</b></li>
+          </ul>
+        </div>
+        <span class="verbal">"I need to ask a few final questions to ensure
+          we're not missing anything serious."</span> </div>
+      <!-- S: Scale -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Severity / Scale</span> </div>
+        <span class="verbal">"On a scale of 1 to 10, with 10 being the worst
+          possible voice, how would you rate your hoarseness today?"</span> </div>
+    </div>
+    <!-- Scripts can be placed at the end -->
+    <script src="theme-toggle.js"></script>
+  </body>
+</html>

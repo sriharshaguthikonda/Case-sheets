@@ -1,269 +1,309 @@
-
-
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title> Multiple_Myeloma_Management_plan</title>
+    <title>Prototypical_Management_plan</title>
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
-</head>
-<body>
-    <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
-
-
-
-        <h3 class="General">MANAGEMENT PLAN</h3>
-        <h4 class="General">OBO Urgency</h4>
-        <ul>
-          <li class="General">Urgent Admission:</li>
-          <ol class="General">
-            <li class="hematology oncology emergency">Myeloma complications: Spinal Cord Compression, Acute Hypercalcemia, Acute Renal Failure, Neutropenic Sepsis</li>
-          </ol>
-          <li class="General">Urgent Referral (2 weeks):</li>
-          <ol class="General ">
-            <li class="hematology oncology">Suspected Myeloma (e.g., raised paraprotein, lytic bone lesions, or CRAB features)</li>
-          </ol>
-          <li class="General">Routine Referral:</li>
-          <ol class="General ">
-            <li class="hematology">Follow-up of stable Monoclonal Gammopathy of Undetermined Significance (MGUS)</li>
-          </ol>
-          <li class="General">Handling In-House:</li>
-          <ol class="General ">
-            <li class="hematology oncology">Not applicable for new diagnosis; requires immediate specialist referral</li>
-          </ol>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+    <h3 class="General">MANAGEMENT PLAN</h3>
+    <h4 class="General">Initial Investigations</h4>
+    <ul>
+      <li class="General"> <em>Consent (ensure informed, check understanding)</em>
+      </li>
+      <li class="General cvs hematology">Blood work:
+        <ul class="hematology oncology">
+          <li><b>Myeloma Screen:</b> Serum protein electrophoresis &amp;
+            immunofixation, Serum Free Light Chains (SFLC), FBC, U&amp;E, LFTs,
+            Bone profile (Calcium), LDH, Beta-2 microglobulin</li>
         </ul>
-        <h4 class="General">Patient-Specific Plan</h4>
-        <ol>
-          <li class="General">Want someone to listen in? (Patient partnership)</li>
-          <li class="emergency">family coming?</li>
-          <ol class="General">
-            <li class="General">we can call ..... for you</li>
-          </ol>
-          <li class="General cns">Assess Mental Capacity</li>
-          <li class="General">Consider Safeguarding issues</li>
-          <li class="General">Initial Investigations
-            <ul class="General">
-              <li class="General"><em>Consent (ensure informed, check understanding)</em></li>
-              <li class="General cvs hematology">Blood work: </li>
-              <ul class="hematology oncology">
-                <li><b>Myeloma Screen:</b> Serum protein electrophoresis & immunofixation, Serum Free Light Chains (SFLC), FBC, U&E, LFTs, Bone profile (Calcium), LDH, Beta-2 microglobulin</li>
-              </ul>
-              <li class="General cvs">Imaging: </li>
-              <ul class="General">
-                <li class="nephro urology">Urine dip stick & Bence-Jones Protein analysis</li>
-                <li class="hematology oncology">Whole-body MRI (or Skeletal Survey if unavailable)</li>
-              </ul>
-              <li class="General cvs">Further Investigations</li>
-              <ul class="General">
-                <li class="General cvs">Specialized tests: </li>
-                <ul class="hematology oncology">
-                  <li>Bone Marrow Aspirate & Biopsy (for diagnosis, cytogenetics)</li>
-                </ul>
-              </ul>
+      </li>
+      <li class="General cvs">Imaging:
+        <ul class="General">
+          <li class="nephro urology">Urine dip stick &amp; Bence-Jones Protein
+            analysis</li>
+          <li class="hematology oncology">Whole-body MRI (or Skeletal Survey if
+            unavailable)</li>
+        </ul>
+      </li>
+      <li class="General cvs">Further Investigations
+        <ul class="General">
+          <li class="General cvs">Specialized tests:
+            <ul class="hematology oncology">
+              <li>Bone Marrow Aspirate &amp; Biopsy (for diagnosis,
+                cytogenetics)</li>
             </ul>
           </li>
-        </ol>
+        </ul>
+      </li>
+    </ul>
+    <h4 class="General">Patient-emotional Plan</h4>
+    <ol>
+      <li class="General">Want someone to <b><u>listen </u></b>in? (Patient
+        partnership)</li>
+      <li class="emergency"><b><u>family </u><u>coming</u></b>?
         <ol class="General">
-          <li class="General">EXPLAIN FINDINGS</li>
-            <ul>
-                <li class="hematology oncology">Explain diagnosis of Myeloma (cancer of plasma cells)</li>
-                <li class="hematology oncology">Explain CRAB criteria if present (Hyper<b>C</b>alcemia, <b>R</b>enal impairment, <b>A</b>nemia, <b>B</b>one lesions)</li>
-            </ul>
-    
-          <li class="h3">ICE : Ideas, Concerns, Expectations </li>
-          <ol>
-            <li>Ideas: "What have you been told so far about this?"</li>
-            <li>Concerns:
-              <ul>
-                <li>Pain, loss of independence, fractures</li>
-                <li>Side effects of chemotherapy</li>
-                <li>Prognosis / Is it curable?</li>
-                <li>Impact on family and work</li>
-                <li>Cancer</li>
-              </ul>
-            </li>
-            <li>Expectations:
-              <ul>
-                <li>Cure vs. Control of disease</li>
-                <li>Symptom management, maintaining quality of life</li>
-              </ul>
-            </li>
-          </ol>
-    
-          <li class="General"><strong>PROVISIONAL DIAGNOSIS:</strong>
-          <ol class="General">
-            <li class="General">ANATOMICAL: </li>
-            <ul>
-              <li class="hematology">Bone Marrow</li>
-            </ul>
-            <li class="General">ETIOLOGICAL:
-              <ul class="hematology oncology">
-                <li class="hematology oncology">Clonal proliferation of malignant plasma cells</li>
-              </ul>
-            </li>
-            <li class="General">PATHOLOGICAL:</li>
-            <ul>
-              <li class="hematology oncology">Marrow infiltration, production of monoclonal paraprotein, osteoclast activation</li>
-            </ul>
-            <li class="General">CLINICAL:</li>
-            <ul>
-              <li class="hematology oncology">Multiple Myeloma - [Specify ISS/R-ISS Stage if known]</li>
-            </ul>
-          </ol>
-          </li>
-          
-          <li class="General">Treatment Plan
-            <ul class="General">
-               <li class="General">Shared Decision-Making
-                    <ul>
-                        <li>Haematologist-led discussion of treatment pathway</li>
-                        <li>Discuss transplant eligibility (based on age and fitness)</li>
-                        <li>Discuss risks vs benefits of treatment regimens</li>
-                    </ul>
-               </li>
-                <li class="General">Supportive Care (Crucial alongside specific treatment): 
-                <ul class="hematology oncology">
-                  <li>Analgesia for bone pain (WHO ladder, often requires opiates)</li>
-                  <li>Bisphosphonates (e.g., Zoledronic acid) for bone protection & hypercalcemia</li>
-                  <li>Management of renal impairment (hydration, avoid nephrotoxins like NSAIDs)</li>
-                  <li>Management of anemia (blood transfusion, consider EPO)</li>
-                  <li class="infectious">Infection prophylaxis (vaccinations [no live vaccines], consider prophylactic antibiotics)</li>
-                  <li class="cvs">VTE prophylaxis (essential with certain treatments like IMiDs)</li>
-                </ul>
-              </li>
-              <li class="General">Specific treatment: 
-                <ul class="hematology oncology">
-                    <li><b>Induction Therapy (Chemotherapy):</b> Based on transplant eligibility.</li>
-                    <ul>
-                        <li>Common regimens include combinations of Proteasome Inhibitors (e.g., Bortezomib), Immunomodulatory drugs (IMiDs, e.g., Lenalidomide), and Corticosteroids (e.g., Dexamethasone).</li>
-                    </ul>
-                </ul>
-              </li>
-              <li class="General">Consent</li>
-              <li class="General">Non-Medical: 
-                <ul class="General">
-                  <li class="General">Psychological support</li>
-                  <li class="General">Nutritional support / Dietitian input</li>
-                  <li class="General">Social Prescribing (referral to link workers, support groups)</li>
-                </ul>
-              </li>
-              <li class="surgery">Surgical
-                <ul class="ortho-specific">
-                  <li>Vertebroplasty/Kyphoplasty for vertebral compression fractures</li>
-                  <li>Orthopaedic fixation for pathological fractures</li>
-                </ul>
-                <ul class="hematology oncology">
-                  <li>Autologous Stem Cell Transplant (ASCT) for eligible patients after induction</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li class="General">Patient Education
-            <ul class="General">
-              <li class="General">Warning Signs/Red Flags (Return immediately if):
-                <ul class="hematology oncology emergency">
-                  <li class="cns emergency">New or worsening severe back pain, leg weakness, numbness, or bladder/bowel changes (<b>Spinal Cord Compression</b>)</li>
-                  <li class="cns emergency">Drowsiness, confusion, severe thirst, or constipation (<b>Hypercalcemia</b>)</li>
-                  <li class="infectious emergency">Fever, chills, or any sign of serious infection (<b>Neutropenic Sepsis</b>)</li>
-                </ul>
-              </li>
-              <ul class="General">
-                <li class="General">Emergency Contacts:
-                  <ol class="General">
-                    <li class="emergency">999 - emergency</li>
-                    <li class="hematology oncology">Haematology Day Unit / Specialist Nurse contact number</li>
-                    <li class="General">111 - non emergency</li>
-                  </ol>
-                </li>
-              </ul>
-              <li class="General cns endocrine cvs">DVLA (Driver and Vehicle Licensing Agency) Notification</li>
-              <li class="General">Educational materials provided: 
-                <ul class="General">
-                  <li class="General">Leaflets / Pamphlets</li>
-                  <li class="General">QR code for online</li>
-                  <li class="General">Personalised Care Plan (written summary of consultation)</li>
-                </ul>
-              </li>
-              <li class="General">Useful resources/links: 
-                <ul class="General">
-                  <li class="hematology oncology">Myeloma UK</li>
-                  <li class="hematology oncology">Macmillan Cancer Support</li>
-                  <li class="hematology oncology">Blood Cancer UK</li>
-                </ul>
-              </li>
-            </ul>
-    
-            <li class="General">Follow Up
-              <ul class="General">
-                <li class="General">Type:
-                  <ul class="General">
-                    <li class="General">Haematology outpatient clinic</li>
-                  </ul>
-                </li> 
-                <li class="General">Frequency: 
-                  <ul class="General">
-                    <li class="hematology oncology">Regularly, as determined by haematology team based on treatment phase</li>
-                  </ul>
-                </li>
-                <li class="General">Monitoring
-                  <ul class="hematology oncology">
-                    <li>Response to treatment via Paraprotein levels, Serum Free Light Chains, FBC</li>
-                    <li>Monitoring renal function and calcium levels</li>
-                    <li>Symptom review and assessment of treatment side effects</li>
-                  </ul>
-                </li>
-                <li class="General">Specialist referrals: 
-                  <ul class="General">
-                    <li class="hematology oncology">Haematology (central to all management)</li>
-                    <li class="rehab">Pain Management Clinic / Palliative Care</li>
-                    <li class="nephro">Renal team (if significant renal impairment)</li>
-                    <li class="ortho-specific">Orthopaedics (for pathological fractures)</li>
-                  </ul>
-                </li>
-                <li class="General">Allied health:
-                  <ul class="General">
-                    <li class="rehab">Occupational Therapist</li>
-                    <li class="rehab">Physiotherapist (for mobility and strength)</li>
-                    <li class="rehab">Dietitian</li>
-                    <li class="psychiatric">Clinical Psychologist / Counsellor</li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            
-          </li>
-          <li class="General">Consider mandatory reporting duties (e.g., notifiable diseases)</li>
-          <li class="General">Teach back
-            <ul>
-              <li>Patient tell the plan</li>
-              <li> can you tell me what you understand about your condition?</li>
-              <li> treatment?</li>
-              <li> follow-up?</li>
-            </ul>
-          </li>
-    
-          <li class="General">Summary of the plan</li>
-          <ul>
-            <li>doctor repeats the plan</li>
-          </ul>
-    
-          <li class="General">Document the plan</li>
-            <ul>
-                <li class="ortho-specific">Offer Med 3 fit note if symptoms likely > 7 days</li>
-                <li class="General">Clear, accurate, and contemporaneous documentation</li>
-            </ul>
+          <li class="General">we can call ..... for you</li>
         </ol>
- 
-
-
-
+      </li>
+      <li class="General cns">Assess Mental Capacity</li>
+      <li class="General">Consider <b>Safeguarding </b>issues</li>
+    </ol>
+    <h3>ICE : Ideas</h3>
+    <ol>
+      <li>Ideas: "What have you been told so far about this?"</li>
+      <li>can try asking Concerns and expectations</li>
+    </ol>
+    <h4>EXPLAIN FINDINGS</h4>
+    <ol class="General">
+      <li class="General">
+        <ul>
+          <li class="hematology oncology">Explain diagnosis of Myeloma (cancer
+            of plasma cells)</li>
+          <li class="hematology oncology">Explain CRAB criteria if present
+            (Hyper<b>C</b>alcemia, <b>R</b>enal impairment, <b>A</b>nemia, <b>B</b>one
+            lesions)</li>
+        </ul>
+      </li>
+    </ol>
+    <h4>PROVISIONAL DIAGNOSIS</h4>
+    <ol class="General">
+      <li class="General">ANATOMICAL:
+        <ul>
+          <li class="hematology">Bone Marrow</li>
+        </ul>
+      </li>
+      <li class="General">ETIOLOGICAL:
+        <ul class="hematology oncology">
+          <li class="hematology oncology">Clonal proliferation of malignant
+            plasma cells</li>
+        </ul>
+      </li>
+      <li class="General">PATHOLOGICAL:
+        <ul>
+          <li class="hematology oncology">Marrow infiltration, production of
+            monoclonal paraprotein, osteoclast activation</li>
+        </ul>
+      </li>
+      <li class="General">CLINICAL:
+        <ul>
+          <li class="hematology oncology">Multiple Myeloma - [Specify ISS/R-ISS
+            Stage if known]</li>
+        </ul>
+      </li>
+    </ol>
+    <h4 class="General">OBO Urgency</h4>
+    <ul>
+      <li class="General">Urgent Admission:
+        <ol class="General">
+          <li class="hematology oncology emergency">Myeloma complications:
+            Spinal Cord Compression, Acute Hypercalcemia, Acute Renal Failure,
+            Neutropenic Sepsis</li>
+        </ol>
+      </li>
+      <li class="General">Urgent Referral (2 weeks):
+        <ol class="General">
+          <li class="hematology oncology">Suspected Myeloma (e.g., raised
+            paraprotein, lytic bone lesions, or CRAB features)</li>
+        </ol>
+      </li>
+      <li class="General">Routine Referral:
+        <ol class="General">
+          <li class="hematology">Follow-up of stable Monoclonal Gammopathy of
+            Undetermined Significance (MGUS)</li>
+        </ol>
+      </li>
+      <li class="General">Handling In-House:
+        <ol class="General">
+          <li class="hematology oncology">Not applicable for new diagnosis;
+            requires immediate specialist referral</li>
+        </ol>
+      </li>
+    </ul>
+    <h4 class="General">Treatment Plan</h4>
+    <ul class="General">
+      <li class="General">Shared Decision-Making
+        <ul>
+          <li>Haematologist-led discussion of treatment pathway</li>
+          <li>Discuss transplant eligibility (based on age and fitness)</li>
+          <li>Discuss risks vs benefits of treatment regimens</li>
+        </ul>
+      </li>
+      <li class="General">Supportive Care (Crucial alongside specific
+        treatment):
+        <ul class="hematology oncology">
+          <li>Analgesia for bone pain (WHO ladder, often requires opiates)</li>
+          <li>Bisphosphonates (e.g., Zoledronic acid) for bone protection &amp;
+            hypercalcemia</li>
+          <li>Management of renal impairment (hydration, avoid nephrotoxins like
+            NSAIDs)</li>
+          <li>Management of anemia (blood transfusion, consider EPO)</li>
+          <li class="infectious">Infection prophylaxis (vaccinations [no live
+            vaccines], consider prophylactic antibiotics)</li>
+          <li class="cvs">VTE prophylaxis (essential with certain treatments
+            like IMiDs)</li>
+        </ul>
+      </li>
+      <li class="General">Specific treatment:
+        <ul class="hematology oncology">
+          <li> <b>Induction Therapy (Chemotherapy):</b> Based on transplant
+            eligibility.
+            <ul>
+              <li>Common regimens include combinations of Proteasome Inhibitors
+                (e.g., Bortezomib), Immunomodulatory drugs (IMiDs, e.g.,
+                Lenalidomide), and Corticosteroids (e.g., Dexamethasone).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="General">Consent</li>
+      <li class="General">Non-Medical:
+        <ul class="General">
+          <li class="General">Psychological support</li>
+          <li class="General">Nutritional support / Dietitian input</li>
+          <li class="General">Social Prescribing (referral to link workers,
+            support groups)</li>
+        </ul>
+      </li>
+      <li class="surgery">Surgical
+        <ul class="ortho-specific">
+          <li>Vertebroplasty/Kyphoplasty for vertebral compression fractures</li>
+          <li>Orthopaedic fixation for pathological fractures</li>
+        </ul>
+        <ul class="hematology oncology">
+          <li>Autologous Stem Cell Transplant (ASCT) for eligible patients after
+            induction</li>
+        </ul>
+      </li>
+    </ul>
+    <h3>ICE : Concerns </h3>
+    <ol>
+      <li>Concerns:
+        <ul>
+          <li>Pain, loss of independence, fractures</li>
+          <li>Side effects of chemotherapy</li>
+          <li>Prognosis / Is it curable?</li>
+          <li>Impact on family and work</li>
+          <li>Cancer</li>
+        </ul>
+      </li>
+    </ol>
+    <h4>Patient Education</h4>
+    <ul class="General">
+      <li class="General">Warning Signs/Red Flags (Return immediately if):
+        <ul class="hematology oncology emergency">
+          <li class="cns emergency">New or worsening severe back pain, leg
+            weakness, numbness, or bladder/bowel changes (<b>Spinal Cord
+              Compression</b>)</li>
+          <li class="cns emergency">Drowsiness, confusion, severe thirst, or
+            constipation (<b>Hypercalcemia</b>)</li>
+          <li class="infectious emergency">Fever, chills, or any sign of serious
+            infection (<b>Neutropenic Sepsis</b>)</li>
+        </ul>
+      </li>
+      <li class="General">Emergency Contacts:
+        <ol class="General">
+          <li class="emergency">999 - emergency</li>
+          <li class="hematology oncology">Haematology Day Unit / Specialist
+            Nurse contact number</li>
+          <li class="General">111 - non emergency</li>
+        </ol>
+      </li>
+      <li class="General cns endocrine cvs"><b>DVLA </b>(Driver and Vehicle
+        Licensing Agency) Notification</li>
+      <li class="General"><b><u>Educational </u><u>materials </u></b>provided:
+        <ul class="General">
+          <li class="General">Leaflets / Pamphlets</li>
+          <li class="General">QR code for online</li>
+          <li class="General">Personalised Care Plan (written summary of
+            consultation)</li>
+        </ul>
+      </li>
+      <li class="General">Useful <b><u>resources</u></b>/<b><u>links</u></b>:
+        <ul class="General">
+          <li class="hematology oncology">Myeloma UK</li>
+          <li class="hematology oncology">Macmillan Cancer Support</li>
+          <li class="hematology oncology">Blood Cancer UK</li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Follow Up</h4>
+    <ul class="General">
+      <li class="General">Type:
+        <ul class="General">
+          <li class="General">Haematology outpatient clinic</li>
+        </ul>
+      </li>
+      <li class="General">Frequency:
+        <ul class="General">
+          <li class="hematology oncology">Regularly, as determined by
+            haematology team based on treatment phase</li>
+        </ul>
+      </li>
+      <li class="General">Monitoring
+        <ul class="hematology oncology">
+          <li>Response to treatment via Paraprotein levels, Serum Free Light
+            Chains, FBC</li>
+          <li>Monitoring renal function and calcium levels</li>
+          <li>Symptom review and assessment of treatment side effects</li>
+        </ul>
+      </li>
+      <li class="General">Specialist referrals:
+        <ul class="General">
+          <li class="hematology oncology">Haematology (central to all
+            management)</li>
+          <li class="rehab">Pain Management Clinic / Palliative Care</li>
+          <li class="nephro">Renal team (if significant renal impairment)</li>
+          <li class="ortho-specific">Orthopaedics (for pathological fractures)</li>
+        </ul>
+      </li>
+      <li class="General">Allied health:
+        <ul class="General">
+          <li class="rehab">Occupational Therapist</li>
+          <li class="rehab">Physiotherapist (for mobility and strength)</li>
+          <li class="rehab">SALT
+            <ol>
+              <li>Speech and Language Therapy</li>
+              <li>Psychological Therapy</li>
+            </ol>
+          </li>
+          <li class="rehab">Dietitian</li>
+          <li class="psychiatric">Clinical Psychologist / Counsellor</li>
+        </ul>
+      </li>
+    </ul>
+    <h4><b>Reporting duties</b> (e.g., notifiable diseases)</h4>
+    <h4><b>Teach back</b></h4>
+    <ul>
+      <li>Patient tell the plan</li>
+      <li> can you tell me what you understand about your condition?</li>
+      <li> treatment?</li>
+      <li> follow-up?</li>
+    </ul>
+    <h4><b>Summary </b>of the plan</h4>
+    <ul>
+      <li>doctor repeats the plan</li>
+    </ul>
+    <h4><b>Document </b>the plan</h4>
+    <ul>
+      <li class="ortho-specific">Offer Med 3 fit note if symptoms likely &gt; 7
+        days</li>
+      <li class="General">Clear, accurate, and contemporaneous documentation</li>
+    </ul>
+    <h3>ICE : Expectations</h3>
+    <ol>
+      <li> Expectations:</li>
+      <ol>
+        <li>Cure vs. Control of disease</li>
+        <li>Symptom management, maintaining quality of life</li>
+      </ol>
+    </ol>
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
     <script src="double_click_collapse_details.js"></script>
-  
   </body>
 </html>

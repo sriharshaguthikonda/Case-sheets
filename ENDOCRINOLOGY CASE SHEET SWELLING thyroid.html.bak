@@ -61,13 +61,14 @@
       <iframe src="Weight_loss_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
       <summary class="h4"><strong>4<sup>th</sup> COMPLAINT : Tiredness</strong></summary>
-      <object data="Tiredness.html">
+      <object data="Tiredness_Case_sheet_part.html">
         <p>Your browser does not support this object.</p>
       </object> </details>
     <details>
       <summary class="h4"><strong>5<sup>th</sup> COMPLAINT : Loss of
           consciousness</strong></summary>
-      <iframe src="SYNCOPE_MOMENTARY_LOSS_OF_CONSCIOUSNESS_case_sheet_part.html"
+      <iframe src="SYNCOPE_MOMENTARY_LOSS_OF_CONSCIOUSNESS_case_sheet_part.html"
+
         frameborder="0"></iframe> </details>
     <hr>
     <details>
@@ -258,8 +259,10 @@
     </ol>
     <details open="">
       <summary class="h3">GENERAL EXAMINATION</summary>
-      <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
-          title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
+
+          title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
           allowfullscreen="" frameborder="0"></iframe> </div>
       <ol>
         <li>CONSCIOUS</li>

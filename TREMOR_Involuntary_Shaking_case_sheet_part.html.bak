@@ -1,145 +1,149 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>TREMOR (Involuntary Shaking)</title>
     <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
     <script src="https://www.youtube.com/iframe_api"></script>
-</head>
-<body>
-    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
-      <ol>
-        <li>SITE (S):
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <ol>
+      <li>SITE (S):
+        <ol>
+          <li>Where does the tremor occur? (e.g., Hands, fingers, arm, leg, jaw,
+            chin, lips, tongue)</li>
+          <li>Is it on one side of the body (unilateral) or both (bilateral)?</li>
+          <li>If bilateral, did it start on one side and then spread to the
+            other? Which side started first?</li>
+          <li>Is it more prominent in the upper or lower limbs?</li>
+        </ol>
+      </li>
+      <li>ONSET (O):
+        <ol>
+          <li>When did you (or someone else) first notice the tremor?
+            (Years/Months ago)</li>
+          <li>Was the onset sudden or did it develop gradually over time?</li>
+          <li>Was there any specific event, illness, or medication started
+            around the time it began?</li>
+        </ol>
+      </li>
+      <li>DURATION (D) :
+        <ol>
+          <li>How long have you had the tremor?</li>
+          <li>Is the tremor present all the time, or does it come and go
+            (intermittent)?</li>
+          <li>If intermittent, how long do episodes last? How frequent are they?</li>
+        </ol>
+      </li>
+      <li>AGGRAVATING/RELIEVING FACTORS (A/R):
+        <ol>
+          <li>What makes the tremor worse?
+            <ol>
+              <li>Stress, anxiety, fatigue?</li>
+              <li>When concentrating on a task with another limb?</li>
+              <li>When walking?</li>
+            </ol>
+          </li>
+          <li>What makes the tremor better or temporarily disappear?
+            <ol>
+              <li>Voluntary movement or action of the affected limb?</li>
+              <li>Sleep? (Tremor usually absent during sleep)</li>
+              <li>Alcohol? (Less typical for PD tremor, more for essential
+                tremor)</li>
+              <li>Any medications?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>CHARACTER/TYPE (C) :
+        <ol>
+          <li>Is it more noticeable when your limb is at rest (<u>Resting Tremor</u>)?
+            (e.g., when your hand is resting in your lap)</li>
+          <li>Does it improve or disappear when you are using the limb for an
+            action (e.g., reaching for an object, writing)? <b><u>inentional</u></b></li>
+          <li>Does it worsen when you are holding a posture (<b><u>Postural </u></b>Tremor)?
+            (e.g., holding arms outstretched)</li>
+          <li>Can you describe the movement? (e.g., "<b><u>pill</u></b>-<b><u>rolling</u></b>"
+            movement of fingers, back-and-forth)</li>
+        </ol>
+      </li>
+      <br>
+      <li>RADIATION (R): (Less applicable for tremor itself, more about spread)
+        <ol>
+          <li>Has the tremor spread from its original site to other parts of the
+            body over time? If so, where?</li>
+        </ol>
+      </li>
+      <li>ASSOCIATED SYMPTOMS (A):
+        <ol>
+          <li><u>Stiffness</u> or rigidity in the limbs? (See next complaint)</li>
+          <li><u>Slowness of movement</u>? (Bradykinesia - see next complaint)</li>
+          <li>Difficulty with balance or walking?</li>
+          <li>Changes in handwriting (micrographia - becoming smaller and more
+            cramped)?</li>
+          <li>Changes in <em>speech </em>(softer, monotone, hesitant -
+            hypophonia)?</li>
+          <li>Difficulty with fine motor tasks (e.g., buttoning, cutting food)?</li>
+          <li>Masked facies (reduced facial expression)?</li>
+          <li><b><u>Pain </u></b>or discomfort associated with the tremor or
+            stiffness?</li>
+          <li>thyroid</li>
+          <li>liver</li>
           <ol>
-            <li>Where does the tremor occur? (e.g., Hands, fingers, arm, leg,
-              jaw, chin, lips, tongue)</li>
-            <li>Is it on one side of the body (unilateral) or both (bilateral)?</li>
-            <li>If bilateral, did it start on one side and then spread to the
-              other? Which side started first?</li>
-            <li>Is it more prominent in the upper or lower limbs?</li>
+            <li>jaundice</li>
+            <li>appetite</li>
           </ol>
-        </li>
-        <li>ONSET (O):
+          <li>Genralised anxiety</li>
           <ol>
-            <li>When did you (or someone else) first notice the tremor?
-              (Years/Months ago)</li>
-            <li>Was the onset sudden or did it develop gradually over time?</li>
-            <li>Was there any specific event, illness, or medication started
-              around the time it began?</li>
           </ol>
-        </li>
-        <li>DURATION (D) :
-          <ol>
-            <li>How long have you had the tremor?</li>
-            <li>Is the tremor present all the time, or does it come and go
-              (intermittent)?</li>
-            <li>If intermittent, how long do episodes last? How frequent are
-              they?</li>
-          </ol>
-        </li>
-        <li>AGGRAVATING/RELIEVING FACTORS (A/R):
-          <ol>
-            <li>What makes the tremor worse?
-              <ol>
-                <li>Stress, anxiety, fatigue?</li>
-                <li>When concentrating on a task with another limb?</li>
-                <li>When walking?</li>
-              </ol>
-            </li>
-            <li>What makes the tremor better or temporarily disappear?
-              <ol>
-                <li>Voluntary movement or action of the affected limb?</li>
-                <li>Sleep? (Tremor usually absent during sleep)</li>
-                <li>Alcohol? (Less typical for PD tremor, more for essential
-                  tremor)</li>
-                <li>Any medications?</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>CHARACTER/TYPE (C) :
-          <ol>
-            <li>Is it more noticeable when your limb is at rest (<u>Resting
-                Tremor</u>)? (e.g., when your hand is resting in your lap)</li>
-            <li>Does it improve or disappear when you are using the limb for an
-              action (e.g., reaching for an object, writing)?</li>
-            <li>Does it worsen when you are holding a posture (Postural Tremor)?
-              (e.g., holding arms outstretched)</li>
-            <li>Can you describe the movement? (e.g., "pill-rolling" movement of
-              fingers, back-and-forth)</li>
-          </ol>
-        </li>
-        <br>
-        <li>RADIATION (R): (Less applicable for tremor itself, more about
-          spread)
-          <ol>
-            <li>Has the tremor spread from its original site to other parts of
-              the body over time? If so, where?</li>
-          </ol>
-        </li>
-        <li>ASSOCIATED SYMPTOMS (A):
-          <ol>
-            <li><u>Stiffness</u> or rigidity in the limbs? (See next complaint)</li>
-            <li><u>Slowness of movement</u>? (Bradykinesia - see next complaint)</li>
-            <li>Difficulty with balance or walking?</li>
-            <li>Changes in handwriting (micrographia - becoming smaller and more
-              cramped)?</li>
-            <li>Changes in speech (softer, monotone, hesitant - hypophonia)?</li>
-            <li>Difficulty with fine motor tasks (e.g., buttoning, cutting
-              food)?</li>
-            <li>Masked facies (reduced facial expression)?</li>
-            <li>Pain or discomfort associated with the tremor or stiffness?</li>
-          </ol>
-        </li>
-        <li>PROGRESSION (P):
-          <ol>
-            <li>How has the tremor changed since it first started? (Become more
-              noticeable, spread, amplitude increased?)</li>
-            <li>Has it changed in frequency or character?</li>
-          </ol>
-        </li>
-        <li>PATTERN (P):
-          <ol>
-            <li>Is it continuous when at rest, or does it have periods of being
-              better and worse throughout the day?</li>
-          </ol>
-        </li>
-        <li>RED FLAGS (R): (For PD, red flags might indicate atypical
-          parkinsonism or other conditions)
-          <ol>
-            <li>Rapid progression of symptoms?</li>
-            <li>Early onset of severe balance problems or falls?</li>
-            <li>Early severe autonomic dysfunction (e.g., severe postural
-              hypotension, urinary incontinence)?</li>
-            <li>Symmetrical onset of tremor?</li>
-            <li>Lack of response to Parkinson's medications (if tried)?</li>
-            <li>Presence of other neurological signs (e.g., cerebellar signs,
-              pyramidal signs, eye movement abnormalities not typical for PD)?</li>
-          </ol>
-        </li>
-        <li>EFFECT ON LIFE (E):
-          <ol>
-            <li>How does the tremor affect your daily activities (e.g., eating,
-              dressing, writing, work, hobbies)?</li>
-            <li>Does it cause you embarrassment or social withdrawal?</li>
-            <li>How much does it bother you?</li>
-          </ol>
-        </li>
-        <li>SCALE (S):
-          <ol>
-            <li>On a scale of 0 to 10, with 0 being no tremor and 10 being the
-              worst imaginable tremor, how would you rate its severity at its
-              worst? And on average?</li>
-          </ol>
-        </li>
-      </ol>
+        </ol>
+      </li>
+      <li>PROGRESSION (P):
+        <ol>
+          <li>How has the tremor changed since it first started? (Become more
+            noticeable, spread, amplitude increased?)</li>
+          <li>Has it changed in frequency or character?</li>
+        </ol>
+      </li>
+      <li>PATTERN (P):
+        <ol>
+          <li>Is it continuous when at rest, or does it have periods of being
+            better and worse throughout the day?</li>
+        </ol>
+      </li>
+      <li>RED FLAGS (R): (For PD, red flags might indicate atypical parkinsonism
+        or other conditions)
+        <ol>
+          <li>Rapid progression of symptoms?</li>
+          <li>Early onset of severe balance problems or falls?</li>
+          <li>Early severe autonomic dysfunction (e.g., severe postural
+            hypotension, urinary incontinence)?</li>
+          <li>Symmetrical onset of tremor?</li>
+          <li>Lack of response to Parkinson's medications (if tried)?</li>
+          <li>Presence of other neurological signs (e.g., cerebellar signs,
+            pyramidal signs, eye movement abnormalities not typical for PD)?</li>
+        </ol>
+      </li>
+      <li>EFFECT ON LIFE (E):
+        <ol>
+          <li>How does the tremor affect your daily activities (e.g., eating,
+            dressing, writing, work, hobbies)?</li>
+          <li>Does it cause you embarrassment or social withdrawal?</li>
+          <li>How much does it bother you?</li>
+        </ol>
+      </li>
+      <li>SCALE (S):
+        <ol>
+          <li>On a scale of 0 to 10, with 0 being no tremor and 10 being the
+            worst imaginable tremor, how would you rate its severity at its
+            worst? And on average?</li>
+        </ol>
+      </li>
+    </ol>
     <script src="theme-toggle.js"></script>
     <script src="Iframe_height_mothership.js"></script>
     <script src="Iframe_height.js"></script>
-  <script src="double_click_collapse_details.js"></script>
-  
-
-
+    <script src="double_click_collapse_details.js"></script>
   </body>
 </html>

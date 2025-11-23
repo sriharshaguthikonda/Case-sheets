@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>EAR PAIN (OTALGIA)</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h4>Are you comfortable talking ?</h4>
+    <p></p>
+    <ol>
+      <li>SITE (S):
+        <ol>
+          <li>Which ear is painful
+            <ol>
+              <li>Right</li>
+              <li>Left</li>
+              <li>Both</li>
+            </ol>
+          </li>
+          <li>Is the pain felt </li>
+          <ol>
+            <li><strong>deep inside </strong>the ear, </li>
+            <li>in the ear <b><u>canal</u></b>, </li>
+            <li>on the outer ear (<b><u>pinna</u></b>), or</li>
+            <li>behind the ear (<em>mastoid </em>area)?</li>
+          </ol>
+          <li>Can you <b><u>point </u></b>to the exact spot of maximum pain?</li>
+          <li>Is it a </li>
+          <ol>
+            <li>localized pain or </li>
+            <li>more diffuse?</li>
+          </ol>
+        </ol>
+      </li>
+      <li>ONSET (O):
+        <ol>
+          <li>When did the ear pain first start? (Specific date/time if
+            possible)</li>
+          <li>Was the onset sudden (e.g., after an injury, swimming, flying) or
+            gradual?</li>
+          <li>Was it associated with a cold, flu, sore throat, sinus infection,
+            or dental problems?</li>
+          <li>Any recent ear cleaning, foreign body insertion, or trauma?</li>
+        </ol>
+      </li>
+      <li>DURATION (D):
+        <ol>
+          <li>How long have you been experiencing this pain? (Hours, days,
+            weeks)</li>
+          <li>Is the pain constant or does it come and go (intermittent)?</li>
+          <li>If intermittent, how long does each episode typically last, and
+            how frequent are they?</li>
+        </ol>
+      </li>
+      <li>AGGRAVATING/RELIEVING FACTORS (A/R):
+        <ol>
+          <li>Aggravating Factors: What makes the pain worse?
+            <ol>
+              <li>do you use any ear tips to clean </li>
+              <li>how long do you use earpods earbuds hearing devices?</li>
+              <li>Touching or pulling on the outer ear (pinna or tragus)?
+                (Suggests otitis externa)</li>
+              <li>Chewing, swallowing, or yawning? (May suggest TMJ, pharyngeal
+                cause, or Eustachian tube dysfunction)</li>
+              <li>Lying down, especially on the affected side?</li>
+              <li>Exposure to cold air or wind?</li>
+              <li>Water exposure (swimming, showering)?</li>
+            </ol>
+          </li>
+          <li>Relieving Factors: What makes the pain better?
+            <ol>
+              <li>Pain medications (OTC or prescribed)? Which ones and how
+                effective?</li>
+              <li>Warm or cold compresses?</li>
+              <li>Keeping the ear dry?</li>
+              <li>Specific positions?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>CHARACTER/TYPE (C):
+        <ol>
+          <li>How would you describe the pain?
+            <ol>
+              <li>Sharp, stabbing, shooting?</li>
+              <li>Dull, aching, throbbing, pounding?</li>
+              <li>Burning, itching?</li>
+              <li>Feeling of fullness or pressure in the ear?</li>
+              <li>Is it a deep boring pain?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>RADIATION (R):
+        <ol>
+          <li>Does the pain spread or radiate anywhere else? (e.g., to the jaw,
+            teeth, neck, throat, temple)</li>
+        </ol>
+      </li>
+      <li>ASSOCIATED SYMPTOMS (A):
+        <ol>
+          <li><u>Hearing loss</u> or muffled hearing in the affected ear?</li>
+          <li><u>Ear discharge</u> (otorrhea)? (Color, consistency, odor,
+            amount)</li>
+          <li><u>Tinnitus</u> (ringing or other noises in the ear)?</li>
+          <li><u>Dizziness or vertigo</u> (sensation of spinning)?</li>
+          <li>Fever, chills, general malaise?</li>
+          <li>Itching in the ear canal?</li>
+          <li>Feeling of blockage or fullness in the ear?</li>
+          <li>Swelling around the ear or lymph nodes in the neck?</li>
+          <li>Sore throat, nasal congestion, cough?</li>
+          <li>Pain or clicking in the jaw (<strong>TMJ </strong>symptoms)?</li>
+          <li>Toothache?</li>
+          <li>Recent upper respiratory tract infection?</li>
+        </ol>
+      </li>
+      <li>PROGRESSION (P):
+        <ol>
+          <li>How has the pain changed since it first started? (Getting worse,
+            better, staying the same?)</li>
+          <li>If it's recurrent, are the episodes changing in nature or
+            severity?</li>
+          <li>If treatment was received, how did it respond? Any changes since
+            then?</li>
+        </ol>
+      </li>
+      <li>PATTERN (P):
+        <ol>
+          <li>Is the pain continuous or does it occur in waves/episodes?</li>
+          <li>Any specific times of day when it's worse or better?</li>
+        </ol>
+      </li>
+      <li>EFFECT ON LIFE (E):
+        <ol>
+          <li>How is the ear pain affecting your daily activities (sleep, work,
+            concentration, eating)?</li>
+          <li>Has it affected your hearing or balance, and how does that impact
+            you?</li>
+          <li>Has it affected your mood?</li>
+        </ol>
+      </li>
+      <li>RED FLAGS (R):
+        <ol>
+          <li>Meningitis</li>
+          <ol>
+            <li>Severe headache</li>
+            <li>Rash</li>
+            <li>neck stiff</li>
+            <li>photophobia</li>
+            <li>fever</li>
+          </ol>
+          <li>Sudden, severe hearing loss +- pain.</li>
+          <li>Foul-smelling <strong>discharge</strong>, especially if bloody.</li>
+          <li>Swelling and tenderness behind the ear (mastoiditis).</li>
+          <li><b>Facial </b>nerve - <b>weakness </b>or asymmetry on the side
+            of the ear pain , Ramsay Hunt syndrome).</li>
+          <li>Severe vertigo, nausea, vomiting with ear pain and hearing loss.</li>
+          <li>Persistent pain unresponsive to simple analgesia, especially in
+            diabetics or immunocompromised individuals (concern for malignant
+            otitis externa).</li>
+          <li>History of recent head trauma.</li>
+          <li>Neurological deficits (e.g., other cranial nerve palsies, altered
+            mental state).</li>
+        </ol>
+      </li>
+      <li>SCALE (S) (Severity):
+        <ol>
+          <li>On a scale of 0 to 10, with 0 being no pain and 10 being the worst
+            pain imaginable, how would you rate your pain:
+            <ol>
+              <li>Right now?</li>
+              <li>At its worst?</li>
+              <li>On average?</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ol>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

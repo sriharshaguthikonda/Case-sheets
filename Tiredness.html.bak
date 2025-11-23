@@ -118,6 +118,13 @@
             <li class="infectious">fever</li>
             <li class="infectious">HIV</li>
           </ol>
+          <li class="General">Urinary issues</li>
+          <ul>
+            <li class="General">DM</li>
+            <li class="General">DI</li>
+            <li class="General">Electrolytes</li>
+            <li class="General">tract Cancers</li>
+          </ul>
           <li class="General"><b>other:</b> </li>
         </ul>
       </li>
@@ -129,8 +136,9 @@
       </li>
       <li><strong>P: Pattern</strong>
         <ul>
-          <li class="General">Is it <b>constant</b> or does it fluctuate? Worse
-            in the morning or evening?</li>
+          <li class="General">Is it <b>constant</b> or does it fluctuate? </li>
+          <li class="General">Worse in the <b><u>morning </u></b>or <b><u>evening</u></b>?</li>
+          <li class="General">myasthenia in evening!</li>
         </ul>
       </li>
       <li><strong>E: Effect on Life</strong>
@@ -143,7 +151,7 @@
         <ul>
           <li class="oncology"><em>Cancer</em></li>
           <ul>
-            <li class="oncology General">Weight loss - unintentional</li>
+            <li class="oncology General"><em>Weight </em>loss - unintentional</li>
             <li class="oncology">lumps and bumps</li>
             <li class="oncology respiratory"><em>SIADH </em>- <em>lung cancer</em></li>
           </ul>
