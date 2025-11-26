@@ -9,7 +9,6 @@
   <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <h3>COMPLAINT: TIREDNESS / FATIGUE</h3>
     <ul>
-      <li class="grey">S: Site (Location of skin lesion/rash)</li>
       <li><strong>S: Severity &amp; Sleep</strong>
         <ul>
           <li class="General">On a <b>scale of 0-10</b>, how severe is your
@@ -123,7 +122,7 @@
             <li class="General">DM</li>
             <li class="General">DI</li>
             <li class="General">Electrolytes</li>
-            <li class="General">tract Cancers</li>
+            <li class="General">Tract Cancers</li>
           </ul>
           <li class="General"><b>other:</b> </li>
         </ul>

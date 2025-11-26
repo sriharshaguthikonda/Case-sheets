@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>ALOPECIA / HAIR LOSS</title>
+    <link href="Case_sheet_styles.css" rel="stylesheet" type="text/css">
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+      title="dark">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body>
+    <button id="theme-toggle" title="Toggle dark mode">
+      🌙 Dark Mode</button>
+    <h4>Hair Loss / Alopecia</h4>
+    <div class="General">
+      <h3>COMPLAINT: HAIR LOSS / ALOPECIA</h3>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Site</span>
+          <ul>
+            <li class="derma">Scalp (vertex, crown, frontal hairline, temples)</li>
+            <li class="derma">Patchy areas on scalp (round/oval bald patches)</li>
+            <li class="derma">Beard, eyebrows, eyelashes</li>
+            <li class="derma">Body hair (generalized thinning)</li>
+          </ul>
+        </div>
+        <span class="verbal">"Where exactly are you losing hair? Is it mainly
+          from the scalp, in patches, or from other areas like the beard or
+          eyebrows?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>O</strong>: Onset</span>
+          <ul>
+            <li class="derma">Gradual onset over months&ndash;years (typical for
+              pattern hair loss)</li>
+            <li class="derma">Sudden onset over days&ndash;weeks (suggests
+              alopecia areata, telogen effluvium)</li>
+            <li class="endocrine">Postpartum, post-illness, or after major
+              stress</li>
+          </ul>
+        </div>
+        <span class="verbal">"When did you first notice the hair loss? Did it
+          come on gradually or quite suddenly?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>D</strong>: Duration</span>
+        </div>
+        <span class="verbal">"How long has the hair loss been going on for?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A/R</strong>: Aggravating &amp;
+            Relieving Factors</span>
+          <ul>
+            <li>AGGRAVATING
+              <ul>
+                <li class="derma">Tight hairstyles (braids, ponytails,
+                  extensions)</li>
+                <li class="derma">Chemical treatments (bleaching, straightening,
+                  dyes)</li>
+                <li class="derma">Excessive heat styling</li>
+                <li class="endocrine">Uncontrolled thyroid disease or other
+                  medical conditions</li>
+                <li class="psychiatric">Stressful life events</li>
+              </ul>
+            </li>
+            <li>RELIEVING
+              <ul>
+                <li class="derma">Stopping harsh hair treatments or tight
+                  hairstyles</li>
+                <li class="derma">Using prescribed treatments (e.g., minoxidil,
+                  medicated lotions)</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Have you noticed anything that seems to make the
+          hair loss better or worse?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>C</strong>: Character</span>
+          <ul>
+            <li class="derma">Thinning vs shedding
+              <ul>
+                <li>Gradual thinning/receding hairline or widening parting</li>
+                <li>Increased hair on pillow, shower drain, or hairbrush</li>
+              </ul>
+            </li>
+            <li class="derma">Pattern
+              <ul>
+                <li>Male/female pattern (frontotemporal, vertex)</li>
+                <li>Diffuse thinning all over</li>
+                <li>Patchy, well-defined bald areas</li>
+              </ul>
+            </li>
+            <li class="derma">Scarring </li>
+            <ul>
+              <li class="derma">non-scarring (shiny smooth skin, loss of
+                follicular openings)</li>
+            </ul>
+          </ul>
+        </div>
+        <span class="verbal">"Is it more that the hair is thinning, or do you
+          see completely bald patches? Any redness, scaling, or soreness on the
+          scalp?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Radiation / Spread</span>
+        </div>
+        <span class="verbal">"Has the hair loss stayed in one area or has it
+          been spreading to new areas over time?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A</strong>: Associated Symptoms</span>
+          <ul>
+            <li class="derma">redness, pustules, or broken hairs (suggests scalp
+              disease)</li>
+            <li class="derma">Itching, burning, or pain on the scalp</li>
+            <li class="derma">Flaking or scaling (dandruff, seborrhoeic
+              dermatitis, psoriasis)</li>
+            <li class="endocrine">Symptoms of thyroid(weight change, heat/cold
+              intolerance, palpitations)</li>
+            <li class="endocrine">Menstrual irregularities, acne, excess
+              facial/body hair (suggesting hyperandrogenism/PCOS)</li>
+            <li class="General">Fatigue, shortness of breath, paleness (possible
+              anaemia)</li>
+            <li class="psychiatric">Low mood, anxiety, loss of confidence</li>
+          </ul>
+        </div>
+        <span class="verbal">"Any other symptoms such as itching of the scalp,
+          changes in your periods, weight, or energy levels?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Progression</span>
+        </div>
+        <span class="verbal">"Since it started, has the hair loss been getting
+          worse, staying about the same, or improving?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Pattern</span>
+          <ul>
+            <li class="derma">Constant vs episodic shedding</li>
+            <li class="derma">Seasonal changes</li>
+            <li class="endocrine gynob">Worse around hormonal changes (periods,
+              pregnancy, menopause)</li>
+          </ul>
+        </div>
+        <span class="verbal">"Do you notice any pattern, for example at certain
+          times of the year or around your menstrual cycle?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>E</strong>: Effect on Life</span>
+          <ul>
+            <li class="psychiatric">Impact on self-esteem, confidence, and body
+              image</li>
+            <li class="psychiatric">Social withdrawal or avoiding activities
+              (e.g., swimming, photos)</li>
+            <li class="psychiatric">Anxiety or low mood related to appearance</li>
+          </ul>
+        </div>
+        <span class="verbal">"How has the hair loss been affecting you day to
+          day, for example your confidence or social life?"</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Red Flags</span>
+          <ul>
+            <li class="derma emergency">Very sudden, extensive hair loss over a
+              <b>short period</b></li>
+            <li class="derma">Painful, <b><u>boggy</u></b>, or pus-filled areas
+              on the scalp</li>
+            <li class="derma">Scarring with complete loss of follicles</li>
+            <li class="oncology General">Associated weight loss, night sweats,
+              or systemic illness</li>
+          </ul>
+        </div>
+        <span class="verbal">"I just need to check a few serious but rare
+          possibilities, for example any sudden large clumps of hair coming out
+          or areas that are painful or very inflamed."</span></div>
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Severity / Scale</span>
+        </div>
+        <span class="verbal">"On a scale from 0 to 10, how much does this hair
+          loss bother you overall?"</span></div>
+    </div>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

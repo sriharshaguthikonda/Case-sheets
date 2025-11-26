@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PALPITATIONS</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <p>R -ABOPT ONSET</p>
+    <p> ATRIAL</p>
+    <p> JUNCTIONAL</p>
+    <p> VT</p>
+    <ol>
+      <li>A/R</li>
+      <li>ASSOCIATE c SYNCOPE </li>
+    </ol>
+    <p>POLYURIA</p>
+    <ol>
+      <li>DRUGS - SYMPATHOMYMETICS</li>
+    </ol>
+    <p> DIGOXIN</p>
+    <p> VASODIALATORS</p>
+    <ol>
+      <li>.</li>
+    </ol>
+    <h4>Palpitations</h4>
+    <p></p>
+    <div class="cardiac endocrine psych emergency General">
+      <!-- S: Site / Sensation -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Sensation &amp; Rhythm (Tap it out)</span>
+          <ul>
+            <li><b>THE "CLINICAL DRUMMING":</b> Ask the patient to tap the
+              rhythm on their chest or the table.
+              <ul>
+                <li><u>Fast &amp; Regular:</u> <span class="cardiac">SVT, VT,
+                    Sinus Tachycardia.</span></li>
+                <li><u>Fast &amp; Irregular:</u> <span class="cardiac">Atrial
+                    Fibrillation (AF).</span></li>
+                <li><u>"Skipped" or "Dropped" Beats:</u> <span class="cardiac">Ectopics
+                    (PVCs/PACs) - "Flip-flop" sensation.</span></li>
+                <li><u>Strong/Pounding (Normal Rate):</u> <span class="psych">Anxiety</span>,
+                  <span class="cardiac">Valve disease (AR)</span>, <span class="endocrine">Thyrotoxicosis</span>.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Can you tap out on the table what your heart feels
+          like when this happens? Does it feel like a fluttering, a racing, or a
+          hard pounding?"</span> </div>
+      <!-- O: Onset -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>O</strong>:
+            Onset &amp; Termination</span>
+          <ul>
+            <li><b>SUDDEN ON/OFF (Switch-like):</b>
+              <ul>
+                <li class="cardiac"><b>SVT</b> (Supraventricular Tachycardia).
+                  Classic history.</li>
+              </ul>
+            </li>
+            <li><b>GRADUAL ONSET / OFFSET:</b>
+              <ul>
+                <li class="General"><b>Sinus Tachycardia</b> (Response to
+                  stress, exercise, fever, anemia).</li>
+              </ul>
+            </li>
+            <li><b>PRECIPITANTS:</b>
+              <ul>
+                <li>Exercise, Caffeine, Alcohol, Stress.</li>
+                <li>Post-prandial (after eating) -&gt; Vagal tone issues.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Does the racing start instantly like someone
+          flipped a light switch, or does it speed up gradually? How does it
+          stop?"</span> </div>
+      <!-- D: Duration -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>D</strong>:
+            Duration &amp; Frequency</span>
+          <ul>
+            <li>Seconds (Ectopics).</li>
+            <li>Minutes to Hours (SVT, A-Fib).</li>
+            <li>Continuous (Thyrotoxicosis, Anemia, Anxiety).</li>
+          </ul>
+        </div>
+        <span class="verbal">"How long do these episodes last? How often do you
+          get them?"</span> </div>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A/R</strong>:
+            Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li><b>AGGRAVATING:</b>
+              <ul>
+                <li><b>Stimulants:</b> Coffee, Energy drinks, Cocaine,
+                  Amphetamines.</li>
+                <li><b>Alcohol:</b> "Holiday Heart Syndrome" (Acute A-Fib after
+                  binge).</li>
+                <li><b>Position:</b> Lying on left side (makes ectopics more
+                  noticeable).</li>
+              </ul>
+            </li>
+            <li><b>RELIEVING (Vagal Maneuvers):</b>
+              <ul>
+                <li>Deep breathing, holding breath (Valsalva), splashing cold
+                  water on face.</li>
+                <li><b>SVT</b> often terminates with these maneuvers.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Do you notice it more after coffee or alcohol? Is
+          there anything you can do, like holding your breath, that stops it?"</span>
+      </div>
+      <!-- C: Character -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>C</strong>:
+            Character (Forcefulness)</span>
+          <ul>
+            <li><b>"FLUTTERING"</b> in chest or throat: <span class="cardiac">Atrial
+                Fibrillation / Flutter.</span></li>
+            <li><b>"POUNDING"</b> (can hear heartbeat in ears): <span class="cardiac">Aortic
+                Regurgitation</span>, <span class="endocrine">Hyperthyroidism</span>,
+              <span class="psych">Severe Anxiety</span>.</li>
+            <li><b>"SKIPPED BEAT":</b> <span class="cardiac">Premature
+                Ventricular/Atrial Contractions (PVCs/PACs).</span></li>
+          </ul>
+        </div>
+        <span class="verbal">"Does it feel like a butterfly fluttering, or like
+          a hammer pounding against your ribs?"</span> </div>
+      <!-- R: Radiation (Systemic Causes) -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            R</span>
+          <ul>
+          </ul>
+        </div>
+        <span class="verbal">"Have you lost weight recently? Do you feel shaky
+          or prefer cold weather?"</span> </div>
+      <!-- A: Associated Symptoms (The Red Flags) -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A</strong>:
+            Associated Symptoms (Hemodynamic Stability)</span>
+          <ul>
+            <li><b>SYNCOPE / PRE-SYNCOPE (Passing out):</b>
+              <ul>
+                <li class="cardiac emergency"><b>MAJOR RED FLAG.</b> Suggests
+                  the arrhythmia is causing low blood pressure (VT, Heart Block,
+                  AS).</li>
+              </ul>
+            </li>
+            <li><b>CHEST PAIN:</b>
+              <ul>
+                <li class="cardiac emergency">Suggests Ischemia (supply/demand
+                  mismatch) or that the pain is causing the tachycardia.</li>
+              </ul>
+            </li>
+            <li><b>SHORTNESS OF BREATH:</b>
+              <ul>
+                <li class="cardiac">Suggests Heart Failure or PE.</li>
+              </ul>
+            </li>
+            <li><b>THYROID:</b> Weight loss, heat intolerance, tremor.</li>
+            <li><b>ANEMIA:</b> Fatigue, pallor, heavy periods (Menorrhagia).</li>
+            <li><b>PHEOCHROMOCYTOMA:</b> Rare adrenal tumor -&gt; Triad of
+              Headache + Sweating + Palpitations.</li>
+            <li><b>PANIC SYMPTOMS:</b>
+              <ul>
+                <li class="psych">Tingling hands/lips, feeling of doom,
+                  hyperventilation.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"When your heart races, do you ever feel
+          lightheaded like you might pass out? Do you get any chest pain?"</span>
+      </div>
+      <!-- P: Progression -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Progression</span> </div>
+        <span class="verbal">"Are the episodes becoming more frequent or lasting
+          longer?"</span> </div>
+      <!-- P: Pattern -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Pattern</span>
+          <ul>
+            <li><b>Nocturnal:</b> Waking up with it? (Sleep Apnea / Paroxysmal
+              AF).</li>
+            <li><b>Exertional:</b> Occurs during exercise? (Structural heart
+              disease / Ischemia).</li>
+          </ul>
+        </div>
+        <span class="verbal">"Does this happen while you are exercising, or only
+          when you are resting?"</span> </div>
+      <!-- E: Effect on life -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>E</strong>:
+            Effect on Life</span>
+          <ul>
+            <li>Fear of exercise or leaving the house.</li>
+            <li>Interference with sleep.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Are you avoiding exercise because you're afraid of
+          bringing it on?"</span> </div>
+      <!-- R: Red Flags -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Red Flags (Family &amp; History)</span>
+          <ul>
+            <li class="cardiac emergency"><b>FAMILY HISTORY OF SUDDEN DEATH:</b>
+              Specifically &lt; 40 years old (HOCM, Long QT, Brugada).</li>
+            <li class="cardiac emergency"><b>HISTORY OF SYNCOPE</b> during
+              palpitations.</li>
+            <li class="cardiac"><b>STRUCTURAL HEART DISEASE:</b> Previous heart
+              attack, valve surgery, or cardiomyopathy.</li>
+            <li class="cardiac emergency"><b>EXERTIONAL ONSET:</b> Palpitations
+              <i>during</i> active sport are dangerous until proven otherwise.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Has anyone in your family died suddenly at a young
+          age? Have you ever passed out from this?"</span> </div>
+      <!-- S: Scale -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Scale</span>
+          <ul>
+            <li>Severity of symptoms during the episode (0-10).</li>
+            <li>EHRA Score (for Atrial Fibrillation symptoms).</li>
+          </ul>
+        </div>
+        <span class="verbal">"On a scale of 0 to 10, how distressing are these
+          episodes?"</span> </div>
+    </div>
+    <!-- Scripts -->
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
+</html>

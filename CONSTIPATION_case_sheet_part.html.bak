@@ -164,6 +164,12 @@
                 <li class="git">Diverticulosis, hemorrhoids, fissures</li>
               </ul>
             </li>
+            <li>UNEXPLAINED WEIGHT LOSS
+              <ul>
+                <li class="oncology">Malignancy</li>
+                <li class="endocrine">Hyperthyroidism (less common)</li>
+              </ul>
+            </li>
             <li>FATIGUE, COLD INTOLERANCE, DRY SKIN
               <ul>
                 <li class="endocrine">Hypothyroidism</li>
@@ -229,11 +235,10 @@
                 <li class="oncology git">Increased risk of colorectal cancer</li>
               </ul>
             </li>
-            <li>WEIGHT LOSS </li>
-            <ul>
-              <li>Hyperthyroidism (less common)
-              </li>
-            </ul>
+            <li>UNEXPLAINED WEIGHT LOSS
+              <ul>
+              </ul>
+            </li>
             <li>BLOOD IN STOOL
               <ul>
                 <li class="oncology git emergency">Cancer, IBD, significant

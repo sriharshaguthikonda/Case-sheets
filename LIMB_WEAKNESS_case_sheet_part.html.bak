@@ -223,8 +223,10 @@
         <div class="point-content"> <span class="description"><strong>P</strong>:
             Pattern</span>
           <ul>
-            <li>FLUCTUATES during the day (worse in evening): <span class="cns">Myasthenia
-                Gravis</span></li>
+            <li>FLUCTUATES during the day (worse in evening):&nbsp;<span class="cns"></span></li>
+            <ul>
+              <li><span class="cns">Myasthenia Gravis</span></li>
+            </ul>
           </ul>
         </div>
         <span class="verbal">"Does the weakness change during the day? For

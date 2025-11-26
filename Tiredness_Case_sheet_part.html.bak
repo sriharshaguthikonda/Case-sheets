@@ -36,14 +36,12 @@
       </li>
       <li><strong>A/R: Aggravating / Relieving Factors</strong>
         <ul>
-          <li class="General"><em>Worse with</em>: </li>
           <li class="General">Physical exertion? </li>
           <li class="General">Mental effort? </li>
           <li class="General">Stress?</li>
           <li class="General">Fasting</li>
           <li><br>
           </li>
-          <li class="General"><b>Better with</b>: </li>
           <li class="General"><b>rest</b> </li>
           <li class="General">sleep?</li>
           <li><br>
@@ -52,9 +50,9 @@
       </li>
       <li><strong>C: Character / Type</strong>
         <ul>
-          <li class="General">Is it more&nbsp;</li>
-          <li class="General"><b>physical</b> ("heavy," weak) or&nbsp;</li>
+          <li class="General"><b>physical</b> ("heavy," weak) or </li>
           <li class="General"><b>mental</b> ("brain fog," poor concentration)?</li>
+          <li class="General"><b>sleepy</b></li>
         </ul>
       </li>
       <li><strong>R: Radiation</strong>
@@ -88,6 +86,7 @@
               <li class="endocrine">feeling cold</li>
             </ol>
             <li class="endocrine">DM</li>
+            <li class="endocrine">DI</li>
           </ol>
           <li class="cns"><b>neuro:</b> </li>
           <li class="cvs"><b>cardio:</b> </li>
@@ -177,6 +176,8 @@
             </ul>
             <li class="hematology">BM suppression</li>
             <li class="infectious">Recurrent infections</li>
+            <li class="infectious"><br>
+            </li>
             <li class="hematology"><em>Bleeding</em></li>
             <li class="gynob">Menstrual</li>
             <li class="nephro">urine</li>
@@ -228,7 +229,219 @@
         Fatigue Syndrome (ME/CFS)</li>
       <li class="gastrointestinal"><b>Gastrointestinal:</b> Malabsorption (e.g.,
         Celiac disease)</li>
-    </ul>
+
+      <!-- S: Site (N/A) -> Severity & Sleep -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Severity & Sleep Quality</span>
+          <ul>
+            <li><b>SLEEP HYGIENE:</b>
+                <ul>
+                    <li>How many hours do you sleep? Is it restorative (do you feel fresh upon waking)?</li>
+                    <li>Do you have trouble falling asleep (onset insomnia) or staying asleep (maintenance)?</li>
+                    <li><b>Snoring / Apnea:</b> Do you snore or stop breathing? (Partner's report).</li>
+                </ul>
+            </li>
+            <li><b>FUNCTIONAL SEVERITY:</b>
+                <ul>
+                    <li>"Can you do your normal daily activities, or do you have to stop and rest?"</li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"How are you sleeping at night? Even after a full night's sleep, do you still wake up feeling exhausted?"</span>
+      </div>
+
+      <!-- O: Onset -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>O</strong>: Onset</span>
+          <ul>
+            <li><b>SUDDEN:</b>
+                <ul>
+                    <li class="infectious">Post-viral (e.g., Flu, COVID, EBV).</li>
+                    <li class="psych">Acute life stressor / Grief.</li>
+                    <li class="cardiac">Cardiac event.</li>
+                </ul>
+            </li>
+            <li><b>GRADUAL:</b>
+                <ul>
+                    <li class="endocrine">Hypothyroidism, Diabetes.</li>
+                    <li class="hematology">Anemia.</li>
+                    <li class="oncology">Malignancy.</li>
+                </ul>
+            </li>
+            <li><b>NEW MEDICATION?</b> (Beta-blockers, Antihistamines, Antidepressants, Sedatives).</li>
+          </ul>
+        </div>
+        <span class="verbal">"When did you start feeling this way? Did it start after a specific illness, or did it creep up on you slowly?"</span>
+      </div>
+
+      <!-- D: Duration -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>D</strong>: Duration</span>
+           <ul>
+            <li>Acute (&lt; 1 month) vs. Prolonged (1-6 months) vs. Chronic (&gt; 6 months e.g., CFS).</li>
+          </ul>
+        </div>
+        <span class="verbal">"How long has this been going on?"</span>
+      </div>
+
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A/R</strong>: Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li><b>AGGRAVATING:</b>
+                <ul>
+                    <li>Mental effort ("Brain Fog").</li>
+                    <li><b>Post-Exertional Malaise:</b> Severe crash after minor physical activity (Classic ME/CFS).</li>
+                    <li>Heavy meals (Post-prandial somnolence - Insulin resistance).</li>
+                </ul>
+            </li>
+             <li><b>RELIEVING:</b>
+                <ul>
+                    <li>Does rest actually help? (In organic disease/cancer, rest often doesn't help).</li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Does resting make you feel better? How do you feel after you try to exercise?"</span>
+      </div>
+
+      <!-- C: Character -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>C</strong>: Character / Type</span>
+          <ul>
+            <li><b>TRUE FATIGUE:</b> "Heavy limbs," "No energy," "Washed out."</li>
+            <li><b>SOMNOLENCE (Sleepiness):</b> "Fighting to stay awake," falling asleep driving/reading. (Suggests Sleep Apnea/Narcolepsy).</li>
+            <li><b>DYSPNEA (Breathlessness):</b> "I get tired walking up stairs" = might actually be air hunger. (Suggests Heart/Lung issue).</li>
+            <li><b>WEAKNESS:</b> "I can't lift my arms." (Suggests Neuromuscular issue).</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is it that you feel sleepy and might doze off, or is it that your body feels heavy and weak? Or do you feel out of breath?"</span>
+      </div>
+
+      <!-- R: Radiation (Systemic Review) -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Systemic Review (Search for Cause)</span>
+        </div>
+        <span class="verbal">"Fatigue can be caused by many things, so I need to ask a broad range of questions."</span>
+      </div>
+
+      <!-- A: Associated Symptoms -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A</strong>: Associated Symptoms</span>
+          <ul>
+            <li><b>CONSTITUTIONAL:</b> Fever, Night sweats, Weight loss.</li>
+            <li><b>HEMATOLOGY (Anemia/Malignancy):</b>
+                 <ul>
+                    <li class="hematology">Easy bruising, bleeding gums, menorrhagia (heavy periods).</li>
+                 </ul>
+            </li>
+            <li><b>ENDOCRINE:</b>
+                 <ul>
+                    <li class="endocrine"><u>Thyroid:</u> Feeling cold, hair loss, dry skin, constipation.</li>
+                    <li class="endocrine"><u>Diabetes:</u> Polyuria (lots of urine), Polydipsia (thirst).</li>
+                    <li class="endocrine"><u>Addison's:</u> Dizziness on standing, skin pigmentation.</li>
+                 </ul>
+            </li>
+            <li><b>PSYCHIATRIC:</b>
+                 <ul>
+                    <li class="psychiatric">Low mood, anhedonia (loss of pleasure), anxiety.</li>
+                 </ul>
+            </li>
+            <li><b>RESPIRATORY / SLEEP:</b>
+                 <ul>
+                    <li class="respiratory">Snoring, witnessed apneas (stopping breathing).</li>
+                    <li class="respiratory">Cough, shortness of breath.</li>
+                 </ul>
+            </li>
+             <li><b>GASTROINTESTINAL:</b>
+                 <ul>
+                    <li class="gastrointestinal">Change in bowel habits (Celiac, IBD, Malignancy).</li>
+                    <li class="gastrointestinal">Black/Tarry stools (Melena - slow bleed).</li>
+                 </ul>
+            </li>
+             <li><b>INFECTIOUS:</b>
+                 <ul>
+                    <li class="infectious">Lymph node swelling, sore throat (EBV/HIV).</li>
+                 </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Have you noticed any change in your weight, your bowel movements, or your periods? Do you feel cold when others are warm?"</span>
+      </div>
+
+      <!-- P: Progression -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Progression</span>
+        </div>
+        <span class="verbal">"Is the tiredness getting worse, better, or staying the same?"</span>
+      </div>
+
+      <!-- P: Pattern -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Pattern</span>
+          <ul>
+            <li><b>Morning:</b> Wakes up tired? (Sleep Apnea, Depression).</li>
+            <li><b>Evening:</b> Worse as day goes on? (<span class="cns">Myasthenia Gravis</span>).</li>
+            <li><b>Fluctuating:</b> Good days and bad days? (Autoimmune/CFS).</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is there a specific time of day when it hits you the hardest?"</span>
+      </div>
+
+      <!-- E: Effect on life -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>E</strong>: Effect on Life</span>
+          <ul>
+            <li>Impact on work/driving safety.</li>
+            <li>Social isolation.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Are you safe to drive? How is this affecting your work and social life?"</span>
+      </div>
+
+      <!-- R: Red Flags -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Red Flags</span>
+          <ul>
+            <li class="oncology emergency"><b>UNINTENTIONAL WEIGHT LOSS / LUMPS:</b> Malignancy check.</li>
+            <li class="hematology emergency"><b>BONE MARROW FAILURE:</b> Fatigue + Bruising/Bleeding + Recurrent Infections (Leukemia).</li>
+            <li class="gastrointestinal emergency"><b>GI BLEEDING:</b> Black tarry stools (Melena) or vomiting blood.</li>
+            <li class="respiratory emergency"><b>SEVERE SLEEP APNEA:</b> Falling asleep continuously, risk of accidents (driving/machinery).</li>
+            <li class="cns"><b>NEUROLOGICAL DEFICIT:</b> Slurred speech, weakness, balance issues (MS, Stroke, Space Occupying Lesion).</li>
+            <li class="oncology respiratory"><b>SIADH / Hyponatremia:</b> Confusion + Fatigue (Lung Ca).</li>
+            <li class="cardiac emergency"><b>CHEST PAIN / EXERTIONAL DYSPNEA:</b> Heart Failure or Ischemia.</li>
+          </ul>
+        </div>
+        <span class="verbal">"I need to ensure there isn't something serious underlying this. Have you lost weight without trying? Have you noticed any unusual bleeding or lumps?"</span>
+      </div>
+
+      <!-- S: Scale -->
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Scale</span>
+           <ul>
+            <li>0-10 Severity Scale.</li>
+            <li>Epworth Sleepiness Scale (for sleep apnea).</li>
+          </ul>
+        </div>
+        <span class="verbal">"On a scale of 0 to 10, how severe is this fatigue?"</span>
+      </div>
+    </div>
+    
+  
+
     <script src="harsha_iframe_youtube_player.js"></script>
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>

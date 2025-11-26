@@ -8,108 +8,263 @@
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
-    <ul>
-      <li>Onset: When did the confusion start?
-        <ul>
-          <li>Sudden</li>
+    <h4>Confusion / Acute Altered Mental Status</h4>
+    <p></p>
+    <div class="cns nephrology infectious emergency geriatric General">
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: State of Mind / Site of deficit</span>
           <ul>
-            can have a renal cause but have to rule out other causes
-            <li>After a head injury</li>
-            <li>After a stroke</li>
-            <li>After a seizure</li>
-            <li>etc...</li>
+            <li><b>GLOBAL CONFUSION:</b> Generalized disorientation to time, place, or person.</li>
+            <li><b>SPECIFIC DEFICIT:</b>
+                <ul>
+                    <li><u>Expressive/Receptive Aphasia:</u> Difficulty speaking or understanding (Stroke).</li>
+                    <li><u>Memory Loss only:</u> Amnesia.</li>
+                </ul>
+            </li>
+            <li><b>LEVEL OF CONSCIOUSNESS:</b>
+                <ul>
+                    <li>Alert but confused.</li>
+                    <li>Drowsy / Lethargic.</li>
+                    <li>Unresponsive / Comatose.</li>
+                </ul>
+            </li>
           </ul>
-          <li>Gradual</li>
+        </div>
+        <span class="verbal">"Can you tell me your name? Do you know where you are right now? Do you know what year it is?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>O</strong>: Onset</span>
           <ul>
-            can have a renal cause but have to rule out other causes
-            <li>After a head injury</li>
-            <li>Dementia</li>
-            <li>etc...</li>
+            <li><b>SUDDEN (Acute - Delirium):</b>
+                <ul>
+                    <li class="nephrology"><b>Renal Cause:</b> Acute Kidney Injury, Electrolyte imbalance (Na+, Ca++).</li>
+                    <li class="trauma"><b>After Head Injury:</b> Concussion, Subdural/Extradural Hemorrhage.</li>
+                    <li class="cns"><b>After a Stroke (CVA):</b> Sudden onset vascular event.</li>
+                    <li class="cns"><b>After a Seizure:</b> Post-ictal state.</li>
+                    <li class="endocrine"><b>Hypoglycemia:</b> Rapid onset in diabetics.</li>
+                    <li class="infectious"><b>Sepsis / Malaria.</b></li>
+                </ul>
+            </li>
+            <li><b>GRADUAL (Chronic - Dementia):</b>
+                <ul>
+                    <li class="nephrology"><b>Chronic Renal Failure:</b> Uremic encephalopathy (rule out acute on chronic).</li>
+                    <li class="cns"><b>Dementia:</b> Alzheimer's, Vascular, Lewy Body (months to years).</li>
+                    <li class="oncology"><b>Brain Tumor:</b> Gradual mass effect.</li>
+                    <li class="trauma"><b>Chronic Subdural Hematoma:</b> (Weeks after minor head injury in elderly).</li>
+                    <li class="psych"><b>Depression:</b> "Pseudodementia".</li>
+                </ul>
+            </li>
           </ul>
-        </ul>
-      </li>
-      <li>Duration: How long has the confusion been present?</li>
-      <li>A/R:</li>
-      <ol>
-        <li>Aggravated by:</li>
-        <ol>
-          <li>Triggers: ppt?</li>
-          <li>anti histamines</li>
-          <li>opiods</li>
-          <li>Sleed aids</li>
-        </ol>
-        <li>Relieved by:</li>
-      </ol>
-      <li>Character/Type:</li>
-      <ol>
-        <li>Agitated</li>
-        <li>Memory loss</li>
-        <li>Disoriented</li>
-        <li>Delirious</li>
-        <li>drowsy</li>
-      </ol>
-      <li>Radiation:</li>
-      <li>Associated Symptoms:</li>
-      <ul>
-        <li>CNS</li>
-        <ul>
-          <li>Seizures</li>
-          <li>memory loss</li>
-        </ul>
-        <li>UTI</li>
-        <ul>
-          <li>fever</li>
-          <li>Decreased urine output</li>
-        </ul>
-        <li>CVS</li>
-        <ul>
-          <li>Swelling of legs</li>
-          <li>SOB</li>
-        </ul>
-        <li>Resp</li>
-        <ul>
-          <li>fever</li>
-          <li>cough</li>
-          <li>SOB</li>
-        </ul>
-        <li>Malaria</li>
-        <ul>
-          <li>cerabral</li>
-        </ul>
-        <li><em>Constipation</em></li>
-        <li>Nausea/vomiting</li>
-      </ul>
-      <li>Progression: Has the confusion been getting worse?</li>
-      <li>Pattern: </li>
-      <ul>
-        <li>Constant or</li>
-        <li>intermittent?</li>
-        <ul>
-          <li>delirium</li>
-        </ul>
-      </ul>
-      <li>E: Effect on life</li>
-      <li>R: Red flag</li>
-      <ul>
-        <li>FAST </li>
-        <li>fits</li>
-        <li>Meningitis </li>
-        <ul>
-          <li>Rash</li>
-          <li>fever</li>
-          <li>headache</li>
-          <li>neck stiffness</li>
-        </ul>
-        <li>encephalitis<br>
-        </li>
-      </ul>
-      <li>S: severity scale</li>
-      <ul>
-        <li><strong>AMTS,</strong></li>
-        <li><strong>4AT</strong></li>
-        <li><strong>CAM)</strong></li>
-      </ul>
-    </ul>
+        </div>
+        <span class="verbal">"When did the confusion start? Did it happen suddenly in a few hours, or have you noticed a slow decline over months?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>D</strong>: Duration</span>
+           <ul>
+            <li>Hours/Days (Suggests Delirium).</li>
+            <li>Months/Years (Suggests Dementia).</li>
+          </ul>
+        </div>
+        <span class="verbal">"How long has the confusion been present?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A/R</strong>: Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li><b>AGGRAVATED BY (Triggers/Precipitants):</b>
+                <ul>
+                    <li><b>Medications (PINCH ME):</b>
+                        <ul>
+                            <li><u>Opioids</u> (Morphine, Tramadol).</li>
+                            <li><u>Anti-histamines</u> (sedating types).</li>
+                            <li><u>Sleep aids</u> (Benzodiazepines, Z-drugs).</li>
+                            <li>Steroids, Anticholinergics.</li>
+                        </ul>
+                    </li>
+                    <li><b>Substances:</b> Alcohol intoxication or <b>Withdrawal</b>.</li>
+                    <li><b>Environment:</b> Change of scenery (hospitalization), sleep deprivation.</li>
+                </ul>
+            </li>
+            <li><b>RELIEVED BY:</b>
+                <ul>
+                    <li>Familiar faces/environment.</li>
+                    <li>Reorientation cues (clocks, calendars).</li>
+                    <li>Correction of underlying cause (e.g., fluids, oxygen).</li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Did they start any new medicines recently, like sleeping pills or strong painkillers? Does anything seem to make them more lucid?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>C</strong>: Character / Type of Confusion</span>
+          <ul>
+            <li><b>HYPERACTIVE (Agitated):</b>
+                <ul>
+                    <li>Restless, aggressive, pulling at lines, wandering.</li>
+                    <li><u>Delirious:</u> Hallucinations (visual/auditory), paranoia.</li>
+                </ul>
+            </li>
+             <li><b>HYPOACTIVE (Drowsy):</b>
+                <ul>
+                    <li>Withdrawn, sleepy, sluggish response, reduced motor activity. (Often missed).</li>
+                </ul>
+            </li>
+             <li><b>COGNITIVE DEFICIT:</b>
+                <ul>
+                    <li><u>Memory Loss:</u> Short term vs. Long term.</li>
+                    <li><u>Disoriented:</u> To Time, Place, or Person.</li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"How are they behaving? Are they agitated and restless, or are they unusually drowsy and quiet? Are they seeing things that aren't there?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Recent History / Radiation (Context)</span>
+          <ul>
+            <li><b>Recent Head Trauma:</b> Even minor falls in elderly (Subdural).</li>
+            <li><b>Recent Travel:</b> <span class="infectious">Malaria risk areas.</span></li>
+            <li><b>Recent Surgery/Hospitalization.</b></li>
+          </ul>
+        </div>
+        <span class="verbal">"Have they had a fall or hit their head recently? Have they traveled anywhere recently?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>A</strong>: Associated Symptoms (Systemic Search)</span>
+          <ul>
+            <li><b>CNS (Neurological):</b>
+                 <ul>
+                    <li class="cns"><u>Seizures / Fits:</u> Post-ictal confusion.</li>
+                    <li class="cns"><u>Memory Loss:</u> Progressive or acute.</li>
+                    <li class="cns"><u>Focal weakness/Speech slurring:</u> Stroke.</li>
+                    <li class="cns"><u>Headache/Neck Stiffness:</u> Meningitis.</li>
+                 </ul>
+            </li>
+            <li><b>URINARY (UTI - Commonest cause in elderly):</b>
+                 <ul>
+                    <li class="infectious">Fever (or hypothermia).</li>
+                    <li class="nephrology">Decreased urine output (Renal failure/Dehydration).</li>
+                    <li class="urology">Dysuria, urgency, foul-smelling urine.</li>
+                 </ul>
+            </li>
+            <li><b>RESPIRATORY (Hypoxia/Infection):</b>
+                 <ul>
+                    <li class="respiratory">Shortness of Breath (SOB).</li>
+                    <li class="infectious">Cough, Sputum, Fever (Pneumonia).</li>
+                 </ul>
+            </li>
+            <li><b>CVS (Cardiovascular):</b>
+                 <ul>
+                    <li class="cardiac">Swelling of legs (Heart Failure).</li>
+                    <li class="cardiac">SOB / Orthopnea.</li>
+                    <li class="cardiac">Palpitations (Arrhythmia -> clots -> stroke).</li>
+                 </ul>
+            </li>
+             <li><b>GASTROINTESTINAL:</b>
+                 <ul>
+                    <li class="git"><b>Constipation:</b> (Major precipitant of delirium in elderly).</li>
+                    <li class="git">Nausea / Vomiting.</li>
+                    <li class="git">Jaundice / Flapping Tremor (Hepatic Encephalopathy).</li>
+                 </ul>
+            </li>
+            <li><b>INFECTIOUS / SYSTEMIC:</b>
+                 <ul>
+                    <li class="infectious"><b>Malaria:</b> Cerebral malaria (fever, chills, travel).</li>
+                    <li class="endocrine"><b>Hypoglycemia:</b> Sweating, tremor, hunger.</li>
+                 </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"We need to check everything. Have they had a fever or cough? Have they been constipated? Have they been passing urine normally?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Progression</span>
+          <ul>
+            <li><b>Worsening:</b> Rapid decline suggests acute delirium or rapidly expanding lesion (bleed/tumor).</li>
+            <li><b>Stable:</b> Suggests established dementia.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Has the confusion been getting worse day by day?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>P</strong>: Pattern</span>
+          <ul>
+            <li><b>INTERMITTENT / FLUCTUATING:</b>
+                <ul>
+                    <li><span class="geriatric">Classic for <b>Delirium</b>.</span> Lucid intervals followed by confusion.</li>
+                    <li>"Sundowning" (Worse at night).</li>
+                </ul>
+            </li>
+            <li><b>CONSTANT:</b>
+                <ul>
+                    <li>More typical of advanced Dementia or severe structural brain damage.</li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Does the confusion come and go? Are they better in the morning and worse at night?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>E</strong>: Effect on life</span>
+          <ul>
+            <li><b>Safety Risks:</b> Wandering, leaving gas/stove on, falls risk.</li>
+            <li><b>Self Care:</b> Inability to wash, dress, or eat.</li>
+            <li><b>Carer Strain:</b> Impact on family members.</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is it safe for them to be alone? Can they still dress and feed themselves?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>R</strong>: Red Flags (Life-Threatening Causes)</span>
+          <ul>
+            <li class="cns emergency"><b>FAST:</b> Face drooping, Arm weakness, Speech difficulty (Stroke).</li>
+            <li class="infectious emergency"><b>MENINGITIS:</b> Rash (non-blanching), Fever, Headache, Neck stiffness, Photophobia.</li>
+            <li class="infectious emergency"><b>ENCEPHALITIS:</b> Fever + Altered behavior/Personality change + Seizures.</li>
+            <li class="cns emergency"><b>FITS (Seizures):</b> Active fitting or post-ictal state.</li>
+            <li class="endocrine emergency"><b>HYPOGLYCEMIA:</b> Low blood sugar (Check immediately).</li>
+            <li class="trauma emergency"><b>HEAD INJURY:</b> Risk of intracranial bleed.</li>
+            <li class="respiratory emergency"><b>HYPOXIA:</b> Low oxygen saturation.</li>
+          </ul>
+        </div>
+        <span class="verbal">"I need to make sure we aren't missing a medical emergency. Do they have a stiff neck or a rash? Have they had any seizures?"</span>
+      </div>
+
+      <div class="point">
+        <div class="point-content">
+          <span class="description"><strong>S</strong>: Severity / Screening Tools</span>
+          <ul>
+            <li><b>AMTS</b> (Abbreviated Mental Test Score).</li>
+            <li><b>4AT</b> (Rapid clinical test for Delirium).</li>
+            <li><b>CAM</b> (Confusion Assessment Method - Diagnostic for Delirium).</li>
+            <li><b>GCS</b> (Glasgow Coma Scale - for consciousness level).</li>
+          </ul>
+        </div>
+        <span class="verbal">"We will do a quick memory test to see how severe the confusion is."</span>
+      </div>
+    </div>
+    
     <p><br>
     </p>
     <hr>
