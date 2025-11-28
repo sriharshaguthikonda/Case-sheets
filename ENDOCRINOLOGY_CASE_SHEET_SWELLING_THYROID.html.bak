@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -57,15 +56,10 @@
         + others)</summary>
       <iframe src="Tremor_and_Sweating_case_sheet_part.html" frameborder="0"></iframe>
     </details>
-
-
     <details>
       <summary class="h4"><strong>2<sup>nd</sup> COMPLAINT: Sweating</strong>(Neuro
         + others)</summary>
-      <iframe src="Sweating_case_sheet_part.html" frameborder="0"></iframe>
-    </details>
-
-
+      <iframe src="Sweating_case_sheet_part.html" frameborder="0"></iframe> </details>
     <details>
       <summary class="h4"><strong>3<sup>rd</sup> COMPLAINT : Weight loss</strong></summary>
       <iframe src="Weight_loss_case_sheet_part.html" frameborder="0"></iframe> </details>
@@ -270,9 +264,7 @@
     <details open="">
       <summary class="h3">GENERAL EXAMINATION</summary>
       <div class="video-container"> <iframe id="youtube-player" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
-
           title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
           allowfullscreen="" frameborder="0"></iframe> </div>
       <ol>
         <li>CONSCIOUS</li>
@@ -361,6 +353,9 @@
     </ol>
     <hr>
     <h3>LOCAL EXAMINATION</h3>
+    <div class="video-container"> <iframe id="youtube-player-local" src="https://www.youtube.com/embed/rcpFYuE7nPk?enablejsapi=1"
+        title="Thyroid Examination by Dr Ankur #GotAspirEd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen="" frameborder="0"></iframe> </div>
     <h4>CHAPERONE</h4>
     <ol>
       <li><strong>INSPECTION</strong> (<a class="timestamp" href="https://www.youtube.com/watch?v=rcpFYuE7nPk&amp;t=150s">Video

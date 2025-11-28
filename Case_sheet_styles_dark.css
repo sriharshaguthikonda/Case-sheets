@@ -349,7 +349,7 @@ li::after {
 }
 
 .infectious::after { 
-    border-left: 5px solid #7777000!important; /* Inverted from #8888ff */
+    border-left: 5px solid #777700!important; /* Inverted from #8888ff */
 }
 
 .gynob { 
@@ -577,36 +577,4 @@ strong {
 .affected-drug { 
     font-style: italic!important; 
     color: #1f1f1f!important; /* Inverted from #e0e0e0 */
-}
-}
-
-.enzyme-header { 
-    color: #87ceeb!important; 
-    font-weight: bold!important; 
-}
-
-.substrate-list { 
-    margin-left: 15px!important; 
-}
-
-.interaction-high { 
-    color: #66ffee!important; 
-}
-
-.interaction-mod { 
-    color: #66b3ff!important; 
-}
-
-.interaction-low { 
-    color: #8888ff!important; 
-}
-
-.herb-name { 
-    font-weight: bold!important; 
-    color: #90ee90!important; 
-}
-
-.affected-drug { 
-    font-style: italic!important; 
-    color: #e0e0e0!important;
 }
