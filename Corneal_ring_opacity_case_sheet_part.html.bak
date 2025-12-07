@@ -71,7 +71,7 @@
                 <li class="ortho-specific">Any recent trauma to the eye?</li>
               </ul>
             </li>
-            <li class="cvs">CARDIOVASCULAR CLUES (for Arcus Senilis)
+            <li class="h4 cvs">CARDIOVASCULAR CLUES (for Arcus Senilis)
               <ul>
                 <li class="cvs">Any history of high cholesterol?</li>
                 <li class="cvs">Personal or strong family history of heart
@@ -81,7 +81,7 @@
                   especially eyelids (xanthelasma) or tendons?</li>
               </ul>
             </li>
-            <li class="cns git">NEUROLOGICAL &amp; LIVER CLUES (for
+            <li class="h4 cns git">NEUROLOGICAL &amp; LIVER CLUES (for
               Kayser-Fleischer Ring / Wilson's Disease)
               <ul>
                 <li class="cns">Any tremor, clumsiness, or changes in your

@@ -3,238 +3,269 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title> Memory_issues_Framework_case_sheet_part</title>
-    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
-    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <link href="Case_sheet_styles.css" id="light-styles" rel="stylesheet">
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+      title="dark">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
     <div class="General">
       <h3>1ST COMPLAINT: MEMORY ISSUES / COGNITIVE CONCERNS</h3>
-      <li class="point"> <span class="description"><strong>Collateral History
-            Source</strong></span><strong> <span class="verbal">"Hello, thank
-            you for coming in today with [Patient's Name]. Since we're talking
-            about memory, the information you can provide as a
-            [partner/child/carer] is incredibly valuable. What are the main
-            changes you've noticed?"</span>
-          <ul>
-            <li>Establish source and relationship. Confirm patient's consent for
-              collateral history.</li>
-          </ul>
-        </strong></li>
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>Collateral
+              History Source</strong></span><strong>
+            <ul>
+              <li>Establish source and relationship. Confirm patient's consent
+                for collateral history.</li>
+            </ul>
+          </strong></div>
+        <span class="verbal">"Hello, thank you for coming in today with
+          [Patient's Name]. Since we're talking about memory, the information
+          you can provide as a [partner/child/carer] is incredibly valuable.
+          What are the main changes you've noticed?"</span></div>
       <strong>
         <!-- O: Onset -->
-        <li class="point"> <span class="description"><strong>O</strong>: Onset</span>
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>O</strong>:
+              Onset</span>
+            <ul>
+              <li><b>ACUTE / SUBACUTE (Hours to Weeks):</b> </li>
+              <ul>
+                <li><span class="cns emergency">Delirium (secondary to
+                    infection, metabolic cause, medication).</span></li>
+              </ul>
+              <li><b>INSIDIOUS / GRADUAL (Months to Years):</b> </li>
+              <ul>
+                <li><span class="cns">&nbsp;neurodegenerative process like
+                    Dementia.</span></li>
+              </ul>
+            </ul>
+          </div>
           <span class="verbal">"When did you first start noticing these memory
             problems? Was it a sudden change over a few days, or a very gradual
-            decline over months or years?"</span>
-          <ul>
-            <li><b>ACUTE / SUBACUTE (Hours to Weeks):</b> </li>
-            <ul>
-              <li><span class="cns emergency">Delirium (secondary to infection,
-                  metabolic cause, medication).</span></li>
-            </ul>
-            <li><b>INSIDIOUS / GRADUAL (Months to Years):</b> </li>
-            <ul>
-              <li><span class="cns">&nbsp;neurodegenerative process like
-                  Dementia.</span></li>
-            </ul>
-          </ul>
-        </li>
+            decline over months or years?"</span></div>
         <!-- P: Progression -->
-        <li class="point"> <span class="description"><strong>P</strong>:
-            Progression</span> <span class="verbal">"Since the problems
-            started, have they been getting progressively worse, or have they
-            been fluctuating day-to-day?"</span>
-          <ul>
-            <li class="cns"><b>Steadily Progressive:</b> <span class="cns">Classic
-                for Alzheimer's Disease.</span></li>
-            <li class="cns cvs"><b>Stepwise Decline:</b> <span class="cns cvs">Suggests
-                Vascular Dementia.</span></li>
-            <li class="cns"><b>Fluctuating Course:</b> <span class="cns">Suggests
-                Delirium or Dementia with Lewy Bodies (DLB).</span></li>
-          </ul>
-        </li>
-        <!-- C: Character (The Core Cognitive Domains) -->
-        <li class="point"> <span class="description"><strong>C</strong>:
-            Character of Cognitive Deficits</span> <span class="verbal">"Let's
-            talk about the memory itself. What kind of things are being
-            forgotten? And have you noticed any other difficulties, for example
-            with language or tasks?"</span>
-          <ul>
-            <li><b>Memory (Amnesia):</b>
-              <ul>
-                <li class="cns">Difficulty learning new information (repeating
-                  questions, forgetting recent events)?</li>
-                <li class="cns">Forgetting names of family, well-known facts?</li>
-              </ul>
-            </li>
-            <li><b>Language (Aphasia):</b>
-              <ul>
-                <li class="cns"><b><u>Word</u></b>-<b><u>finding </u></b>difficulties?
-                  Using wrong words or vague terms?</li>
-              </ul>
-            </li>
-            <li><b>Executive Function:</b>
-              <ul>
-                <li class="cns">Problems with <b><u>planning</u></b>, managing
-                  finances, cooking a familiar meal, problem-solving?</li>
-              </ul>
-            </li>
-            <li><b>Visuospatial Skills:</b>
-              <ul>
-                <li class="cns">Getting lost in familiar places? Difficulty
-                  judging distances or recognizing objects/faces?</li>
-              </ul>
-            </li>
-            <li><b>Skilled Tasks (Apraxia):</b>
-              <ul>
-                <li class="cns">Difficulty with familiar tasks like using a
-                  remote control or getting dressed?</li>
-                <li class="cns">are you finding it difficult to do taks that you
-                  used to do?</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <!-- A: Associated Symptoms -->
-        <li class="point"> <span class="description"><strong>A</strong>:
-            Associated Symptoms</span> <span class="verbal">"Alongside the
-            memory problems, have you noticed any changes in mood, behaviour, or
-            physical abilities?"</span>
-          <ul>
-            <li><b>Psychiatric / Behavioural:</b>
-              <ul>
-                <li class="psychiatric">Depression (low mood, apathy,
-                  tearfulness) - "Pseudodementia"</li>
-                <li class="psychiatric">Anxiety, agitation, or aggression</li>
-                <li class="cns psychiatric">Hallucinations </li>
-                <ul>
-                  <li class="cns psychiatric">(especially visual, suggests <b><u>DLB</u></b>)
-                    or delusions (paranoia)</li>
-                </ul>
-                <li class="psychiatric">Changes in <b><u>personality </u></b>or
-                  social inhibition</li>
-                <ul>
-                  <li class="psychiatric">FTD</li>
-                </ul>
-              </ul>
-            </li>
-            <li><b>Neurological:</b>
-              <ul>
-                <li class="cns"><b><u>Gait </u></b>disturbance (shuffling,
-                  unsteady) or falls -&gt;&nbsp;<span class="cns"></span></li>
-                <ul>
-                  <li class="cns"><span class="cns"><b><u>NPH</u></b>,&nbsp;</span></li>
-                  <li class="cns"><span class="cns"><b><u>Parkinson</u></b>'s,&nbsp;</span></li>
-                  <li class="cns"><span class="cns"><b><u>DLB</u></b>, <br>
-                    </span></li>
-                  <li class="cns"><span class="cns">Vascular</span></li>
-                  <li class="cns"><span class="cns">B12<br>
-                    </span></li>
-                </ul>
-                <li class="cns">Parkinsonism (tremor, stiffness, slowness)
-                  -&gt;&nbsp;<span class="cns"></span></li>
-                <ul>
-                  <li class="cns"><span class="cns">Parkinson's ,</span></li>
-                  <li class="cns"><span class="cns">DLB</span></li>
-                </ul>
-                <li class="cns">Headaches, seizures, focal weakness</li>
-              </ul>
-            </li>
-            <li><b>Systemic (Screen for Reversible Causes):</b>
-              <ul>
-                <li class="General">Fatigue, weight changes, feeling cold (<b>Hypothyroidism</b>)</li>
-                <li class="cns">(<em>B12 </em>deficiency)</li>
-                <ul>
-                  <li class="cns"><strong>Pins and needles, <br>
-                    </strong></li>
-                  <li class="cns"><strong>balance issues</strong></li>
-                  <li class="cns"><strong></strong>Anemia sx</li>
-                </ul>
-                <li class="respiratory">Snoring, witnessed apneas, daytime
-                  sleepiness (<b><u>Sleep </u><u>Apnea</u></b>)</li>
-                <li class="infectious">(<em>Delirium</em>)</li>
-                <ul>
-                  <li class="infectious"><strong>Fever or other infections</strong></li>
-                </ul>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <!-- E: Effect on life (Functional Impact) -->
-        <li class="point"> <span class="description"><strong>E</strong>: Effect
-            on Life (Function)</span> <span class="verbal">"How are these
-            changes affecting day-to-day life? Is there any difficulty with
-            managing finances, medications, cooking, or personal care like
-            washing and dressing?"</span>
-          <ul>
-            <li class="General"><b>Instrumental ADLs:</b> Managing money,
-              shopping, cooking, transportation, using the phone.</li>
-            <li class="General"><b>Basic ADLs:</b> Bathing, dressing, grooming,
-              toileting, feeding.</li>
-            <li class="cns"><b>Safety Concerns:</b> Driving, wandering, leaving
-              the stove on.</li>
-            <li class="General"><b>(Note: Impairment in IADLs/ADLs is what
-                separates dementia from Mild Cognitive Impairment).</b></li>
-          </ul>
-        </li>
-        <!-- R: Risk Factors -->
-        <li class="point"> <span class="description"><strong>R</strong>: Risk
-            Factors</span> <span class="verbal">"I need to ask about some past
-            history. Is there a family history of dementia? Any history of
-            stroke, heart disease, or head injuries?"</span>
-          <ul>
-            <li class="cns">Family history of dementia</li>
-            <li class="cvs">Cardiovascular risk factors (Hypertension, Diabetes,
-              High Cholesterol, Smoking)</li>
-            <li class="cns">History of stroke or TIA</li>
-            <li class="ortho-specific cns">Significant past head injury</li>
-            <li class="psychiatric">History of depression</li>
-            <li class="General">Alcohol excess</li>
-          </ul>
-        </li>
-        <!-- I: Insight -->
-        <li class="point"> <span class="description"><strong>Insight</strong></span><strong>
-            <span class="verbal">(To patient) "Are you aware of any problems
-              with your memory?" (To informant) "Do they seem aware or concerned
-              about these changes?"</span>
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>P</strong>:
+              Progression</span>
             <ul>
-              <li class="cns">Anosognosia (poor insight) is common in many
-                dementias.</li>
-              <li class="psychiatric">Patients with depression often have good
-                insight and are very worried about their memory.</li>
+              <li class="cns"><b>Steadily Progressive:</b> <span class="cns">Classic
+                  for Alzheimer's Disease.</span></li>
+              <li class="cns cvs"><b>Stepwise Decline:</b> <span class="cns cvs">Suggests
+                  Vascular Dementia.</span></li>
+              <li class="cns"><b>Fluctuating Course:</b> <span class="cns">Suggests
+                  Delirium or Dementia with Lewy Bodies (DLB).</span></li>
             </ul>
-          </strong></li>
+          </div>
+          <span class="verbal">"Since the problems started, have they been
+            getting progressively worse, or have they been fluctuating
+            day-to-day?"</span></div>
+        <!-- C: Character (The Core Cognitive Domains) -->
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>C</strong>:
+              Character of Cognitive Deficits</span>
+            <ul>
+              <li><b>Memory (Amnesia):</b>
+                <ul>
+                  <li class="cns">Difficulty learning new information (repeating
+                    questions, forgetting recent events)?</li>
+                  <li class="cns">Forgetting names of family, well-known facts?</li>
+                </ul>
+              </li>
+              <li><b>Language (Aphasia):</b>
+                <ul>
+                  <li class="cns"><b><u>Word</u></b>-<b><u>finding </u></b>difficulties?
+                    Using wrong words or vague terms?</li>
+                </ul>
+              </li>
+              <li><b>Executive Function:</b>
+                <ul>
+                  <li class="cns">Problems with <b><u>planning</u></b>,
+                    managing finances, cooking a familiar meal, problem-solving?</li>
+                </ul>
+              </li>
+              <li><b>Visuospatial Skills:</b>
+                <ul>
+                  <li class="cns">Getting lost in familiar places? Difficulty
+                    judging distances or recognizing objects/faces?</li>
+                </ul>
+              </li>
+              <li><b>Skilled Tasks (Apraxia):</b>
+                <ul>
+                  <li class="cns">Difficulty with familiar tasks like using a
+                    remote control or getting dressed?</li>
+                  <li class="cns">are you finding it difficult to do taks that
+                    you used to do?</li>
+                </ul>
+              </li>
+              <li>Behaviour</li>
+              <li>personality</li>
+              <li><br>
+                <ul>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <span class="verbal">"Let's talk about the memory itself. What kind of
+            things are being forgotten? And have you noticed any other
+            difficulties, for example with language or tasks?"</span></div>
+        <!-- A: Associated Symptoms -->
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>A</strong>:
+              Associated Symptoms</span>
+            <ul>
+              <li><b>Psychiatric / Behavioural:</b>
+                <ul>
+                  <li class="psychiatric">Depression (low mood, apathy,
+                    tearfulness) - "Pseudodementia"</li>
+                  <li class="psychiatric">Anxiety, agitation, or aggression</li>
+                  <li class="cns psychiatric">Hallucinations </li>
+                  <ul>
+                    <li class="cns psychiatric">(especially visual, suggests <b><u>DLB</u></b>)
+                      or delusions (paranoia)</li>
+                  </ul>
+                  <li class="psychiatric">Changes in <b><u>personality </u></b>or
+                    social inhibition</li>
+                  <ul>
+                    <li class="psychiatric">FTD</li>
+                  </ul>
+                </ul>
+              </li>
+              <li><b>Neurological:</b>
+                <ul>
+                  <li class="cns"><b><u>Gait </u></b>disturbance (shuffling,
+                    unsteady) or falls -&gt;&nbsp;<span class="cns"></span></li>
+                  <ul>
+                    <li class="cns"><span class="cns"><b><u>NPH</u></b>,&nbsp;</span></li>
+                    <li class="cns"><span class="cns"><b><u>Parkinson</u></b>'s,&nbsp;</span></li>
+                    <li class="cns"><span class="cns"><b><u>DLB</u></b>, <br>
+                      </span></li>
+                    <li class="cns"><span class="cns">Vascular</span></li>
+                    <li class="cns"><span class="cns">B12<br>
+                      </span></li>
+                  </ul>
+                  <li class="cns">Parkinsonism (tremor, stiffness, slowness)
+                    -&gt;&nbsp;<span class="cns"></span></li>
+                  <ul>
+                    <li class="cns"><span class="cns">Parkinson's ,</span></li>
+                    <li class="cns"><span class="cns">DLB</span></li>
+                  </ul>
+                  <li class="cns">Headaches, seizures, focal weakness</li>
+                </ul>
+              </li>
+              <li><b>Systemic (Screen for Reversible Causes):</b>
+                <ul>
+                  <li class="General">Fatigue, weight changes, feeling cold (<b>Hypothyroidism</b>)</li>
+                  <li class="cns">(<em>B12 </em>deficiency)</li>
+                  <ul>
+                    <li class="cns"><strong>Pins and needles, <br>
+                      </strong></li>
+                    <li class="cns"><strong>balance issues</strong></li>
+                    <li class="cns"><strong></strong>Anemia sx</li>
+                  </ul>
+                  <li class="respiratory">Snoring, witnessed apneas, daytime
+                    sleepiness (<b><u>Sleep </u><u>Apnea</u></b>)</li>
+                  <li class="infectious">(<em>Delirium</em>)</li>
+                  <ul>
+                    <li class="infectious"><strong>Fever or other infections</strong></li>
+                  </ul>
+                </ul>
+              </li>
+              <li>Electrolyte Disturbances</li>
+              <ul>
+                <li>Na</li>
+                <li>Ca<br>
+                  <ul>
+                  </ul>
+                </li>
+              </ul>
+            </ul>
+          </div>
+          <span class="verbal">"Alongside the memory problems, have you noticed
+            any changes in mood, behaviour, or physical abilities?"</span></div>
+        <!-- E: Effect on life (Functional Impact) -->
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>E</strong>:
+              Effect on Life (Function)</span>
+            <ul>
+              <li class="General"><b>Instrumental ADLs:</b> Managing money,
+                shopping, cooking, transportation, using the phone.</li>
+              <li class="General"><b>Basic ADLs:</b> Bathing, dressing,
+                grooming, toileting, feeding.</li>
+              <li class="cns"><b>Safety Concerns:</b> Driving, wandering,
+                leaving the stove on.</li>
+              <li class="General"><b>(Note: Impairment in IADLs/ADLs is what
+                  separates dementia from Mild Cognitive Impairment).</b></li>
+            </ul>
+          </div>
+          <span class="verbal">"How are these changes affecting day-to-day life?
+            Is there any difficulty with managing finances, medications,
+            cooking, or personal care like washing and dressing?"</span></div>
+        <!-- R: Risk Factors -->
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>R</strong>:
+              Risk Factors</span>
+            <ul>
+              <li class="cns">Family history of dementia</li>
+              <li class="cvs">Cardiovascular risk factors (Hypertension,
+                Diabetes, High Cholesterol, Smoking)</li>
+              <li class="cns">History of stroke or TIA</li>
+              <li class="ortho-specific cns">Significant past head injury</li>
+              <li class="psychiatric">History of depression</li>
+              <li class="General">Alcohol excess</li>
+            </ul>
+          </div>
+          <span class="verbal">"I need to ask about some past history. Is there
+            a family history of dementia? Any history of stroke, heart disease,
+            or head injuries?"</span></div>
+        <!-- I: Insight -->
+        <div class="point">
+          <div class="point-content"> <span class="description"><strong>Insight</strong></span><strong>
+              <ul>
+                <li class="cns">Anosognosia (poor insight) is common in many
+                  dementias.</li>
+                <li class="psychiatric">Patients with depression often have good
+                  insight and are very worried about their memory.</li>
+              </ul>
+            </strong></div>
+          <span class="verbal">(To patient) "Are you aware of any problems with
+            your memory?" (To informant) "Do they seem aware or concerned about
+            these changes?"</span></div>
         <strong>
           <!-- R: Red Flags -->
-          <li class="point"> <span class="description"><strong>R</strong>: Red
-              Flags</span> <span class="verbal">"I'm just summarizing the key
-              warning signs I'm looking for."</span>
-            <ul>
-              <li class="cns emergency"><b>Rapid cognitive decline</b> (over
-                weeks to months)</li>
-              <li class="General emergency"><b>Early onset</b> (&lt; 65 years
-                old)</li>
-              <li class="cns emergency">Associated new <em>focal </em>neurological
-                <em>signs </em>(weakness, visual loss)</li>
-              <li class="cns emergency">Signs of <em>NPH </em>Normal Pressure
-                Hydrocephalus: Cognitive impairment, gait disturbance, and
-                urinary incontinence ("Wet, Wacky, and Wobbly")</li>
-              <li class="cns emergency">Signs of delirium (acute, fluctuating
-                course)</li>
-            </ul>
-          </li>
+          <div class="point">
+            <div class="point-content"> <span class="description"><strong>R</strong>:
+                Red Flags</span>
+              <ul>
+                <li class="cns emergency"><b>Rapid cognitive decline</b> (over
+                  weeks to months)</li>
+                <li class="General emergency"><b>Early onset</b> (&lt; 65 years
+                  old)</li>
+                <li class="cns emergency">Associated new <em>focal </em>neurological
+                  <em>signs </em>(weakness, visual loss)</li>
+                <li class="cns emergency">Signs of <em>NPH </em>Normal
+                  Pressure Hydrocephalus: Cognitive impairment, gait
+                  disturbance, and urinary incontinence ("Wet, Wacky, and
+                  Wobbly")</li>
+                <li class="cns emergency">Signs of delirium (acute, fluctuating
+                  course)</li>
+              </ul>
+            </div>
+            <span class="verbal">"I'm just summarizing the key warning signs I'm
+              looking for."</span></div>
           <!-- S: Scale / Objective Score -->
-          <li class="point"> <span class="description"><strong>S</strong>:
-              Score</span> <span class="verbal">(Clinician to self/patient)
-              "I'm just going to ask a few simple questions to get a baseline of
-              your memory and thinking."</span>
-            <ul>
-              <li>(Perform and document a cognitive screen, e.g., GPCOG, MOCA,
-                ACE-III)</li>
-              <li>MMSE</li>
-            </ul>
-          </li>
+          <div class="point">
+            <div class="point-content"> <span class="description"><strong>S</strong>:
+                Score</span>
+              <ul>
+                <li>(Perform and document a cognitive screen, e.g., GPCOG, MOCA,
+                  ACE-III)</li>
+                <li>MMSE</li>
+              </ul>
+            </div>
+            <span class="verbal">(Clinician to self/patient) "I'm just going to
+              ask a few simple questions to get a baseline of your memory and
+              thinking."</span></div>
         </strong></strong></div>
     <strong><strong>
         <script src="harsha_iframe_youtube_player.js"></script>

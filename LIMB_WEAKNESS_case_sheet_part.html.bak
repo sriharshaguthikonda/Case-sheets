@@ -11,7 +11,6 @@
     <h4>Limb Weakness</h4>
     <p></p>
     <div class="cns General">
-      <h3>1ST COMPLAINT: WEAKNESS IN ARM(S) / LEG(S)</h3>
       <!-- S: Site / Distribution -->
       <div class="point">
         <div class="point-content"> <span class="description"><strong>S</strong>:
@@ -184,7 +183,7 @@
                   Suggests central cause (Brain/Spinal Cord).</li>
               </ul>
             </li>
-            <li><b>BULBAR SYMPTOMS:</b> Difficulty swallowing (Dysphagia),
+            <li><b>BULBAR SYMPTOMS:</b> Difficulty <b><u>swallowing </u></b>(Dysphagia),
               slurred speech (Dysarthria), double vision (Diplopia).
               <ul>
                 <li class="cns emergency"><b>Red Flag: Brainstem lesion, MND,
@@ -226,6 +225,8 @@
             <li>FLUCTUATES during the day (worse in evening):&nbsp;<span class="cns"></span></li>
             <ul>
               <li><span class="cns">Myasthenia Gravis</span></li>
+              <li><span class="cns">multiple sclerosis<br>
+                </span></li>
             </ul>
           </ul>
         </div>
@@ -275,7 +276,6 @@
       </div>
     </div>
     <!-- Scripts can be placed at the end -->
-    <script src="theme-toggle.js"></script>
-    ```
+    <script src="theme-toggle.js"></script> ```
   </body>
 </html>

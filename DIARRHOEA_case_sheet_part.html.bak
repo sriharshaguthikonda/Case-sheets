@@ -129,6 +129,8 @@
               <li><span class="git">Tenesmus (feeling of incomplete evacuation)
                   (Proctitis/IBD)</span>,&nbsp;<span class="git"></span></li>
               <li><span class="git">Urgency, Incontinence</span></li>
+              <li><span class="git">Anxiety - IBS<br>
+                </span></li>
             </ul>
             <li class="rheumatic">EXTRA-INTESTINAL (IBD clues):&nbsp;<span class="rheumatic"></span></li>
             <ul>
@@ -137,8 +139,11 @@
               <li class="rheumatic"><span class="rheumatic">&nbsp;skin rashes
                   (erythema nodosum)</span></li>
             </ul>
-            <li><span>Thryoid<br>
-              </span></li>
+            <li><span>Thryoid</span></li>
+            <ul>
+              <li><span>anxiety, tremor<br>
+                </span></li>
+            </ul>
           </ul>
         </div>
         <span class="verbal">"Along with the diarrhea, have you experienced
@@ -177,11 +182,9 @@
             Red Flags</span>
           <ul>
             <li class="oncology git">Unexplained weight loss</li>
-            <li class="hematology git">Rectal bleeding or iron-deficiency anemia</li>
+            <li class="hematology git">Rectal bleeding or iron-deficiency <b><u>anemia</u></b></li>
             <li class="oncology git">New onset of symptoms in a person &gt; 50
               years old</li>
-            <li class="oncology git">Strong family history of bowel cancer or
-              IBD</li>
             <li class="rheumatic git">Nocturnal symptoms waking the patient from
               sleep</li>
             <li class="emergency infectious">Severe <em>dehydration </em>(dizziness,

@@ -1,0 +1,221 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>FREQUENCY_OF_URINATION_POLYURIA_case_sheet_part</title>
+<link href="Case_sheet_styles.css" id="light-styles" rel="stylesheet"/>
+<link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet" title="dark"/>
+<script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+<button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
+<div class="General">
+<h3>COMPLAINT: URINARY FREQUENCY / POLYURIA</h3>
+<!-- S: Site -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>S</strong>: Site of Associated Pain</span>
+
+<ul>
+<li class="nephro infectious">Pain on urination (Dysuria) -&gt; UTI</li>
+<li class="urology">Suprapubic pain -&gt; Bladder distension / Cystitis</li>
+<li class="nephro">Flank pain -&gt; Pyelonephritis / Stones</li>
+<li class="urology">Perineal pain (between scrotum and anus) -&gt; Prostatitis</li>
+<li class="urology oncology">Bone pain (back, hips, pelvis) -&gt; Metastatic prostate cancer</li>
+</ul>
+</div><span class="verbal">"Do you have any pain associated with this? In your lower abdomen, back, or when you pass urine?"</span></div>
+<!-- O: Onset -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>O</strong>: Onset</span>
+
+<ul>
+<li>ACUTE: <span class="infectious">UTI</span>, <span class="endocrine emergency">New onset Diabetes Mellitus (DKA)</span></li>
+<li>GRADUAL: <span class="urology">Benign Prostatic Hyperplasia (BPH)</span>, <span class="cns">Overactive Bladder</span>, <span class="gynob">Pelvic organ prolapse</span></li>
+<li>POST-PROCEDURAL: After catheterisation, prostate surgery (TURP), pelvic radiotherapy?</li>
+<li>RECURRENT: First episode or had this before? (recurrent UTI)</li>
+</ul>
+</div><span class="verbal">"When did you first notice you were needing to go to the toilet more often? Was it a sudden change?"</span></div>
+<!-- D: Duration -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>D</strong>: Duration</span>
+
+</div><span class="verbal">"How long has this been a problem for you?"</span></div>
+<!-- A/R: Aggravating / Relieving Factors -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>A/R</strong>: Aggravating &amp; Relieving Factors</span>
+
+<ul>
+<li>AGGRAVATING: Caffeine, alcohol, high fluid intake, cold weather.</li>
+<li class="General"><b>Medications that worsen LUTS:</b> Diuretics, anticholinergics, antihistamines, antidepressants, bronchodilators, opioids, calcium channel blockers.</li>
+<li>RELIEVING: Fluid restriction (caution advised), double voiding.</li>
+<li class="urology">Position-related? (Worse lying flat - suggests high residual volume)</li>
+</ul>
+</div><span class="verbal">"Does anything seem to make it worse, for example, drinking coffee or alcohol?"</span></div>
+<!-- C: Character (THE KEY DIFFERENTIATOR) -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>C</strong>: Character (Volume &amp; Timing)</span>
+
+<ul>
+<li><b>High Volume (Polyuria):</b> Passing large amounts each time.
+                        <ul>
+<li class="endocrine">Diabetes Mellitus (osmotic diuresis)</li>
+<li class="endocrine nephro">Diabetes Insipidus</li>
+<li class="psychiatric">Psychogenic Polydipsia</li>
+<li class="nephro">Hypercalcemia</li>
+<li class="nephro">Hypokalemia</li>
+<li class="General">Diuretics / medications</li>
+</ul>
+<li class="endocrine"><b>Which came first</b> - thirst or urination? (Thirst first = primary polydipsia; Urination first = DM/DI)</li>
+<li class="endocrine nephro">Craving <b>ice-cold water</b>? (classic Diabetes Insipidus)</li>
+</li>
+<li><b>Low Volume:</b> Passing small amounts frequently.
+                        <ul>
+<li class="infectious">Bladder irritation (UTI)</li>
+<li class="urology git">Incomplete emptying / Obstruction (BPH)</li>
+<li class="cns">Overactive Bladder (OAB)</li>
+</ul>
+</li>
+<li><b>Nocturia:</b> Waking from sleep to urinate? (How many times?)
+    <ul>
+    <li class="cvs">Ankle swelling during day that goes down overnight? (cardiac/venous - fluid redistribution)</li>
+    <li class="cvs">Orthopnea / PND? (heart failure causing nocturnal diuresis)</li>
+    <li class="General">Drinking fluids late evening?</li>
+    <li class="cns">Sleep apnea? (ANP release)</li>
+    </ul>
+</li>
+</ul>
+</div><span class="verbal">"When you go to the toilet frequently, are you passing a large amount of urine each time, or just small amounts? And is this happening at night as well?"</span></div>
+<!-- R: Radiation -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>R</strong>: Radiation (of Pain)</span>
+
+</div><span class="verbal">"If you have pain, does it travel or spread anywhere?"</span></div>
+<!-- A: Associated Symptoms -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>A</strong>: Associated Symptoms</span>
+
+<ul>
+<li class="urology nephro">OTHER URINARY SYMPTOMS (LUTS)
+                        <ul>
+<li class="cns urology"><b>Urgency:</b> A sudden, desperate need to pass urine?</li>
+<li class="urology"><b>Hesitancy:</b> Trouble starting the flow?</li>
+<li class="urology"><b>Poor Stream:</b> Is the flow weak or intermittent?</li>
+<li class="urology"><b>Terminal Dribbling:</b> Leaking after you've finished?</li>
+<li class="urology"><b>Incontinence:</b> Any leakage? (With cough/sneeze - Stress vs. with urgency - Urge)</li>
+<li class="urology"><b>Incomplete Emptying:</b> Feeling like the bladder isn't empty after you go?</li>
+</ul>
+</li>
+<li class="endocrine">ENDOCRINE / METABOLIC
+                        <ul>
+<li class="endocrine"><b>Polydipsia:</b> Are you excessively thirsty?</li>
+<li class="endocrine">Polyphagia: Increased appetite?</li>
+<li class="endocrine">Unexplained weight loss, fatigue, blurred vision? (Diabetes Mellitus)</li>
+</ul>
+</li>
+<li class="nephro hematology">URINE APPEARANCE
+                        <ul>
+<li class="infectious">Cloudy or foul-smelling? (UTI)</li>
+<li class="hematology nephro">Blood in the urine (Hematuria)?</li>
+<li class="nephro">Frothy urine? (Proteinuria)</li>
+</ul>
+</li>
+<li class="gynob obstetric">GYNAECOLOGICAL
+                        <ul>
+<li class="gynob">Feeling of a lump or pressure down below? (Prolapse)</li>
+<li class="obstetric">Possibility of pregnancy?</li>
+<li class="gynob">Vaginal discharge / atrophic symptoms? (post-menopausal)</li>
+</ul>
+</li>
+<li class="cns">NEUROLOGICAL
+                        <ul>
+<li class="cns">Limb weakness, numbness, tingling? (MS, spinal cord lesion)</li>
+<li class="cns">Back pain with leg symptoms? (cauda equina)</li>
+<li class="cns">Bowel incontinence? (neurogenic bladder)</li>
+<li class="cns">Known MS, Parkinson's, stroke, spinal injury, diabetes (neuropathy)?</li>
+</ul>
+</li>
+<li class="cvs">CARDIOVASCULAR
+                        <ul>
+<li class="cvs">Ankle swelling? (peripheral oedema - causes nocturnal polyuria)</li>
+<li class="cvs">Breathlessness on lying flat? (heart failure)</li>
+</ul>
+</li>
+<li class="urology">SEXUAL / PROSTATE
+                        <ul>
+<li class="urology">Erectile dysfunction? (common with BPH)</li>
+<li class="urology">Pain on ejaculation? (prostatitis)</li>
+<li class="urology">Blood in semen? (haemospermia)</li>
+</ul>
+</li>
+<li class="git">BOWEL
+                        <ul>
+<li class="git">Constipation? (can worsen urinary symptoms, shared nerve supply)</li>
+</ul>
+</li>
+<li class="infectious">SYSTEMIC INFECTION
+                        <ul>
+<li class="infectious">Fever, rigors, feeling unwell? (pyelonephritis, urosepsis)</li>
+</ul>
+</li>
+</ul>
+</div><span class="verbal">"Along with the frequency, have you noticed any other changes in your urination or your general health?"</span></div>
+<!-- P: Progression -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>P</strong>: Progression</span>
+
+</div><span class="verbal">"Since this started, have the symptoms been getting worse?"</span></div>
+<!-- P: Pattern -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>P</strong>: Pattern</span>
+
+<ul>
+<li><b>Day only:</b> OAB, anxiety, habit</li>
+<li><b>Night only (nocturia):</b> Cardiac, fluid redistribution, sleep apnea, nocturnal polyuria</li>
+<li><b>Both day and night:</b> BPH, DM, DI, UTI</li>
+<li><b>Voiding vs Storage:</b> Mainly hesitancy/weak stream (voiding = obstruction) vs urgency/frequency (storage = OAB/irritation)?</li>
+</ul>
+</div><span class="verbal">"Is the frequency more of a problem during the day or at night?"</span></div>
+<!-- E: Effect on life -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>E</strong>: Effect on Life</span>
+
+<ul>
+<li>Impact on sleep due to nocturia</li>
+<li>"Toilet mapping" / Social restriction</li>
+<li>Impact on work and travel</li>
+</ul>
+</div><span class="verbal">"How has this been affecting your daily life? Is it disrupting your sleep or making it difficult to go out?"</span></div>
+<!-- R: Red Flags -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>R</strong>: Red Flags</span>
+
+<ul>
+<li class="cns emergency"><b>Cauda Equina Syndrome:</b> New back pain with bilateral leg weakness/sciatica, saddle anesthesia (numbness around groin/buttocks), or new bowel/bladder incontinence.</li>
+<li class="oncology hematology nephro">Painless gross hematuria (visible blood in urine) -&gt; Malignancy</li>
+<li class="endocrine emergency">Signs of DKA (vomiting, abdominal pain, confusion)</li>
+<li class="infectious nephro emergency">Fever, chills, and flank pain (Pyelonephritis)</li>
+<li class="urology emergency">Acute urinary retention (inability to pass any urine)</li>
+<li class="oncology"><b>Prostate cancer:</b> Weight loss, bone pain (back/hips), new onset ED in older man</li>
+<li class="oncology"><b>Bladder cancer:</b> Painless visible haematuria, smoking history, occupational exposure (dyes, rubber)</li>
+<li class="nephro emergency">Signs of uraemia (nausea, confusion, itch) - chronic retention with renal impairment</li>
+</ul>
+</div><span class="verbal">"I just need to ask some specific questions to make sure we're not missing anything serious."</span></div>
+<!-- S: Scale -->
+<div class="point"><div class="point-content">
+<span class="description"><strong>S</strong>: Severity / Bother Scale</span>
+
+<ul>
+<li>0-10 Bother Scale</li>
+<li class="urology"><b>IPSS (International Prostate Symptom Score)</b> - validated 7-question tool for men</li>
+<li>Bladder diary / frequency-volume chart - 3-day record</li>
+</ul>
+</div><span class="verbal">"On a scale of 1 to 10, how much does this urinary frequency bother you?"</span></div>
+</div>
+<script src="harsha_iframe_youtube_player.js"></script>
+<script src="Iframe_height_mothership.js"></script>
+<script src="Iframe_height.js"></script>
+<script src="theme-toggle.js"></script>
+<script src="double_click_collapse_details.js"></script>
+</body>
+</html>
