@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Prototypical_Management_plan</title>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
     <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
     <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <title>Prototypical Management Plan</title>
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
   <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
     <h3 class="General">MANAGEMENT PLAN</h3>
-    <h4 class="General">Initial Investigations</h4>
+    <h4 class="General">INITIAL INVESTIGATIONS</h4>
     <ul>
       <li class="General"> <em>Consent (ensure informed, check understanding)</em>
       </li>
@@ -20,7 +20,7 @@
             Bone profile (Calcium), LDH, Beta-2 microglobulin</li>
         </ul>
       </li>
-      <li class="General cvs">Imaging:
+      <li class="General">Imaging:
         <ul class="General">
           <li class="nephro urology">Urine dip stick &amp; Bence-Jones Protein
             analysis</li>
@@ -39,7 +39,7 @@
         </ul>
       </li>
     </ul>
-    <h4 class="General">Patient-emotional Plan</h4>
+    <h4 class="General">PATIENT-EMOTIONAL PLAN</h4>
     <ol>
       <li class="General">Want someone to <b><u>listen </u></b>in? (Patient
         partnership)</li>
@@ -54,24 +54,23 @@
     <h3>ICE : Ideas</h3>
     <ol>
       <li>Ideas: "What have you been told so far about this?"</li>
-      <li>can try asking Concerns and expectations</li>
+      <li>Can try asking Concerns and expectations</li>
     </ol>
     <h4>EXPLAIN FINDINGS</h4>
-    <ol class="General">
-      <li class="General">
-        <ul>
-          <li class="hematology oncology">Explain diagnosis of Myeloma (cancer
-            of plasma cells)</li>
-          <li class="hematology oncology">Explain CRAB criteria if present
-            (Hyper<b>C</b>alcemia, <b>R</b>enal impairment, <b>A</b>nemia, <b>B</b>one
-            lesions)</li>
-        </ul>
-      </li>
-    </ol>
+    <ul>
+      <li><b>Negative </b>Findings =&gt; suggesting <b>health</b></li>
+      <li><em>Positive </em>Findings =&gt; suggesting <em>diagnosis</em></li>
+      <li class="hematology oncology">Explain CRAB criteria if present (Hyper<b>C</b>alcemia,
+        <b>R</b>enal impairment, <b>A</b>nemia, <b>B</b>one lesions)</li>
+      <li>Check the understanding</li>
+    </ul>
     <h4>PROVISIONAL DIAGNOSIS</h4>
     <ol class="General">
-      <li class="General">ANATOMICAL:
+      <li class="hematology oncology">Explain diagnosis of Myeloma (cancer of
+        plasma cells) </li>
+      <li class="General"> <b>ANATOMICAL:</b>
         <ul>
+          <li>Explain where is the issue</li>
           <li class="hematology">Bone Marrow</li>
         </ul>
       </li>
@@ -81,8 +80,9 @@
             plasma cells</li>
         </ul>
       </li>
-      <li class="General">PATHOLOGICAL:
+      <li class="General"> <b>PATHOLOGICAL:</b>
         <ul>
+          <li>Explain what is the issue</li>
           <li class="hematology oncology">Marrow infiltration, production of
             monoclonal paraprotein, osteoclast activation</li>
         </ul>
@@ -96,6 +96,11 @@
     </ol>
     <h4 class="General">OBO Urgency</h4>
     <ul>
+      <li class="General">Inform seniors
+        <ol>
+          <li class="General">if he is going to die today or tomorrow?</li>
+        </ol>
+      </li>
       <li class="General">Urgent Admission:
         <ol class="General">
           <li class="hematology oncology emergency">Myeloma complications:
@@ -122,13 +127,25 @@
         </ol>
       </li>
     </ul>
-    <h4 class="General">Treatment Plan</h4>
+    <h4 class="General">TREATMENT PLAN</h4>
     <ul class="General">
       <li class="General">Shared Decision-Making
         <ul>
           <li>Haematologist-led discussion of treatment pathway</li>
           <li>Discuss transplant eligibility (based on age and fitness)</li>
           <li>Discuss risks vs benefits of treatment regimens</li>
+        </ul>
+      </li>
+      <li class="General">Specific treatment:
+        <ul class="hematology oncology">
+          <li> <b>Induction Therapy (Chemotherapy):</b> Based on transplant
+            eligibility.
+            <ul>
+              <li>Common regimens include combinations of Proteasome Inhibitors
+                (e.g., Bortezomib), Immunomodulatory drugs (IMiDs, e.g.,
+                Lenalidomide), and Corticosteroids (e.g., Dexamethasone).</li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li class="General">Supportive Care (Crucial alongside specific
@@ -144,18 +161,6 @@
             vaccines], consider prophylactic antibiotics)</li>
           <li class="cvs">VTE prophylaxis (essential with certain treatments
             like IMiDs)</li>
-        </ul>
-      </li>
-      <li class="General">Specific treatment:
-        <ul class="hematology oncology">
-          <li> <b>Induction Therapy (Chemotherapy):</b> Based on transplant
-            eligibility.
-            <ul>
-              <li>Common regimens include combinations of Proteasome Inhibitors
-                (e.g., Bortezomib), Immunomodulatory drugs (IMiDs, e.g.,
-                Lenalidomide), and Corticosteroids (e.g., Dexamethasone).</li>
-            </ul>
-          </li>
         </ul>
       </li>
       <li class="General">Consent</li>
@@ -192,6 +197,10 @@
     </ol>
     <h4>Patient Education</h4>
     <ul class="General">
+      <li class="General">Infection spread</li>
+      <ul>
+        <li class="General">Infectivity period - stay home</li>
+      </ul>
       <li class="General">Warning Signs/Red Flags (Return immediately if):
         <ul class="hematology oncology emergency">
           <li class="cns emergency">New or worsening severe back pain, leg
@@ -231,6 +240,7 @@
     </ul>
     <h4>Follow Up</h4>
     <ul class="General">
+      <li class="General">If needed</li>
       <li class="General">Type:
         <ul class="General">
           <li class="General">Haematology outpatient clinic</li>
