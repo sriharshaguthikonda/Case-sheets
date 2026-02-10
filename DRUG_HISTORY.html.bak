@@ -9,34 +9,176 @@
   </head>
   <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <div class="General">
-      <!-- Cardiovascular System -->
+      <h3>Medication Review</h3>
+      <p><em>Framework: List &rarr; Purpose &rarr; Taking &rarr; Working &rarr;
+          Side effects &rarr; Monitoring &rarr; Interactions &rarr; Patient
+          goals &rarr; Plan + safety net.</em></p>
+      <ol>
+        <li><strong>Set the scene (agenda + safety)</strong>
+          <ul>
+            <li>Expectations : </li>
+            <ul>
+              <li>&ldquo;What were you hoping to get out of today&rsquo;s
+                medication review?&rdquo;</li>
+            </ul>
+            <li>Concerns : </li>
+            <ul>
+              <li>&ldquo;Any particular worries about your medicines?&rdquo;</li>
+            </ul>
+            <li>&ldquo;Any new diagnoses, hospital visits, or medication changes
+              since we last met?&rdquo;</li>
+            <li>&ldquo;Any urgent symptoms today (e.g., severe breathlessness,
+              chest pain, heavy bleeding, fainting)?&rdquo;</li>
+          </ul>
+        </li>
+        <li><strong>Confirm the full medication list (reconciliation)</strong>
+          <ul>
+            <li>Ask the patient to talk you through EVERYTHING they take: </li>
+            <ul>
+              <li>meds, </li>
+              <li>inhalers, </li>
+              <li>creams/</li>
+              <li>eye drops, </li>
+              <li>PRN meds.</li>
+            </ul>
+            <li>Specifically ask about </li>
+            <ul>
+              <li>OTC meds (e.g., ibuprofen), </li>
+              <li>vitamins/</li>
+              <li>supplements, </li>
+              <li>herbal remedies, </li>
+              <li>recreational drugs.</li>
+            </ul>
+            <li>Confirm </li>
+            <ul>
+              <li>dose/strength, </li>
+              <li>timing, </li>
+              <li>how long they&rsquo;ve been on each, and </li>
+              <li>who prescribed it (GP/hospital/private).</li>
+            </ul>
+            <li>Check</li>
+            <ul>
+              <li>&nbsp;allergies and </li>
+              <li>previous ADRs(what happened, when, severity).</li>
+            </ul>
+          </ul>
+        </li>
+        <li><strong>For each medicine: 5 core questions</strong>
+          <ul>
+            <li><b><u>Purpose</u></b>/understanding: </li>
+            <ul>
+              <li>&ldquo;What do you think this one is for?&rdquo;</li>
+            </ul>
+            <li>Compliance</li>
+            <ul>
+              <li>How they take it ( <b><u>adherence</u></b>): &ldquo;How do
+                you actually take it day to day? Any missed doses? Any
+                barriers?&rdquo;</li>
+            </ul>
+            <li>Effectiveness:</li>
+            <ul>
+              <li>&nbsp;&ldquo;Is it helping? Any targets&mdash;BP, sugars,
+                symptoms&mdash;improving?&rdquo;</li>
+            </ul>
+            <li>Side effects/tolerability: &ldquo;Any new symptoms you think
+              might be from it?&rdquo; (dizziness, falls, GI upset, sleep, mood,
+              sexual SEs).</li>
+            <li>Monitoring/safety: &ldquo;Have you had the necessary
+              checks/blood tests recently?&rdquo; (e.g., renal, LFT,
+              electrolytes, INR, levels).</li>
+          </ul>
+        </li>
+        <li><strong>Practical use (especially devices)</strong>
+          <ul>
+            <li>Inhalers: </li>
+            <ul>
+              <li>check <b><u>technique</u></b>, </li>
+              <li><b><u>spacer </u></b>use, </li>
+              <li>mouth <b>rinsing </b>after steroid inhalers.</li>
+            </ul>
+            <li>Insulin/injections: </li>
+            <ul>
+              <li>check storage, </li>
+              <li>injection technique, </li>
+              <li>rotation sites, </li>
+              <li>sharps disposal.</li>
+            </ul>
+            <li>Eye drops:</li>
+            <ul>
+              <li>instillation technique; </li>
+              <li>timing if multiple drops.</li>
+            </ul>
+          </ul>
+        </li>
+        <li><strong>Whole-regimen safety checks</strong>
+          <ul>
+            <li>Any duplication (two similar drugs) or confusion with similar
+              names/strengths?</li>
+            <li>Any interaction risks? (e.g., NSAIDs +
+              anticoagulants/antiplatelets; multiple sedatives).</li>
+            <li>Any falls, blackouts, confusion, daytime drowsiness, driving
+              issues?</li>
+            <li>Any dehydration/sick-day issues (vomiting/diarrhoea) where meds
+              may need temporary adjustment?</li>
+          </ul>
+        </li>
+        <li><strong>Targeted questions for high-risk medicines (if relevant)</strong></li>
+        <ol>
+          <li><span style="color: #09a8cc;">see each drug</span></li>
+        </ol>
+        <li><strong>Shared decision-making (optimise / deprescribe when safe)</strong>
+          <ul>
+            <li>&ldquo;Do you feel you&rsquo;re taking too many
+              medicines?&rdquo;</li>
+            <li>&ldquo;Which medicine matters most to you? Which would you most
+              like to stop if it&rsquo;s safe?&rdquo;</li>
+            <li>Agree plan: continue / dose change / switch / stop trial /
+              non-drug options.</li>
+          </ul>
+        </li>
+        <li><strong>Safety net + follow-up</strong>
+          <ul>
+            <li>Explain red flags relevant to their meds (e.g., severe rash,
+              swelling/angioedema, heavy bleeding, severe dizziness/fainting).</li>
+            <li>Confirm repeat prescription needs and next review date; arrange
+              monitoring tests if due.</li>
+          </ul>
+        </li>
+      </ol>
       <h3>Side effects</h3>
       <ol>
-        <li>what side effect are you worreid about?</li>
-        <li>explain</li>
-        <li>remedy them</li>
+        <li>Ask: &ldquo;What side effects are you worried about or
+          experiencing?&rdquo; (let them describe).</li>
+        <li>Check severity and red flags (rash, swelling, breathing difficulty,
+          heavy bleeding, chest pain, severe vomiting).</li>
+        <li>Explain common vs serious side effects in plain language.</li>
+        <li>Offer remedies/adjustments: dose timing, take with food, add
+          protective meds, switch/step-down, non-drug options.</li>
+        <li>Safety net: when to stop the medicine and seek urgent help; arrange
+          follow-up.</li>
       </ol>
       <h3>Cardiovascular System</h3>
       <details>
         <summary>Amlodipine (Calcium Channel Blocker)</summary>
         <ul>
-          <li class="cvs">Ankle swelling (peripheral edema)</li>
-          <li class="cvs cns">Flushing</li>
-          <li class="cvs cns">Headache</li>
-          <li class="cvs cns">Dizziness</li>
-          <li class="cvs">Palpitations</li>
-          <li class="ent">Gingival hyperplasia (gum swelling)</li>
+          <li class="cvs cns endocrine">Ankle swelling (peripheral edema)</li>
+          <li class="cvs cns endocrine psychiatric">Flushing</li>
+          <li class="cvs cns endocrine psychiatric">Headache</li>
+          <li class="cvs cns endocrine psychiatric">Dizziness</li>
+          <li class="cvs endocrine cns">Palpitations</li>
+          <li class="ent endocrine">Gingival hyperplasia (gum swelling)</li>
         </ul>
       </details>
       <details>
         <summary>Aspirin (Antiplatelet)</summary>
         <ul>
-          <li class="git">GI irritation</li>
-          <li class="git">Dyspepsia</li>
-          <li class="git">Peptic ulcers</li>
-          <li class="hematology">Increased risk of bleeding</li>
-          <li class="ent cns">Tinnitus (in high doses)</li>
-          <li class="respiratory emergency">Bronchospasm in sensitive asthmatics</li>
+          <li class="git cvs endocrine">GI irritation</li>
+          <li class="git cvs endocrine">Dyspepsia</li>
+          <li class="git cvs endocrine">Peptic ulcers</li>
+          <li class="hematology cvs endocrine">Increased risk of bleeding</li>
+          <li class="ent cns endocrine">Tinnitus (in high doses)</li>
+          <li class="respiratory emergency cvs endocrine">Bronchospasm in
+            sensitive asthmatics</li>
         </ul>
       </details>
       <details>
@@ -44,9 +186,10 @@
         <ul>
           <li class="ortho-specific rheumatic">Myalgia (muscle pain)</li>
           <li class="ortho-specific rheumatic">Myopathy</li>
-          <li class="cns">Headache</li>
-          <li class="git">GI disturbances</li>
-          <li class="git">Deranged Liver Function Tests (LFTs)</li>
+          <li class="cns endocrine psychiatric">Headache</li>
+          <li class="git endocrine cvs">GI disturbances</li>
+          <li class="git endocrine cvs nephro">Deranged Liver Function Tests
+            (LFTs)</li>
           <li class="ortho-specific rheumatic nephro emergency">Rare:
             Rhabdomyolysis</li>
         </ul>
@@ -54,22 +197,24 @@
       <details>
         <summary>Bisoprolol (Beta-blocker)</summary>
         <ul>
-          <li class="General cns">Fatigue</li>
-          <li class="General cns">Dizziness</li>
+          <li class="General cns endocrine psychiatric">Fatigue</li>
+          <li class="General cns endocrine psychiatric">Dizziness</li>
           <li class="cvs">Bradycardia (slow heart rate)</li>
-          <li class="cvs rheumatic">Cold extremities (Raynaud's phenomenon)</li>
-          <li class="respiratory emergency">Bronchospasm in asthmatics</li>
-          <li class="nephro">Erectile dysfunction</li>
+          <li class="cvs rheumatic endocrine">Cold extremities (Raynaud's
+            phenomenon)</li>
+          <li class="respiratory emergency cvs endocrine">Bronchospasm in
+            asthmatics</li>
+          <li class="nephro cvs endocrine">Erectile dysfunction</li>
         </ul>
       </details>
       <details>
         <summary>Clopidogrel (Antiplatelet)</summary>
         <ul>
           <li class="hematology derma">Increased risk of bleeding, bruising</li>
-          <li class="git">Dyspepsia</li>
-          <li class="git">Abdominal pain</li>
-          <li class="git">Diarrhea</li>
-          <li class="derma">Rash</li>
+          <li class="git cvs endocrine nephro">Dyspepsia</li>
+          <li class="git cvs endocrine nephro">Abdominal pain</li>
+          <li class="git cvs endocrine nephro">Diarrhea</li>
+          <li class="derma cvs endocrine">Rash</li>
         </ul>
       </details>
       <details>
@@ -134,23 +279,24 @@
       <details>
         <summary>Beclometasone (Inhaled Corticosteroid)</summary>
         <ul>
-          <li class="infectious ent">Oral candidiasis (thrush)</li>
-          <li class="ent">Hoarse voice (dysphonia)</li>
-          <li class="endocrine General">Systemic effects with high doses (rare)</li>
+          <li class="infectious ent endocrine">Oral candidiasis (thrush)</li>
+          <li class="ent endocrine">Hoarse voice (dysphonia)</li>
+          <li class="endocrine General cvs ortho-specific">Systemic effects with
+            high doses (rare)</li>
         </ul>
       </details>
       <details>
         <summary>Carbocisteine (Mucolytic)</summary>
         <ul>
-          <li class="git">GI intolerance</li>
-          <li class="derma">Skin rash</li>
+          <li class="git endocrine cvs">GI intolerance</li>
+          <li class="derma endocrine">Skin rash</li>
         </ul>
       </details>
       <details>
         <summary>Montelukast (Leukotriene Receptor Antagonist)</summary>
         <ul>
-          <li class="cns">Headache</li>
-          <li class="git">Abdominal pain</li>
+          <li class="cns endocrine psychiatric">Headache</li>
+          <li class="git endocrine cvs">Abdominal pain</li>
           <li class="psychiatric cns">Neuropsychiatric effects (agitation, sleep
             disturbances)</li>
         </ul>
@@ -158,19 +304,19 @@
       <details>
         <summary>Salmeterol (Long-Acting Beta Agonist)</summary>
         <ul>
-          <li class="cvs">Tachycardia</li>
-          <li class="cvs">Palpitations</li>
-          <li class="cns">Tremor</li>
-          <li class="ortho-specific">Muscle cramps</li>
+          <li class="cvs endocrine">Tachycardia</li>
+          <li class="cvs endocrine cns">Palpitations</li>
+          <li class="cns endocrine">Tremor</li>
+          <li class="ortho-specific endocrine">Muscle cramps</li>
         </ul>
       </details>
       <details>
         <summary>Salbutamol (Short-Acting Beta Agonist)</summary>
         <ul>
-          <li class="cvs">Tachycardia (fast heart rate)</li>
-          <li class="cvs">Palpitations</li>
-          <li class="cns">Fine tremor (especially in hands)</li>
-          <li class="cns">Headache</li>
+          <li class="cvs endocrine">Tachycardia (fast heart rate)</li>
+          <li class="cvs endocrine cns">Palpitations</li>
+          <li class="cns endocrine">Fine tremor (especially in hands)</li>
+          <li class="cns endocrine psychiatric">Headache</li>
           <li class="psychiatric">Anxiety</li>
           <li class="nephro cvs">Hypokalemia (with high doses)</li>
         </ul>
@@ -181,6 +327,17 @@
           <li class="ent">Dry mouth (very common)</li>
           <li class="git">Constipation</li>
           <li class="ophthalmology">Blurred vision</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
+          <li class="nephro">Urinary retention</li>
+        </ul>
+      </details>
+      <details>
+        <summary>Ipratropium (Short-Acting Muscarinic Antagonist)</summary>
+        <ul>
+          <li class="ent">Dry mouth</li>
+          <li class="git">Constipation</li>
+          <li class="ophthalmology">Blurred vision</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
           <li class="nephro">Urinary retention</li>
         </ul>
       </details>
@@ -257,8 +414,8 @@
       <details>
         <summary>Omeprazole (Proton Pump Inhibitor)</summary>
         <ul>
-          <li class="cns">Headache</li>
-          <li class="git">GI disturbances (nausea, diarrhea)</li>
+          <li class="cns endocrine psychiatric">Headache</li>
+          <li class="git cvs endocrine">GI disturbances (nausea, diarrhea)</li>
           <li class="ortho-specific nephro infectious git">Long-term use:
             Increased risk of fractures, hypomagnesemia, C. difficile infection</li>
         </ul>
@@ -266,9 +423,9 @@
       <details>
         <summary>Ondansetron (5-HT3 Antagonist)</summary>
         <ul>
-          <li class="cns">Headache</li>
-          <li class="git">Constipation</li>
-          <li class="cvs">QT prolongation (with high doses)</li>
+          <li class="cns endocrine psychiatric">Headache</li>
+          <li class="git cvs endocrine">Constipation</li>
+          <li class="cvs endocrine">QT prolongation (with high doses)</li>
         </ul>
       </details>
       <details>
@@ -277,6 +434,7 @@
           <li class="cns">Drowsiness</li>
           <li class="ent">Dry mouth</li>
           <li class="nephro">Urinary retention</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
         </ul>
       </details>
       <details>
@@ -319,9 +477,10 @@
       <details>
         <summary>Gliclazide (Sulfonylurea)</summary>
         <ul>
-          <li class="endocrine cns emergency">Hypoglycemia (low blood sugar)</li>
-          <li class="endocrine General">Weight gain</li>
-          <li class="git">GI upset</li>
+          <li class="endocrine cns emergency psychiatric">Hypoglycemia (low
+            blood sugar)</li>
+          <li class="endocrine General cvs metabolic">Weight gain</li>
+          <li class="git cvs endocrine">GI upset</li>
         </ul>
       </details>
       <details>
@@ -335,7 +494,8 @@
       <details>
         <summary>Metformin (Biguanide)</summary>
         <ul>
-          <li class="git">GI side effects (diarrhea, nausea, abdominal pain)</li>
+          <li class="git cvs endocrine nephro">GI side effects (diarrhea,
+            nausea, abdominal pain)</li>
           <li class="nephro emergency General">Lactic acidosis (rare but
             serious, especially with renal impairment)</li>
           <li class="hematology cns">Vitamin B12 deficiency (long-term use)</li>
@@ -344,10 +504,10 @@
       <details>
         <summary>Prednisolone (Systemic Corticosteroid)</summary>
         <ul>
-          <li class="psychiatric">Insomnia</li>
-          <li class="psychiatric">Mood changes</li>
-          <li class="General">Increased appetite</li>
-          <li class="endocrine">Hyperglycemia</li>
+          <li class="psychiatric cns endocrine">Insomnia</li>
+          <li class="psychiatric cns endocrine">Mood changes</li>
+          <li class="General endocrine cvs">Increased appetite</li>
+          <li class="endocrine cvs metabolic">Hyperglycemia</li>
           <li class="ortho-specific endocrine infectious General rheumatic">Long-term:
             Osteoporosis, weight gain, Cushing's syndrome, adrenal suppression,
             immunosuppression</li>
@@ -356,9 +516,9 @@
       <details>
         <summary>Insulin (e.g., Aspart, Glargine)</summary>
         <ul>
-          <li class="endocrine cns emergency">Hypoglycemia</li>
+          <li class="endocrine cns emergency psychiatric">Hypoglycemia</li>
           <li class="derma">Lipohypertrophy at injection sites</li>
-          <li class="endocrine General">Weight gain</li>
+          <li class="endocrine General cvs metabolic">Weight gain</li>
         </ul>
       </details>
       <details>
@@ -378,6 +538,7 @@
           <li class="ent">Dry mouth</li>
           <li class="git">Constipation</li>
           <li class="ophthalmology">Blurred vision</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
           <li class="nephro">Urinary retention</li>
           <li class="cvs">Postural hypotension</li>
           <li class="cvs emergency">Cardiotoxicity in overdose</li>
@@ -442,22 +603,22 @@
       <details>
         <summary>Sertraline (SSRI)</summary>
         <ul>
-          <li class="git">Nausea</li>
-          <li class="git">Diarrhea</li>
-          <li class="git">GI upset (common initially)</li>
-          <li class="cns">Insomnia or somnolence</li>
-          <li class="nephro gynaecology Sexual_history_section">Sexual
+          <li class="git cvs endocrine">Nausea</li>
+          <li class="git cvs endocrine">Diarrhea</li>
+          <li class="git cvs endocrine">GI upset (common initially)</li>
+          <li class="cns endocrine psychiatric">Insomnia or somnolence</li>
+          <li class="nephro gynaecology Sexual_history_section cvs endocrine">Sexual
             dysfunction</li>
-          <li class="psychiatric">Increased anxiety initially</li>
+          <li class="psychiatric cns endocrine">Increased anxiety initially</li>
         </ul>
       </details>
       <details>
         <summary>Gabapentin / Pregabalin (GABA Analogue)</summary>
         <ul>
-          <li class="cns">Dizziness</li>
-          <li class="cns">Somnolence (sleepiness)</li>
-          <li class="cvs">Peripheral edema</li>
-          <li class="General">Weight gain</li>
+          <li class="cns endocrine psychiatric">Dizziness</li>
+          <li class="cns endocrine psychiatric">Somnolence (sleepiness)</li>
+          <li class="cvs endocrine nephro">Peripheral edema</li>
+          <li class="General endocrine cvs metabolic">Weight gain</li>
         </ul>
       </details>
       <details>
@@ -467,6 +628,16 @@
             SJS) - requires slow titration</li>
           <li class="cns">Dizziness</li>
           <li class="cns">Headache</li>
+        </ul>
+      </details>
+      <details>
+        <summary>Topiramate (Antiepileptic)</summary>
+        <ul>
+          <li class="cns">Paresthesia</li>
+          <li class="cns">Cognitive slowing</li>
+          <li class="General">Weight loss</li>
+          <li class="nephro">Nephrolithiasis (kidney stones)</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
         </ul>
       </details>
       <details>
@@ -508,19 +679,20 @@
       <details>
         <summary>Amoxicillin (Penicillin Antibiotic)</summary>
         <ul>
-          <li class="derma infectious">Rash (non-allergic rash common in
-            glandular fever)</li>
-          <li class="git">Diarrhea</li>
-          <li class="derma respiratory emergency">Allergic reactions (from mild
-            rash to anaphylaxis)</li>
+          <li class="derma infectious endocrine">Rash (non-allergic rash common
+            in glandular fever)</li>
+          <li class="git cvs endocrine nephro">Diarrhea</li>
+          <li class="derma respiratory emergency cvs endocrine">Allergic
+            reactions (from mild rash to anaphylaxis)</li>
         </ul>
       </details>
       <details>
         <summary>Clarithromycin (Macrolide Antibiotic)</summary>
         <ul>
-          <li class="git">GI upset (nausea, vomiting, diarrhea)</li>
-          <li class="ent">Taste disturbance</li>
-          <li class="cvs">QT prolongation</li>
+          <li class="git cvs endocrine nephro">GI upset (nausea, vomiting,
+            diarrhea)</li>
+          <li class="ent endocrine">Taste disturbance</li>
+          <li class="cvs endocrine emergency">QT prolongation</li>
         </ul>
       </details>
       <details>
@@ -568,7 +740,6 @@
           <li class="git">GI upset</li>
         </ul>
       </details>
-      <!-- Pain Management & Rheumatology -->
       <h3>Pain &amp; Rheumatology</h3>
       <details>
         <summary>Co-codamol (Paracetamol &amp; Codeine)</summary>
@@ -583,23 +754,25 @@
       <details>
         <summary>Ibuprofen (NSAID)</summary>
         <ul>
-          <li class="git">GI irritation</li>
-          <li class="git">Dyspepsia</li>
-          <li class="git">Peptic ulcers</li>
-          <li class="nephro">Renal impairment</li>
-          <li class="cvs">Increased risk of cardiovascular events (long-term
-            use)</li>
-          <li class="respiratory emergency">Bronchospasm in asthmatics</li>
+          <li class="git cvs endocrine nephro">GI irritation</li>
+          <li class="git cvs endocrine nephro">Dyspepsia</li>
+          <li class="git cvs endocrine nephro">Peptic ulcers</li>
+          <li class="nephro cvs endocrine">Renal impairment</li>
+          <li class="cvs endocrine emergency">Increased risk of cardiovascular
+            events (long-term use)</li>
+          <li class="respiratory emergency cvs endocrine">Bronchospasm in
+            asthmatics</li>
         </ul>
       </details>
       <details>
         <summary>Methotrexate (DMARD)</summary>
         <ul>
-          <li class="git">Nausea</li>
-          <li class="ent">Mucositis</li>
-          <li class="hematology">Myelosuppression (bone marrow suppression)</li>
-          <li class="git">Hepatotoxicity (liver damage)</li>
-          <li class="respiratory">Pulmonary fibrosis (rare)</li>
+          <li class="git cvs endocrine nephro">Nausea</li>
+          <li class="ent endocrine">Mucositis</li>
+          <li class="hematology cvs emergency">Myelosuppression (bone marrow
+            suppression)</li>
+          <li class="git cvs nephro endocrine">Hepatotoxicity (liver damage)</li>
+          <li class="respiratory cvs emergency">Pulmonary fibrosis (rare)</li>
         </ul>
       </details>
       <details>
@@ -652,6 +825,29 @@
           <li class="ent">Dry mouth</li>
           <li class="git">Constipation</li>
           <li class="ophthalmology">Blurred vision</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
+          <li class="cns">Drowsiness</li>
+        </ul>
+      </details>
+      <details>
+        <summary>Oxybutynin (Antimuscarinic for OAB)</summary>
+        <ul>
+          <li class="ent">Dry mouth</li>
+          <li class="git">Constipation</li>
+          <li class="ophthalmology">Blurred vision</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
+          <li class="nephro">Urinary retention</li>
+          <li class="cns">Drowsiness</li>
+        </ul>
+      </details>
+      <details>
+        <summary>Tolterodine (Antimuscarinic for OAB)</summary>
+        <ul>
+          <li class="ent">Dry mouth</li>
+          <li class="git">Constipation</li>
+          <li class="ophthalmology">Blurred vision</li>
+          <li class="ophthalmology emergency">Acute angle-closure glaucoma</li>
+          <li class="nephro">Urinary retention</li>
           <li class="cns">Drowsiness</li>
         </ul>
       </details>

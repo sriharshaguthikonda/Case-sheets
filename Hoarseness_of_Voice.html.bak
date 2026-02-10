@@ -19,18 +19,21 @@
           <ul>
             <li>VOICE CHANGE ONLY:
               <ul>
-                <li class="ent">Benign vocal cord lesions (nodules, polyps)</li>
-                <li class="ent cns">Vocal cord paralysis</li>
+                <li class="ent ortho-specific">Benign vocal cord lesions
+                  (nodules, polyps)</li>
+                <li class="ent cns cvs neurological">Vocal cord paralysis</li>
               </ul>
             </li>
             <li>THROAT <b>PAIN </b>/ SCRATCHINESS:
               <ul>
-                <li class="infectious ent">Acute Laryngitis (viral/bacterial)</li>
+                <li class="infectious ent respiratory">Acute Laryngitis
+                  (viral/bacterial)</li>
               </ul>
             </li>
             <li><b>HEARTBURN </b>/ LUMP SENSATION:
               <ul>
-                <li class="git">Laryngopharyngeal Reflux (LPR / Silent Reflux)</li>
+                <li class="git cvs endocrine">Laryngopharyngeal Reflux (LPR /
+                  Silent Reflux)</li>
               </ul>
             </li>
           </ul>
@@ -45,15 +48,20 @@
           <ul>
             <li>SUDDEN:
               <ul>
-                <li class="infectious ent">Acute Laryngitis (often after a cold)</li>
-                <li class="ent">Vocal cord hemorrhage (after shouting/coughing)</li>
-                <li class="ent surgery">Post-intubation or neck/chest surgery</li>
+                <li class="infectious ent respiratory">Acute Laryngitis (often
+                  after a cold)</li>
+                <li class="ent cvs emergency">Vocal cord hemorrhage (after
+                  shouting/coughing)</li>
+                <li class="ent surgery cvs">Post-intubation or neck/chest
+                  surgery</li>
               </ul>
             </li>
             <li>GRADUAL / PROGRESSIVE:
               <ul>
-                <li class="ent">Vocal cord nodules/polyps (from voice overuse)</li>
-                <li class="git">Chronic laryngitis from reflux or smoking</li>
+                <li class="ent ortho-specific psychiatric">Vocal cord
+                  nodules/polyps (from voice overuse)</li>
+                <li class="git cvs endocrine respiratory">Chronic laryngitis
+                  from reflux or smoking</li>
                 <li class="oncology ent cns"><b>Red flag: Malignancy,
                     Neurological cause</b></li>
               </ul>
@@ -70,7 +78,8 @@
           <ul>
             <li>ACUTE (&lt; 3 weeks):
               <ul>
-                <li class="infectious">Most commonly acute laryngitis</li>
+                <li class="infectious respiratory">Most commonly acute
+                  laryngitis</li>
               </ul>
             </li>
             <li>CHRONIC (&gt; 3 weeks):
@@ -89,10 +98,15 @@
           <ul>
             <li>AGGRAVATING:
               <ul>
-                <li>Prolonged speaking, shouting, singing (vocal overuse)</li>
-                <li>Smoking, alcohol, caffeine</li>
-                <li>Dry or dusty environments</li>
-                <li>Lying down (suggests reflux)</li>
+                <li>vocal overuse</li>
+                <ul>
+                  <li>Prolonged speaking, shouting, singing </li>
+                </ul>
+                <li class="lifestyle psychiatric endocrine">Smoking, alcohol,
+                  caffeine</li>
+                <li class="respiratory ent environmental">Dry or dusty
+                  environments</li>
+                <li class="git cvs endocrine">Lying down (suggests reflux)</li>
               </ul>
             </li>
             <li>RELIEVING:
@@ -110,13 +124,14 @@
         <div class="point-content"> <span class="description"><strong>C</strong>:
             Character of Voice</span>
           <ul>
-            <li>BREATHY / WEAK: <span class="ent cns">Suggests poor vocal cord
-                closure (paralysis, presbylarynx - aging voice)</span></li>
-            <li>ROUGH / RASPY: <span class="ent">Common with laryngitis,
-                nodules, polyps, or cysts</span></li>
-            <li>STRAINED / TENSE: <span class="ent">Muscle Tension Dysphonia</span></li>
-            <li>PITCH BREAKS / UNSTABLE: <span class="ent">Common with vocal
-                fatigue or nodules</span></li>
+            <li class="ent cns cvs neurological">BREATHY / WEAK: Suggests poor
+              vocal cord closure (paralysis, presbylarynx - aging voice)</li>
+            <li class="ent infectious respiratory">ROUGH / RASPY: Common with
+              laryngitis, nodules, polyps, or cysts</li>
+            <li class="ent psychiatric">STRAINED / TENSE: Muscle Tension
+              Dysphonia</li>
+            <li class="ent ortho-specific endocrine">PITCH BREAKS / UNSTABLE:
+              Common with vocal fatigue or nodules</li>
           </ul>
         </div>
         <span class="verbal">"How would you describe the sound of your voice
@@ -126,8 +141,8 @@
         <div class="point-content"> <span class="description"><strong>R</strong>:
             Radiation</span>
           <ul>
-            <li class="ent oncology">Referred ear pain (otalgia) can be a <b class="oncology">red
-                flag for laryngeal cancer</b>.</li>
+            <li class="ent oncology">Referred ear pain (otalgia) can be a <b class="oncology">
+                laryngeal cancer</b>.</li>
           </ul>
         </div>
         <span class="verbal">"Are you having any pain that travels from your
@@ -137,28 +152,73 @@
         <div class="point-content"> <span class="description"><strong>A</strong>:
             Associated Symptoms</span>
           <ul>
-            <li>UPPER RESPIRATORY SYMPTOMS (Cough, runny nose, sore throat):
+            <li>URTI(Cough, runny nose, sore throat):
               <ul>
-                <li class="infectious">Acute Viral Laryngitis</li>
+                <li class="infectious respiratory">Acute Viral Laryngitis</li>
               </ul>
             </li>
-            <li>REFLUX SYMPTOMS (Heartburn, throat clearing, cough worse at
-              night):
+            <li><b><u>REFLUX </u></b>SYMPTOMS (Heartburn, throat clearing,
+              cough worse at night):
               <ul>
-                <li class="git">Laryngopharyngeal Reflux (LPR)</li>
+                <li class="git cvs endocrine">Laryngopharyngeal Reflux (LPR)</li>
               </ul>
             </li>
             <li>DYSPHAGIA (Difficulty swallowing) / ODYNOPHAGIA (Painful
               swallowing):
               <ul>
-                <li class="oncology ent emergency"><b>Red flag for malignancy or
-                    deep neck infection</b></li>
+                <li class="oncology ent emergency"><b>malignancy or deep neck
+                    infection</b></li>
               </ul>
             </li>
             <li>NEUROLOGICAL SYMPTOMS (Tremor, weakness, swallowing issues, gait
               problems):
               <ul>
-                <li class="cns">Parkinson's Disease, Stroke, Myasthenia Gravis</li>
+                <li class="cns cvs neurological">Parkinson's, </li>
+                <li class="cns cvs neurological">Stroke,</li>
+                <li class="cns cvs neurological">Myasthenia Gravis</li>
+              </ul>
+            </li>
+            <li>AUTOIMMUNE / SYSTEMIC DISEASES:
+              <ul>
+                <li class="rheumatic ent">Rheumatoid Arthritis (cricoarytenoid
+                  joint involvement)</li>
+                <li class="rheumatic ent">Sj&ouml;gren's Syndrome (dryness
+                  affecting vocal cords)</li>
+                <li class="rheumatic ent emergency">Granulomatosis with
+                  Polyangiitis (GPA/Wegener's)</li>
+                <li class="rheumatic ent">Sarcoidosis (laryngeal granulomas)</li>
+                <li class="rheumatic ent">Amyloidosis (protein deposition in
+                  vocal cords)</li>
+              </ul>
+            </li>
+            <li>INFECTIOUS CAUSES (Non-viral):
+              <ul>
+                <li class="infectious emergency">Laryngeal Tuberculosis</li>
+                <li class="infectious emergency">Laryngeal Fungal Infections
+                  (Aspergillosis, Mucormycosis Actinomycosis</li>
+              </ul>
+            </li>
+            <li>FUNCTIONAL/PSYCHOGENIC VOICE DISORDERS:
+              <ul>
+                <li class="psychiatric ent">Conversion Disorder/Aphonia</li>
+                <li class="psychiatric ent">Psychogenic Dysphonia</li>
+                <li class="psychiatric ent">Functional Voice Disorder</li>
+              </ul>
+            </li>
+            <li>OTHER ENDOCRINE/METABOLIC CAUSES:
+              <ul>
+                <li class="endocrine">Acromegaly (deepening of voice)</li>
+                <li class="endocrine">Cushing's Syndrome</li>
+                <li class="endocrine">Addison's Disease</li>
+                <li class="gynaecology endocrine">Pregnancy-related voice
+                  changes</li>
+              </ul>
+            </li>
+            <li>IATROGENIC CAUSES:
+              <ul>
+                <li class="surgery cvs">Post-intubation Vocal Cord Paralysis</li>
+                <li class="oncology ent">Radio/Chemo-related Voice Changes</li>
+                <li class="surgery">Thyroid/Neck Surgery Complications</li>
               </ul>
             </li>
             <li>SYSTEMIC SYMPTOMS (Fever, night sweats, weight loss):
@@ -170,8 +230,8 @@
             <li>HYPO/HYPER/THYROID SYMPTOMS (Fatigue, weight gain, cold
               intolerance):
               <ul>
-                <li class="endocrine">Hypothyroidism can cause a deep, gravelly
-                  voice.</li>
+                <li class="endocrine cvs">Hypothyroidism can cause a deep,
+                  gravelly voice.</li>
               </ul>
             </li>
           </ul>
@@ -183,12 +243,12 @@
         <div class="point-content"> <span class="description"><strong>P</strong>:
             Progression</span>
           <ul>
-            <li>IMPROVING: <span class="infectious">Likely self-limiting cause
-                like acute laryngitis.</span></li>
-            <li>WORSENING: <span class="oncology ent">Concerning for a growing
-                lesion (benign or malignant).</span></li>
-            <li>FLUCTUATING: <span class="ent">Common with vocal fatigue,
-                muscle tension, or reflux.</span></li>
+            <li class="infectious respiratory">IMPROVING: Likely self-limiting
+              cause like acute laryngitis.</li>
+            <li class="oncology ent cvs">WORSENING: Concerning for a growing
+              lesion (benign or malignant).</li>
+            <li class="ent psychiatric git">FLUCTUATING: Common with vocal
+              fatigue, muscle tension, or reflux.</li>
           </ul>
         </div>
         <span class="verbal">"Since it started, has your voice been getting
@@ -198,10 +258,10 @@
         <div class="point-content"> <span class="description"><strong>P</strong>:
             Pattern</span>
           <ul>
-            <li>WORSE IN MORNING: <span class="git">Classic for LPR (reflux
-                overnight).</span></li>
-            <li>WORSE AS DAY PROGRESSES: <span class="ent cns">Vocal fatigue,
-                Myasthenia Gravis.</span></li>
+            <li class="git cvs endocrine">WORSE IN MORNING: Classic for LPR
+              (reflux overnight).</li>
+            <li class="ent cns cvs neurological">WORSE AS DAY PROGRESSES: Vocal
+              fatigue, Myasthenia Gravis.</li>
           </ul>
         </div>
         <span class="verbal">"Is there a time of day when your voice is
@@ -211,8 +271,8 @@
         <div class="point-content"> <span class="description"><strong>E</strong>:
             Effect on Life</span>
           <ul>
-            <li>Assess impact on occupation (teacher, singer, call center) and
-              social interaction.</li>
+            <li class="occupational social psychiatric">Assess impact on
+              occupation (teacher, singer, call center) and social interaction.</li>
           </ul>
         </div>
         <span class="verbal">"How has this voice change affected your work and
@@ -224,14 +284,15 @@
           <ul>
             <li class="oncology ent"><b>PERSISTENCE &gt; 3 WEEKS: Any hoarseness
                 lasting more than 3 weeks requires ENT referral.</b></li>
-            <li class="respiratory emergency"><b>AIRWAY OBSTRUCTION:</b> Stridor
-              (noisy breathing) or difficulty breathing.</li>
-            <li class="oncology"><b>SUSPECTED MALIGNANCY:</b> Associated with
-              smoking history, weight loss, difficulty/painful swallowing,
-              coughing up blood (hemoptysis), or a neck lump.</li>
-            <li class="surgery ent"><b>RECENT NECK/CHEST SURGERY OR TRAUMA:</b>
+            <li class="respiratory emergency cvs"><b>AIRWAY OBSTRUCTION:</b>
+              Stridor (noisy breathing) or difficulty breathing.</li>
+            <li class="oncology lifestyle"><b>SUSPECTED MALIGNANCY:</b>
+              Associated with smoking history, weight loss, difficulty/painful
+              swallowing, coughing up blood (hemoptysis), or a neck lump.</li>
+            <li class="surgery ent cvs"><b>RECENT NECK/CHEST SURGERY OR TRAUMA:</b>
               Risk of recurrent laryngeal nerve injury.</li>
-            <li class="cns"><b>ASSOCIATED NEUROLOGICAL SYMPTOMS.</b></li>
+            <li class="cns cvs neurological"><b>ASSOCIATED NEUROLOGICAL
+                SYMPTOMS.</b></li>
           </ul>
         </div>
         <span class="verbal">"I need to ask a few final questions to ensure

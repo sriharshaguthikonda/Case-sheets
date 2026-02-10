@@ -19,6 +19,7 @@
             <li>LOCALIZED
               <ul>
                 <li class="infectious">Fungal (Tinea)</li>
+                <li class="infectious">Lyme's</li>
                 <li class="derma">Contact Dermatitis</li>
               </ul>
             </li>
@@ -26,6 +27,7 @@
               <ul>
                 <li class="infectious">Viral Exanthem (See specific patterns
                   below)</li>
+                <li class="infectious">Lyme's- rarely </li>
                 <li class="rheumatic">Drug Eruption</li>
                 <li class="derma">Eczema Flare</li>
               </ul>
@@ -109,7 +111,7 @@
           <ul>
             <li class="grey">Allergies - Paracetamol? <span class="warning">Ibuprofen</span>?
               steroids? any recent antibiotics.</li>
-            <li class="grey">New foods, medications, soaps?</li>
+            <li class="grey">New foods, soaps?</li>
           </ul>
         </div>
         <span class="verbal">"Does anything make it better or worse?"</span></div>
@@ -173,6 +175,7 @@
                   <li class="rheumatic">HSP, </li>
                   <li class="rheumatic">Viral Arthritis</li>
                   <li class="rheumatic">Lyme disease</li>
+                  <li class="rheumatic">Auto immune /psorasis</li>
                 </ul>
               </ul>
             </li>
@@ -231,19 +234,20 @@
                 ask about scratching, calamine, antihistamine, short nails,
                 emollient baths.</li>
             </ul>
-            <li><em>PAIN</em>: <span class="cns">Shingles</span> is classically
-              painful.</li>
+            <li><em>PAIN</em>: </li>
+            <ul>
+              <li><span class="cns">Shingles</span> </li>
+              <li>Lyme's </li>
+              <ul>
+                <li>muscle, joint, headache</li>
+              </ul>
+            </ul>
             <li>Glands</li>
             <ul>
               <li>Lyme Disease</li>
               <li>Kawasaki</li>
               <li><br>
               </li>
-            </ul>
-            <li>Joint pains</li>
-            <ul>
-              <li>Auto immune diseses for psorasis</li>
-              <li>other auto immune disesse</li>
             </ul>
           </ul>
         </div>

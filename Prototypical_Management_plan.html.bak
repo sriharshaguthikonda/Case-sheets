@@ -66,8 +66,10 @@
     </ul>
     <h4>PROVISIONAL DIAGNOSIS</h4>
     <ol class="General">
-      <li class="hematology oncology">Explain diagnosis of Myeloma (cancer of
-        plasma cells) </li>
+      <li class="hematology oncology"><b>EXPLAIN DIAGNOSIS</b> </li>
+      <ol>
+        <li class="hematology oncology">of Myeloma (cancer of plasma cells) </li>
+      </ol>
       <li class="General"> <b>ANATOMICAL:</b>
         <ul>
           <li>Explain where is the issue</li>
@@ -96,7 +98,7 @@
     </ol>
     <h4 class="General">OBO Urgency</h4>
     <ul>
-      <li class="General">Inform seniors
+      <li class="General">UPDATE COLLEAGUES<br>
         <ol>
           <li class="General">if he is going to die today or tomorrow?</li>
         </ol>
@@ -120,7 +122,7 @@
             Undetermined Significance (MGUS)</li>
         </ol>
       </li>
-      <li class="General">Handling In-House:
+      <li class="General">Handling at Home:
         <ol class="General">
           <li class="hematology oncology">Not applicable for new diagnosis;
             requires immediate specialist referral</li>
@@ -138,14 +140,24 @@
       </li>
       <li class="General">Specific treatment:
         <ul class="hematology oncology">
-          <li> <b>Induction Therapy (Chemotherapy):</b> Based on transplant
-            eligibility.
-            <ul>
-              <li>Common regimens include combinations of Proteasome Inhibitors
-                (e.g., Bortezomib), Immunomodulatory drugs (IMiDs, e.g.,
-                Lenalidomide), and Corticosteroids (e.g., Dexamethasone).</li>
-            </ul>
-          </li>
+          <li> <b>first line</b></li>
+          <ul>
+            <li><b>Induction Therapy (Chemotherapy):</b> Based on transplant
+              eligibility.
+              <ul>
+                <li>Common regimens include combinations of Proteasome
+                  Inhibitors (e.g., Bortezomib), Immunomodulatory drugs (IMiDs,
+                  e.g., Lenalidomide), and Corticosteroids (e.g.,
+                  Dexamethasone).</li>
+              </ul>
+              <br>
+            </li>
+          </ul>
+          <li> <b>Second line</b></li>
+          <li><b>Third line</b></li>
+          <li><b>Fourth line</b></li>
+          <li><b>.<br>
+            </b></li>
         </ul>
       </li>
       <li class="General">Supportive Care (Crucial alongside specific
@@ -287,10 +299,10 @@
     <h4><b>Reporting duties</b> (e.g., notifiable diseases)</h4>
     <h4><b>Teach back</b></h4>
     <ul>
-      <li>Patient tell the plan</li>
-      <li> can you tell me what you understand about your condition?</li>
-      <li> treatment?</li>
-      <li> follow-up?</li>
+      <li>Patient tells the plan</li>
+      <li>Can you tell me what you understand about your condition?</li>
+      <li>Treatment?</li>
+      <li>Follow-up?</li>
     </ul>
     <h4><b>Summary </b>of the plan</h4>
     <ul>
