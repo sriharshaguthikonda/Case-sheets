@@ -251,6 +251,46 @@ object {
     margin-bottom: 10px; /* Add some space before the list starts */
 }
 
+/* Paired list rows - table-like layout without tables */
+.paired-point .point-content {
+    grid-column: 1 / -1;
+}
+
+.paired-row {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    column-gap: 20px;
+    align-items: start;
+}
+
+.paired-left {
+    grid-column: 1;
+}
+
+.paired-right {
+    grid-column: 2;
+}
+
+.paired-right ul {
+    margin-left: 0;
+}
+
+.paired-row .verbal {
+    margin-bottom: 0;
+}
+
+.paired-list {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.paired-list.child-paired {
+    margin-top: 5px;
+}
+
+.paired-list.child-paired .paired-left {
+    padding-left: 20px;
+}
 
 
 

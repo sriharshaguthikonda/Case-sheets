@@ -232,6 +232,46 @@ object {
     margin-bottom: 10px!important;
 }
 
+/* Paired list rows - table-like layout without tables */
+.paired-point .point-content {
+    grid-column: 1 / -1!important;
+}
+
+.paired-row {
+    display: grid!important;
+    grid-template-columns: 70% 30%!important;
+    column-gap: 20px!important;
+    align-items: start!important;
+}
+
+.paired-left {
+    grid-column: 1!important;
+}
+
+.paired-right {
+    grid-column: 2!important;
+}
+
+.paired-right ul {
+    margin-left: 0!important;
+}
+
+.paired-row .verbal {
+    margin-bottom: 0!important;
+}
+
+.paired-list {
+    margin-left: 0!important;
+    padding-left: 0!important;
+}
+
+.paired-list.child-paired {
+    margin-top: 5px!important;
+}
+
+.paired-list.child-paired .paired-left {
+    padding-left: 20px!important;
+}
 /* SEXES - Dark Theme */
 .female {
     background-color: rgba(255, 102, 217, 0.4)!important; /* Inverted from rgba(0, 153, 38, 0.4) */
