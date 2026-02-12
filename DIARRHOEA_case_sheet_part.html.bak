@@ -16,13 +16,28 @@
         <div class="point-content"> <span class="description"><strong>S</strong>:
             Site of Discomfort</span>
           <ul>
-            <li class="git">Generalized cramping -&gt; <span class="infectious">Gastroenteritis</span></li>
-            <li class="git">Lower Left Quadrant pain -&gt; <span class="git">Diverticulitis</span></li>
-            <li class="git">Lower Right Quadrant pain -&gt; <span class="infectious">Infectious
-                enterocolitis (Yersinia, Campylobacter), <b class="rheumatic">Crohn's
-                  Disease</b></span></li>
-            <li class="git">Periumbilical pain -&gt; <span class="infectious">Small
-                bowel cause, gastroenteritis</span></li>
+            <li class="git">Generalized cramping </li>
+            <ul>
+              <li class="git">&nbsp;<span class="infectious">Gastroenteritis</span></li>
+            </ul>
+            <li class="git">Lower Left Quadrant </li>
+            <ul>
+              <li class="git"><span class="git">Diverticulitis</span></li>
+            </ul>
+            <li class="git">Lower Right Quadrant </li>
+            <ul>
+              <li class="git">&nbsp;<span class="infectious">Infectious
+                  enterocolitis (Yersinia, Campylobacter), <br>
+                </span></li>
+              <li class="git"><span class="infectious"><b class="rheumatic">Crohn's
+                    Disease</b></span></li>
+            </ul>
+            <li class="git">Periumbilical pain<span class="infectious"></span></li>
+            <ul>
+              <li class="git"><span class="infectious">Small bowel cause, <br>
+                </span></li>
+              <li class="git"><span class="infectious">gastroenteritis</span></li>
+            </ul>
           </ul>
         </div>
         <span class="verbal">"Do you have any abdominal pain or cramping with
@@ -87,20 +102,39 @@
         <div class="point-content"> <span class="description"><strong>C</strong>:
             Character of Stool</span>
           <ul>
-            <li><b><u>WATERY</u></b>: <span class="infectious">Viral
-                gastroenteritis (e.g., Norovirus), <b class="infectious">Toxin-producing
-                  bacteria (e.g., Cholera, E. coli)</b>, <b class="git">Microscopic
-                  colitis</b></span></li>
-            <li><b>BLOODY </b>(Hematochezia): <span class="rheumatic">IBD</span>,
-              <span class="infectious">Infectious colitis (Shigella,
-                Campylobacter, EHEC)</span>, <span class="git">Ischemic colitis</span>,
-              <span class="oncology">Malignancy</span></li>
-            <li><strong>STEATORRHEA </strong>(Greasy, foul-smelling, floats): <span
-                class="git endocrine">Malabsorption (e.g., Celiac disease,
-                pancreatic insufficiency)</span></li>
-            <li><em>MUCUS </em>PRESENT: <span class="git">IBS</span>, <span class="rheumatic">IBD</span></li>
-            <li>Volume: Large volume (small bowel) vs. Small volume (large
-              bowel)</li>
+            <li><b><u>WATERY</u></b>:&nbsp;<span class="infectious"></span></li>
+            <ul>
+              <li><span class="infectious">Viral gastroenteritis (e.g.,
+                  Norovirus),&nbsp;</span></li>
+              <li><span class="infectious"><b class="infectious">Toxin-producing
+                    bacteria (e.g., Cholera, E. coli)</b>, <br>
+                </span></li>
+              <li><span class="infectious"><b class="git">Microscopic colitis</b></span></li>
+            </ul>
+            <li><b>BLOODY </b>(Hematochezia):&nbsp;<span class="rheumatic"></span></li>
+            <ul>
+              <li><span class="rheumatic">IBD</span>, </li>
+              <li><span class="infectious">Infectious colitis (Shigella,
+                  Campylobacter, EHEC)</span>,&nbsp;<span class="git"></span></li>
+              <li><span class="git">Ischemic colitis</span>,&nbsp;<span class="oncology"></span></li>
+              <li><span class="oncology">Malignancy</span></li>
+            </ul>
+            <li><strong>STEATORRHEA </strong>(Greasy, foul-smelling,
+              floats):&nbsp;<span class="git endocrine"></span></li>
+            <ul>
+              <li><span class="git endocrine">Malabsorption (e.g., Celiac
+                  disease, pancreatic insufficiency)</span></li>
+            </ul>
+            <li><em>MUCUS </em>PRESENT:</li>
+            <ul>
+              <li>&nbsp;<span class="git">IBS</span>,&nbsp;<span class="rheumatic"></span></li>
+              <li><span class="rheumatic">IBD</span></li>
+            </ul>
+            <li><b><u>Volume</u></b>: </li>
+            <ul>
+              <li>Large (small bowel) vs. </li>
+              <li>Small volume (large bowel)</li>
+            </ul>
           </ul>
         </div>
         <span class="verbal">"Can you describe the stool? Is it watery, bloody,
@@ -119,8 +153,9 @@
             <li>SYSTEMIC:&nbsp;<span class="infectious"></span></li>
             <ul>
               <li><span class="infectious">Fever, chills, malaise (Infection)</span>,
-                <span class="oncology">Unexplained weight loss (Malignancy, IBD,
-                  Malabsorption)</span></li>
+              </li>
+              <li>&nbsp;<span class="oncology">Unexplained weight loss
+                  (Malignancy, IBD, Malabsorption)</span></li>
             </ul>
             <li>GASTROINTESTINAL:&nbsp;<span class="infectious"></span></li>
             <ul>
@@ -134,10 +169,42 @@
             </ul>
             <li class="rheumatic">EXTRA-INTESTINAL (IBD clues):&nbsp;<span class="rheumatic"></span></li>
             <ul>
-              <li class="rheumatic"><span class="rheumatic">Joint pain, eye
-                  redness (uveitis),</span></li>
-              <li class="rheumatic"><span class="rheumatic">&nbsp;skin rashes
-                  (erythema nodosum)</span></li>
+              <li class="rheumatic"><span class="rheumatic"><strong></strong>Joint
+                  / spine</span>
+                <ul>
+                  <li class="rheumatic"><span class="rheumatic">Joint pain /
+                      peripheral arthritis.</span></li>
+                  <li class="rheumatic"><span class="rheumatic">Back stiffness
+                      (axial spondyloarthritis, ankylosing spondylitis,
+                      sacroiliitis).</span></li>
+                </ul>
+              </li>
+              <li class="rheumatic"><span class="rheumatic"><strong>Eyes</strong></span>
+                <ul>
+                  <li class="rheumatic"><span class="rheumatic">Redness, pain,
+                      photophobia (uveitis, episcleritis).</span></li>
+                </ul>
+              </li>
+              <li class="rheumatic"><span class="rheumatic"><strong>Skin</strong></span>
+                <ul>
+                  <li class="rheumatic"><span class="rheumatic">Erythema
+                      nodosum.</span></li>
+                  <li class="rheumatic"><span class="rheumatic">Pyoderma
+                      gangrenosum.</span></li>
+                </ul>
+              </li>
+              <li class="rheumatic"><span class="rheumatic"><strong>Hepatobiliary</strong></span>
+                <ul>
+                  <li class="rheumatic"><span class="rheumatic">Primary
+                      sclerosing cholangitis (PSC).</span></li>
+                  <li class="rheumatic"><span class="rheumatic">Fatty liver.</span></li>
+                </ul>
+              </li>
+              <li class="rheumatic"><span class="rheumatic"><strong>Renal</strong></span>
+                <ul>
+                  <li class="rheumatic"><span class="rheumatic">Renal stones.</span></li>
+                </ul>
+              </li>
             </ul>
             <li><span>Thryoid</span></li>
             <ul>
@@ -159,11 +226,15 @@
         <div class="point-content"> <span class="description"><strong>P</strong>:
             Pattern</span>
           <ul>
-            <li><b><u>NOCTURNAL </u></b>DIARRHEA (wakes from sleep): <b class="rheumatic oncology git">Red
-                flag for organic disease (e.g., IBD, Microscopic Colitis), NOT
-                typical for IBS</b></li>
-            <li><em>ALTERNATING </em>with constipation: <span class="git">Suggests
-                IBS</span></li>
+            <li><b><u>NOCTURNAL </u></b>DIARRHEA (wakes from sleep):&nbsp;</li>
+            <ul>
+              <li><b class="rheumatic oncology git">organic disease (e.g., IBD,
+                  Microscopic Colitis), NOT typical for IBS</b></li>
+            </ul>
+            <li><em>ALTERNATING </em>with constipation: </li>
+            <ul>
+              <li><span class="git">Suggests IBS</span></li>
+            </ul>
             <li>POST-<b><u>PRANDIAL </u></b>(after eating): <span class="git">Gastrocolic
                 reflex, malabsorption, dumping syndrome</span></li>
           </ul>
@@ -182,9 +253,11 @@
             Red Flags</span>
           <ul>
             <li class="oncology git">Unexplained weight loss</li>
-            <li class="hematology git">Rectal bleeding or iron-deficiency <b><u>anemia</u></b></li>
+            <li class="hematology git">Rectal bleeding or iron-deficiency anemia</li>
             <li class="oncology git">New onset of symptoms in a person &gt; 50
               years old</li>
+            <li class="oncology git">Strong family history of bowel cancer or
+              IBD</li>
             <li class="rheumatic git">Nocturnal symptoms waking the patient from
               sleep</li>
             <li class="emergency infectious">Severe <em>dehydration </em>(dizziness,
