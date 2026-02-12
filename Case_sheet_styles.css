@@ -335,8 +335,8 @@ General will be empty !*/
 
 
 
-.psychiatric{ border-left: 7px solid rgb(255, 115, 0); }
-.git::before { background-color: #d987ff; }
+.psychiatric, .psych{ border-left: 7px solid rgb(255, 115, 0); }
+.git::before, .gi::before { background-color: #d987ff; }
 .Respiratory::before, .respiratory::before { border-right: 5px solid #058a3c; }
 
 .derma::after { border-left: 5px solid #378eff; }
@@ -346,14 +346,14 @@ General will be empty !*/
 .infectious::after { border-left: 5px solid #4400ff; }
 
 .gynob { background-color: rgba(0, 196, 121, 0.2); } /* Kept as border-left for variety */
-.surgery { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
+.surgery, .surgical { background-color: rgba(218, 123, 236, 0.2); } /* Kept as border-left for variety */
 
 
 
 
 
 /* Box-shadow-based classes converted to ::before */
-.cns { 
+.cns, .neurology { 
     border-right: 5px solid rgb(0, 17, 255);
  }
 
@@ -397,69 +397,13 @@ General will be empty !*/
   background-color: rgba(25, 0, 255, 0.2);
 }
 
-/* Additional classes for enhanced sweating case sheet */
-.neurology { 
-    background-color: rgba(255, 165, 0, 0.2);
-    border-left: 5px solid #ff9500;
-}
 
-.neurology::before {
-    border-left: 5px solid #ff9500;
-}
-
-.respiratory { 
-    background-color: rgba(135, 206, 235, 0.2);
-    border-left: 5px solid #87ceeb;
-}
-
-.respiratory::before {
-    border-left: 5px solid #87ceeb;
-}
-
-.gi { 
-    background-color: rgba(144, 238, 144, 0.2);
-    border-left: 5px solid #90ee90;
-}
-
-.gi::before {
-    border-left: 5px solid #90ee90;
-}
-
-.psych { 
-    background-color: rgba(255, 182, 193, 0.2);
-    border-left: 5px solid #ffb6c1;
-}
-
-.psych::before {
-    border-left: 5px solid #ffb6c1;
-}
-
-.rheum { 
-    background-color: rgba(255, 218, 185, 0.2);
-    border-left: 5px solid #ffdab9;
-}
-
-.rheum::before {
-    border-left: 5px solid #ffdab9;
-}
 
 .pharmacology { 
     background-color: rgba(221, 160, 221, 0.2);
     border-left: 5px solid #dda0dd;
 }
 
-.pharmacology::before {
-    border-left: 5px solid #dda0dd;
-}
-
-.surgical { 
-    background-color: rgba(176, 196, 222, 0.2);
-    border-left: 5px solid #b0c4de;
-}
-
-.surgical::before {
-    border-left: 5px solid #b0c4de;
-}
 
 .lab { 
     background-color: rgba(255, 255, 224, 0.2);

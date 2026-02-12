@@ -1,6 +1,6 @@
 ---
-trigger: model_decision
-description:  protocol for adding different classes based on different organ systems in the body.
+trigger: always_on
+description: protocol for adding different classes based on different organ systems in the body.
 ---
 
 possible classes :

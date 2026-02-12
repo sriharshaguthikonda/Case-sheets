@@ -4,7 +4,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title> Sweating_case_sheet_part</title>
     <link href="Case_sheet_styles.css" id="light-styles" rel="stylesheet">
-    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+    <link href="Case_sheet_styles_dark.css" id="dark-styles" rel="alternate stylesheet"
+
       title="dark">
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
@@ -23,7 +24,8 @@
               <li><span class="infectious">Infection</span>,&nbsp;<span class="oncology"></span></li>
               <li><span class="oncology">Malignancy</span>,&nbsp;<span class="pharmacology"></span></li>
               <li><span class="pharmacology">Medications</span>,&nbsp;<span class="neurology"></span></li>
-              <li><span class="neurology">Autonomic disorders</span>,&nbsp;<span
+              <li><span class="neurology">Autonomic disorders</span>,&nbsp;<span
+
                   class="cvs"></span></li>
               <li><span class="cvs">CVS</span></li>
             </ul>
@@ -151,7 +153,8 @@
                 <li class="cvs emergency">Associated with chest pain or
                   shortness of breath -&gt; <b class="cvs emergency">Acute
                     Coronary Syndrome</b></li>
-                <li class="cvs">Orthopnea, paroxysmal nocturnal dyspnea -&gt; <b
+                <li class="cvs">Orthopnea, paroxysmal nocturnal dyspnea -&gt; <b
+
                     class="cvs">Heart Failure</b></li>
               </ul>
             </li>
@@ -218,10 +221,10 @@
                 <li class="psych">Panic attacks, anxiety disorders, PTSD,
                   depression</li>
                 <li class="psych">Obesity, high-fat/high-sugar diet</li>
-                <li class="psych">Alcohol use, smoking (&gt;3 drinks/day)</li>
+                <li clarheumaticsych">Alcohol use, smoking (&gt;3 drinks/day)</li>
               </ul>
-            </li>
-            <li class="rheum">AUTOIMMUNE / RHEUMATOLOGIC
+            </li>rheumatic
+            <li class="rheurheumaticTOIMMUNE / RHEUMATOLOGIC
               <ul>
                 <li class="rheum">Sarcoidosis, rheumatoid arthritis, lupus</li>
                 <li class="rheum">Sj&ouml;gren's syndrome</li>
