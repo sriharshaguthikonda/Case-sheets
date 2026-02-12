@@ -319,6 +319,7 @@ li::after {
 /* Border-based classes converted to ::before 
 General will be empty !*/
 .General { 
+    /* General class - no specific styling */
 }
 
 
@@ -394,6 +395,115 @@ General will be empty !*/
 /*COMPLAINTS*/
 .confusion {
   background-color: rgba(25, 0, 255, 0.2);
+}
+
+/* Additional classes for enhanced sweating case sheet */
+.neurology { 
+    background-color: rgba(255, 165, 0, 0.2);
+    border-left: 5px solid #ff9500;
+}
+
+.neurology::before {
+    border-left: 5px solid #ff9500;
+}
+
+.respiratory { 
+    background-color: rgba(135, 206, 235, 0.2);
+    border-left: 5px solid #87ceeb;
+}
+
+.respiratory::before {
+    border-left: 5px solid #87ceeb;
+}
+
+.gi { 
+    background-color: rgba(144, 238, 144, 0.2);
+    border-left: 5px solid #90ee90;
+}
+
+.gi::before {
+    border-left: 5px solid #90ee90;
+}
+
+.psych { 
+    background-color: rgba(255, 182, 193, 0.2);
+    border-left: 5px solid #ffb6c1;
+}
+
+.psych::before {
+    border-left: 5px solid #ffb6c1;
+}
+
+.rheum { 
+    background-color: rgba(255, 218, 185, 0.2);
+    border-left: 5px solid #ffdab9;
+}
+
+.rheum::before {
+    border-left: 5px solid #ffdab9;
+}
+
+.pharmacology { 
+    background-color: rgba(221, 160, 221, 0.2);
+    border-left: 5px solid #dda0dd;
+}
+
+.pharmacology::before {
+    border-left: 5px solid #dda0dd;
+}
+
+.surgical { 
+    background-color: rgba(176, 196, 222, 0.2);
+    border-left: 5px solid #b0c4de;
+}
+
+.surgical::before {
+    border-left: 5px solid #b0c4de;
+}
+
+.lab { 
+    background-color: rgba(255, 255, 224, 0.2);
+    border-left: 5px solid #ffffe0;
+}
+
+.lab::before {
+    border-left: 5px solid #ffffe0;
+}
+
+.imaging { 
+    background-color: rgba(240, 248, 255, 0.2);
+    border-left: 5px solid #f0f8ff;
+}
+
+.imaging::before {
+    border-left: 5px solid #f0f8ff;
+}
+
+.special { 
+    background-color: rgba(255, 228, 225, 0.2);
+    border-left: 5px solid #ffe4e1;
+}
+
+.special::before {
+    border-left: 5px solid #ffe4e1;
+}
+
+.medication { 
+    background-color: rgba(230, 230, 250, 0.2);
+    border-left: 5px solid #e6e6fa;
+}
+
+.medication::before {
+    border-left: 5px solid #e6e6fa;
+}
+
+.treatment { 
+    background-color: rgba(152, 251, 152, 0.2);
+    border-left: 5px solid #98fb98;
+}
+
+.treatment::before {
+    border-left: 5px solid #98fb98;
 }
 
 .section-title {
