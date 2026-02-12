@@ -1,242 +1,331 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>PAIN DURING INTERCOURSE (DYSPAREUNIA)</title>
-  <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
-  <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
-  <script src="https://www.youtube.com/iframe_api"></script>
-</head>
-<body>
-  <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
-
-  <div>
-    <h3>COMPLAINT: PAIN DURING INTERCOURSE (DYSPAREUNIA)</h3>
-
-    <!-- S: Site -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>S</strong>: Site (Superficial vs Deep)</span>
-        <ul>
-          <li class="gynob"><b>Superficial / entry pain:</b> at the vaginal opening, vulva, or perineum.
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PAIN DURING INTERCOURSE (DYSPAREUNIA)</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <div>
+      <h3>COMPLAINT: PAIN DURING INTERCOURSE (DYSPAREUNIA)</h3>
+      <!-- S: Site -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Site (Superficial vs Deep)</span>
+          <ul>
+            <li class=""><b>Superficial / entry pain:</b> at the vaginal
+              opening, vulva, or perineum.
+              <ul>
+                <li class="derma"> Lichen sclerosus (0.3%), lichen planus (1%),
+                  lichen simplex chronicus (1-2%), psoriasis, contact
+                  dermatitis.</li>
+                <li class="infectious"> Thrush (Candida), Herpes, genital warts.</li>
+                <li class="gynob">Atrophic vaginitis (menopause &rarr; low
+                  oestrogen, dryness).</li>
+                <li class="gynob">Vaginal dystrophy, vulvar dystrophy.</li>
+                <li class="gynob psychiatric">Vaginismus &ndash; involuntary
+                  muscle spasm preventing entry (5-7% prevalence).</li>
+                <li class="gynob">Vulvodynia / vestibulodynia (chronic nerve
+                  pain at the vestibule) (~8% prevalence).</li>
+                <li class="gynob">Vulvar vestibulitis (localized vestibular
+                  pain).</li>
+                <li class="trauma">Scarring/<b><u>trauma</u></b>: episiotomy
+                  scars, perineal tears after <b><u>childbirth</u></b>.</li>
+                <li class="gynob">Anatomic: Rigid hymeneal ring, hymenal
+                  remnants, M&uuml;llerian abnormalities (&lt;0.5%).</li>
+                <li class="surgery">Bartholin gland infection/obstruction
+                  (2-3%), urethral caruncle (&lt;1%, postmenopausal).</li>
+                <li class="git">Anal fissure, hemorrhoids.</li>
+              </ul>
+            </li>
+            <li class=""><b>Deep / collision pain:</b> felt high in the vagina
+              or pelvis with deep penetration.
+              <ul>
+                <li class="gynob">Endometriosis &ndash; classic deep dyspareunia
+                  (~10% women, up to 50% with pelvic pain).</li>
+                <li class="gynob">PID / adhesions (chronic pelvic inflammatory
+                  disease) (~4-5% sexually active women).</li>
+                <li class="gynob"><b><u>Fibroids </u></b>/ ovarian cysts or
+                  other space-occupying lesions (fibroids: 70-80% by age 50).</li>
+                <li class="gynob">Adenomyosis (endometrial tissue in uterine
+                  wall) (~20% prevalence).</li>
+                <li class="surgery">Pelvic congestion syndrome (postcoital
+                  aching pain) (~30% of unexplained pelvic pain).</li>
+                <li class="surgery">Fixed uterine retroversion, pelvic organ
+                  prolapse.</li>
+                <li class="git">Bowel issues: IBS, constipation, rectal
+                  pathology, inflammatory bowel disease.</li>
+                <li class="nephro">Urethral syndrome, interstitial cystitis.</li>
+                <li class="surgery">Ovarian remnant syndrome (rare,
+                  post-surgical), residual accessory ovary.</li>
+                <li class="surgery">Radiation-induced vaginal scarring (very
+                  rare, cancer survivors), shortened vagina.</li>
+              </ul>
+            </li>
+            <li class="General">Unilateral / bilateral pelvic pain?</li>
+          </ul>
+        </div>
+        <span class="verbal">"I know this can be difficult to discuss, but to
+          help you I need to know exactly where the pain is &mdash; is it right
+          at the entrance when penetration starts, or do you feel it deep inside
+          your tummy/pelvis?"</span> </div>
+      <!-- O: Onset -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>O</strong>:
+            Onset</span>
+          <ul>
+            <li class="General">Sudden</li>
             <ul>
-              <li class="infectious"><b>Infection:</b> Thrush (Candida), Herpes, genital warts.</li>
-              <li class="gynob">Atrophic vaginitis (menopause &rarr; low oestrogen, dryness).</li>
-              <li class="gynob psychiatric">Vaginismus &ndash; involuntary muscle spasm preventing entry.</li>
-              <li class="gynob">Vulvodynia / vestibulodynia (chronic nerve pain at the vestibule).</li>
-              <li class="trauma">Scarring/trauma: episiotomy scars, perineal tears after childbirth.</li>
+              <li class="General">infection, trauma, new partner, childbirth,
+                surgery) vs</li>
             </ul>
-          </li>
-          <li class="gynob"><b>Deep / collision pain:</b> felt high in the vagina or pelvis with deep penetration.
+            <li class="General">&nbsp;gradual.</li>
+            <li class="gynob">Primary (pain from first intercourse attempt) vs </li>
+            <li class="gynob">Secondary (started after a period of painless
+              sex).</li>
+          </ul>
+        </div>
+        <span class="verbal">"Have you always had pain during sex, or did it
+          start after a time when sex was comfortable?"</span> </div>
+      <!-- D: Duration -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>D</strong>:
+            Duration</span>
+          <ul>
+            <li class="General">How long has this been an issue (months /
+              years)?</li>
+            <li class="General">Does the pain last only during penetration, or
+              continue afterwards?</li>
+            <li class="General">Acute onset with infection or trauma vs chronic
+              pain over months/years (e.g. endometriosis, vulvodynia).</li>
+            <li class="General">Pain lasting hours/days after intercourse
+              (suggests endometriosis, adhesions, pelvic congestion, retroverted
+              uterus).</li>
+          </ul>
+        </div>
+        <span class="verbal">"How long have you been experiencing this pain with
+          intercourse?"</span> </div>
+      <!-- A/R: Aggravating & Relieving Factors -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A/R</strong>:
+            Aggravating &amp; Relieving Factors</span>
+          <ul>
+            <li class="General"><b>AGGRAVATING:</b>
+              <ul>
+                <li class="gynob">Penetration at the entrance vs deep thrusting.</li>
+                <li class="gynob">Certain positions (e.g. deep penetration from
+                  behind).</li>
+                <li class="gynob">Lack of lubrication / vaginal dryness
+                  (menopause, breastfeeding, medications).</li>
+                <li class="gynob">menstruation (endometriosis, adenomyosis).</li>
+                <li class="infectious">Active vaginal infection or discharge
+                  (thrush, BV, PID, STIs).</li>
+                <li class="gynob">After pelvic surgery, childbirth, episiotomy,
+                  perineal tear.</li>
+                <li class="gynob">Tampon use, cycling, tight clothing
+                  aggravating vulval/vestibular pain.</li>
+                <li class="psychiatric">High anxiety, fear, past trauma
+                  worsening muscle tension (vaginismus).</li>
+                <li class="surgery">Prolonged standing/physical activity
+                  worsening pelvic congestion.</li>
+                <li class="derma">Contact with irritants (soaps, detergents,
+                  latex) worsening dermatologic conditions.</li>
+              </ul>
+            </li>
+            <li class="General"><b>RELIEVING:</b>
+              <ul>
+                <li class="gynob">Lubricants, longer foreplay, change of
+                  position.</li>
+                <li class="gynob">Shallower penetration, avoiding certain
+                  positions.</li>
+                <li class="General">Pain-free with self-stimulation but painful
+                  with penetration (points to mechanical/penetrative causes).</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Are there certain positions or times when it is
+          worse? Does using lubricant or changing position help at all?"</span>
+      </div>
+      <!-- C: Character -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>C</strong>:
+            Character / Type</span>
+          <ul>
+            <li class="gynob"><b>Burning / stinging</b> at the entrance </li>
             <ul>
-              <li class="gynob">Endometriosis &ndash; classic deep dyspareunia.</li>
-              <li class="gynob">PID / adhesions (chronic pelvic inflammatory disease).</li>
-              <li class="gynob">Fibroids / ovarian cysts or other space-occupying lesions.</li>
-              <li class="git">Bowel issues: IBS, constipation, rectal pathology.</li>
+              <li class="gynob">(vulvodynia, dermatoses, infections, fissures).</li>
             </ul>
-          </li>
-          <li class="General">Unilateral / bilateral pelvic pain?</li>
-        </ul>
-      </div>
-      <span class="verbal">"I know this can be difficult to discuss, but to help you I need to know exactly where the pain is &mdash; is it right at the entrance when penetration starts, or do you feel it deep inside your tummy/pelvis?"</span>
-    </div>
-
-    <!-- O: Onset -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>O</strong>: Onset</span>
-        <ul>
-          <li class="General">When did the pain with sex first start?</li>
-          <li class="General">Sudden onset (after infection, trauma, new partner, childbirth, surgery) vs gradual.</li>
-          <li class="gynob">Primary (pain from first intercourse attempt) vs Secondary (started after a period of painless sex).</li>
-        </ul>
-      </div>
-      <span class="verbal">"Have you always had pain during sex, or did it start after a time when sex was comfortable?"</span>
-    </div>
-
-    <!-- D: Duration -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>D</strong>: Duration</span>
-        <ul>
-          <li class="General">How long has this been an issue (months / years)?</li>
-          <li class="General">Does the pain last only during penetration, or continue afterwards?</li>
-          <li class="General">Acute onset with infection or trauma vs chronic pain over months/years (e.g. endometriosis, vulvodynia).</li>
-        </ul>
-      </div>
-      <span class="verbal">"How long have you been experiencing this pain with intercourse?"</span>
-    </div>
-
-    <!-- A/R: Aggravating & Relieving Factors -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>A/R</strong>: Aggravating &amp; Relieving Factors</span>
-        <ul>
-          <li><b>AGGRAVATING:</b>
+            <li class="gynob"><b>Sharp, stabbing, "hitting a wall"</b> on
+              penetration </li>
             <ul>
-              <li class="gynob">Penetration at the entrance vs deep thrusting.</li>
-              <li class="gynob">Certain positions (e.g. deep penetration from behind).</li>
-              <li class="gynob">Lack of lubrication / vaginal dryness (menopause, breastfeeding, medications).</li>
-              <li class="gynob">Immediately before or during menstruation (endometriosis, adenomyosis).</li>
-              <li class="infectious">Active vaginal infection or discharge (thrush, BV, PID, STIs).</li>
-              <li class="gynob">After pelvic surgery, childbirth, episiotomy, perineal tear.</li>
-              <li class="gynob">Tampon use, cycling, tight clothing aggravating vulval/vestibular pain.</li>
-              <li class="psychiatric">High anxiety, fear, past trauma worsening muscle tension (vaginismus).</li>
+              <li class="gynob">(vaginismus, hymenal ring, atrophic vaginitis).</li>
             </ul>
-          </li>
-          <li><b>RELIEVING:</b>
+            <li class="gynob"><b>Deep aching / cramping</b> in pelvis with deep
+              thrusting </li>
             <ul>
-              <li class="gynob">Lubricants, longer foreplay, change of position.</li>
-              <li class="gynob">Shallower penetration, avoiding certain positions.</li>
-              <li class="General">Pain-free with self-stimulation but painful with penetration (points to mechanical/penetrative causes).</li>
+              <li class="gynob">(endometriosis, PID, ovarian cysts, fibroids,
+                adhesions, adenomyosis, pelvic congestion syndrome).</li>
             </ul>
-          </li>
-        </ul>
-      </div>
-      <span class="verbal">"Are there certain positions or times when it is worse? Does using lubricant or changing position help at all?"</span>
+          </ul>
+        </div>
+        <span class="verbal">"Is it more of a burning at the entrance, or a
+          deeper ache or cramp inside your pelvis?"</span> </div>
+      <!-- R: Radiation -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Radiation</span>
+          <ul>
+            <li class="General">Does the pain spread to the lower abdomen, back,
+              or thighs?
+              <ul>
+                <li class="gynob">To back or rectum &rarr; think endometriosis
+                  in pouch of Douglas, deep pelvic disease, or pelvic congestion
+                  syndrome.</li>
+                <li class="gynob">Down the legs &rarr; large fibroids or cysts
+                  pressing on nerves.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Does the pain stay in one spot, or does it travel
+          to your tummy, back, or legs?"</span> </div>
+      <!-- A: Associated Symptoms -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>A</strong>:
+            Associated Symptoms</span>
+          <ul>
+            <li class="General"><b>GYNAE:</b>
+              <ul>
+                <li class="gynob">Abnormal vaginal bleeding (intermenstrual,
+                  post-coital, heavy periods).</li>
+                <li class="gynob">Pelvic pain outside intercourse
+                  (endometriosis, PID, ovarian cysts).</li>
+                <li class="gynob">Chronic endometritis, cervical stenosis.</li>
+                <li class="gynob">Vaginal dryness, itching, burning.</li>
+              </ul>
+            </li>
+            <li class="General"><b>DISCHARGE / INFECTION:</b>
+              <ul>
+                <li class="infectious">Change in discharge (color, odour,
+                  consistency) &rarr; thrush (curdy), BV (fishy), trichomonas,
+                  gonorrhoea, chlamydia.</li>
+                <li class="infectious">Fever, pelvic tenderness (PID,
+                  tubo-ovarian abscess).</li>
+              </ul>
+            </li>
+            <li class="General"><b>URINARY:</b>
+              <ul>
+                <li class="nephro">Dysuria, urgency, frequency, haematuria (UTI
+                  vs interstitial cystitis).</li>
+              </ul>
+            </li>
+            <li class="General"><b>BOWEL:</b>
+              <ul>
+                <li class="git">Pain with defaecation, constipation, diarrhoea,
+                  rectal pain (endometriosis, IBS).</li>
+              </ul>
+            </li>
+            <li class="General"><b>SEXUAL / PSYCHOLOGICAL:</b>
+              <ul>
+                <li class="psychiatric">Low libido, fear of intercourse,
+                  relationship strain.</li>
+                <li class="psychiatric">History of sexual trauma or assault (ask
+                  sensitively if appropriate).</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <span class="verbal">"Any unusual bleeding, discharge, bladder or bowel
+          symptoms, or is this pain affecting how you feel about sex or your
+          relationship?"</span> </div>
+      <!-- P: Pattern (Timing / Frequency) -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Pattern (Timing / Frequency)</span>
+          <ul>
+            <li class="gynob">Every attempt at intercourse vs occasional
+              episodes.</li>
+            <li class="gynob">Relation to menstrual cycle (worse around periods
+              or mid-cycle).</li>
+            <li class="General">New partner vs long-term partner? Any change
+              when using condoms / lubrication?</li>
+          </ul>
+        </div>
+        <span class="verbal">"Is it every time you have sex, or only sometimes?
+          Does it change with your cycle or partner?"</span> </div>
+      <!-- P: Progression -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>P</strong>:
+            Progression</span>
+          <ul>
+            <li class="General">Stable, gradually worsening, or improving over
+              time?</li>
+          </ul>
+        </div>
+        <span class="verbal">"Has this pain been getting worse, better, or
+          staying about the same?"</span> </div>
+      <!-- E: Effect on life -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>E</strong>:
+            Effect on Life</span>
+          <ul>
+            <li class="gynob">Avoidance of intercourse or intimacy.</li>
+            <li class="psychiatric">Impact on mood, self-esteem, relationship
+              stress.</li>
+            <li class="General">Effect on overall quality of life and sense of
+              safety/comfort in sexual situations.</li>
+            <li class="gynob">Fertility concerns if trying to conceive (avoiding
+              or unable to complete intercourse).</li>
+          </ul>
+        </div>
+        <span class="verbal">"How has this affected your sex life, mood, or
+          relationship?"</span> </div>
+      <!-- R: Red Flags -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>R</strong>:
+            Red Flags</span>
+          <ul>
+            <li class="oncology emergency"><b>Post-coital bleeding (PCB):</b>
+              cervical ectropion, polyps, dysplasia or carcinoma.</li>
+            <li class="oncology emergency"><b>Post-menopausal bleeding (PMB):</b>
+              endometrial hyperplasia/cancer until proven otherwise.</li>
+            <li class="oncology">Cancer sx + ......pelvic mass</li>
+            <li class="infectious emergency">Fever, severe pelvic pain, purulent
+              discharge (PID, tubo-ovarian abscess).</li>
+            <li class="obstetric emergency">Possible pregnancy with severe
+              pain/bleeding (ectopic pregnancy) if of reproductive age.</li>
+            <li class="psychiatric emergency">Any disclosure or concern about
+              sexual assault or coercion.</li>
+            <li class="emergency">Sudden severe pain with intercourse (possible
+              ovarian torsion, ruptured cyst).</li>
+            <li class="emergency">Inability to tolerate any pelvic examination
+              (possible severe vaginismus, trauma).</li>
+          </ul>
+        </div>
+        <span class="verbal">"I need to ask some safety questions &ndash; any
+          bleeding after sex, fevers with pain, or anything that has made you
+          feel unsafe or forced in sexual situations?"</span> </div>
+      <!-- S: Severity / Scale -->
+      <div class="point">
+        <div class="point-content"> <span class="description"><strong>S</strong>:
+            Severity / Scale</span>
+          <ul>
+            <li class="General">0&ndash;10 pain score during intercourse.</li>
+            <li class="gynob">Can intercourse be completed, or is it stopped
+              early every time because of pain?</li>
+            <li class="psychiatric">Distress/impact scale (e.g. 0&ndash;10 how
+              upsetting or distressing this problem is).</li>
+          </ul>
+        </div>
+        <span class="verbal">"On a scale of 0 to 10, how bad is the pain during
+          sex? Are you able to continue, or do you have to stop?"</span> </div>
     </div>
-
-    <!-- C: Character -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>C</strong>: Character / Type</span>
-        <ul>
-          <li class="gynob"><b>Burning / stinging</b> at the entrance (vulvodynia, dermatoses, infections, fissures).</li>
-          <li class="gynob"><b>Sharp, stabbing, "hitting a wall"</b> on penetration (vaginismus, hymenal ring, atrophic vaginitis).</li>
-          <li class="gynob"><b>Deep aching / cramping</b> in pelvis with deep thrusting (endometriosis, PID, ovarian cysts, fibroids, adhesions).</li>
-          <li class="gynob">Superficial vs deep pain helps localise cause.</li>
-        </ul>
-      </div>
-      <span class="verbal">"Is it more of a burning at the entrance, or a deeper ache or cramp inside your pelvis?"</span>
-    </div>
-
-    <!-- R: Radiation -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>R</strong>: Radiation</span>
-        <ul>
-          <li class="General">Does the pain spread to the lower abdomen, back, or thighs?
-            <ul>
-              <li class="gynob">To back or rectum &rarr; think endometriosis in pouch of Douglas or deep pelvic disease.</li>
-              <li class="gynob">Down the legs &rarr; large fibroids or cysts pressing on nerves.</li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-      <span class="verbal">"Does the pain stay in one spot, or does it travel to your tummy, back, or legs?"</span>
-    </div>
-
-    <!-- A: Associated Symptoms -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>A</strong>: Associated Symptoms</span>
-        <ul>
-          <li><b>GYNAE:</b>
-            <ul>
-              <li class="gynob">Abnormal vaginal bleeding (intermenstrual, post-coital, heavy periods).</li>
-              <li class="gynob">Pelvic pain outside intercourse (endometriosis, PID, ovarian cysts).</li>
-              <li class="gynob">Vaginal dryness, itching, burning.</li>
-            </ul>
-          </li>
-          <li><b>DISCHARGE / INFECTION:</b>
-            <ul>
-              <li class="infectious">Change in discharge (color, odour, consistency) &rarr; thrush (curdy), BV (fishy), trichomonas, gonorrhoea, chlamydia.</li>
-              <li class="infectious">Fever, pelvic tenderness (PID, tubo-ovarian abscess).</li>
-            </ul>
-          </li>
-          <li><b>URINARY:</b>
-            <ul>
-              <li class="nephro">Dysuria, urgency, frequency, haematuria (UTI vs interstitial cystitis).</li>
-            </ul>
-          </li>
-          <li><b>BOWEL:</b>
-            <ul>
-              <li class="git">Pain with defaecation, constipation, diarrhoea, rectal pain (endometriosis, IBS).</li>
-            </ul>
-          </li>
-          <li><b>SEXUAL / PSYCHOLOGICAL:</b>
-            <ul>
-              <li class="psychiatric">Low libido, fear of intercourse, relationship strain.</li>
-              <li class="psychiatric">History of sexual trauma or assault (ask sensitively if appropriate).</li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-      <span class="verbal">"Any unusual bleeding, discharge, bladder or bowel symptoms, or is this pain affecting how you feel about sex or your relationship?"</span>
-    </div>
-
-    <!-- P: Pattern (Timing / Frequency) -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>P</strong>: Pattern (Timing / Frequency)</span>
-        <ul>
-          <li class="gynob">Every attempt at intercourse vs occasional episodes.</li>
-          <li class="gynob">Relation to menstrual cycle (worse around periods or mid-cycle).</li>
-          <li class="General">New partner vs long-term partner? Any change when using condoms / lubrication?</li>
-        </ul>
-      </div>
-      <span class="verbal">"Is it every time you have sex, or only sometimes? Does it change with your cycle or partner?"</span>
-    </div>
-
-    <!-- P: Progression -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>P</strong>: Progression</span>
-        <ul>
-          <li class="General">Stable, gradually worsening, or improving over time?</li>
-        </ul>
-      </div>
-      <span class="verbal">"Has this pain been getting worse, better, or staying about the same?"</span>
-    </div>
-
-    <!-- E: Effect on life -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>E</strong>: Effect on Life</span>
-        <ul>
-          <li class="gynob">Avoidance of intercourse or intimacy.</li>
-          <li class="psychiatric">Impact on mood, self-esteem, relationship stress.</li>
-          <li class="General">Effect on overall quality of life and sense of safety/comfort in sexual situations.</li>
-          <li class="gynob">Fertility concerns if trying to conceive (avoiding or unable to complete intercourse).</li>
-        </ul>
-      </div>
-      <span class="verbal">"How has this affected your sex life, mood, or relationship?"</span>
-    </div>
-
-    <!-- R: Red Flags -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>R</strong>: Red Flags</span>
-        <ul>
-          <li class="oncology emergency"><b>Post-coital bleeding (PCB):</b> cervical ectropion, polyps, dysplasia or carcinoma.</li>
-          <li class="oncology emergency"><b>Post-menopausal bleeding (PMB):</b> endometrial hyperplasia/cancer until proven otherwise.</li>
-          <li class="oncology">Unexplained weight loss, pelvic mass (consider malignancy).</li>
-          <li class="infectious emergency">Fever, severe pelvic pain, purulent discharge (PID, tubo-ovarian abscess).</li>
-          <li class="obstetric emergency">Possible pregnancy with severe pain/bleeding (ectopic pregnancy) if of reproductive age.</li>
-          <li class="psychiatric emergency">Any disclosure or concern about sexual assault or coercion.</li>
-        </ul>
-      </div>
-      <span class="verbal">"I need to ask some safety questions &ndash; any bleeding after sex, fevers with pain, or anything that has made you feel unsafe or forced in sexual situations?"</span>
-    </div>
-
-    <!-- S: Severity / Scale -->
-    <div class="point">
-      <div class="point-content">
-        <span class="description"><strong>S</strong>: Severity / Scale</span>
-        <ul>
-          <li class="General">0&ndash;10 pain score during intercourse.</li>
-          <li class="gynob">Can intercourse be completed, or is it stopped early every time because of pain?</li>
-          <li class="psychiatric">Distress/impact scale (e.g. 0&ndash;10 how upsetting or distressing this problem is).</li>
-        </ul>
-      </div>
-      <span class="verbal">"On a scale of 0 to 10, how bad is the pain during sex? Are you able to continue, or do you have to stop?"</span>
-    </div>
-
-  </div>
-
-  <script src="theme-toggle.js"></script>
-  <script src="Iframe_height_mothership.js"></script>
-  <script src="Iframe_height.js"></script>
-  <script src="double_click_collapse_details.js"></script>
-</body>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  </body>
 </html>
