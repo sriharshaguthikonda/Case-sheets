@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Nosebleed</title>
+    <link rel="stylesheet" type="text/css" href="Case_sheet_styles.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+  <body>
+    <div class="ent General">
+      <h3>1ST COMPLAINT: NOSEBLEED (Epistaxis)</h3>
+      <!-- S: Site (THE KEY DIFFERENTIATOR) -->
+      <li class="point"> <span class="description"><strong>S</strong>: Site
+          &amp; Laterality</span> <span class="verbal">"Which nostril is the
+          bleeding coming from? And does the blood seem to flow from the front
+          of your nose, or does it feel like it's dripping down the back of your
+          throat?"</span>
+        <ul>
+          <li><b>ANTERIOR (Front of nose):</b> <span class="ent">Most common,
+              usually from Kiesselbach's plexus.</span></li>
+          <li><b>POSTERIOR (Back of throat):</b> <b class="ent emergency">More
+              serious, often arterial, may not be visible from the front. Red
+              Flag.</b></li>
+          <li><b>UNILATERAL vs. BILATERAL:</b> Most bleeds are unilateral.
+            Bilateral can suggest trauma or a systemic cause.</li>
+        </ul>
+      </li>
+      <!-- O: Onset -->
+      <li class="point"> <span class="description"><strong>O</strong>: Onset</span>
+        <span class="verbal">"How did it start? Was it spontaneous, or after
+          blowing your nose, a knock, or sneezing?"</span>
+        <ul>
+          <li>Spontaneous</li>
+          <li>trauma (nose picking, injury, object)</li>
+          <li>cold or sinus infection</li>
+        </ul>
+      </li>
+      <!-- D: Duration -->
+      <li class="point"> <span class="description"><strong>D</strong>: Duration</span>
+        <span class="verbal">"How long did the bleeding last? And were you able
+          to stop it yourself?"</span>
+        <ul>
+          <li class="ent emergency">&gt; 15 min despite proper first aid is
+            significant.</li>
+        </ul>
+      </li>
+      <!-- A/R: Aggravating / Relieving Factors -->
+      <li class="point"> <span class="description"><strong>A/R</strong>:
+          Aggravating &amp; Relieving Factors</span> <span class="verbal">"Does
+          anything seem to trigger them? What first aid measures did you try?"</span>
+        <ul>
+          <li>AGGRAVATING: </li>
+          <ul>
+            <li>Dry air, hot environments, nose blowing, alcohol, certain
+              medications.</li>
+          </ul>
+          <li>RELIEVING: </li>
+          <ul>
+            <li>Pinching the soft part of the nose and leaning forward (correct
+              first aid).</li>
+          </ul>
+        </ul>
+      </li>
+      <!-- C: Character -->
+      <li class="point"> <span class="description"><strong>C</strong>:
+          Character</span> <span class="verbal">"Can you describe the bleeding?
+          Was it a slow trickle or a heavy, gushing flow? How much blood do you
+          think you lost?"</span>
+        <ul>
+          <li>Trickle vs. Profuse flow</li>
+          <li>Quantify (e.g., number of soaked tissues, cupfuls)</li>
+        </ul>
+      </li>
+      <!-- R: Recurrence -->
+      <li class="point"> <span class="description"><strong>R</strong>:
+          Recurrence</span> <span class="verbal">"Is this the first time this
+          has happened, or are nosebleeds a recurrent problem for you?"</span> </li>
+      <!-- A: Associated Symptoms & Risk Factors -->
+      <li class="point"> <span class="description"><strong>A</strong>:
+          Associated Symptoms &amp; Risks</span> <span class="verbal">"Have you
+          noticed any other symptoms, like easy bruising or bleeding from other
+          places? And I need to ask about your general health and medications."</span>
+        <ul>
+          <li><b>LOCAL NASAL SYMPTOMS:</b>
+            <ul>
+              <li class="ent">Nasal obstruction or blockage (especially if
+                one-sided)</li>
+              <li class="ent">Facial pain or pressure</li>
+              <li class="ent">Reduced sense of smell</li>
+              <li class="ent">Nasal crusting</li>
+            </ul>
+          </li>
+          <li><b>CLUES FOR SYSTEMIC BLEEDING DISORDER:</b>
+            <ul>
+              <li class="hematology">Easy bruising?</li>
+              <li class="hematology">Prolonged bleeding from minor cuts or
+                dental work?</li>
+              <li class="hematology gynob">Heavy menstrual periods?</li>
+              <li class="hematology">Bleeding gums?</li>
+              <li class="hematology">Family history of bleeding problems (e.g.,
+                von Willebrand disease)?</li>
+            </ul>
+          </li>
+          <li><b>RISK FACTORS:</b>
+            <ul>
+              <li class="pharmacology hematology"><b>Medications:</b>
+                Anticoagulants (Warfarin, DOACs), Antiplatelets (Aspirin,
+                Clopidogrel), NSAIDs, steroid nasal sprays.</li>
+              <li class="cvs"> high blood pressure?</li>
+              <li class="git">liver disease (coagulopathy)?</li>
+              <li class="psychiatric">Cocaine use?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <!-- P: Progression -->
+      <li class="point"> <span class="description"><strong>P</strong>:
+          Progression</span> <span class="verbal">"Are the nosebleeds becoming
+          more frequent or harder to stop?"</span> </li>
+      <!-- P: Pattern -->
+      <li class="point"> <span class="description"><strong>P</strong>: Pattern</span>
+        <span class="verbal">"Is there any pattern to when they happen?"</span>
+      </li>
+      <!-- E: Effect on life -->
+      <li class="point"> <span class="description"><strong>E</strong>: Effect
+          on Life</span> <span class="verbal">"How have these nosebleeds been
+          affecting you? Do they cause a lot of anxiety or interfere with your
+          activities?"</span> </li>
+      <!-- R: Red Flags -->
+      <li class="point"> <span class="description"><strong>R</strong>: Red
+          Flags</span> <span class="verbal">"I'm just going to summarize the
+          key warning signs I'm looking for."</span>
+        <ul>
+          <li class="ent emergency"><b>Severe or prolonged </b>(&gt;20-30 mins)
+            not stopping with first aid.</li>
+          <li class="ent emergency">Suspicion of a <b>posterior bleed</b>
+            (bilateral bleeding, or blood flowing into the throat).</li>
+          <li class="cvs emergency">hemodynamic compromise (dizziness, fainting,
+            extreme pallor).</li>
+          <li class="oncology ent emergency">A recurrent unilateral + new nasal
+            blockage, facial pain, or neck lump.</li>
+          <li class="hematology">Signs of bleeding disorder.</li>
+        </ul>
+      </li>
+      <!-- S: Scale -->
+      <li class="point"> <span class="description"><strong>S</strong>: Severity
+          / Bother Scale</span> <span class="verbal">"On a scale of 1 to 10,
+          how severe or worrying are these nosebleeds for you?"</span> </li>
+    </div>
+    <script src="theme-toggle.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+  </body>
+</html>
