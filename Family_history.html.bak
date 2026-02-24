@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>FAMILY HISTORY</title>
+    <link id="light-styles" rel="stylesheet" href="Case_sheet_styles.css">
+    <link id="dark-styles" rel="alternate stylesheet" title="dark" href="Case_sheet_styles_dark.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body>
+    <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
+    <h3>FAMILY HISTORY</h3>
+
+    <h4>DECEASED RELATIVE</h4>
+    <ol>
+        <li>Apology</li>
+        <li class="General">Cause of death</li>
+        <li class="General">Age at death</li>
+        <li class="General">Circumstances of death</li>
+    </ol>
+<h4>Living/Dead</h4>
+    <ol>
+
+        <li class="General">None significant</li>
+        <li class="General">Similar complaints in family  </li>
+
+        <li> Age of onset</li>
+        <li class="oncology">Stage of Dx</li>
+    </ol>
+<h4>Conditions</h4>
+    <ol>
+        
+
+        <li class="General">Diabetes Mellitus (DM)
+            <ol>
+                <li class="General endocrine cvs cns">Tiredness</li>
+                <li class="nephro infectious endocrine">UTIs</li>
+                <li class="ophthalmology endocrine">Open angle Glaucoma</li>
+                <li class="ophthalmology endocrine">Diabetic retinopathy</li>
+                <li class="nephro endocrine cvs">Diabetic nephropathy</li>
+                <li class="cns endocrine">Peripheral neuropathy</li>
+                <li class="cvs endocrine">Coronary artery disease</li>
+                <li class="derma endocrine nephro">Foot ulcers</li>
+                <!-- Added complications from search results -->
+                <li class="ophthalmology endocrine">Cataracts </li>
+                <li class="General git endocrine">Gastroparesis</li>
+            </ol>
+        </li>
+        <li class="General ">Hypertension (HTN)
+            <ol>
+                <li class="ophthalmology cvs endocrine">Open angle Glaucoma</li>
+                <li class="cvs endocrine">Myocardial infarction</li>
+                <li class="cns cvs endocrine">Stroke</li>
+                <li class="nephro cvs endocrine">Chronic kidney disease</li>
+                <li class="ophthalmology cvs endocrine">Hypertensive retinopathy</li>
+                <li class="cvs endocrine">Heart failure </li>
+                <li class="cvs endocrine">Aortic aneurysm </li>
+                <!-- Added complications -->
+                <li class="cns cvs endocrine">Vascular dementia </li>
+                <li class="General cvs endocrine nephro">Sexual dysfunction </li>
+            </ol>
+        </li>
+        <li class="General">Cardiovascular diseases
+            <ol>
+                <li class="cvs">Myocardial Infarction (MI)
+                    <ol>
+                        <li class="hematology">On antiplatelets</li>
+                        <ol>
+                            <li class="ophthalmology hematology">Subconjunctival Hemorrhage</li>
+                            <li class="git">GI bleeding</li>
+                        </ol>
+                        <li class="cvs">Heart failure</li>
+                        <li class="cns">Stroke</li>
+                        <li class="cvs">Arrhythmias</li>
+                    </ol>
+                </li>
+                <li class="cns cvs">Stroke
+                    <ol>
+                        <li class="hematology">On antiplatelets</li>
+                        <ol>
+                            <li class="ophthalmology hematology">Subconjunctival Hemorrhage</li>
+                            <li class="git">GI bleeding</li>
+                        </ol>
+                        <li class="cns">Aphasia</li>
+                        <li class="cns">Hemiparesis</li>
+                        <li class="cns">Dysphagia</li>
+                        <li class="psychiatric">Depression</li>
+                    </ol>
+                </li>
+                <li class="cns cvs">TIA
+                    <ol>
+                        <li class="cvs">Future stroke risk</li>
+                        <li class="cns">Transient visual loss</li>
+                    </ol>
+                </li>
+                <li class="cns cvs">RIND</li>
+                <li class="cvs endocrine">Familial hyperlipidemia
+                    <ol>
+                        <li class="cvs">Premature CAD</li>
+                        <li class="ophthalmology">Xanthelasma</li>
+                        <li class="derma">Tendon xanthomas</li>
+                    </ol>
+                </li>
+                <li class="cvs">Congenital Heart Defects
+                    <ol>
+                        <li class="cvs">Heart failure</li>
+                        <li class="respiratory">Recurrent chest infections</li>
+                        <li class="General">Cyanosis</li>
+                    </ol>
+                </li>
+                <!-- Added conditions -->
+                <li class="cvs">Atrial Fibrillation 
+                    <ol>
+                        <li class="cvs">Stroke risk</li>
+                        <li class="cvs">Heart failure</li>
+                    </ol>
+                </li>
+                <li class="General">Noonan Syndrome
+                    <ol>
+                        <li class="cvs">Pulmonary stenosis</li>
+                        <li class="ent">Hearing loss</li>
+                        <li class="ophthalmology">Strabismus</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <!-- NEW SECTION: Chronic Kidney Disease -->
+        <li class="General">Chronic Kidney Disease 
+            <ol>
+                <li class="nephro cvs endocrine genetic">Dialysis dependence</li>
+                <li class="hematology cvs endocrine">Anemia</li>
+                <li class="ortho-specific endocrine cvs">Renal osteodystrophy</li>
+                <li class="cvs endocrine nephro">Hypertension exacerbation</li>
+            </ol>
+        </li>
+        <!-- NEW SECTION: Neurological/Cognitive -->
+        <li class="General">Dementia/Alzheimer's 
+            <ol>
+                <li class="cns psychiatric cvs endocrine">Early onset (before 65)</li>
+                <li class="psychiatric cns cvs endocrine">Behavioral changes</li>
+                <li class="cns cvs endocrine">Requiring full-time care</li>
+            </ol>
+        </li>
+        <!-- NEW SECTION: Thyroid Disorders -->
+        <li class="General">Thyroid Disorders 
+            <ol>
+                <li class="endocrine">Hypothyroidism
+                    <ol>
+                        <li class="General cvs endocrine cns">Fatigue</li>
+                        <li class="General cvs endocrine metabolic">Weight gain</li>
+                    </ol>
+                </li>
+                <li class="endocrine">Hyperthyroidism
+                    <ol>
+                        <li class="cvs">Atrial fibrillation</li>
+                        <li class="ophthalmology endocrine">Graves' eye disease</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <!-- NEW SECTION: Hereditary Cancer Syndromes -->
+        <li class="General">Hereditary Cancer Syndromes
+            <ol>
+                <li class="oncology genetic cvs endocrine">BRCA1/BRCA2 Mutations
+                    <ol>
+                        <li class="oncology">Breast cancer</li>
+                        <li class="oncology gynaecology">Ovarian cancer</li>
+                        <li class="oncology">Prostate cancer (men)</li>
+                        <li class="oncology">Pancreatic cancer</li>
+                        <li class="oncology derma">Melanoma</li>
+                    </ol>
+                </li>
+                <li class="oncology genetic git cvs">Lynch Syndrome (HNPCC)
+                    <ol>
+                        <li class="oncology git">Colorectal cancer</li>
+                        <li class="oncology gynaecology">Endometrial cancer</li>
+                        <li class="oncology git">Stomach cancer</li>
+                        <li class="oncology">Ovarian cancer</li>
+                        <li class="oncology git">Small bowel cancer</li>
+                        <li class="oncology git nephro">Urinary tract cancer</li>
+                    </ol>
+                </li>
+                <li class="oncology genetic cvs">Familial Adenomatous Polyposis (FAP)
+                    <ol>
+                        <li class="oncology git">Colon cancer (near 100% risk)</li>
+                        <li class="oncology git">Duodenal cancer</li>
+                        <li class="oncology derma">Desmoid tumors</li>
+                        <li class="oncology ophthalmology">Congenital hypertrophy of retinal pigment epithelium</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Liver Conditions
+            <ol>
+                <li class="git cvs endocrine metabolic">Non-alcoholic Fatty Liver Disease (NAFLD) 
+                    <ol>
+                        <li class="git cvs endocrine">Cirrhosis risk</li>
+                        <li class="cvs endocrine">Cardiovascular disease risk</li>
+                        <li class="endocrine">Metabolic syndrome association</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Respiratory conditions
+            <ol>
+                <li class="respiratory">Asthma
+                    <ol>
+                        <li class="ophthalmology derma allergic">Allergic conjunctivitis</li>
+                        <li class="derma allergic endocrine">Eczema</li>
+                        <li class="respiratory emergency cvs">Status asthmaticus</li>
+                        <li class="General cvs endocrine">Frequent hospitalizations</li>
+                    </ol>
+                </li>
+                <li class="respiratory">COPD
+                    <ol>
+                        <li class="respiratory cvs">Frequent exacerbations</li>
+                        <li class="cvs emergency">Cor pulmonale</li>
+                        <li class="General cvs endocrine metabolic">Weight loss</li>
+                        <li class="respiratory">Respiratory failure</li>
+                    </ol>
+                </li>
+                <li class="respiratory">Sleep Apnea 
+                    <ol>
+                        <li class="cvs endocrine">Hypertension</li>
+                        <li class="cvs">Atrial fibrillation</li>
+                    </ol>
+                </li>
+                <li class="respiratory infectious">TB
+                    <ol>
+                        <li class="respiratory cvs">Cavitary lesions</li>
+                        <li class="cvs">Pericarditis</li>
+                        <li class="nephro infectious">Renal TB</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Hematological disorders
+            <ol>
+                <li class="hematology">Bleeding disorders
+                    <ol>
+                        <li class="hematology cvs endocrine">Leads to anemia</li>
+                        <li class="ophthalmology hematology">Subconjunctival Hemorrhage</li>
+                        <li class="General cvs endocrine">Epistaxis</li>
+                        <li class="General gynaecology cvs endocrine">Menorrhagia</li>
+                        <li class="git">GI bleeding</li>
+                    </ol>
+                </li>
+                <li class="hematology">Thalassemia
+                    <ol>
+                        <li class="hematology">Transfusion dependence</li>
+                        <li class="endocrine">Growth retardation</li>
+                        <li class="endocrine">Endocrine disorders</li>
+                        <li class="cvs">Cardiac iron overload</li>
+                    </ol>
+                </li>
+                <li class="hematology">Sickle cell disease
+                    <ol>
+                        <li class="General">Pain crises</li>
+                        <li class="respiratory">Acute chest syndrome</li>
+                        <li class="cvs">Stroke</li>
+                        <li class="ophthalmology">Proliferative retinopathy</li>
+                    </ol>
+                </li>
+                <li class="hematology">Hemophilia
+                    <ol>
+                        <li class="ortho-specific">Hemarthroses</li>
+                        <li class="cns">Intracranial hemorrhage</li>
+                        <li class="General">Muscle hematomas</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Neurological disorders
+            <ol>
+                <li class="cns">Febrile seizures
+                    <ol>
+                        <li class="cns">Epilepsy risk</li>
+                    </ol>
+                </li>
+                <li class="cns">Epilepsy
+                    <ol>
+                        <li class="cns">Status epilepticus</li>
+                        <li class="cns">Medication side effects</li>
+                        <li class="cns">Injuries from seizures</li>
+                    </ol>
+                </li>
+                <li class="cns">Multiple Sclerosis
+                    <ol>
+                        <li class="cns ophthalmology">Optic Neuritis</li>
+                        <li class="cns">Spasticity</li>
+                        <li class="cns">Bladder dysfunction</li>
+                        <li class="cns">Cognitive impairment</li>
+                    </ol>
+                </li>
+                <li class="cns psychiatric">Autism Spectrum Disorder (ASD)
+                    <ol>
+                        <li class="psychiatric">Anxiety</li>
+                        <li class="psychiatric">Depression</li>
+                        <li class="git">GI issues</li>
+                        <li class="cns">Sleep disorders</li>
+                    </ol>
+                </li>
+                <li class="cns psychiatric">Attention-Deficit/Hyperactivity Disorder (ADHD)
+                    <ol>
+                        <li class="psychiatric">Impulsivity</li>
+                        <li class="psychiatric">Academic difficulties</li>
+                        <li class="psychiatric">Substance abuse</li>
+                    </ol>
+                </li>
+                <li class="cns psychiatric">Learning Difficulties</li>
+                <li class="cns">Developmental Delay</li>
+                <li class="cns">Fragile X Syndrome
+                    <ol>
+                        <li class="ent">Recurrent otitis media</li>
+                        <li class="cns">Seizures</li>
+                        <li class="ophthalmology">Strabismus</li>
+                    </ol>
+                </li>
+                <li class="cns">Rett Syndrome
+                    <ol>
+                        <li class="cns">Scoliosis</li>
+                        <li class="cns">Gastrointestinal dysfunction</li>
+                        <li class="cvs">Cardiac abnormalities</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Malignancies
+            <ol>
+                <li class="gynob">Breast cancer
+                    <ol>
+                        <li class="gynob">First-degree relatives (mother, sister, daughter - note age at diagnosis)</li>
+                        <li class="gynob">Second-degree relatives (grandmother, aunt)</li>
+                        <li class="cvs">Lymphedema</li>
+                        <li class="cns">Neuropathic pain</li>
+                        <li class="General">Metastatic disease</li>
+                    </ol>
+                </li>
+                <li class="gynob gynaecology">Gynecological cancers
+                    <ol>
+                        <li class="gynob gynaecology">Ovarian</li>
+                        <li class="gynob gynaecology">Endometrial</li>
+                        <li class="gynob gynaecology">Cervical</li>
+                        <li class="gynob">Breast</li>
+                        <li class="gynob gynaecology">Note relationship and age at diagnosis</li>
+                        <li class="nephro">Hydronephrosis</li>
+                        <li class="General">Ascites</li>
+                    </ol>
+                </li>
+                <li class="General">BRCA-related cancers
+                    <ol>
+                        <li class="gynob surgery urology">Prostate</li>
+                        <li class="git gynaecology urology">Pancreatic</li>
+                        <li class="derma gynob urology">Melanoma</li>
+                        <li class="gynob surgery urology">Male breast cancer</li>
+                    </ol>
+                </li>
+                <li class="General">Other cancers
+                    <ol>
+                        <li class="General">Chemotherapy complications</li>
+                        <li class="General">Radiation complications</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Genetic/Inherited conditions
+            <ol>
+            
+                <li class="surgery cvs endocrine genetic">Hernias (genetic predisposition)</li>
+                <li class="git nephro cns cvs endocrine psychiatric genetic">Wilson's disease
+                    <ol>
+                        <li class="ophthalmology cvs endocrine">Kayser-Fleischer rings</li>
+                        <li class="cns cvs endocrine psychiatric">Tremors</li>
+                    </ol>
+                </li>
+                <li class="git hematology cvs endocrine genetic">Gilbert's syndrome
+                    <ol>
+                        <li class="General cvs endocrine">Jaundice during illness/stress</li>
+                        <li class="General cvs endocrine cns">Fatigue</li>
+                    </ol>
+                </li>
+                <li class="git endocrine cvs nephro derma genetic">Hemochromatosis
+                    <ol>
+                        <li class="endocrine">Diabetes</li>
+                        <li class="derma cvs endocrine">Bronze skin</li>
+                    </ol>
+                </li>
+
+                <li class="hematology">Thalassemia
+                    <ol>
+                        <li class="ortho-specific">Bone deformities</li>
+                        <li class="endocrine">Growth retardation</li>
+                        <li class="endocrine">Endocrine disorders</li>
+                    </ol>
+                </li>
+                <li class="respiratory git">Cystic fibrosis
+                    <ol>
+                        <li class="respiratory">Recurrent pneumonias</li>
+                        <li class="git">Pancreatic insufficiency</li>
+                        <li class="endocrine">CF-related diabetes</li>
+                        <li class="nephro">Kidney stones</li>
+                    </ol>
+                </li>
+                <li class="ortho-specific">Muscular dystrophy
+                    <ol>
+                        <li class="cvs">Cardiomyopathy</li>
+                        <li class="respiratory">Respiratory failure</li>
+                        <li class="ortho-specific">Contractures</li>
+                        <li class="cns">Scoliosis</li>
+                    </ol>
+                </li>
+                <li class="General">Congenital abnormalities</li>
+                <li class="ortho-specific">Osteogenesis Imperfecta (OI)
+                    <ol>
+                        <li class="ortho-specific">Recurrent fractures</li>
+                        <li class="ent">Hearing loss</li>
+                        <li class="derma">Blue sclera</li>
+                    </ol>
+                </li>
+                <li class="ortho-specific">Cleidocranial Dysostosis
+                    <ol>
+                        <li class="ent">Dental abnormalities</li>
+                        <li class="ortho-specific">Short stature</li>
+                    </ol>
+                </li>
+                <li class="endocrine">Phenylketonuria (PKU)
+                    <ol>
+                        <li class="cns">Intellectual disability</li>
+                        <li class="derma">Eczema</li>
+                        <li class="psychiatric">Behavioral problems</li>
+                    </ol>
+                </li>
+                <li class="cns">Tay–Sachs Disease
+                    <ol>
+                        <li class="cns">Seizures</li>
+                        <li class="ophthalmology">Cherry-red spot</li>
+                        <li class="cns">Progressive weakness</li>
+                    </ol>
+                </li>
+                <li class="endocrine cvs">Turner Syndrome
+                    <ol>
+                        <li class="endocrine">Infertility</li>
+                        <li class="cvs">Aortic coarctation</li>
+                        <li class="nephro">Horseshoe kidney</li>
+                    </ol>
+                </li>
+                <li class="endocrine psychiatric">Prader–Willi Syndrome
+                    <ol>
+                        <li class="endocrine">Obesity</li>
+                        <li class="endocrine">Diabetes</li>
+                        <li class="psychiatric">Behavioral issues</li>
+                    </ol>
+                </li>
+                <li class="endocrine ophthalmology">Bardet–Biedl Syndrome
+                    <ol>
+                        <li class="ophthalmology">Retinal dystrophy</li>
+                        <li class="endocrine">Obesity</li>
+                        <li class="nephro">Renal abnormalities</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <!-- NEW SECTION: Autoimmune Diseases -->
+        <li class="General autoimmune genetic">Autoimmune Diseases
+            <ol>
+                <li class="autoimmune cvs genetic">Rheumatoid Arthritis
+                    <ol>
+                        <li class="ortho-specific rheumatic">Joint deformities</li>
+                        <li class="rheumatic cvs">Rheumatoid nodules</li>
+                        <li class="rheumatic cvs">Pericarditis</li>
+                        <li class="rheumatic pulmonary">Pulmonary fibrosis</li>
+                        <li class="rheumatic ophthalmology">Sjögren's syndrome overlap</li>
+                    </ol>
+                </li>
+                <li class="autoimmune cvs nephro derma genetic">Systemic Lupus Erythematosus (SLE)
+                    <ol>
+                        <li class="derma">Butterfly rash</li>
+                        <li class="nephro">Lupus nephritis</li>
+                        <li class="cvs">Pericarditis</li>
+                        <li class="cns">Neuropsychiatric lupus</li>
+                        <li class="hematology">Hematologic abnormalities</li>
+                        <li class="pulmonary">Pleuritis</li>
+                    </ol>
+                </li>
+                <li class="autoimmune cns ophthalmology genetic">Multiple Sclerosis
+                    <ol>
+                        <li class="cns">Optic neuritis</li>
+                        <li class="cns">Motor weakness</li>
+                        <li class="cns">Sensory deficits</li>
+                        <li class="cns">Cognitive impairment</li>
+                        <li class="cns">Bladder dysfunction</li>
+                        <li class="cns psychiatric">Depression</li>
+                    </ol>
+                </li>
+                <li class="autoimmune endocrine genetic">Type 1 Diabetes
+                    <ol>
+                        <li class="endocrine">Early onset diabetes</li>
+                        <li class="endocrine cvs">Autoimmune thyroid disease</li>
+                        <li class="endocrine">Celiac disease</li>
+                        <li class="endocrine">Addison's disease</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <!-- NEW SECTION: Connective Tissue Disorders -->
+        <li class="General">Connective Tissue Disorders
+            <ol>
+                <li class="cvs ortho-specific ophthalmology genetic">Marfan Syndrome
+                    <ol>
+                        <li class="cvs emergency">Aortic aneurysm/dissection</li>
+                        <li class="cvs">Mitral valve prolapse</li>
+                        <li class="ortho-specific">Scoliosis</li>
+                        <li class="ortho-specific">Pectus excavatum</li>
+                        <li class="ophthalmology">Lens dislocation</li>
+                        <li class="pulmonary">Spontaneous pneumothorax</li>
+                    </ol>
+                </li>
+                <li class="cvs ortho-specific derma genetic">Ehlers-Danlos Syndromes
+                    <ol>
+                        <li class="derma">Hyperelastic skin</li>
+                        <li class="ortho-specific">Joint hypermobility</li>
+                        <li class="cvs emergency">Vascular rupture (VEDS)</li>
+                        <li class="cvs">Aortic root dilation</li>
+                        <li class="orthopedic">Chronic joint pain</li>
+                        <li class="git">Gastrointestinal complications</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Osteoporosis 
+            <ol>
+                <li class="ortho-specific">Hip fractures</li>
+                <li class="ortho-specific">Vertebral compression fractures</li>
+                <li class="General">Kyphosis (dowager's hump)</li>
+            </ol>
+        </li>
+        <li class="General">Musculoskeletal conditions
+            <ol>
+                <li class="ortho-specific rheumatic">Osteoarthritis
+                    <ol>
+                        <li class="ortho-specific">Joint replacement</li>
+                        <li class="ortho-specific">Chronic pain</li>
+                        <li class="General">Reduced mobility</li>
+                    </ol>
+                </li>
+                <li class="rheumatic">Rheumatoid Arthritis
+                    <ol>
+                        <li class="ortho-specific">Joint deformities</li>
+                        <li class="respiratory">Pulmonary fibrosis</li>
+                        <li class="cvs">Pericarditis</li>
+                        <li class="ophthalmology">Scleritis</li>
+                    </ol>
+                </li>
+                <li class="ortho-specific endocrine">Osteoporosis
+                    <ol>
+                        <li class="ortho-specific">Fragility fractures</li>
+                        <li class="ortho-specific">Kyphosis</li>
+                        <li class="General">Loss of height</li>
+                    </ol>
+                </li>
+                <li class="rheumatic nephro">Gout
+                    <ol>
+                        <li class="ortho-specific">Tophi</li>
+                        <li class="nephro">Kidney stones</li>
+                        <li class="nephro">Chronic kidney disease</li>
+                    </ol>
+                </li>
+                <li class="rheumatic">Ankylosing Spondylitis
+                    <ol>
+                        <li class="ophthalmology">Acute anterior uveitis</li>
+                        <li class="ortho-specific">Spinal fusion</li>
+                        <li class="cvs">Aortitis</li>
+                    </ol>
+                </li>
+                <li class="rheumatic">Ehlers-Danlos syndrome
+                    <ol>
+                        <li class="derma">Fragile skin</li>
+                        <li class="cvs">Aortic dissection</li>
+                        <li class="surgery">Joint dislocations</li>
+                    </ol>
+                </li>
+                <li class="cvs ophthalmology">Marfan syndrome
+                    <ol>
+                        <li class="cvs">Aortic aneurysm</li>
+                        <li class="ophthalmology">Lens dislocation</li>
+                        <li class="ortho-specific">Scoliosis</li>
+                    </ol>
+                </li>
+                <li class="ortho-specific">Skeletal dysplasias</li>
+                <li class="General">Short Stature
+                    <ol>
+                        <li class="endocrine">Growth hormone deficiency</li>
+                        <li class="ortho-specific">Skeletal abnormalities</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Psychiatric conditions
+            <ol>
+                <li class="psychiatric">Mental illness (specify relationship, diagnosis, treatment, suicide attempts/completions)
+                    <ol>
+                        <li class="psychiatric">Hospitalizations</li>
+                        <li class="psychiatric">ECT treatments</li>
+                        <li class="General">Social isolation</li>
+                    </ol>
+                </li>
+                <li class="psychiatric">Substance abuse
+                    <ol>
+                        <li class="git">Liver cirrhosis</li>
+                        <li class="cns">Neuropathy</li>
+                        <li class="psychiatric">Psychosis</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Infectious diseases
+            <ol>
+                <li class="infectious">HIV/AIDS
+                    <ol>
+                        <li class="infectious">Opportunistic infections</li>
+                        <li class="General">Wasting syndrome</li>
+                        <li class="cns">HIV dementia</li>
+                    </ol>
+                </li>
+                <li class="infectious">Syphilis
+                    <ol>
+                        <li class="cns">Neurosyphilis</li>
+                        <li class="cvs">Aortitis</li>
+                        <li class="ophthalmology">Ocular syphilis</li>
+                    </ol>
+                </li>
+                <li class="infectious respiratory">Tuberculosis (TB)
+                    <ol>
+                        <li class="cns">TB meningitis</li>
+                        <li class="ortho-specific">Pott's disease</li>
+                        <li class="General">Miliary TB</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Other conditions
+            <ol>
+                <li class="rheumatic">Autoimmune diseases
+                    <ol>
+                        <li class="rheumatic">Lupus</li>
+                        <li class="rheumatic">Sjögren's</li>
+                        <li class="rheumatic">Vasculitis</li>
+                    </ol>
+                </li>
+                <li class="derma">Skin conditions
+                    <ol>
+                        <li class="derma">Psoriasis</li>
+                        <li class="derma">Eczema</li>
+                        <li class="derma">Vitiligo</li>
+                    </ol>
+                </li>
+                <li class="General">Atopy
+                    <ol>
+                        <li class="respiratory">Asthma</li>
+                        <li class="derma">Eczema</li>
+                        <li class="ophthalmology">Allergic conjunctivitis</li>
+                    </ol>
+                </li>
+                <li class="ent">Hearing Problems
+                    <ol>
+                        <li class="ent">Recurrent otitis</li>
+                        <li class="ent">Tinnitus</li>
+                        <li class="cns">Vertigo</li>
+                    </ol>
+                </li>
+                <li class="nephro">Bed wetting
+                    <ol>
+                        <li class="psychiatric">Psychological distress</li>
+                        <li class="nephro">UTIs</li>
+                    </ol>
+                </li>
+                <li class="obstetric gynaecology">Recurrent miscarriages
+                    <ol>
+                        <li class="rheumatic">Antiphospholipid syndrome</li>
+                        <li class="endocrine">Hormonal imbalances</li>
+                        <li class="gynaecology">Uterine abnormalities</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li class="General">Family pedigree (if relevant for genetic conditions)</li>
+        <li class="General">Consanguinity in parents</li>
+        <li class="General">Family history of egg allergy (relevant for vaccines with egg derivatives) <a class="timestamp" href="https://www.youtube.com/watch?v=0I8i5C_UArQ&t=453s">(Video 7:33-7:58)</a></li>
+        <li class="General">Family history video reference: <a class="timestamp" href="https://youtu.be/ItJc_6eH_w4?t=171s">Family History (2:51)</a></li>
+
+    
+    </ol>
+
+    <script src="harsha_iframe_youtube_player.js"></script>
+    <script src="Iframe_height_mothership.js"></script>
+    <script src="Iframe_height.js"></script>
+
+    <script src="theme-toggle.js"></script>
+    <script src="double_click_collapse_details.js"></script>
+  
+
+
+  </body>
+</html>
