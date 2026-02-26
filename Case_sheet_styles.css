@@ -4,6 +4,10 @@
 /* i think box shadow is the only thing you need to use that to highlight different classes even if there are multiple of them even if they don't overlap. */
 
 
+:root {
+    color-scheme: light;
+}
+
 /* Base Styles */
 body {
     font-family: 'Times New Roman', Times, serif;
@@ -571,7 +575,7 @@ em {
 }
 
 strong {
-    color: #09a8cc;
+    color: #10c8e0;
     font-weight: bold;
 }
 

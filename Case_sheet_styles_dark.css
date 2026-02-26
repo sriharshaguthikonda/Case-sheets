@@ -1,4 +1,7 @@
 /* Dark Theme CSS Version - Color Inverted (except white/black) */
+:root {
+    color-scheme: dark;
+}
 
 /* Base Styles - Dark Theme */
 body {
@@ -436,23 +439,28 @@ li::after {
 details {
     height: auto!important;
     width: 100%!important;
-    box-shadow: 0 0 3px rgba(0,0,0,0.8)!important; /* Inverted from rgba(255,255,255,0.2) */
-    margin-bottom: 15px!important; 
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.6)!important;
+    margin-bottom: 15px!important;
     padding: 3px 5px!important;
     margin-left: -0.1cm!important;
-    background-color: #e7e7e7!important; /* Inverted from #2a2a2a */
-    border: none!important; /* Inverted from #444 */
+    background-color: #121212!important;
+    border: 1px solid #333333!important;
 }
 
 summary {
-    color: #5a3b03!important; /* Inverted from #6495ed */
-    font-family: "times new roman", times, serif!important; 
-    font-size: 13.0pt!important; 
+    color: #e6e6e6!important;
+    font-family: "times new roman", times, serif!important;
+    font-size: 13.0pt!important;
     font-weight: bold!important;
+    background-color: transparent!important;
+}
+
+summary::marker {
+    color: currentColor!important;
 }
 
 summary:hover {
-    background-color: #cccccc!important; /* Inverted from #333 */
+    background-color: #1e1e1e!important;
 }
 
 /* COLOURS - Dark Theme */
@@ -510,7 +518,7 @@ em {
 }
 
 strong {
-    color: #993311!important; /* Inverted from #66ccee */
+    color: #df572a!important; /* Inverted from #66ccee */
     font-weight: bold!important;
 }
 

@@ -1,10 +1,8 @@
 // Enhanced Theme Toggle - Parent Controls All Iframes (No Browser Interference)
 document.addEventListener('DOMContentLoaded', function() {
-    // Override browser dark mode detection to prevent interference
     const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-    
-    // Get saved theme, but ignore system preference to avoid browser conflicts
-    const currentTheme = localStorage.getItem('theme') || 'light'; // Default to light to avoid browser interference
+    const storedTheme = localStorage.getItem('theme');
+    const currentTheme = storedTheme || (prefersDarkScheme.matches ? 'dark' : 'light');
     
     // Apply the saved theme
     setTheme(currentTheme);
@@ -19,6 +17,18 @@ document.addEventListener('DOMContentLoaded', function() {
         setupIframeThemeListener();
     }
     
+    // Sync with system preference if the user hasn't chosen a theme yet
+    if (!storedTheme) {
+        prefersDarkScheme.addEventListener('change', (event) => {
+            const autoTheme = event.matches ? 'dark' : 'light';
+            setTheme(autoTheme);
+            if (window.self === window.top) {
+                const themeToggle = document.getElementById('theme-toggle');
+                if (themeToggle) updateButtonText(themeToggle, autoTheme);
+            }
+        });
+    }
+
     // Enhanced iframe observer for parent window only
     if (window.self === window.top) {
         const observer = new MutationObserver((mutations) => {
@@ -143,15 +153,35 @@ function setDocumentTheme(doc, theme) {
     }
     
     // Handle stylesheet switching if using separate stylesheets
-    const lightStylesheet = doc.getElementById('light-styles');
-    const darkStylesheet = doc.getElementById('dark-styles');
+    const lightStylesheet = doc.getElementById('light-styles') || doc.querySelector('link[href*="Case_sheet_styles.css"]');
+    const darkStylesheet = doc.getElementById('dark-styles') || doc.querySelector('link[href*="Case_sheet_styles_dark.css"]');
     
     if (theme === 'dark') {
-        if (lightStylesheet) lightStylesheet.disabled = true;
-        if (darkStylesheet) darkStylesheet.disabled = false;
+        if (darkStylesheet) {
+            darkStylesheet.disabled = false;
+            if (lightStylesheet) {
+                if (darkStylesheet.sheet) {
+                    lightStylesheet.disabled = true;
+                } else {
+                    darkStylesheet.addEventListener('load', () => {
+                        lightStylesheet.disabled = true;
+                    }, { once: true });
+                }
+            }
+        } else if (lightStylesheet) {
+            // Fallback: keep light styles if no dark stylesheet exists
+            lightStylesheet.disabled = false;
+        }
     } else {
         if (lightStylesheet) lightStylesheet.disabled = false;
         if (darkStylesheet) darkStylesheet.disabled = true;
+    }
+
+    // Safety: never leave the document without any stylesheet enabled
+    const enabledStyles = Array.from(doc.querySelectorAll('link[rel*="stylesheet"]'))
+        .filter(link => !link.disabled);
+    if (enabledStyles.length === 0 && lightStylesheet) {
+        lightStylesheet.disabled = false;
     }
 }
 
@@ -178,6 +208,8 @@ function updateIframeThemes(theme) {
                     toggleButton.style.display = 'none';
                 }
                 console.log(`Applied ${theme} theme to iframe ${index + 1} via direct access`);
+            } else {
+                throw new Error('No contentDocument');
             }
         } catch (e) {
             console.log(`Direct access failed for iframe ${index + 1}, using postMessage`);
@@ -203,6 +235,8 @@ function updateIframeThemes(theme) {
                     setDocumentTheme(iframe.contentDocument, theme);
                     const toggleButton = iframe.contentDocument.getElementById('theme-toggle');
                     if (toggleButton) toggleButton.style.display = 'none';
+                } else {
+                    throw new Error('No contentDocument');
                 }
             } catch (e) {
                 try {
