@@ -1,0 +1,88 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/Case-sheets",
+    "generatedAt":  "2026-06-01T06:03:58.6282024Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  11,
+    "totalBytes":  73863051,
+    "maps":  [
+                 {
+                     "name":  "Menstrual-history-iframe",
+                     "ref":  "refs/remotes/origin/Menstrual-history-iframe",
+                     "commit":  "7fec9d7c2970ff24e0005a4db9b2253c3d992382",
+                     "path":  ".repo-intel/branches/remote-origin/menstrual-history-iframe__7fec9d7c2970/repo-map-full.json",
+                     "bytes":  6123201
+                 },
+                 {
+                     "name":  "add-history-summarization",
+                     "ref":  "refs/remotes/origin/add-history-summarization",
+                     "commit":  "55f74608deb821dc9ec5e1680674e6bc8df29346",
+                     "path":  ".repo-intel/branches/remote-origin/add-history-summarization__55f74608deb8/repo-map-full.json",
+                     "bytes":  6143242
+                 },
+                 {
+                     "name":  "codex/added-inform-broad-plan",
+                     "ref":  "refs/remotes/origin/codex/added-inform-broad-plan",
+                     "commit":  "19d0ed7d506e2f4caec8fa10c5c2a95a49624ef4",
+                     "path":  ".repo-intel/branches/remote-origin/codex-added-inform-broad-plan__19d0ed7d506e/repo-map-full.json",
+                     "bytes":  6022386
+                 },
+                 {
+                     "name":  "feature/family-history-iframe-all-files",
+                     "ref":  "refs/remotes/origin/feature/family-history-iframe-all-files",
+                     "commit":  "cb3305ae67b77a37ad883127abb353333b05c4b6",
+                     "path":  ".repo-intel/branches/remote-origin/feature-family-history-iframe-all-files__cb3305ae67b7/repo-map-full.json",
+                     "bytes":  7715770
+                 },
+                 {
+                     "name":  "feature/treatment-history-iframe",
+                     "ref":  "refs/remotes/origin/feature/treatment-history-iframe",
+                     "commit":  "59affb509ef78beff48dfcee04dc5cd1529bbe37",
+                     "path":  ".repo-intel/branches/remote-origin/feature-treatment-history-iframe__59affb509ef7/repo-map-full.json",
+                     "bytes":  6115557
+                 },
+                 {
+                     "name":  "feature/update-summary-class",
+                     "ref":  "refs/remotes/origin/feature/update-summary-class",
+                     "commit":  "4ae1a4f686038c85a86f3e993f3a2a6d821339cb",
+                     "path":  ".repo-intel/branches/remote-origin/feature-update-summary-class__4ae1a4f68603/repo-map-full.json",
+                     "bytes":  6118230
+                 },
+                 {
+                     "name":  "master",
+                     "ref":  "refs/remotes/origin/master",
+                     "commit":  "b82c51c5ce9bd942df60de5eced5af03a69b0cd1",
+                     "path":  ".repo-intel/branches/remote-origin/master__b82c51c5ce9b/repo-map-full.json",
+                     "bytes":  6048756
+                 },
+                 {
+                     "name":  "paired-verbal-child-li",
+                     "ref":  "refs/remotes/origin/paired-verbal-child-li",
+                     "commit":  "e23963933bb65d4a61d10a3d8fc96ce16bf01e1a",
+                     "path":  ".repo-intel/branches/remote-origin/paired-verbal-child-li__e23963933bb6/repo-map-full.json",
+                     "bytes":  8418148
+                 },
+                 {
+                     "name":  "refactor-case-sheet-elaborations",
+                     "ref":  "refs/remotes/origin/refactor-case-sheet-elaborations",
+                     "commit":  "b2e343662334c9fc31e053215ed1056a88644a90",
+                     "path":  ".repo-intel/branches/remote-origin/refactor-case-sheet-elaborations__b2e343662334/repo-map-full.json",
+                     "bytes":  6105820
+                 },
+                 {
+                     "name":  "removed-comments",
+                     "ref":  "refs/remotes/origin/removed-comments",
+                     "commit":  "7c555d09c4a22c930d40eff0c2c51bb86cca6c21",
+                     "path":  ".repo-intel/branches/remote-origin/removed-comments__7c555d09c4a2/repo-map-full.json",
+                     "bytes":  6246203
+                 },
+                 {
+                     "name":  "verbal-point-content-nesting",
+                     "ref":  "refs/remotes/origin/verbal-point-content-nesting",
+                     "commit":  "50b232c47dfed62846b16caf0f7f2bbf3c27ff70",
+                     "path":  ".repo-intel/branches/remote-origin/verbal-point-content-nesting__50b232c47dfe/repo-map-full.json",
+                     "bytes":  8637162
+                 }
+             ]
+}
