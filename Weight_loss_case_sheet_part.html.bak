@@ -11,7 +11,6 @@
   <body> <button id="theme-toggle" title="Toggle dark mode">🌙 Dark Mode</button>
     <h4>Weight Loss</h4>
     <div class="General">
-      <h3>1ST COMPLAINT: WEIGHT LOSS</h3>
       <div class="point">
         <div class="point-content"> <span class="description"><strong>S</strong>:
             Site (of perceived loss)</span>
@@ -38,7 +37,20 @@
         <span class="verbal">"For how long has this been happening?"</span></div>
       <div class="point">
         <div class="point-content"> <span class="description"><strong>A/R</strong>:
-            Aggravating &amp; Relieving Factors</span> </div>
+            Aggravating &amp;</span>
+          <ul>
+            <li class="General">Exercise</li>
+            <li class="General">Food</li>
+            <li class="General">laxatives</li>
+            <li class="">......</li>
+          </ul>
+          <span class="description"> Relieving Factors</span><br>
+          <ul>
+            <li class="General">.....</li>
+            <li class=""><br>
+            </li>
+          </ul>
+        </div>
         <span class="verbal">"Have you made any changes to your diet or
           exercise? Has anything seemed to slow or speed up the weight loss?"</span></div>
       <div class="point">
@@ -106,10 +118,20 @@
             </li>
             <li class="endocrine">ENDOCRINE
               <ul>
-                <li class="endocrine cvs psychiatric">Heat intolerance,
-                  palpitations, anxiety, tremor, diarrhea (Hyperthyroidism)</li>
-                <li class="endocrine nephro">Excessive thirst (polydipsia),
-                  excessive urination (polyuria) (Diabetes)</li>
+                <li class="endocrine cvs psychiatric">Hyperthyroidism</li>
+                <ul>
+                  <li class="endocrine cvs psychiatric">Heat intolerance,
+                    palpitations, anxiety, tremor, diarrhea</li>
+                </ul>
+                <li class="endocrine nephro">DM</li>
+                <ul>
+                  <li class="endocrine nephro">Excessive thirst (polydipsia),
+                    excessive urination (polyuria) </li>
+                </ul>
+                <li class="endocrine nephro">Addisons -</li>
+                <ul>
+                  <li class="endocrine nephro">Nausea/vomiting</li>
+                </ul>
               </ul>
             </li>
             <li class="respiratory oncology infectious">RESPIRATORY
