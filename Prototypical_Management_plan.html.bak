@@ -7,20 +7,41 @@
     <title>Prototypical Management Plan</title>
     <script src="https://www.youtube.com/iframe_api"></script>
   </head>
-  <body> <button id="theme-toggle" title="Toggle dark mode"> Dark Mode</button>
-    <h3 class="General"><br>
-    </h3>
-    <h3>ICE </h3>
+  <body style="     margin-left:235px;"> <button id="theme-toggle" title="Toggle dark mode">
+      Dark Mode</button>
+    <div style="position:fixed;left:8px;top:8px;width:215px;max-height:90vh;overflow-y:auto;border:1px solid #999;padding:10px 14px;background:#f5f5f5;box-sizing:border-box;"
+      id="toc-static"> <b>Contents</b><br>
+      <br>
+      <b><a href="#h-ice">ICE</a></b><br>
+      <b><a href="#h-examination">Exam</a></b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-initial-investigations">Initial Ix</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-patient-emotional-plan">Patient-Emotional
+        Plan</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#h-ice-ideas">ICE: Ideas</a></b><br>
+      <b><a href="#h-management-plan">Dx</a></b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-explain-findings">Explain Findings</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-provisional-diagnosis">Provisional Dx</a><br>
+      <b><a href="#h-management-plan">Mx</a></b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-obo-urgency">OBO Urgency</a><br>
+      &nbsp;&nbsp;&nbsp; <a href="#h-treatment-plan">Rx Plan</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#h-ice-concerns">ICE: Concerns</a></b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-patient-education">Patient Education</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-red-flags">Warning Signs</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-follow-up">Follow Up</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-reporting-duties">Reporting Duties</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-teach-back">Teach Back</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-summary">Summary of the Plan</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#h-document">Document the Plan</a><br>
+      <b><a href="#h-ice-expectations">ICE: Expectations</a></b> </div>
+    <h2 id="h-ice">ICE </h2>
     <ol>
       <li>Ideas</li>
       <li>Concerns</li>
       <li>Expectations </li>
     </ol>
-    <p><br>
-    </p>
     <h3 class="General"></h3>
-    <h2 class="General">Examination</h2>
-    <h4 class="General">INITIAL INVESTIGATIONS</h4>
+    <h2 id="h-examination" class="General">Examination</h2>
+    <h4 id="h-initial-investigations" class="General">INITIAL INVESTIGATIONS</h4>
     <ul>
       <li class="General"> <em>Consent (ensure informed, check understanding)</em>
       </li>
@@ -51,8 +72,7 @@
       </li>
     </ul>
     <h3 class="General"></h3>
-    <h3 class="General">MANAGEMENT PLAN</h3>
-    <h4 class="General">PATIENT-EMOTIONAL PLAN</h4>
+    <h4 id="h-patient-emotional-plan" class="General">PATIENT-EMOTIONAL PLAN</h4>
     <ol>
       <li class="General">Want someone to <b><u>listen </u></b>in? (Patient
         partnership)</li>
@@ -61,23 +81,35 @@
           <li class="General">we can call ..... for you</li>
         </ol>
       </li>
-      <li class="General cns">Assess Mental Capacity</li>
+      <li class="General cns">Assess Mental <em>Capacity</em></li>
       <li class="General">Consider <b>Safeguarding </b>issues</li>
     </ol>
-    <h3>ICE : Ideas</h3>
+    <h3 id="h-ice-ideas">ICE : Ideas</h3>
     <ol>
       <li>Ideas: "What have you been told so far about this?"</li>
       <li>Can try asking Concerns and expectations</li>
     </ol>
+    <h2 id="h-management-plan" class="General">Diagnosis </h2>
+    <h4 id="h-explain-findings"></h4>
     <h4>EXPLAIN FINDINGS</h4>
     <ul>
       <li><b>Negative </b>Findings =&gt; suggesting <b>health</b></li>
       <li><em>Positive </em>Findings =&gt; suggesting <em>diagnosis</em></li>
+      <li class="hematology oncology">What is affected</li>
+      <ul>
+        <li class="hematology oncology">lung</li>
+        <li class="hematology oncology">brain</li>
+      </ul>
+      <li class="hematology oncology">What is causing this - </li>
+      <ul>
+        <li class="hematology oncology">virus</li>
+        <li class="hematology oncology">inflammation</li>
+      </ul>
       <li class="hematology oncology">Explain CRAB criteria if present (Hyper<b>C</b>alcemia,
         <b>R</b>enal impairment, <b>A</b>nemia, <b>B</b>one lesions)</li>
       <li>Check the understanding</li>
     </ul>
-    <h4>PROVISIONAL DIAGNOSIS</h4>
+    <h4 id="h-provisional-diagnosis">PROVISIONAL DIAGNOSIS</h4>
     <ol class="General">
       <li class="hematology oncology"><b>EXPLAIN DIAGNOSIS</b> </li>
       <ol>
@@ -109,6 +141,8 @@
         </ul>
       </li>
     </ol>
+    <h2 class="General">MANAGEMENT PLAN</h2>
+    <h4 id="h-obo-urgency" class="General"></h4>
     <h4 class="General">OBO Urgency</h4>
     <ul>
       <li class="General">UPDATE COLLEAGUES<br>
@@ -142,7 +176,7 @@
         </ol>
       </li>
     </ul>
-    <h4 class="General">TREATMENT PLAN</h4>
+    <h4 id="h-treatment-plan" class="General">TREATMENT PLAN</h4>
     <ul class="General">
       <li class="General">Shared Decision-Making
         <ul>
@@ -208,19 +242,18 @@
         </ul>
       </li>
     </ul>
-    <h3>ICE : Concerns </h3>
+    <h3 id="h-ice-concerns">ICE : Concerns </h3>
     <ol>
-      <li>Concerns:
+      <li>Pain, loss of independence, fractures</li>
+      <li>Side effects of chemotherapy</li>
+      <li>Prognosis / Is it curable?</li>
+      <li>Impact on family and work</li>
+      <li>Cancer
         <ul>
-          <li>Pain, loss of independence, fractures</li>
-          <li>Side effects of chemotherapy</li>
-          <li>Prognosis / Is it curable?</li>
-          <li>Impact on family and work</li>
-          <li>Cancer</li>
         </ul>
       </li>
     </ol>
-    <h4>Patient Education</h4>
+    <h4 id="h-patient-education">Patient Education</h4>
     <ul class="General">
       <li class="General">Infection spread</li>
       <ul>
@@ -247,9 +280,7 @@
         </ul>
       </li>
     </ul>
-    <h4><br>
-    </h4>
-    <h4><b>Red flags</b> Warning Signs </h4>
+    <h4 id="h-red-flags"><b>Red flags</b> Warning Signs </h4>
     <ul>
       <li class="cns emergency">Not improve :</li>
       <ul>
@@ -273,9 +304,10 @@
       </ul>
     </ul>
     <h4></h4>
-    <h4>Follow Up</h4>
+    <h4 id="h-follow-up">Follow Up</h4>
     <ul class="General">
-      <li class="General">If needed</li>
+      <li class="General">If <b>needed ?<br>
+        </b></li>
       <li class="General">Type:
         <ul class="General">
           <li class="General">Haematology outpatient clinic</li>
@@ -319,28 +351,30 @@
         </ul>
       </li>
     </ul>
-    <h4><b>Reporting duties</b> (e.g., notifiable diseases)</h4>
+    <h4 id="h-reporting-duties"><b>Reporting duties</b> (e.g., notifiable
+      diseases)</h4>
     <ol>
       <li><em>DVLA </em>(Driver and Vehicle Licensing Agency) Notification</li>
+      <li>Notifiable <em>diseases</em></li>
     </ol>
-    <h4><b>Teach back</b></h4>
+    <h4 id="h-teach-back"><b>Teach back</b></h4>
     <ul>
       <li>Patient tells the plan</li>
       <li>Can you tell me what you understand about your condition?</li>
       <li>Treatment?</li>
       <li>Follow-up?</li>
     </ul>
-    <h4><b>Summary </b>of the plan</h4>
+    <h4 id="h-summary"><b>Summary </b>of the plan</h4>
     <ul>
       <li>doctor repeats the plan</li>
     </ul>
-    <h4><b>Document </b>the plan</h4>
+    <h4 id="h-document"><b>Document </b>the plan</h4>
     <ul>
       <li class="ortho-specific">Offer Med 3 fit note if symptoms likely &gt; 7
         days</li>
       <li class="General">Clear, accurate, and contemporaneous documentation</li>
     </ul>
-    <h3>ICE : Expectations</h3>
+    <h3 id="h-ice-expectations">ICE : Expectations</h3>
     <ol>
       <li> Expectations:</li>
       <ol>
@@ -353,5 +387,6 @@
     <script src="Iframe_height.js"></script>
     <script src="theme-toggle.js"></script>
     <script src="double_click_collapse_details.js"></script>
+    <script src="toc.js"></script>
   </body>
 </html>
