@@ -38,11 +38,20 @@
         <div class="point-content">
           <span class="description"><strong>S</strong>: Site of Discomfort</span>
           <ul>
-            <li>GENERALIZED: <span class="git">IBS, constipation, ascites</span></li>
-            <li>UPPER ABDOMEN: <span class="git">Functional Dyspepsia,
-                Gastroparesis, H. pylori</span></li>
-            <li>LOWER ABDOMEN: <span class="gynob">Gynaecological causes
-                (fibroids, ovarian cysts)</span></li>
+            <li>GENERALIZED:</li>
+            <ul>
+              <li>&nbsp;<span class="git">IBS, constipation, ascites</span></li>
+            </ul>
+            <li>UPPER ABDOMEN: </li>
+            <ul>
+              <li><span class="git">Functional Dyspepsia, Gastroparesis, H.
+                  pylori</span></li>
+            </ul>
+            <li>LOWER ABDOMEN:&nbsp;<span class="gynob"></span></li>
+            <ul>
+              <li><span class="gynob">Gynaecological causes (fibroids, ovarian
+                  cysts)</span></li>
+            </ul>
           </ul>
         </div>
         <span class="verbal">"Is the bloating felt all over your abdomen, or is
