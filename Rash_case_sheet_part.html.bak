@@ -168,20 +168,16 @@
         <div class="point-content"> <span class="description"><strong>A</strong>:
             Associated Symptoms</span>
           <ul>
-            <li>GENERAL
-              <ul>
-                <li class="rheumatic">Joint Pain </li>
-                <ul>
-                  <li class="rheumatic">HSP, </li>
-                  <li class="rheumatic">Viral Arthritis</li>
-                  <li class="rheumatic">Lyme disease</li>
-                  <li class="rheumatic">Auto immune /psorasis</li>
-                </ul>
-              </ul>
-            </li>
-            <li><strong>DEHYDRATION </strong>&ndash; dry nappies, lethargy,
-              sunken eyes.</li>
-            <li><strong>FEVER PROFILE</strong> &ndash;
+            <li class="rheumatic"><strong>JOINT PAIN</strong></li>
+            <ul>
+              <li class="rheumatic">HSP, </li>
+              <li class="rheumatic">Viral Arthritis</li>
+              <li class="rheumatic">Lyme disease</li>
+              <li class="rheumatic">Auto immune /psorasis</li>
+            </ul>
+            <li><strong>DEHYDRATION </strong>– dry nappies, lethargy, sunken
+              eyes.</li>
+            <li><strong>FEVER PROFILE</strong> –
               <ul>
                 <li>peak temp, </li>
                 <li>timing in relation to rash, </li>
@@ -258,9 +254,9 @@
         <div class="point-content"> <span class="description"><strong>M</strong>:
             Medical / Medication Background</span>
           <ul>
-            <li><strong>Past Medical History</strong> &ndash; eczema, asthma,
+            <li><strong>Past Medical History</strong> – eczema, asthma,
               immunosuppression, prematurity.</li>
-            <li><strong>Drug Allergies</strong> &ndash; especially antibiotics.</li>
+            <li><strong>Drug Allergies</strong> – especially antibiotics.</li>
           </ul>
         </div>
         <span class="verbal">"Does your child have any other health problems or
@@ -270,8 +266,7 @@
         <div class="point-content"> <span class="description"><strong>P</strong>:
             Progression</span>
           <ul>
-            <li>Multiple stages at once (spots, blisters, crusts)? &rarr; <span
-                class="infectious">Varicella</span></li>
+            <li>Multiple stages at once (spots, blisters, crusts)? → <span class="infectious">Varicella</span></li>
           </ul>
         </div>
         <span class="verbal">"How have the spots changed over time since they
@@ -283,7 +278,7 @@
           <ul>
             <li class="infectious">SICK CONTACTS (school, nursery, home)</li>
             <li class="General">IMMUNISATION STATUS (MMR, <strong>Varicella</strong>)</li>
-            <li><strong>HIGH‑RISK CONTACTS</strong> &ndash; pregnant household
+            <li><strong>HIGH‑RISK CONTACTS</strong> – pregnant household
               members, newborns, immunocompromised relatives (require separate
               advice).</li>
           </ul>
@@ -307,30 +302,37 @@
         <div class="point-content"> <span class="description"><strong>R</strong>:
             Red Flags</span>
           <ul>
-            <li class="warning">Dangerours Diseases</li>
-            <li class="warning">Complications of suspected Diseases - ABCDE</li>
-            <li class="emergency infectious">Neck stiffness, NON-BLANCHING RASH
-              (Petechiae/Purpura) + FEVER -&gt; <b class="emergency">Meningococcemia</b></li>
-            <li class="emergency infectious">RASH (maculopapular) + FEVER -&gt;
-              <b>Measles</b></li>
+            <li class="warning"><b>Dangerours Diseases</b></li>
             <ul>
-              <li class="emergency infectious"><b>A - <br>
-                </b></li>
-              <li class="emergency infectious"><b>B - Pnumonia</b></li>
-              <li class="emergency infectious"><b>Ear infections<br>
+              <li class="warning"><b>Breathing - Anaphylaxis<br>
                 </b></li>
             </ul>
-            <li class="emergency rheumatic">HIVES + Swelling/Difficulty
-              Breathing -&gt; <b class="emergency">Anaphylaxis</b></li>
-            <li class="emergency derma">BLISTERING/PEELING with mucosal
-              involvement -&gt; <b class="emergency">SJS/TEN</b></li>
-            <li class="infectious cvs rheumatic emergency">FEVER &gt; 5 days +
-              Redness (eyes, mouth) + Swelling (hands/feet) -&gt; <b class="emergency">Kawasaki
-                Disease</b></li>
-            <li class="warning">Rash <strong>red, hot or painful</strong> (2`
-              bacterial infection).</li>
-            <li class="warning">Ataxia / unsteady gait (possible varicella
-              cerebellitis).</li>
+            <ul>
+              <li class="emergency infectious">Neck stiffness, NON-BLANCHING
+                RASH (Petechiae/Purpura) + FEVER -&gt; <b class="emergency">Meningococcemia</b></li>
+              <li class="emergency infectious">RASH (maculopapular) + FEVER
+                -&gt; <b>Measles</b></li>
+              <ul>
+                <li class="emergency infectious"><b>A - <br>
+                  </b></li>
+                <li class="emergency infectious"><b>B - Pnumonia</b></li>
+                <li class="emergency infectious"><b>Ear infections<br>
+                  </b></li>
+              </ul>
+              <li class="emergency rheumatic">HIVES + Swelling/Difficulty
+                Breathing -&gt; <b class="emergency">Anaphylaxis</b></li>
+              <li class="emergency derma">BLISTERING/PEELING with mucosal
+                involvement -&gt; <b class="emergency">SJS/TEN</b></li>
+              <li class="infectious cvs rheumatic emergency">FEVER &gt; 5 days +
+                Redness (eyes, mouth) + Swelling (hands/feet) -&gt; <b class="emergency">Kawasaki
+                  Disease</b></li>
+              <li class="warning">Rash <strong>red, hot or painful</strong> (2`
+                bacterial infection).</li>
+              <li class="warning">Ataxia / unsteady gait (possible varicella
+                cerebellitis).</li>
+            </ul>
+            <li class="warning"><em>Complications </em>of suspected Diseases -
+              ABCDE</li>
           </ul>
         </div>
         <span class="verbal">"I must ask some specific questions. Does the rash
@@ -346,8 +348,8 @@
         <div class="point-content"> <span class="description"><strong>Parent /
               Carer Exposure</strong></span>
           <ul>
-            <li>If <em>non‑immune</em> and exposure within 24 h &rarr; discuss
-              adult vaccination or prophylactic aciclovir.</li>
+            <li>If <em>non‑immune</em> and exposure within 24 h → discuss adult
+              vaccination or prophylactic aciclovir.</li>
           </ul>
         </div>
         <span class="verbal">"Have you ever had chicken pox or been vaccinated?
